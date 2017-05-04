@@ -1,0 +1,3816 @@
+\documentclass[xcolor=dvipsnames]{beamer}
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern, multicol, geometry, eurosym}
+\usepackage[absolute,overlay]{textpos}
+
+\setbeamercolor{background canvas}{bg=black}
+\hypersetup{linkcolor=white, colorlinks=true}
+\beamertemplatenavigationsymbolsempty
+\beamersetleftmargin{0.1cm}
+\beamersetrightmargin{0.1cm}
+
+\newcommand{\songtitle}[1]{\textcolor{yellow}{\textbf{#1}\vspace{0.5em}}}
+\newcommand{\letter}[1]{\textcolor{yellow}{\textbf{#1}}}
+\newcommand{\z}{\vspace{1em}}
+\newcommand{\zh}{\vspace{0.5em}}
+\newcommand{\refr}[1]{\textbf{#1}}
+\newcommand{\deutsch}[1]{\textcolor{OliveGreen}{#1}}
+\newcommand{\deutschu}[1]{\textcolor{OliveGreen}{\footnotesize{\textit{#1}}}}
+\newcommand{\aut}[1]{\flushright{\textcolor{yellow}{\textit{\footnotesize{#1}}\hspace*{1cm}}}}
+\newcommand{\ladies}[1]{\textit{\textcolor{cyan}{#1}}}
+\newcommand{\men}[1]{\textit{\textcolor{red}{#1}}}
+
+\input{clicknumbers.tex} % newenvironment{frame1} und frame2
+\newcommand{\songA}[2]{
+\section{#1) #2}
+\begin{frame1}
+\label{#1}\songtitle{#1) #2}}
+\newcommand{\songB}[2]{
+\section{#1) #2}
+\begin{frame2}
+\label{#1}\songtitle{#1) #2}}
+
+\newcommand{\flink}[2]{\href{#2}{\textcolor{cyan}{\underline{#1}}}}
+
+\begin{document}
+\color{white}
+\obeylines
+
+%------------------------------------------------------------%
+
+\begin{frame1}
+\label{blackslide}
+\end{frame1}
+
+%------------------------------------------------------------%
+
+\section{Info}
+\begin{frame1}
+\begin{center}
+\songtitle{Worship Songs}
+Connection Jugend und Connection Junge Erwachsene
+Baptistengemeinde Potsdam 
+zusammengestellt von Berry Boessenkool (berry-b@gmx.de)
+\z
+Stand: \today
+\z
+\flink{aktuelle PDF}{https://dl.dropboxusercontent.com/u/4836866/Akkorde/Worship_slides.pdf} (bit.ly/wslides)
+\flink{Inhaltsverzeichnis}{https://dl.dropboxusercontent.com/u/4836866/Akkorde/inhalt.pdf}
+\LaTeX\ Sourcecode (\flink{tex}{https://dl.dropboxusercontent.com/u/4836866/Akkorde/Worship_slides.tex})
+Akkordblätter (%
+\flink{PDF}{https://dl.dropboxusercontent.com/u/4836866/Akkorde/Worship_Chords.pdf}, %
+\flink{doc}{https://dl.dropboxusercontent.com/u/4836866/Akkorde/Worship_Chords.doc})
+
+Textblätter (%
+\flink{PDF}{https://dl.dropboxusercontent.com/u/4836866/Akkorde/Worship_Text.pdf}, %
+\flink{docx}{https://dl.dropboxusercontent.com/u/4836866/Akkorde/Worship_Text.docx})
+\z
+Copyright über \flink{CCLI}{http://ccli.de/liedlizenz}, Verweise werden noch gesetzt.
+%\z
+%Die Lesezeichen sind in den meisten PDF-Viewern links anzuzeigen.
+\z
+\textit{Weihnachtslieder Akkorde (%
+\flink{PDF}{https://dl.dropboxusercontent.com/u/4836866/Akkorde/ChristmasMusic_Chords.pdf}, %
+\flink{doc}{https://dl.dropboxusercontent.com/u/4836866/Akkorde/ChristmasMusic_Chords.doc}), 
+Textblätter (%
+\flink{PDF}{https://dl.dropboxusercontent.com/u/4836866/Akkorde/ChristmasMusic_Text.pdf}, %
+\flink{doc}{https://dl.dropboxusercontent.com/u/4836866/Akkorde/ChristmasMusic_Text.doc}), %
+Presentation (%
+\flink{PDF}{https://dl.dropboxusercontent.com/u/4836866/Akkorde/ChristmasMusic_Pres.pdf}, %
+\flink{libreOffice ODP}{https://dl.dropboxusercontent.com/u/4836866/Akkorde/ChristmasMusic_Pres.odp})
+}
+
+\end{center}
+\end{frame1}
+
+%------------------------------------------------------------%
+
+\input{inhalt.tex}
+
+\center
+
+%------------------------------------------------------------%
+
+\begin{frame1}
+\label{black1}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{01}{Mercy is falling / Herr deine Gnade}
+
+Mercy is falling, is falling, is falling.
+Mercy, it falls like the sweet spring rain.
+Mercy is falling, is falling all over me. (2x)
+\z
+\refr{Heyoh I receive your mercy. Heyoh I receive your grace. 
+Heyoh I will dance forevermore! (2x)}
+\z\z
+\deutsch{Herr deine Gnade, sie fällt auf mein Leben,
+so wie der Regen im Frühling fällt.
+Herr deine Gnade, sie fließt und durchdringt mich ganz. (2x)
+\z
+\refr{Heyoh du schenkst mir Gnade, Heyoh und Barmherzigkeit.
+Heyoh ich will tanzen Herr vor dir! (2x)}}
+
+\aut{David Ruis / Vineyard, 1994}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{02}{Groß ist unser Gott}
+
+Groß ist unser Gott, Herr der Ewigkeit.
+Er allein regiert über Raum und Zeit.
+Souverän herrscht er, Schöpfer dieser Welt,
+der in seiner Hand unser Schicksal hält.
+\z
+Sein Wort gilt für alle Zeit.
+Sein Reich kommt in Herrlichkeit.
+Wir stehn staunend Gott, vor dir, unser Vater.
+
+\aut{Lothar Kosse, 1995}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{03}{Blessed be your name}
+
+1. Blessed be your name in the land that is plentiful,
+where your streams of abundance flow, blessed be your name.
+Blessed be your name when I'm found in the desert place,
+though I walk through the wilderness, blessed be your name.
+\z
+Every blessing you pour out I'll turn back to praise.
+When the darkness closes in, Lord, still I will say:
+\zh
+\refr{Blessed be the name of the Lord, blessed be your name.
+Blessed be the name of the Lord, blessed be your glorious name.}
+\z
+\deutschu{Gesegnet sei dein Name im fruchtbaren Land, wo es überfliessende Ströme gibt.
+Gesegnet sei dein Name wenn ich mich in der Wüste befinde, durch die Einöde gehe.
+Jeden Segen den du ausgießt verwandle ich in Lob.
+Wenn die Dunkelheit kommt, Herr, werde ich immer noch sagen:
+Gesegnet sei der Name des Herrn, gesegnet sei dein herrlicher Name!
+}
+
+\end{frame1}
+\begin{frame1}
+
+2. Blessed be your name when the sun's shining down on me.
+When the world's all as it should be, blessed be your name.
+Blessed be your name on the road marked with suffering.
+Though there's pain in the offering, blessed be your name.
+\z
+Every blessing you pour out I'll turn back to praise.
+When the darkness closes in, Lord, still I will say:
+\zh
+\refr{Blessed be the name of the Lord, blessed be your name.
+Blessed be the name of the Lord, blessed be your glorious name.}
+\z
+You give and take away. You give and take away.
+My heart will choose to say: Lord, blessed be your name.
+\z
+\deutschu{Gesegnet sei dein Name wenn die Sonne auf mich herabscheint, 
+die Welt so ist wie es sollte.
+Gesegnet sei dein Name auf der Strasse des Leidens, obwohl Schmerz im Opfer liegt.
+Du gibst und du nimmst. Mein Herz entscheidet sich, zu sagen: 
+Herr, gesegnet sei dein Name
+}
+
+\aut{Matt Redman, 2002}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{04}{Anker in der Zeit}
+
+1. Es gibt bedingungslose Liebe, die alles trägt und nie vergeht
+und unerschütterliche Hoffnung, die jeden Test der Zeit besteht.
+Es gibt ein Licht, das uns den Weg weist, auch wenn wir jetzt nicht alles sehn.
+Es gibt Gewissheit unsres Glaubens, auch wenn wir manches nicht verstehn.
+\zh
+2. Es gibt Versöhnung selbst für Feinde und echten Frieden nach dem Streit,
+Vergebung für die schlimmsten Sünden, ein neuer Anfang jederzeit.
+Es gibt ein ewges Reich des Friedens. In unsrer Mitte lebt es schon:
+ein Stück vom Himmel hier auf Erden, in Jesus Christus, Gottes Sohn.
+\zh
+\refr{Er ist das Zentrum der Geschichte, er ist der Anker in der Zeit.
+Er ist der Ursprung allen Lebens und unser Ziel in Ewigkeit,
+und unser Ziel in Ewigkeit.}
+\zh
+3. Es gibt die wunderbare Heilung, die letzte Rettung in der Not.
+Und es gibt Trost in Schmerz und Leiden, ewiges Leben nach dem Tod.
+Es gibt Gerechtigkeit für alle, für unsre Treue ewgen Lohn.
+Es gibt ein Hochzeitsmahl für immer mit Jesus Christus, Gottes Sohn.
+\vspace{-0.5em}
+\aut{Albert Frey, 2000}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{05}{I want to praise you}
+
+I want to praise you, Lord, much more than I do.
+I want to praise you, Lord, much more than I do.
+Learn to seek your face and the knowledge of your grace.
+I want to praise you.
+\z
+Birds in the sky sing their song to you.
+Trees in the field lift their arms to you.
+I want to sing, I want to lift my hands to you.
+\z
+I want to know/love/serve you Lord...
+\z
+\deutschu{Ich will dich preisen, Herr, viel mehr als bisher.
+Dein Angesicht nur sehn, deine Gnade recht verstehn, ich will dich preisen, Herr!
+Vögel in der Luft loben dich, und die Bäume auf dem Feld erheben dich
+und ich lobe dich, ich erhebe dich, ich will dich preisen, Herr!
+}
+
+\aut{Randy Thomas \& Sam Scott, 1981}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{06}{Allein deine Gnade genügt}
+
+\refr{Allein deine Gnade genügt, 
+die in meiner Schwachheit Stärke mir gibt.
+Ich geb dir mein Leben und was mich bewegt. 
+Allein deine Gnade genügt.}
+\z
+1. Ich muss mich nicht länger um Liebe bemühn, 
+ich ruh im Vertrauen zu dir.
+Du hast meine Sünde getilgt durch dein Blut
+und Gnade ist für mich genug.
+\z
+
+2. Das Blut Jesu lässt mich gerecht vor dir steh'n, 
+es hat alle Schuld gesühnt.
+Die Gnade hat über Gericht triumphiert 
+und nun bin ich frei in dir. 
+
+\aut{Martin Nystrom, 1991}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{07}{Awesome God}
+
+1. When he rolls up his sleeves, he ain't just puttin' on the ritz,
+Our God is an awesome God.
+There is thunder in his footsteps and lightning in his fists,
+Our God is an awesome God.
+And the Lord wasn't joking when he kicked 'em out of Eden.
+It wasn't for no reason that he shed his blood. 
+His return is very soon and so you'd better be believin'
+that our God is an awesome God.
+\z
+\deutschu{Wenn er seine Ärmel hochkrempelt, will er nicht einfach nur modisch sein.
+Unser Gott ist ein überwältigender Gott.
+Seine Schritte bringen Donner mit sich und er trägt Blitze in seiner Faust.
+Der Herr hat nicht gespaßt, als er sie aus Eden rausgeschmissen hat.
+Es geschah nicht ohne Grund, dass er sein Blut vergoss.
+Seine Wiederkehr ist sehr nahe und deshalb solltest du lieber daran glauben,
+dass unser Gott ein überwältigender Gott ist.
+}
+
+\end{frame1}
+\begin{frame1}
+
+\refr{Our God is an awesome God.
+He reigns from heaven above with wisdom, pow'r and love.
+Our God is an awesome God!
+(2x)}
+\z
+\deutsch{Unser Gott ist ein mächtiger Gott,
+er herrscht vom Himmel herab mit Weisheit, Liebe und Kraft
+Unser Gott ist ein mächtiger Gott!}
+
+\end{frame1}
+\begin{frame1}
+
+2. And when the sky was starless in the void of the night,
+Our God is an awesome God.
+He spoke into the darkness and created the light,
+Our God is an awesome God.
+And judgment and wrath he poured out on Sodom.
+Mercy and grace he gave us at the cross.
+I hope that we have not too quickly forgotten
+that our God is an awesome God.
+\z
+\deutschu{Und als der Himmel sternenlos war in der Leere der Nacht,
+(Unser Gott ist ein überwältigender Gott.)
+da sprach er in die Dunkelheit hinein und schuf das Licht.
+Seine Strafe und seinen Zorn goss er auf Sodom aus,
+Erbarmen und Gnade schenkte er uns am Kreuz.
+Ich hoffe, dass wir nicht zu schnell vergessen haben,
+dass unser Gott ein überwältigender Gott ist.
+}
+
+\aut{Rich Mullins, 1988}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{08}{Lord, I lift your name on high}
+
+Lord, I lift your name on high. Lord, I love to sing your praises.
+I'm so glad you're in my life; I'm so glad you came to save us.
+\z
+You came from heaven to earth, to show the way.
+From the earth to the cross, my debt to pay.
+From the cross to the grave, from the grave to the sky.
+Lord, I lift your name on high.
+\z
+\deutsch{Herr, dein Name sei erhöht. Herr, ich singe dir zur Ehre.
+Danke, dass du in mir lebst. Danke für deine Erlösung.
+\z
+Du kamst vom Himmel herab, zeigst uns den Weg.
+Herr, du hast am Kreuz bezahlt, für meine Schuld.
+Und sie legten dich ins Grab, doch du stiegst zum Himmel auf.
+Herr, dein Name sei erhöht.}
+
+\aut{Rick Founds, 1989}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{09}{God of Wonders}
+
+1. Lord of all creation, of water earth and sky,
+the heavens are your tabernacle. Glory to the Lord on high.
+\z
+\refr{God of wonders beyond our galaxy, you are holy, holy.
+The universe declares your majesty, you are holy, holy.
+Lord of heaven and earth, Lord of heaven and earth.}
+\z
+\z
+\deutsch{1. Herr der ganzen Schöpfung, du spannst den Himmel weit.
+Dein Licht erfüllt das Universum, du regierst in Herrlichkeit.
+\z
+\refr{Deine Größe erfüllt das ganze All. Du bist heilig, heilig.
+Und klein vor dir ist selbst der Sterne Zahl. Du bist heilig, heilig.
+Du beherrscht alle Welt, du beherrscht alle Welt.}}
+
+\end{frame1}
+\begin{frame1}
+
+\z
+2. Early in the morning, I will celebrate the light
+And as I stumble through the darkness, I will call your name by night
+\z
+\refr{God of wonders beyond our galaxy, you are holy, holy.
+The universe declares your majesty, you are holy, holy.
+Lord of heaven and earth, Lord of heaven and earth.}
+\z
+Hallelujah to the Lord of heaven and earth. (4x)
+\z
+\deutsch{2. Schon am frühen Morgen freu ich mich an deinem Licht.
+Und später wenn die Nacht hereinbricht, weiß ich: Du verlässt mich nicht.
+\z
+\refr{Deine Größe erfüllt das ganze All. Du bist heilig, heilig.
+Und klein vor dir ist selbst der Sterne Zahl. Du bist heilig, heilig.
+Du beherrscht alle Welt, du beherrscht alle Welt.}
+\z
+Halleluja, wir erheben unseren Gott. (4x)}
+\vspace{-0.5em}
+\aut{Marc Byrd \& Steve Hindalong, 2000}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{10}{Jesus in my house}
+
+1. Thank you heavenly Father for your love your me.
+I'm forever grateful that you sacrificed your son.
+you saved my soul and changed my destiny. 
+Thank you God for Jesus in me.
+\zh
+\refr{I'm so glad that Jesus lives in my house.
+Good to know that he is here with me now.
+All of my life Jesus in me Jesus in my house.
+All of my life and always will be.}
+\z
+\deutsch{1. Danke, Vater, für das Leben, das du gibst,
+dass du deinen Sohn gabst und mich unbegreiflich liebst.
+Hast mich gerettet und mich neu gemacht. Danke Gott für Jesus in mir.
+\zh
+\refr{Ich bin froh mit Jesus in meinem Haus.
+Gut zu wissen: jederzeit ist er hier.
+Mein Leben lang, Jesus in mir, in meinem Haus,
+für allezeit und in Ewigkeit.}}
+
+\end{frame1}
+\begin{frame1}
+
+2. Thank you for the purpose you have placed in me.
+Thank you for forgiveness and the chance to start again.
+I face the future knowing I will be safe and sound with Jesus in me.
+\zh
+\refr{I'm so glad that Jesus lives in my house.
+Good to know that he is here with me now.
+All of my life Jesus in me Jesus in my house.
+All of my life and always will be.}
+\z
+
+\deutsch{2. Danke, dass du meinem Leben Zukunft gibst.
+Ich darf neu beginnen, weil du meine Schuld vergibst.
+Ich gehe vorwärts, denn ich weiß bestimmt: Jesus ist bei mir jeden Tag.
+\zh
+\refr{Ich bin froh mit Jesus in meinem Haus.
+Gut zu wissen: jederzeit ist er hier.
+Mein Leben lang, Jesus in mir, in meinem Haus,
+für allezeit und in Ewigkeit.}}
+\vspace{-0.5em}
+\aut{Judy Bailey, 2000}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{11}{Es scheint ein helles Licht}
+
+1. Es ist da bei Tag, es ist da bei Nacht,
+und hier und überall kann man es seh'n.
+Manchem ist es nah und manchem noch so fern,
+doch kann ihm auf der Welt nichts widerstehen.
+\z
+\refr{Es scheint ein helles Licht weit in die Finsternis,
+und weist dem, der es sieht, den Weg zum Himmel.
+Es ist das Licht der Welt, es macht das Dunkel hell,
+es ist der Morgenstern, das Licht des Himmels.
+Scheine, scheine auf uns, Licht des Himmels. (2x)}
+\z
+2. Es macht den Bettler reich, und Schwache werden stark,
+und wer den Mut verlor`n, den lässt es singen.
+Es macht die Seele satt und lässt den Sklaven frei,
+Wer mit dem Herzen sieht, der wird es finden.
+
+\aut{Lothar Kosse, 2001}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{12}{Herr, wohin sonst}
+
+Herr, wohin sonst sollten wir gehen? 
+Wo auf der Welt fänden wir Glück?
+Niemand, kein Mensch kann uns so viel geben wie du.
+Du führst uns zum Leben zurück. 
+Nur du, nur du schenkst uns Lebensglück.
+\z
+Aus deinem Mund höre ich das schönste Liebeslied.
+An deinem Ohr darf ich sagen was die Seele fühlt.
+An deiner Hand kann ich fallen und du hältst mich fest.
+An deinem Tisch wird mein Hunger gestillt.
+
+\aut{Thea Eichholz-Müller, 2000}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{13}{You shine}
+
+Why should I fear man when you made the heavens?
+Why should I be afraid when you put the stars in place?
+Why should I lose heart when I know how great you are?
+Why should I give up when your plans are full of love?
+In this world we will have trouble, but you have overcome the world.
+\zh
+\refr{You shine brighter than the brightest star.
+Your love - purer than the purest heart.
+You shine, filling us with courage and strength to follow you.}
+\z
+\deutschu{Warum sollte ich mich vor Menschen fürchten, wenn du doch den Himmel gemacht hast?
+Warum sollte ich Angst haben, wenn du doch den Sternen ihren Platz zugewiesen hast?
+Warum sollte ich mich entmutigen lassen, wenn ich doch weiß, wie groß du bist?
+Warum sollte ich aufgeben, wenn du doch Pläne voller Liebe hast?
+In dieser Welt haben wir Sorgen, doch du hast die Welt besiegt.
+Du leuchtest heller als der hellste Stern. Deine Liebe ist reiner als das reinste Herz.
+Du leuchtest und gibst uns Mut und Kraft, dir zu folgen.
+}
+\vspace{-0.5em}
+\aut{Brian Doerksen, 2001}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{14}{Father God / Vater deine Liebe}
+
+Father God I wonder how I managed to exist
+without the knowledge of your parenthood and your loving care;
+but now I'm your child; I am adopted in your family,
+and I can never be alone, cause Father God you're there beside me.
+\z
+\refr{I will sing your praises, I will sing your praises,
+I will sing your praises, forever more. (2x)}
+\z
+\deutsch{Vater, deine Liebe ist so unbegreiflich groß,
+und ich weiß gar nicht, wie ich leben konnte ohne dich, o Herr.
+Doch machst du mich zu deinem Kind. Du schenkst mir deine Liebe 
+jeden Tag, du lässt mich nie im Stich, denn Vater, du bist immer bei mir.
+\z
+Herr, ich preise deinen heiligen Namen, du bist König!
+Du nur bist mein Herr und mein Gott. (2x)}
+
+\aut{Ian Smale, 1984}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{15}{In the secret}
+
+1. In the secret, in the quiet place, in the stillness you are there.
+In the secret, in the quiet hour I wait only for you, 
+'cause I want to know you more.
+\zh
+\refr{I want to know you, I want to hear your voice,
+I want to know you more. I want to touch you, 
+I want to see your face, I want to know you more.}
+\zh
+2. I am reaching for the highest goal, that I might receive the prize.
+Pressing onward, pushing every hindrance aside out of my way,
+'cause I want to know you more.
+\z
+\deutschu{1. Im Verborgenen, in der Ruhe, in der Stille bist du da.
+In der Stille warte ich auf dich, weil ich dich besser kennenlernen möchte.
+\zh
+Ich möchte dich kennen, deine Stimme hören, dich besser kennen,
+dich berühren, dich sehen, dich besser kennen.
+\zh
+2. Ich strebe nach den höchsten Zielen, so dass ich den Siegespreis erhalte.
+Ich jage vorwärts, dränge alle Hindernisse beiseite, weil ich dich besser kennen möchte.
+}
+\vspace{-0.5em}
+\aut{Andy Park, 1995}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{16}{My best friend}
+
+Have you heard of the one called savior? Have you heard of his perfect love?
+Have you heard of the one in heaven? Have you heard how he gave his son?
+\zh
+Well I have found this love, and I believe in the son. Show me your way.
+\z
+\refr{I believe in the one called savior. I believe he's the risen one.
+I believe that I'll live forever. I believe that the king will come.}
+\zh
+Jesus you are my best friend, you will always be, and 
+nothing will ever change that (3x), no nothing will ever change that.
+\z
+\deutschu{Kennst du den, der im Himmel wohnte, und als Kind auf die Erde kam,
+der am Kreuz uns mit Gott versöhnte, als er dort unsre Sünde nahm?
+
+Ja, ich glaub an den einen Retter, der vom Tode auferstand.
+Ja, ich glaub, dass ich mit ihm lebe, wenn als König er wiederkommt.
+
+Und ich vertraue dir, denn deine Liebe macht frei. Ich will dich sehen.
+
+Jesus, du bist mein bester Freund und wirst es immer sein
+und nichts kann uns jemals trennen.
+}
+\vspace{-0.5em}
+\aut{Joel Jouston \& Marty Sampson, 2000}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{17}{I will worship / worthy of my praise}
+
+I will worship \ladies{(I will worship)} with all of my heart \ladies{(with all of my heart)}.
+I will praise you \ladies{(I will praise you)} with all of my strength \ladies{(all my strength)}.
+I will seek you \ladies{(I will seek you)} all of my days \ladies{(all of my days)}.
+I will follow \ladies{(I will follow)} all of your ways \ladies{(all your ways)}.
+\zh
+\refr{I will give you all my worship, I will give you all my praise.
+you alone I long to worship, you alone are worthy of my praise.}
+\zh
+I will bow down \ladies{(I will bow down)}, hail you as King \ladies{(hail you as king)}.
+I will serve you \ladies{(I will serve you)}, give you ev'ryting \ladies{(give you ev'rything)}.
+I will lift up \ladies{(I will lift up)} my eyes to your throne \ladies{(my eyes to your throne)}.
+I will trust you \ladies{(I will trust you)}, I will trust you alone \ladies{(trust you alone)}.
+\zh
+
+\deutschu{Ich bete an mit ganzem Herzen. Ich lobe dich mit aller Kraft.
+Ich suche dich mein ganzes Leben. Ich folge dir überall hin.
+\zh
+Ich gebe dir alle meine Verehrung, all mein Lob. 
+Nur dich will ich anbeten, nur du verdienst mein Lob.
+\zh
+Ich beuge mich nieder, grüße dich als König. Ich diene dir, gebe dir alles.
+Ich richte meine Augen auf deinen Thron. Ich traue dir, nur dir.}
+\vspace{-0.5em}
+\aut{David Ruis / Vineyard, 1991}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{18}{Ich kann nicht schweigen}
+
+Ich kann nicht schweigen von dem was du getan hast.
+Du gabst dein Leben um mich zu befrein.
+Ich kann nicht leugnen, was du für mich bedeutest.
+Mein ganzes Leben gehört dir allein.
+\z
+Und wenn ich daran denke, wie sehr du mich liebst,
+und was ich dir verdanke, dann jubelt mein Herz.
+\z
+\refr{Ich kann nicht anders, als zu singen.
+Ich kann nicht anders, als von dir zu erzähln.
+Ich kann nicht anders, als dich preisen, mein ganzes Leben lang.}
+
+\aut{Albert Frey, 1999}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{19}{Du allein}
+
+1. Du allein kennst meine Gedanken, du weißt wie ich fühle,
+du siehst meine Schranken und Ziele, 
+du weißt was mir dann und wann fehlt.
+Du allein siehst Zweifel und Sorgen, die Fragen auf Morgen,
+du kennst meinen Weg und du weißt wie ich lebe, bist Tag und Nacht da.
+\z
+\refr{Du bist bei mir auch wenn ich dich heute nicht spüre, 
+bist bei mir, auch wenn ich mich in meinen Sorgen verliere.
+Du bist bei mir. (2x)
+Ich dank dir dafür.}
+\z
+2. Du allein kennst Wünsche und Träume, du weißt was ich meine,
+Doch nur du allein kennst den richtigen Weg, du denkst größer als ich.
+Du allein liebst mich immer weiter, auch wenn ich dich oft nicht verstehe.
+Du weißt dass ich vieles falsch sehe, doch du lässt mich nie los.
+
+\aut{Tina Pantli, 2000}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{20}{More love}
+
+More love, more power, more of you in my life. (2x)
+\z
+And I will worship you with all of my heart.
+And I will worship you with all of my mind.
+And I will worship you with all of my strength.
+For you are my God.
+\z
+And I will seek your face with all of my heart.
+And I will seek your face with all of my mind.
+And I will seek your face with all of my strength.
+For you are my Lord. you are my Lord
+\z
+\deutschu{Mehr Liebe, mehr Kraft, mehr von dir in meinem Leben
+Ich bete dich an (suche deine Nähe) mit meinem ganzen Herzen,
+mit all meinem Verstand, mit all meiner Kraft,
+Denn du bist mein Gott!
+}
+
+\aut{Jude del Hierro, 1987}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{21}{Immer mehr}
+
+Immer mehr von dir, immer mehr,
+immer mehr sein wie du, immer mehr.
+Immer mehr deine Worte verstehn,
+deine Werke tun, oh Herr, immer mehr.
+(2x)
+\z
+\refr{Du bist ein Gott, der seine Kinder liebt,
+der als ein Vater ihr Verlangen sieht.
+Niemand und nichts kommt dir jemals gleich, oh Herr.
+Du zeigst dich uns als ewig treuer Freund
+und weißt genau wie unser Herz es meint.
+Gib uns mehr von dir, immer mehr.}
+
+\aut{Lothar Kosse, 1991}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{22}{Thy word}
+
+\refr{Thy word is a lamp unto my feet and a light unto my path. (2x)}
+\z
+1. When I feel afraid, think I've lost my way,
+still you're there right beside me.
+Nothing will I fear as long as you are near.
+Please be near me to the end.
+\z
+\deutsch{\refr{Dein Wort ist ein Licht auf meinem Weg,
+wenn ich durch das Dunkel geh'.
+Dein Wort ist ein Licht auf meinem Weg,
+lässt mich deine Hilfe seh'n.}
+\z
+1. Nebel ringsumher, ich seh' dich nicht mehr,
+kann den Weg nicht mehr sehen.
+Doch dein Wort ist das Licht, das durch den Nebel bricht.
+Du führst mich an deiner Hand.
+}
+
+\end{frame1}
+\begin{frame1}
+
+2. I will not forget your love for me and yet my heart forever is wandering.
+Jesus be my guide, and hold me to your side, I will love you to the end.
+\z
+\refr{Thy Word is a lamp unto my feet and a light unto my path. (2x)}
+\z
+\deutsch{2. Mauern hart und kalt, geben keinen Halt, drohend stehen sie vor mir.
+Doch dein Wort ist mein Schwert, das aller Härte wehrt.
+Du stellst mich auf weitem Raum.
+\zh
+\refr{Dein Wort ist ein Licht auf meinem Weg,
+wenn ich durch das Dunkel geh'.
+Dein Wort ist ein Licht auf meinem Weg,
+lässt mich deine Hilfe seh'n.}
+}
+\z
+\deutschu{3. Tränen wischst du fort, tröstest durch dein Wort, Kraft zum Leben gibst du mir.
+Und wie ein weites Meer ist dein Wort, großer Herr, unergründlich tief und reich.}
+
+\aut{Amy Grant \& Michael W. Smith, 1983}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{23}{How long, o Lord (Psalm 13)}
+
+How long, o Lord, will you forget me?
+How long, o Lord, will you look the other way?
+How long, o Lord, must I wrestle with my thoughts,
+and every day, have such sorrow in my heart?
+\zh
+Look on me and answer, o God my Father!
+Bring light to my darkness, before they see me fall!
+\zh
+But I trust, in your unfailing love. Yes, my heart will rejoice.
+Still I sing of your unfailing love. 
+You have been good, you will be good to me.
+\z
+\deutschu{Wie lang, o Gott, wirst du mich vergessen? Wie lange wirst du wegschauen? Wie lange 
+muss ich mit meinen Gedanken kämpfen und jeden Tag solche Trauer im Herzen haben?
+Schau mich an und antworte, o Gott, mein Vater!
+Bringe Licht in meine Dunkelheit, bevor sie mich fallen sehen.
+Aber ich vertraue deiner unfehlbaren Liebe. Mein Herz wird jubeln.
+Ich singe von deiner unerschöpflichen Liebe. Da warst gut zu mir, wirst es weiter sein.}
+\vspace{-0.5em}
+\aut{Brian Doerksen et al., 2002}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{24}{Peace like a river}
+
+I've got peace like a river, I've got peace like a river,
+I've got peace like a river in my soul. (2x)
+\z
+I've got joy like a fountain... 
+\z
+I've got love like an ocean...
+\z\z
+\deutschu{Ich habe Frieden wie ein Fluss in meiner Seele.
+Freude wie ein Brunnen...
+Liebe wie ein Ozean...
+}
+
+\aut{African American Spiritual}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{25}{What grace}
+
+What grace, God gave us his son (3x).
+What grace, what grace, God gave us his son.
+\z
+What grace, he died on the cross...
+What grace, he rose from the grave...
+What grace, he's coming again...
+What grace, halleluja...
+\z\z
+\deutschu{Welche Gnade, Gott gab uns seinen Sohn.
+Er starb am Kreuz.
+Er stand von den Toten auf.
+Er kommt wieder.
+Halleluja!}
+
+\aut{Author unknown}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{26}{How great thou art / Du großer Gott}
+
+1. O Lord my God, when I in awesome wonder,
+consider all the works thy hand has made
+I see the stars; I hear the mighty thunder,
+your power throughout the universe displayed.
+\z
+\refr{Then sings my soul, my saviour God to thee:
+How great thou art, how great thou art! (2x)}
+\z\z
+\deutsch{1. Du großer Gott, wenn ich die Welt betrachte,
+die du geschaffen durch dein Allmachtswort,
+wenn ich auf alle jene Wesen achte,
+die du regierst und nährest fort und fort,
+\z
+\refr{dann jauchzt mein Herz dir, großer Herrscher, zu:
+Wie groß bist du! Wie groß bist du! (2x)}
+}
+
+\end{frame1}
+\begin{frame1}
+
+2. When through the woods, and forest glades I wander,
+And hear the birds sing sweetly in the trees.
+When I look down, from lofty mountain grandeur,
+and see the brook, and feel the gentle breeze:
+\z
+\refr{Then sings my soul, my saviour God to thee:
+How great thou art, how great thou art! (2x)}
+\z\z
+\deutsch{2. Blick ich empor zu jenen lichten Welten
+und seh der Sterne unzählbare Schar,
+wie Sonn und Mond im lichten Äther zelten,
+gleich goldnen Schiffen hehr und wunderbar,
+\z
+\refr{dann jauchzt mein Herz dir, großer Herrscher, zu:
+Wie groß bist du! Wie groß bist du! (2x)}
+}
+
+\end{frame1}
+\begin{frame1}
+
+3. And when I think, that God, his son not sparing;
+Sent him to die, I scarce can take it in,
+that on the cross, my burden gladly bearing,
+he bled and died to take away my sin.
+\z
+\refr{Then sings my soul, my saviour God to thee:
+How great thou art, how great thou art! (2x)}
+\z\z
+\deutsch{3. Wenn mir der Herr in seinem Wort begegnet,
+wenn ich die großen Gnadentaten seh,
+wie er das Volk des Eigentums gesegnet,
+wie er's geliebt, begnadigt je und je,
+\z
+\refr{dann jauchzt mein Herz dir, großer Herrscher, zu:
+Wie groß bist du! Wie groß bist du! (2x)}
+}
+
+\end{frame1}
+\begin{frame1}
+
+4. When Christ shall come, with shout of acclamation,
+and take me home, what joy shall fill my heart.
+Then I shall bow, in humble adoration,
+and then proclaim: "My God, how great thou art!"
+\z
+\refr{Then sings my soul, my saviour God to thee:
+How great thou art, how great thou art! (2x)}
+\z\z
+\deutsch{4. Und seh ich Jesus auf der Erde wandeln
+in Knechtsgestalt, voll Lieb und großer Huld,
+wenn ich im Geiste seh sein göttlich Handeln,
+am Kreuz bezahlen vieler Sünder Schuld,
+\z
+\refr{dann jauchzt mein Herz dir, großer Herrscher, zu:
+Wie groß bist du! Wie groß bist du! (2x)}
+}
+
+\aut{Carl Boberg, 1885}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{27}{Alleluia}
+
+Alleluia, Alleluia! For the Lord God almighty reigns. (2x)
+\z
+Alleluia. Holy, holy are you Lord, God, almighty.
+Worthy is the lamb. Worthy is the lamb
+For you are holy, holy are you Lord God almighty.
+Worthy is the lamb. Worthy is the lamb.
+Amen
+\z\z
+\deutsch{Halleluja, Halleluja, denn der Herr unser Gott, er regiert. (2x)
+\z
+Heilig, heilig bist du Herr, Gott, allmächtig.
+Würdig ist das Lamm, würdig ist das Lamm.
+Denn du bist heilig! Amen.}
+
+\aut{Michael W. Smith, 1990}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{28}{Das Höchste meines Lebens}
+
+1. Das Höchste meines Lebens ist: dich kennen Herr. (2x)
+Dich kennen mehr und mehr, dich kennen mehr und mehr.
+Das Höchste meines Lebens ist: dich kennen Herr.
+\z
+2. ... dich lieben ...
+3. ... dir dienen ...
+
+\aut{Mark Pendergrass, 1977}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{29}{In Christ alone / In Christus ist}
+
+1. In Christ alone my hope is found, 
+he is my light, my strength, my song.
+This cornerstone, this solid ground,
+firm through the fiercest drought and storm.
+What heights of love, what depths of peace,
+when fears are stilled, when strivings cease.
+My comforter, my all in all,
+here in the love of Christ I stand.
+\z
+\deutsch{1. In Christus ist mein ganzer Halt. Er ist mein Licht, mein Heil, mein Lied,
+der Eckstein und der feste Grund, sicherer Halt in Sturm und Wind.
+Wer liebt wie er, stillt meine Angst, bringt Frieden mir mitten im Kampf?
+Mein Trost ist er in allem Leid. In seiner Liebe find ich Halt.}
+
+\end{frame1}
+\begin{frame1}
+
+2. In Christ alone, who took on flesh, 
+fullness of God in helpless babe.
+This gift of love and righteousness, 
+scorned by the ones he came to save.
+'Til on that cross as Jesus died, 
+the wrath of God was satisfied
+For every sin on him was laid. 
+Here in the death of Christ I live.
+\z
+\deutsch{2. Das ewge Wort, als Mensch geborn. Gott offenbart in einem Kind.
+Der Herr der Welt, verlacht, verhöhnt und von den seinen abgelehnt.
+Doch dort am Kreuz, wo Jesus starb und Gottes Zorn ein Ende fand,
+trug er die Schuld der ganzen Welt. Durch seine Wunden bin ich heil.}
+
+\end{frame1}
+\begin{frame1}
+
+3. There in the ground his body lay, 
+light of the world by darkness slain,
+then bursting forth in glorious day, 
+up from the grave he rose again.
+And as he stands in victory, 
+sin's curse has lost its grip on me.
+For I am his and he is mine, 
+bought with the precious blood of Christ.
+\z
+\deutsch{3. Sie legten ihn ins kühle Grab. Dunkel umfing das Licht der Welt.
+Doch morgens früh am dritten Tag wurde die Nacht vom Licht erhellt.
+Der Tod besiegt, das Grab ist leer, der Fluch der Sünde ist nicht mehr,
+denn ich bin sein, und er ist mein. Mit seinem Blut macht er mich rein.}
+
+\end{frame1}
+\begin{frame1}
+
+4. No guilt in life, no fear in death;
+this is the power of Christ in me.
+From life's first cry to final breath,
+Jesus commands my destiny.
+No power of hell, no scheme of man,
+can ever pluck me from his hand;
+Till he returns or calls me home,
+here in the power of Christ I'll stand.
+\z
+\deutsch{4. Nun hat der Tod die Macht verlorn. Ich bin durch Christus neu geborn.
+Mein Leben liegt in seiner Hand vom ersten Atemzuge an.
+Und keine Macht in dieser Welt kann mich ihm rauben, der mich hält,
+bis an das Ende dieser Zeit, wenn er erscheint in Herrlichkeit.}
+
+\aut{Keith Getty \& Stuart Townend, 2001}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{30}{Vom Anfang bis zum Ende}
+
+Vom Anfang bis zum Ende hält Gott seine Hände
+über mir, und über dir.
+Ja er hat es versprochen, hat nie sein Wort gebrochen: 
+Glaube mir, ich bin bei dir.
+\z
+Immer, und überall, immer, und überall, immer bin ich da.  (2x)
+
+\aut{Daniel Kallauch, 1994}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{31}{Das Privileg zu sein}
+
+1. Ist es nicht wunderbar, an diesem Tag zu sein.
+Es ist ein Privileg, erachte es nicht als klein. (2x)
+\z
+\refr{Und er tut auch heute noch Wunder, Stunde um Stunde, Tag für Tag,
+tut der Herr heute noch Wunder, Stunde um Stunde, Tag für Tag, ...}
+\z
+2. Wenn du nicht weiter weißt, sich Wahrheit als falsch erweist 
+und deine Philosophie, bleibt nur tote Theorie.
+Auch wenn du nicht mehr glaubst, Erwartungen zurück schraubst
+und sagst 'an Gott glaub ich nicht', sag ich dir 'Gott glaubt an dich!'
+\z
+3. Legst du dein Leben hin, gibt er deinem Leben Sinn.
+Macht dein Leben keinen Sinn, leg ihm dein Leben hin.
+Was wird dein Wunder sein? Keins ist zu groß, zu klein.
+Lebe die Zeit mit Perspektive Ewigkeit, Denn der Herr tut ...
+
+\aut{Samuel Harfst, 2006}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{32}{Danke für die Sonne}
+
+1. Danke für die Sonne, danke für den Regen, danke für den Himmel über mir.
+Danke für den Samen, danke für die Früchte, danke für die Erde unter mir.
+Danke, danke für die Schönheit, danke für die Farben, danke für das Licht.
+\z
+\refr{Danke, danke für das Leben,
+danke für die Liebe und diesen Augenblick.
+Danke, danke für die Freiheit, danke für die Freude und für die Musik.}
+\z
+Danke für das Lachen, danke für die Tränen, danke dafür, dass ich fühlen kann
+Danke für die Menschen, danke für die Tiere, danke, dass ich nicht alleine bin.
+Danke, danke für die Freundschaft, danke für Vertrauen, danke für die Zeit.
+\z
+3. Danke für die Hoffnung, danke für den Frieden,
+danke für Bewahrung und für Schutz.
+Danke für den Glauben, danke für die Gnade,
+danke für Vergebung und das Kreuz.
+\vspace{-0.5em}
+\aut{Andrea Adams-Frey, 2008}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{33}{Ich weiß, dass mein Erlöser lebt}
+
+Komm, komm, du Sohn des Höchsten.
+Komm herab, zerreiß die Finsternis!
+Komm, komm, du Herr des Himmels.
+Komm, mein treuer Freund, verlass mich nicht!
+\z
+\refr{Ich weiß, dass mein Erlöser lebt!
+Ich weiß, dass er hoch oben steht,
+hoch über all dem Staub der Welt.
+Ich weiß, dass mein Erlöser lebt!} 
+\z
+Heilig! Dein Haus ist heilig,
+und aus Staub und Schmerz erhebst du mich
+Ewig! Der Weg ist ewig!
+Ich weiß, ich werde leben, weil du bist! 
+
+\aut{Lothar Kosse, 2004}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{34}{Der Herr segne dich}
+
+\refr{Der Herr segne dich, behüte dich, lasse sein Angesicht
+leuchten über dir und der Herr sei dir gnädig!
+Er erhebe sein Angesicht über dich und erfülle dein Herz
+mit seinem Licht, tiefer Friede begleite dich.}
+\z
+1. Ob du ausgehst oder heimkommst, ob du wach bist oder schläfst,
+sei gesegnet und gestärkt durch seinen Geist.
+Ob du in das Tal hinabgehst oder Berge vor dir stehn,
+mögest du den nächsten Schritt in seinem Segen gehn!
+\z
+2. Ob die Menschen, die du liebst, dies erwidern oder nicht,
+sei ein Segen durch die Gnade deines Herrn.
+Ob die Träume, die du träumtest noch verheißungsvoll bestehen
+oder längst schon nicht mehr für dich wie ein Traum aussehen.
+\z
+Friede mit dir! Friede mit dir! Friede mit dir!
+\vspace{-1.0em}
+\aut{Martin Pepper, 2000}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{35}{Dir gebührt die Ehre}
+
+Dir gebührt die Ehre und Anbetung.
+Wir erheben uns're Hände, wir erheben deinen Namen.	(2x)
+\z
+Denn du bist groß, du tust große Wunder, groß,
+niemand anders ist wie du, niemand anders ist wie du.
+
+\aut{Eva-Lena Hellmark, 1992}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{36}{We shall not be shaken}
+
+When everything's breaking, you are left unshaken. 
+When everything's tumbling down, you're the solid ground 
+Nations could be quaken, economies failing. 
+When fear is found all around, you're the solid ground.
+\z
+\refr{Our God you are, all that you say you are. 
+you never change, you never fail, you never fade.
+Our God you are faithful in all your ways. 
+Forever you stand, forever you reign, forever remain.}
+\z
+\deutschu{Wenn alles zerbricht, bleibst du unerschütterlich.
+Wenn alles einsürzt, bist du der feste Grund.
+Staaten können erbeben, die Wirtschaft versagen.
+Wenn überall Angst herrscht, bist du der feste Grund.
+\zh
+Unser Gott, du bist alles, was man von dir sagt.
+Du veränderst dich nie, scheiterst nie, verblasst nie.
+Unser Gott, du bist in allen Dingen treu.
+Du bestehst für immer, herrscht für immer, bleibst immer.
+}
+
+\end{frame1}
+\begin{frame1}
+
+We shall, we shall not be shaken. We shall, we shall not be shaken.
+When all around, is sinking sand. For you are, you are never changing.
+you are, you are never changing. 
+you will stand, the great 'I Am'. The great 'I Am'!
+\z
+\refr{Our God you are, all that you say you are. 
+you never change, you never fail, you never fade.
+Our God you are faithful in all your ways. 
+Forever you stand, forever you reign, forever remain.}
+\z
+\deutschu{Wir werden nicht erschüttert.
+Auch wenn um uns herum Treibsand ist.
+Denn du veränderst dich nie.
+Du bleibst, du bist der große 'Ich bin'!
+}
+
+\aut{Jonas Myrin \& Matt Redman, 2009}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{37}{Schritte wagen}
+
+\refr{Schritte wagen im Vertrauen auf einen guten Weg,
+Schritte wagen im Vertrauen, dass letztlich er mich trägt.
+Schritte wagen, weil im Aufbruch ich nur sehen kann:
+Für mein Leben gibt es einen Plan.}
+\z
+1. Schritte kann man manchmal sehen, Spuren, die noch nicht verweht.
+Wege, die auch andere gehen, ob da jemand vor mir geht?
+\z
+2. Schritte kann man manchmal hören, Kinder trippeln, Stöckelschuh,
+Gleichschrittschritte, die mich stören, Schritte kommen auf mich zu.
+\z
+3. Schritte kann man manchmal spüren, Freude will mit mir hinaus,
+Füße fangen an zu frieren, tanzen, kommen auf mich zu.
+
+\end{frame1}
+\begin{frame1}
+
+4. Schritte kann man sich erdenken, klug beschreiben einen Schritt.
+Manches kann man sich auch schenken, nimmt der Kopf den Fuß nicht mit.
+\z
+\refr{Schritte wagen im Vertrauen auf einen guten Weg,
+Schritte wagen im Vertrauen, dass letztlich er mich trägt.
+Schritte wagen, weil im Aufbruch ich nur sehen kann:
+Für mein Leben gibt es einen Plan.}
+\z
+5. Schritte kann und darf man gehen, Schritte führen uns zum Ziel.
+Ohne Schritte bleibst du stehen und verpasst dabei so viel.
+
+\aut{Clemens Bittlinger}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{38}{Revelation Song / Heilig, heilig}
+
+1. Worthy is the lamb who was slain. Holy, holy is he.
+Sing a new song to him who sits on heaven's mercy seat.
+\z
+\refr{Holy, holy, holy, is the Lord, God, almighty.
+Who was and is and is to come.
+With all creation I sing: "Praise to the king of kings,
+you are my everything, and I will adore you".}
+\z\z
+\deutsch{1. Heilig, heilig, das Lamm Gottes, das geopfert ist.
+Lob und Ehre sei dir dem König auf dem Gnadenthron.
+\z
+\refr{Heilig, heilig, heilig, ist der Herr, Gott, allmächtig,
+der war und ist und der da kommt.
+Die ganze Schöpfung singt und preist dich, den König.
+Du bist mir alles Herr und ich will dich ehren!}
+}
+
+\end{frame1}
+\begin{frame1}
+
+2. Clothed in rainbows, of living color.
+Flashes of lightening, rolls of thunder.
+Blessing and honor, strength and glory and power be to you,
+the only wise King.
+\z
+\refr{Holy, holy, holy, is the Lord, God, almighty.
+Who was and is and is to come.
+With all creation I sing: "Praise to the king of kings,
+you are my everything, and I will adore you".}
+\z\zh
+\deutsch{2. Deine Schönheit ist unbeschreiblich. 
+Dein Licht strahlt heller als die Sonne.
+Lobpreis und Ehre, Weisheit und Macht sei dir allein;
+nur dir, dem einzig wahren Gott.
+\z
+\refr{Heilig, heilig, heilig, ist der Herr, Gott, allmächtig,
+der war und ist und der da kommt.
+Die ganze Schöpfung singt und preist dich, den König.
+Du bist mir alles Herr und ich will dich ehren!}
+}
+
+\end{frame1}
+\begin{frame1}
+
+3. Filled with wonder, awestruck wonder, at the mention of your name.
+Jesus, your name is power, breath and living water. 
+Such a marvelous mystery.
+\z
+\refr{Holy, holy, holy, is the Lord, God, almighty.
+Who was and is and is to come.
+With all creation I sing: "Praise to the king of kings,
+you are my everything, and I will adore you".}
+\z\z
+\deutsch{3. Wenn dein Name auch nur erwähnt wird, wirkst du Wunder unter uns.
+Jesus in deinem Namen ist die Kraft zum Leben.
+Welch ein Geheimnis öffnet sich!
+\z
+\refr{Heilig, heilig, heilig, ist der Herr, Gott, allmächtig,
+der war und ist und der da kommt.
+Die ganze Schöpfung singt und preist dich, den König.
+Du bist mir alles Herr und ich will dich ehren!}}
+\vspace{-0.5em}
+\aut{Jennie Lee Riddle / Gateway Worship, 2004}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{39}{God of this city}
+
+1. You're the God of this city, you're the king of these people.
+You're the Lord of this nation, you are.
+You're the light in this darkness, you're the hope to the hopeless.
+You're the peace to the restless, you are.
+\z
+There is no one like our God. There is no one like our God.
+\zh
+\refr{Greater things have yet to come,
+and greater things are still to be done in this city.
+Greater things have yet to come,
+and greater things are still to be done here!}
+\z
+\deutschu{Du bist der Gott dieser Stadt, der König dieser Leute, der Herr dieser Nation, das Licht in dieser Finsternis, die Hoffnung der Hoffnungslosen, der Frieden für die Unruhigen.
+\zh
+Es gibt niemanden wie unseren Gott!
+\zh
+Größere Dinge müssen noch kommen, Große Dinge sind noch zu tun in dieser Stadt.
+Größere Dinge müssen noch kommen und größere Dinge sind hier immer noch zu tun.
+}
+
+\end{frame1}
+\begin{frame1}
+
+2. You're the Lord of creation, the creator of all things.
+You're the king above all kings, you are.
+You're the strength in our weakness, you're the love to the broken.
+You're the joy in the sadness, you are.
+\z
+There is no one like our God. There is no one like our God.
+\zh
+\refr{Greater things have yet to come,
+and greater things are still to be done in this city.
+Greater things have yet to come,
+and greater things are still to be done here!}
+\z
+\deutschu{Du bist der Herr der Schöpfung, der Schöpfer aller Dinge, der König aller Könige, die Kraft in unserer Schwachheit, die Liebe für die Gebrochenen, die Freude in der Trauer.
+\zh
+Es gibt niemanden wie unseren Gott!
+\zh
+Größere Dinge müssen noch kommen, Große Dinge sind noch zu tun in dieser Stadt
+Größere Dinge müssen noch kommen und größere Dinge sind hier immer noch zu tun
+}
+
+\aut{Bluetree, 2006}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{40}{Voice of truth / Stimme seiner Wahrheit}
+
+1. Oh what I would do to have the kind of faith it takes
+to climb out of this boat I'm in, onto the crashing waves,
+to step out of my comfort zone, into the realm of the unknown
+where Jesus is and he's holding out his hand.
+\zh
+But the waves are calling out my name and they laugh at me
+reminding me of all the times I've tried before and failed.
+The waves they keep on telling me time and time again:
+"Boy, you never win, you never win"
+\zh
+\deutsch{1. Wenn ich nur den Glauben hätt'
+um aus dem Boot zu steigen und auf dem Meer zu gehen. 
+Was würd ich dafür tun! Ein Schritt aus meiner kleinen Welt,
+in ungewisses neues Land, wo Jesus ist und er reicht mir seine Hand.
+\zh
+Doch die Wellen lachen mich nur aus und sie rufen mich:
+"Du hast es schon so oft versucht, doch hast du nie gesiegt".
+Die Wellen kennen meine Angst und singen mir ihr Lied:
+"Nein, das schaffst du nie. Das schaffst du nie!"
+}
+
+\end{frame1}
+\begin{frame1}
+
+\refr{But the voice of truth tells me a different story.
+The voice of truth says: "Do not be afraid"
+and the voice of truth says "This is for my glory."
+Out of all the voices calling out to me
+I will choose to listen and believe the voice of truth.}
+\z\z
+\deutsch{\refr{Doch ganz anders klingt die Stimme seiner Wahrheit.
+"Hab keine Angst", sagt die Stimme mir.
+"Wag es mir zur Ehr", sagt die Stimme seiner Wahrheit.
+Und von all den vielen Stimmen um mich her,
+will ich nur auf diese Stimme hör'n und ihr vertraun.}
+}
+
+\end{frame1}
+\begin{frame1}
+
+2. Oh what I would do to have the kind of strength it takes
+to stand before a giant with just a sling and a stone
+surrounded by the sound of a thousand warriors shaking in their armor,
+wishing they'd have had the strength to stand.
+\zh
+But the giant's calling out my name and he laughs at me,
+reminding me of all times I've tried before and failed
+the giant keeps on telling me time and time again
+"Boy, you never win, you never win"
+\z
+\deutsch{2. Wenn ich nur die Stärke hätt, den Riesen zu bekämpfen,
+nur mit einer Schleuder und einem einzigen Stein.
+Um mich rum der Klang von tausend Kriegern
+die vor Angst nur zittern und sich wünschten, so mutig zu sein.
+\zh
+Doch der Riese, er lacht mich nur aus und verspottet mich:
+"Du hast es schon so oft versucht, doch hast du nie gesiegt".
+Der Riese, er kennt meine Angst und singt mir sein Lied:
+"Nein, das schaffst du nie. Das schaffst du nie!"
+}
+
+\end{frame1}
+\begin{frame1}
+
+\refr{But the voice of truth tells me a different story.
+The voice of truth says: "Do not be afraid"
+and the voice of truth says "This is for my glory."
+Out of all the voices calling out to me
+I will choose to listen and believe the voice of truth.}
+\z\z
+\deutsch{\refr{Doch ganz anders klingt die Stimme seiner Wahrheit.
+"Hab keine Angst", sagt die Stimme mir.
+"Wag es mir zur Ehr", sagt die Stimme seiner Wahrheit.
+Und von all den vielen Stimmen um mich her,
+will ich nur auf diese Stimme hör'n und ihr vertraun.}
+}
+
+\end{frame1}
+\begin{frame1}
+
+But the stone was just the right size to put the giant on the ground.
+And the waves they don't seem so high, from on top of them looking down.
+I will soar with the wings of eagles when I stop and listen
+to the sound of Jesus singing over me.
+\z\z
+\deutsch{Um den Riesen zu besiegen, war der Stein gerade recht.
+Und von oben auf den Wellen hat man eine sehr gute Sicht.
+Und ich fliege wie ein Adler
+Wenn ich über mir die Stimme hör, mit der Jesus für mich singt.
+}
+
+\end{frame1}
+\begin{frame1}
+
+\refr{Cause the voice of truth tells me a different story.
+The voice of truth says: "Do not be afraid"
+and the voice of truth says "This is for my glory."
+Out of all the voices calling out to me
+I will choose to listen and believe the voice of truth.}
+\z\z
+\deutsch{\refr{Denn ganz anders klingt die Stimme seiner Wahrheit.
+"Hab keine Angst", sagt die Stimme mir.
+"Wag es mir zur Ehr", sagt die Stimme seiner Wahrheit.
+Und von all den vielen Stimmen um mich her,
+will ich nur auf diese Stimme hör'n und ihr vertraun.}
+}
+
+\aut{Casting Crowns, 2003}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{41}{Etwas in mir}
+
+Etwas in mir zeigt mir, dass es dich wirklich gibt.
+Ich bin gewiss, dass du lebst, mich kennst und mich liebst. (2x)
+\z
+Du bringst mich zum Lachen, machst, dass mein Herz singt.
+Du bringst mich zum Tanzen, meine Seele schwingt
+Ich atme auf in deiner Gegenwart.
+\z
+Herr, du allein gibst mir Freude, die von Innen kommt, 
+Freude, die mir niemand nimmt.
+Herr, du machst mein Leben hell mit dem Licht deiner Liebe.
+
+\aut{Albert Frey, 1995}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{42}{Mighty to save}
+
+1. Ev'ryone needs compassion, love that's never failing. Let mercy fall on me.
+Ev'ryone needs forgiveness, the kindness of a savior. The hope of nations.
+\z
+\refr{Saviour, he can move the mountains.
+My God is mighty to save, he is mighty to save.
+Forever, author of salvation, he rose and conquered the grave,
+Jesus conquered the grave!}
+\z
+\deutschu{Jeder braucht Erbarmen, Liebe, die niemals enttäuscht; Lass Gnade über mich kommen.
+Jeder braucht Vergebung, die Aufmerksamkeit eines Erlösers; die Hoffnung der Völker.
+\zh
+\refr{Der Erlöser kann Berge versetzen. Mein Gott ist ein mächtiger Erretter.
+Ewiglich, Urheber der Erlösung, er stand auf und siegte über das Grab.}
+}
+
+\end{frame1}
+\begin{frame1}
+
+\z
+2. So take me as you find me, all my fears and failures. Fill my life again.
+I give my life to follow, ev'rything I believe in. Now I surrender.
+\z
+\refr{Saviour, he can move the mountains.
+My God is mighty to save, he is mighty to save.
+Forever, author of salvation, he rose and conquered the grave,
+Jesus conquered the grave!}
+\z
+Shine your light and let the whole world see,
+we're singing for the glory of the risen king: Jesus! (2x)
+
+\deutschu{
+So nimm mich auf, wie du mich findest; All meine Ängste und Fehler; Erfülle mein Leben.
+Ich gebe mein Leben hin um nachzufolgen, alles woran ich glaube. Jetzt ergebe ich mich.
+\zh
+\refr{Der Erlöser kann Berge versetzen. Mein Gott ist ein mächtiger Erretter.
+Ewiglich, Urheber der Erlösung, er stand auf und siegte über das Grab.}
+\zh
+Lasse dein Licht scheinen und lass die ganze Welt sehen:
+Wir singen zur Ehre des wiederauferstandenen Königs: Jesus (x2)}
+\vspace{-1em}
+\aut{Reuben Morgan \& Ben Fielding / Hillsong, 2006}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{43}{Sovereign over us}
+
+1. There is strength within the sorrow, there is beauty in our tears.
+And you meet us in our mourning, with a love that cast out fears.
+You are working in our waiting, sanctifying us.
+And beyond our understanding, you're teaching us to trust.
+\z
+\refr{Your plans are still to prosper, you have not forgotten us.
+You're with us in the fire and the flood.
+You're faithful forever, perfect in love, you are sovereign over us.}
+\z
+\deutschu{1. Es ist Stärke im Leid, Schönheit in unsere Tränen
+Du triffst uns in unserer Trauer, mit einer Liebe, die Angst vertreibt.
+Du arbeitest in unserem Warten, heiligst uns.
+Jenseits unseres Verstehens lehrst du uns, zu vertrauen.
+\zh
+\refr{Deine Pläne erfüllen sich noch, du hast uns nicht vergessen.
+Du bist bei uns in Feuer und Flut.
+Du bist für immer treu, vollkommen in der Liebe, souverän über uns.}
+}
+
+\end{frame1}
+\begin{frame1}
+
+2. You are wisdom unimagined, who could understand your ways?
+Reigning high above the heavens, reaching down in endless grace,
+You're the lifter of the lowly, compassionate and kind.
+You surround and you uphold me, your promises are my delight.
+\z
+\refr{Your plans are still to prosper, you have not forgotten us.
+You're with us in the fire and the flood.
+You're faithful forever, perfect in love, you are sovereign over us.}
+\z
+\deutschu{2. Du bist unvorstellbare Weisheit, wer könnte deine Wege verstehen?
+Du regierst im Himmel, reichst in unendlicher Gnade herunter.
+Du erhebst die Niedrigen, liebevoll und freundlich.
+Du umgibst und bewahrst mich. Deine Versprechen sind meine Freude.
+\zh
+\refr{Deine Pläne erfüllen sich noch, du hast uns nicht vergessen.
+Du bist bei uns in Feuer und Flut.
+Du bist für immer treu, vollkommen in der Liebe, souverän über uns.}
+}
+\end{frame1}
+\begin{frame1}
+
+Even what the enemy means for evil, you turn it for our good,
+you turn it for our good, and for your glory.
+Even in the valley you are faithful, you're working for our good,
+you're working for our good, and for your glory.
+\z
+\refr{Your plans are still to prosper, you have not forgotten us.
+You're with us in the fire and the flood.
+You're faithful forever, perfect in love, you are sovereign over us.}
+\z
+\deutschu{Sogar was der Feind zum Bösen meint, änderst du zum Besten, zu deiner Ehre.
+Auch im Tal bist du treu, du arbeitest zu unserem Besten und zu deiner Ehre.
+\zh
+\refr{Deine Pläne erfüllen sich noch, du hast uns nicht vergessen.
+Du bist bei uns in Feuer und Flut.
+Du bist für immer treu, vollkommen in der Liebe, souverän über uns.}
+}
+
+\aut{Aaron Keyes, 2011}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{44}{Treu}
+
+Du bleibst an meiner Seite, du schämst dich nicht für mich. 
+Du weißt, ich bin untreu, und dennoch gehst du nicht.
+Du stehst zu unsrer Freundschaft. Obwohl ich schwierig bin,
+hältst du mir die Treue, gehst mit mir durch dick und dünn.
+\z
+Du bist treu, Herr, an jedem neuen Tag.
+Du bist treu, Herr, auch wenn ich versag,
+bist du treu, Herr. Unerschütterlich hält deine Treue mich,
+du bleibst mir treu.
+
+\aut{Tobias Gerster, 1999}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{45}{Danke für diesen guten Morgen}
+
+1. Danke für diesen guten Morgen! Danke für jeden neuen Tag.
+Danke, dass ich all meine Sorgen auf dich werfen mag.
+\z
+3. Danke für meine Arbeitsstelle! Danke für jedes kleine Glück.
+Danke für alles Frohe, Helle und für die Musik.
+\z
+4. Danke für manche Traurigkeiten! Danke für jedes gute Wort.
+Danke, dass deine Hand mich leiten will an jedem Ort.
+\z
+6. Danke, dein Heil kennt keine Schranken! Danke, ich halt mich fest daran.
+Danke! Ach, Herr, ich will dir danken, dass ich danken kann!
+
+\aut{Martin Schneider, 1961}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{46}{Wo ich auch stehe}
+
+1. Wo ich auch stehe, du warst schon da.
+Wenn ich auch fliehe, du bist mir nah. 
+Was ich auch denke, du weißt es schon.
+Was ich auch fühle, du wirst verstehn.	
+\z
+\refr{Und ich danke dir, dass du mich kennst und trotzdem liebst.
+Und dass du mich beim Namen nennst und mir vergibst. 
+Herr, du richtest mich wieder auf, und du hebst mich zu dir hinauf.
+Ja ich danke dir, dass du mich kennst und trotzdem liebst.}
+\z
+2. Du kennst mein Herz, die Sehnsucht in mir.
+Als wahrer Gott und Mensch warst du hier. 
+In allem uns gleich und doch ohne Schuld.
+Du bist barmherzig, voller Geduld. 
+
+\aut{Albert Frey, 1994}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{47}{Gottes Spuren}
+
+1. Wir haben Gottes Spuren festgestellt auf unsern Menschenstraßen, 
+Liebe und Wärme in der kalten Welt, Hoffnung, die wir fast vergaßen. 	
+\z
+\refr{Zeichen und Wunder sahen wir geschehn
+in längst vergangnen Tagen, 
+Gott wird auch unsre Wege mit uns gehn,
+uns durch das Leben tragen.}
+\z
+2. Blühende Bäume haben wir gesehn, wo niemand sie vermutet,
+Sklaven, die durch das Wasser gehn, das die Herren überflutet.
+\z
+3. Bettler und Lahme sahen wir beim Tanz, hörten, wie Stumme sprachen,
+durch tote Fensterhöhlen kam ein Glanz,
+Strahlen, die die Nacht durchbrachen.
+
+\aut{Michel Scouarnec, 1973}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{48}{Beautiful things}
+
+1. All this pain, I wonder if I'll ever find my way.
+I wonder if my life could really change at all?
+All this earth; Could all that is lost ever be found.
+Could a garden come up from this ground at all?
+\z
+\refr{You make beautiful things.
+You make beautiful things out of the dust.
+You make beautiful things.
+You make beautiful things out of us.}
+\z
+\deutschu{All dieser Schmerz, ich frage mich, ob ich jemals meinen Weg finde.
+Ich frage mich, ob sich mein Leben wirklich verändern könnte?
+Könnte alles, was auf dieser Erde verloren ist, je gefunden werden?
+Könnte aus diesem Grund ein Garten entstehen?
+\zh
+\refr{Du machst wunderschöne Dinge aus Staub.
+Du machst wunderschöne Dinge aus uns.}
+}
+
+\end{frame1}
+\begin{frame1}
+
+2. All around life is springing up from this old ground.
+Out of chaos life is being found in you. (2x)
+\z
+\refr{You make beautiful things.
+You make beautiful things out of the dust.
+You make beautiful things.
+You make beautiful things out of us.}
+\z
+You make me new, you are making me new.
+\z
+\deutschu{Überall sprießt Hoffnung aus diesem alten Boden.
+Aus dem Chaos wir das Leben in dir gefunden.
+\zh
+\refr{Du machst wunderschöne Dinge aus Staub.
+Du machst wunderschöne Dinge aus uns.}
+\zh
+Du machst mich neu.
+}
+
+\aut{Lisa \& Michael Gungor, 2009}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{49}{Ich will mich freun}
+
+\refr{Du bist mir Freiheit, Hoffnung, Licht. 
+Du bist die Nummer 1 für mich.
+Du machst mich frei, erfüllst mein Sein. Jesus.
+Ich pack den Alltag hinter mich; Diese Zeit ist jetzt nur für dich.
+Ich will mich freun und dich nicht scheun. Jesus.}
+\z
+1. Herr, lass mich dich erleben und deine Taten sehn.
+Ich will dich selbst erfahren und eigne Schritte gehen.
+Deine Gemeinschaft ist für alle, öffne mir den Blick dafür. 
+Du willst Einheit, Mut und Liebe und ne offne Tür.
+\z
+2. Herr, du siehst meine Freunde, Familie, Nachbarn hier.
+Lass sie dich erleben und die Wahrheit nur in dir.
+Du bist real, treu und mächtig und hast mit jedem hier nen Plan.
+Ich will dich erforschen - und das, was ich kann.
+
+\aut{Lea Schmidt, 2013}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{50}{Geh unter der Gnade}
+
+\refr{Geh unter der Gnade, geh mit Gottes Segen;
+geh in seinem Frieden, was auch immer du tust.
+Geh unter der Gnade, hör auf Gottes Worte;
+bleib in seiner Nähe, ob du wachst oder ruhst.}
+\z
+1. Alte Stunden, alte Tage lässt du zögernd nur zurück.
+Wohlvertraut wie alte Kleider sind sie dir durch Leid und Glück.
+\z
+2. Neue Stunden, neue Tage - zögernd nur steigst du hinein.
+Wird die neue Zeit dir passen? Ist sie dir zu groß, zu klein?
+\z
+3. Gute Wünsche, gute Worte wollen dir Begleiter sein.
+Doch die besten Wünsche münden alle in den einen ein:
+
+\aut{Manfred Siebald, 1987}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{51}{Herr, ich komme zu dir}
+
+Herr, ich komme zu dir, und ich steh' vor dir, so wie ich bin.
+Alles, was mich bewegt, lege ich vor dich hin.
+Herr, ich komme zu dir, und ich schütte mein Herz bei dir aus.
+Was mich hindert, ganz bei dir zu sein, räume aus.
+\z
+Meine Sorgen sind dir nicht verborgen, du wirst sorgen für mich.
+Voll Vertrauen will ich auf dich schauen. Herr, ich baue auf dich!
+Gib mir ein neues, ungeteiltes Herz. Lege ein neues Lied in meinen Mund.
+Fülle mich neu mit deinem Geist, denn du bewirkst dein Lob in mir.
+
+\aut{Albert Frey, 1992}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{52}{Gott hat einen Plan}
+
+1. Gott hat einen Plan, Gott führt ihn auch aus.
+Gottes Wort ist wahr, es geht ihm schon voraus.
+Was er sagt passiert, egal zu welcher Zeit.
+Sein Wort geht mit mir, kilometerweit.
+\z
+\refr{Deine Worte will ich nehmen und sie in die Herzen streu'n, 
+so dass Bäume wachsen werden; sei der Same noch so klein.}
+\z
+2. Gott, ich bleib' bei dir, fest an deinem Wort
+Denn du bist das Ziel, es treibt mich nichts mehr fort. 
+Höre ich dein Wort, so kehrt dein Friede ein.
+Ich nehm' es in mich auf, um Herzen zu befrei'n.
+
+\aut{Astrid Menzel}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{53}{Your love never fails}
+
+1. Nothing can separate, even if I ran away, your love never fails.
+I know I still make mistakes, but you have new mercies for me every day.
+Your love never fails.
+\z
+\refr{You stay the same through the ages, your love never changes.
+There may be pain in the night, but joy comes in the morning.
+And when the oceans rage, I don't have to be afraid.
+Because I know that you love me, your love never fails!}
+\z
+\deutschu{Nichts kann uns scheiden, sogar wenn ich weglaufe. Deine Liebe scheitert nicht.
+Ich weiss ich mache noch Fehler, aber du hast täglich neue Gnade für mich.
+Deine Liebe versiegt nicht.
+\zh
+Du bist derselbe zu allen Zeiten, deine Liebe verändert sich nicht.
+Es mag Schmerz am Abend geben, aber die Freude kommt am Morgen.
+Und wenn die Meere toben, brauche ich nicht ängstlich sein,
+weil ich weiß, dass du mich liebst. Deine Liebe scheitert nicht.
+}
+
+\end{frame1}
+\begin{frame1}
+
+2. The wind is strong and the water's deep,
+but I'm not alone in these open seas. Cause your love never fails.
+The chasm is far too wide, I never thought I'd reach the other side.
+But your love never fails.
+\z
+\refr{You stay the same through the ages, your love never changes.
+There may be pain in the night, but joy comes in the morning.
+And when the oceans rage, I don't have to be afraid.
+Because I know that you love me, your love never fails!}
+\z
+You make all things work together for my good.  (4x)
+\z
+\deutschu{Der Wind ist kräftig und das Wasser ist tief, aber ich bin nicht alleine im offenen Meer,
+denn deine Liebe scheitert nicht
+Der Abgrund ist breit. Ich hätte nie gedacht, die andere Seite erreichen zu können,
+aber deine Liebe scheitert nicht.
+\zh
+Du machst, dass mir alle Dinge zum Besten dienen.
+}
+
+\aut{Anthony Skinner \& Chris McClarney, 2008}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{54}{One thing remains}
+
+1. Higher than the mountains that I face,
+stronger than the power of the grave,
+constant through the trial and the change,
+one thing remains, one thing remains:
+\z
+\refr{Your love never fails, never gives up, never runs out on me. (3x)}
+\z
+\deutschu{Höher als die Berge denen ich gegenüberstehe,
+stärker als die Kraft des Grabes, beständig durch Proben und Wandlungen:
+Eine Sache bleibt, ja eine Sache bleibt:
+\zh
+\refr{Deine Liebe schlägt nicht fehl, gibt niemals auf, geht nie an mir vorbei.}
+}
+
+\end{frame1}
+\begin{frame1}
+
+2. On and on and on and on it goes.
+It overwhelms and satisfies my soul.
+And I never, ever, have to be afraid.
+One thing remains, one thing remains:
+\z
+\refr{Your love never fails, never gives up, never runs out on me. (3x)}
+\z
+In death, in life, I'm confident and covered by the power 
+of your great love.
+My debt is paid, there's nothing that can separate my heart
+from your great love!
+\z
+\deutschu{Es geht weiter und weiter, es überwältigt und befriedigt meine Seele
+und ich habe niemals Angst. Eine Sache bleibt, eine Sache bleibt:
+\zh
+\refr{Deine Liebe schlägt nicht fehl, gibt niemals auf, geht nie an mir vorbei.}
+\zh
+Im Tod, im Leben, bin ich gewiss und erfasst von der Kraft deiner wunderbaren Liebe.
+Meine Schuld ist bezahlt, da ist nichts was mein Herz trennen kann
+von deiner großartigen Liebe.}
+\vspace{-0.5em}
+\aut{Jesus Culture, 2010}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{55}{Who am I}
+
+1. Who am I, that the Lord of all the earth
+would care to know my name, would care to feel my hurt?
+Who am I, that the bright and morning star
+would choose to light the way for my ever wandering heart?
+\z
+Not because of who I am, but because of what you've done.
+Not because of what I've done, but because of who you are.
+\z
+\deutschu{Wer bin ich, dass der Herr der ganzen Welt
+meinen Namen kennen und meinen Schmerz fühlen will?
+Wer bin ich, dass der helle Morgenstern
+meinem ruhelosen Herz den Weg erhellt?
+\zh
+Nicht weil ich bin, wer ich bin, sondern aufgrund dessen, was du getan hast!
+Nicht aufgrund meiner Taten, sondern weil du bist, der du bist!
+}
+
+\end{frame1}
+\begin{frame1}
+
+\refr{I am a flower quickly fading, here today and gone tomorrow.
+A wave tossed in the ocean, a vapor in the wind.
+Still you hear me when I'm calling.
+Lord, you catch me when I'm falling.
+And you've told me who I am: I am yours. I am yours.} 
+\z
+\deutschu{Ich bin wie eine Blume, die heute noch blüht und morgen schon verwelkt ist,
+wie eine Welle, die im Meer umhergeworfen wird, wie Dunst im Wind.
+Dennoch hörst du mich, wenn ich rufe. Herr, du fängst mich auf, wenn ich falle.
+Und du hast mir gesagt, wer ich bin: Ich bin dein.
+}
+
+\end{frame1}
+\begin{frame1}
+
+2. Who am I, that the eyes that see my sin,
+would look on me with love, and watch me rise again?
+Who am I, that the voice that calmed the sea,
+would call out through the rain, and calm the storm in me?
+\z
+Not because of who I am, but because of what you've done.
+Not because of what I've done, but because of who you are.
+\z
+\deutschu{Wer bin ich, dass die Augen, die meine Sünde sehen,
+mich mit Liebe betrachten, mich wieder aufstehen sehen?
+Wer bin ich, dass die Stimme, die den Sturm gestillt hat,
+durch den Regen hindurch ruft, um den Sturm in mir zu stillen?
+\zh
+Nicht weil ich bin, wer ich bin, sondern aufgrund dessen, was du getan hast!
+Nicht aufgrund meiner Taten, sondern weil du bist, der du bist!
+}
+%Wen sollte ich fürchten, vor wem sollte mir grauen? Denn ich bin dein!
+
+\aut{John Mark Hall, 2003}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{56}{Mittelpunkt}
+
+Königlich strahlt dein Licht. Du bist ewiglich, niemand kommt dir gleich.
+Sanftmütig führst du mich, hin zu deinem Licht. Ich darf bei dir sein.
+\z
+Sei du der Mittelpunkt in meinem Leben,
+der Mittelpunkt in meinem Herzen,
+ich gehöre dir.
+Sei du der Mittelpunkt in meiner Schwäche,
+der Mittelpunkt in meiner Stärke,
+ich gehöre dir.
+\z
+Ich will dir nah sein, ich werd dir folgen.
+Mein ganzes Leben in dir verlieren.
+
+\aut{Pala \& Juri Friesen / Outbreakband, 2012}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{57}{Our God is greater}
+
+1. Water you turned into wine, opened the eyes of the blind.
+There's no one like you - none like you.
+Into the darkness you shine, out of the ashes we rise.
+There's no one like you - none like you.
+\zh
+\refr{Our God is greater, our God is stronger.
+God you are higher than any other.
+Our God is healer, awesome in power. Our God, our God.}
+\z
+\deutsch{1. Wasser wird Wein, Blinde sehn. Brot wird vermehrt, Lahme gehen:
+So bist nur du, Herr, du allein! 
+Licht scheint in dunkelste Nacht, Armen wird Hoffnung gebracht: 
+So bist nur du Herr, du allein!
+\zh
+\refr{Gott, du bist größer, Gott, du bist stärker,
+Gott, du stehst höher als alles andre!
+Gott, unser Heiler, starker Befreier, so bist nur du!}
+}
+%Wasser hast du in Wein verwandelt, den Blinden die Augen geöffnet.
+%Es gibt keinen wie du.
+%In die Dunkelheit scheinst du, aus der Asche stehen wir auf.
+%\zh
+%\refr{Unser Gott ist größer, unser Gott ist stärker. Gott, du bist höher als jeder andere. %Unser Gott ist Heiler, unglaublich stark.}
+
+\end{frame1}
+\begin{frame1}
+
+2. Into the darkness you shine, out of the ashes we rise.
+There's no one like you - none like you.
+\zh
+\refr{Our God is greater, our God is stronger.
+God you are higher than any other.
+Our God is healer, awesome in power. Our God, our God.}
+\zh
+And if our God is for us, then who could ever stop us;
+and if our God is with us, then what could stand against?
+\z
+\deutsch{2. Licht scheint in dunkelste Nacht, Armen wird Hoffnung gebracht: 
+So bist nur du Herr, du allein!
+\zh
+\refr{Gott, du bist größer, Gott, du bist stärker,
+Gott, du stehst höher als alles andre!
+Gott, unser Heiler, starker Befreier, So bist nur du!}
+\zh
+Und steht uns Gott zur Seite, was kann uns jemals hindern?
+Und steht uns Gott zur Seite, wer kann uns widerstehn?
+}
+%\deutschu{In die Dunkelheit scheinst du, aus der Asche stehen wir auf. Keiner ist wie du.
+%\zh
+%\refr{Unser Gott ist größer, unser Gott ist stärker. Gott, du bist höher als jeder andere. %Unser Gott ist Heiler, unglaublich stark.}
+%\zh
+%Wenn unser Gott für uns ist, wer könnte uns aufhalten?
+%Wenn unser Gott für uns ist, wer könnte gegen uns bestehen?
+\vspace{-0.5em}
+\aut{Chris Tomlin, 2010}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{58}{10'000 Reasons}
+
+\refr{Bless the Lord, o my soul, o my soul, worship his holy name.
+Sing like never before, o my soul. I'll worship your holy name.}
+\z
+1. The sun comes up, it's a new day dawning.
+It's time to sing your song again.
+Whatever may pass and whatever lies before me.
+Let me be singing when the evening comes.
+\z
+\deutsch{\refr{Komm und lobe den Herrn, meine Seele sing, bete den König an!
+Sing wie niemals zuvor, nur für ihn, und bete den König an!}
+\z
+1. Ein neuer Tag und ein neuer Morgen,
+und wieder bring ich dir mein Lob.
+Was auch vor mir liegt, und was immer auch geschehen mag:
+lass mich noch singen wenn der Abend kommt!
+}
+
+\end{frame1}
+\begin{frame1}
+
+\refr{Bless the Lord, o my soul, o my soul, worship his holy name.
+Sing like never before, o my soul. I'll worship your holy name.}
+\z
+2. You're rich in love, and you're slow to anger.
+Your name is great, and your heart is kind.
+For all your goodness, I will keep on singing.
+Ten thousand reasons for my heart to find.
+\z
+\deutsch{\refr{Komm und lobe den Herrn, meine Seele sing, bete den König an!
+Sing wie niemals zuvor, nur für ihn, und bete den König an!}
+\z
+2. Du liebst so sehr und vergibst geduldig,
+schenkst Gnade, Trost und Barmherzigkeit.
+Von deiner Güte will ich immer singen,
+Zehntausend Gründe gibst du mir dafür!
+}
+
+\end{frame1}
+\begin{frame1}
+
+\refr{Bless the Lord, o my soul, o my soul, worship his holy name.
+Sing like never before, o my soul. I'll worship your holy name.}
+\z
+3. And on that day when my strength is failing; 
+The end draws near and my time has come.
+Still my soul will sing your praise unending:
+Ten thousand years and then forevermore.
+\z
+\deutsch{\refr{Komm und lobe den Herrn, meine Seele sing, bete den König an!
+Sing wie niemals zuvor, nur für ihn, und bete den König an!}
+\z
+3. Und wenn am Ende die Kräfte schwinden,
+wenn meine Zeit dann gekommen ist,
+wird meine Seele dich weiter preisen;
+Zehntausend Jahre und in Ewigkeit!
+}
+
+\aut{Matt Redman / Outbreakband, 2011}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{59}{Get up}
+
+With every breath that I take, I'll praise you.
+With every move that I make.
+With everything that I am, I'll praise you,
+cause there is no other way.
+\z
+We stand together with hearts joined as one.
+We'll give you glory for all you have done.
+\z\z
+\deutschu{Mit jedem Atemzug lobe ich dich, mit jeder Bewegung.
+Mit allem was ich bin, preise ich dich, denn es gibt nichts besseres.
+\z
+Wir stehen zusammen mit vereinten Herzen.
+Wir geben dir die Ehre für das, was du getan hast.
+}
+
+\end{frame1}
+\begin{frame1}
+
+\refr{Everybody get up if you love him.
+Everybody get up, get up and praise him.
+Everybody get up if you're free and give him the praise!}
+\z
+You, you, everything is all for you, you.
+We're living each day for you, you. Everything is all for you, you!
+\z\z
+\deutschu{\refr{Steht alle auf, jeder der ihn liebt. Steht auf und ehre ihn.
+Steh auf, wenn du frei bist, und gebe ihm Lob.}
+\z
+Du, du, alles ist für dich, dich;
+Wir leben jeden Tag für dich, alles ist für dich.
+}
+
+\aut{PlanetShakers, 2009}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{60}{Hosanna (king of glory) / Ich seh den König kommen}
+
+1. I see the king of glory coming on the clouds with fire.
+The whole earth shakes - the whole earth shakes.
+I see his love and mercy washing over all our sin. The people sing.
+\z
+\refr{Hosanna, hosanna, hosanna in the highest. (2x)}
+\z
+2. I see a generation rising up to take their place, with selfless faith.
+I see a near revival stirring as we pray and seek. We're on our knees.
+\z
+\deutsch{1. Ich seh den König kommen, mächtig und in Herrlichkeit. Die Erde bebt.
+Ich seh, wie seine Gnade uns von aller Schuld befreit; und jeder singt.
+\z
+\refr{Hosanna, hosanna, hosanna in der Höhe. (2x)}
+\z
+2. Ich seh seine Gemeinde, die ihn in der Welt bezeugt; und für ihn lebt.
+Ich sehe eine Erweckung, wenn wir ernsthaft um sie flehn. Es kann geschehn.
+}
+
+\end{frame1}
+\begin{frame1}
+
+Heal my heart and make it clean,
+open up my eyes to the things unseen.
+Show me how to love like you have loved me.
+Break my heart for what breaks yours.
+Everything I am for your kingdom's cause,
+as I walk from earth into eternity.
+
+\z
+\deutsch{Heil mein Herz und mach es rein,
+lass Verborgenes für mich sichtbar sein.
+Zeig mir, wie man liebt, so wie du mich liebst.
+Lass mich fühln, was dein Herz bricht.
+Ich will leben Herr, ganz in deinem Licht.
+Bis ich dann zu dir heimgeh in die Ewigkeit.
+}
+
+\aut{Brooke Fraser / Hillsong, 2006}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{61}{Weil du mich liebst}
+
+Mit dir an meiner Seite bin ich stärker als zuvor.
+Den Schwachen gibst du Halt, du machst mein Leben schön.
+Mit mir an deiner Seite kannst du rechnen,
+denn ich will dir treu sein bis zum Ziel, mein Leben soll dich ehren.
+\z
+Ich kann nicht ohne dich, ich will nicht ohne dich. (2x)
+\z
+Nur bei dir bin ich zu Haus, deine Nähe füllt mich aus.
+Ich bin stark, weil du mich liebst, ich bin frei, weil du vergibst.
+Deine Gegenwart ist hier, komm und lebe du in mir.
+Ich bin stark, weil du mich liebst. Ich bin frei, weil du vergibst.
+
+\aut{Mia \& Paul Friesen / Outbreakband, 2010}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{62}{Für den König}
+
+1. Für den König, für den Herrn. Für ihn geben wir uns hin.
+Seine Ehre, unser Ziel, nichts bedeutet uns jemals so viel.
+Für den König, für sein Reich. Alle Menschen sind hier gleich.
+Lamm und Löwe sind vereint, und das Licht der Gerechtigkeit scheint.
+\z
+\refr{Alle Ehre König Jesus. Unsere Herzen, sie fliegen dir zu.
+Wir erheben deinen Namen. Der allein wahre König bist du!}
+\z
+2. Für den König, für sein Schwert, was den Feind das Fürchten lehrt,
+unsre Freiheit garantiert, uns zum Schutz unsre Grenze markiert.
+Für den König, für sein Volk, für die Heerschar, die ihm folgt.
+Ihm, der uns sein Leben gibt, lasst uns lieben, so wie er uns liebt!
+
+\aut{Albert Frey, 2006}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{63}{Prince of peace}
+
+You are holy. You are mighty. You are worthy; worthy of praise.
+I will follow. I will listen. I will love you; all of my days.
+\z
+\men{I will sing to and worship the king who is worthy.
+I will love and adore him and I will bow down before him.}
+\ladies{You are Lord of Lords, you are king of kings,
+you are mighty God, Lord of everything.
+You're emmanuel, you're the great "I am",
+you're my prince of peace, who is the lamb.
+You're my living God, you're my saving grace,
+you will reign forever, you are ancient of days.
+You are alpha, omega, beginning and end.
+You're my savior, messiah, redeemer and friend.}
+You're my prince of peace and I will live my life for you.
+
+\aut{Marc Imboden \& Tammi Rhoton, 1994}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{64}{Du tust}
+
+1. Meine Seele sucht Heimat, mein Herz sucht Glück,
+doch wo immer ich hingeh, geht's mal vor und mal zurück.
+Ich sehn mich nach Frieden, was ich auch tu,
+am Ziel meiner Suche stehst du.
+\zh
+Mein Freudeschenker, mein Heimatgeber,
+mein Glücklichmacher und mein Schuldvergeber,
+mein Friedensbringer und mein Worteinhalter,
+mein Liebesspender bist du.
+\refr{Du tust im Innern meiner Seele gut, 
+und du tust, was Balsam auf den Wunden tut, 
+und du suchst mich, wenn ich mich in mir verlier, in mir verlier.}
+\z
+2. Meine Sehnsucht nach Liebe ist täglich da, 
+doch ich kann nirgends finden, was ich bei dir sah. 
+Meine Schuld braucht Vergebung.
+Was ich auch tu, am Ende des Weges stehst du.
+\vspace{-0.5em}
+\aut{Tobias Wörner, 2008}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{65}{Still (berge mich in deinem Arm)}
+
+1. Hide me now under your wings. Cover me within your mighty hand
+\zh
+\refr{When the oceans rise and thunders roar,
+I will soar with you above the storm,
+Father you are king over the flood.
+I will be still, know you are God.}
+\zh
+2. Find rest my soul, in Christ alone. Know his power in quietness and trust.
+\z
+\deutsch{1. Berge mich in deinem Arm.  Schütze mich mit deiner starken Hand.
+\zh
+\refr{Wenn die Meere toben, Stürme wehn,
+werd ich mit dir übers Wasser gehn.
+Du bist König über Wind und Flut,
+mein Herz wird still, denn du bist gut.}
+\zh
+2. Komm, ruh dich aus bei deinem Gott. Trau auf ihn und seine große Kraft.
+}
+
+\aut{Reuben Morgan / Hillsong, 2002. d: Winnie Schweitzer}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{66}{Oceans (where feet may fail)}
+
+1. You call me out upon the waters,
+the great unknown, where feet may fail.
+And there I find you in the mystery.
+In oceans deep, my faith will stand.
+\zh
+\refr{And I will call upon your name, 
+and keep my eyes above the waves.
+When oceans rise, my soul will rest in your embrace, 
+for I am yours and you are mine.}
+\z
+\deutsch{1. Du rufst mich raus aufs weite Wasser, wo Füße nicht mehr sicher stehn.
+Dort finde ich dich im Verborgnen. Mein Glaube trägt im tiefen Meer.
+\zh
+\refr{Und deinen Namen ruf ich an. Ich schau so weit ich sehen kann.
+Und kommt die Flut, hältst du mich fest in deinem Arm.
+Denn ich bin dein und du bist mein.}
+}
+
+\end{frame1}
+\begin{frame1}
+
+2. Your grace abounds in deepest waters,
+your sovereign hand will be my guide. 
+Where feet may fail and fear surrounds me,
+you've never failed and you won't start now.
+\zh
+\refr{And I will call upon your name, 
+and keep my eyes above the waves.
+When oceans rise, my soul will rest in your embrace, 
+for I am yours and you are mine.}
+\z
+\deutsch{2. Die Gnade strömt wie tiefes Wasser,
+und deine Hand zeigt mir den Weg.
+Wenn Angst mich lähmt und ich versage,
+lässt du nie los und gibst niemals auf.
+\zh
+\refr{Und deinen Namen ruf ich an. Ich schau so weit ich sehen kann.
+Und kommt die Flut, hältst du mich fest in deinem Arm.
+Denn ich bin dein und du bist mein.}
+}
+
+\end{frame1}
+\begin{frame1}
+
+Spirit lead me where my trust is without borders, 
+let me walk upon the waters, wherever you would call me.
+Take me deeper than my feet could ever wander,
+and my faith will be made stronger in the presence of my savior.
+\zh
+\refr{And I will call upon your name, 
+and keep my eyes above the waves.
+When oceans rise, my soul will rest in your embrace, 
+for I am yours and you are mine.}
+\z
+\deutsch{Führ mich dorthin, wo ich unbegrenzt vertraue.
+Lass mich auf dem Wasser laufen, wo immer du mich hin führst.
+Führ mich tiefer, als ich selber jemals gehn kann.
+Dass ich fest im Glauben stehe, in der Gegenwart des Retters.
+\zh
+\refr{Und deinen Namen ruf ich an. Ich schau so weit ich sehen kann.
+Und kommt die Flut, hältst du mich fest in deinem Arm.
+Denn ich bin dein und du bist mein.}}
+\vspace{-0.5em}
+\aut{Hillsong, 2012}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{67}{Sinking deep}
+
+1. Standing here in your presence, in a grace so relentless.
+I am won by perfect love.
+Wrapped within the arms of heaven, in a peace that lasts forever,
+sinking deep in mercy's sea.
+\zh
+\refr{I'm wide awake, drawing close,
+stirred by grace. All my heart is yours.
+All fear removed, I breathe you in.
+I lean into your love, Oh, your love.}
+\z
+\deutschu{1. Deine Gegenwart umgibt mich mit unermesslicher Gnade.
+Ich wurde überzeugt durch vollkommene Liebe.
+Behütet in himmlischen Armen, im ewigdauernden Frieden,
+sinke ich ins Meer der Barmherzigkeit.
+\zh
+\refr{Ich bin hellwach, komme näher, berührt durch die Gnade Gottes.
+Mein Herz gehört dir vollständig.
+Alle Furcht ist mir genommen, ich atme dich ein.
+Ich berge mich in deiner Liebe.}
+}
+
+\end{frame1}
+\begin{frame1}
+
+2. When I'm lost, you pursue me, lift my head to see your glory.
+Lord of all, so beautiful.
+Here in you I find shelter, captivated by the splendour of your face, 
+my secret place.
+\zh
+\refr{I'm wide awake, drawing close,
+stirred by grace. All my heart is yours.
+All fear removed, I breathe you in.
+I lean into your love, oh, your love.}
+\z
+\deutschu{2. Wenn ich mich verirrt habe, weist du mir den Weg,
+hebst meinen Kopf an, dass ich deine Herrlichkeit sehe.
+Herr über alles, so schön, in dir finde ich meinen Schutz.
+Gefesselt von der Pracht deines Antlitzes; Mein geheimer Ort.
+\zh
+\refr{Ich bin hellwach, komme näher, berührt durch die Gnade Gottes.
+Mein Herz gehört dir vollständig.
+Alle Furcht ist mir genommen, ich atme dich ein.
+Ich berge mich in deiner Liebe.}
+}
+
+\end{frame1}
+\begin{frame1}
+
+Your love so deep is washing over me.
+Your face is all I seek, you are my everything.
+Jesus Christ, you are my one desire.
+Lord hear my only cry, to know you all my life.
+\zh
+\refr{I'm wide awake, drawing close,
+stirred by grace. All my heart is yours.
+All fear removed, I breathe you in.
+I lean into your love, oh, your love.}
+\z
+\deutschu{Deine tiefe Liebe umspült mich.
+Dein Antlitz ist alles, was ich suche.
+Du bist mein ein und alles
+Jesus Christus, du bist mein einziges Verlangen
+Herr, erhöre meinen einzigen Ausruf:
+Dich mein ganzes Leben zu kennen.
+\zh
+\refr{Ich bin hellwach, komme näher, berührt durch die Gnade Gottes.
+Mein Herz gehört dir vollständig.
+Alle Furcht ist mir genommen, ich atme dich ein.
+Ich berge mich in deiner Liebe.}}
+\vspace{-1.5em}
+\aut{Hillsong, 2013}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{68}{Lead me to the cross / Führ mich an dein Kreuz}
+
+1. Savior I come, quiet my soul, remember redemption's hill, 
+where your blood was spilled, for my ransom.
+Everything I once held dear, I count it all as loss.
+\zh
+\refr{Lead me to the cross, where your love poured out.
+Bring me to my knees, Lord I lay me down.
+Rid me of myself, I belong to You.
+Oh lead me, lead me to the cross.}
+\z
+\deutsch{1. An deinem Kreuz wird mein Herz still, denn du Herr,
+sahst meine Schuld, nahmst sie auf dich, durch dein Blut.
+Alles, was mir wertvoll war, bedeutet mir nichts mehr.
+\zh
+\refr{Führ mich an dein Kreuz, wo die Liebe floss.
+Lass mich vor dir knien, nimm mein Leben hin.
+Mache mich ganz neu, ich gehöre dir.
+Und führ mich, führ mich an dein Kreuz.}
+}
+
+\end{frame1}
+\begin{frame1}
+
+2. You were as I, tempted and tried, human.
+The word became flesh, bore my sin in death. Now you're risen.
+Everything I once held dear, I count it all as loss.
+\zh
+\refr{Lead me to the cross, where your love poured out.
+Bring me to my knees, Lord I lay me down.
+Rid me of myself, I belong to You.
+Oh lead me, lead me to the cross.}
+\zh
+To your heart, to your heart, lead me to your heart!
+\z
+\deutsch{2. Du warst mir gleich, als Mensch versucht, und doch Gott.
+Das Wort wurde Fleisch, trug meine Schuld und besiegte den Tod.
+Alles, was mir wertvoll war, bedeutet mir nichts mehr.
+\zh
+\refr{Führ mich an dein Kreuz, wo die Liebe floss.
+Lass mich vor dir knien, nimm mein Leben hin.
+Mache mich ganz neu, ich gehöre dir.
+Und führ mich, führ mich an dein Kreuz.}
+}
+
+\aut{Brooke Fraser / Hillsong, 2006. d: Mia \& Juri Friesen}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{69}{Befreit durch deine Gnade}
+
+1. Befreit durch deine Gnade, erschließt sich mir ein neuer Horizont.
+Wie gut du von mir denkst, war mir nicht klar.
+Lass mich durch deine Augen sehn,
+erkennen, welchen Mensch du in mir siehst.
+\z
+Und mach mir klar: Was du sagst ist wahr.
+\zh
+\refr{Deine Gnade reicht bis ans Ende der Welt.
+Von dir geliebt, macht mein Leben Sinn.
+Meine schönste Melodie erzählt nun für alle Zeit
+von deiner Liebe, die bleibt.}
+\z
+2. Ergriffen von der Wahrheit, fängt meine Seele langsam an zu sehn.
+Durchbohrte Hände öffnen mir das Herz.
+Lass mich jetzt glauben und verstehn,
+dass du mich wirklich liebst so wie ich bin.%
+
+\end{frame1}
+\begin{frame1}
+
+3. Begeistert von der Liebe, erkenn ich deinen Auftrag heut für mich:
+die Welt soll von dir hören, jetzt und hier.
+Lass mich ein Werkzeug für dich sein
+und füll mich neu mit deinem heilgen Geist.
+\z
+Dann wird mir klar: Was du sagst ist wahr.
+\z
+\refr{Deine Gnade reicht bis ans Ende der Welt.
+Von dir geliebt, macht mein Leben Sinn.
+Meine schönste Melodie erzählt nun für alle Zeit
+von deiner Liebe, die bleibt.}
+
+\aut{Juliane \& Claus-Peter Eberwein / Gracetown, 2009}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{70}{Schöpfer aller Himmel / Maker of the heavens}
+
+1. Maker of the heavens, painter of the sky,
+your greatest work reserved, for such as I.
+The angels long to sing about the gift you gave to me,
+the love of God so unrestrained and free.
+\zh
+\refr{You, oh Lord, are the fragrance of my praise.
+The finest words could never bare my heart.
+You, oh Lord, are the essence of praise.
+I treasure you for who you are.}
+\zh
+\deutsch{1. Schöpfer aller Himmel, der die Welt gemacht,
+dein grösstes Werk hast du in mir vollbracht.
+Engel wollen singen von dem, was du mir gabst:
+Liebe, die niemals ein Ende hat.
+\zh
+\refr{In dir, O Herr, erfüllt sich mein Gebet, 
+die Worte, die mein Herz nur sagen kann.
+Dir, O Herr, gehört mein schönstes Lied.
+Voll Ehrfurcht steh ich hier und bet dich an.}}
+
+\end{frame1}
+\begin{frame1}
+
+2. Maker of the heavens, painter of the sky,
+the day will come, when I will see your face.
+I've loved you since I've known you, and I have grown to love you more.
+Each day my heart sails further from the shore.
+\zh
+\refr{You, oh Lord, are the fragrance of my praise.
+The finest words could never bare my heart.
+You, oh Lord, are the essence of praise.
+I treasure you for who you are.}
+\zh
+\deutsch{2. Schöpfer aller Himmel, der die Welt gemacht,
+dein Angesicht erhellt die tiefste Nacht.
+Seitdem ich dich gefunden, liebe ich dich Herr.
+Nach dir allein verlangt mein Herz so sehr.
+\zh
+\refr{In dir, O Herr, erfüllt sich mein Gebet, 
+die Worte, die mein Herz nur sagen kann.
+Dir, O Herr, gehört mein schönstes Lied.
+Voll Ehrfurcht steh ich hier und bet dich an.}}%
+\vspace{-0.5em}
+\aut{Jennifer Randolph, 1986. d: Mirjana Angelina}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{71}{From the inside out}
+
+1. A thousand times I've failed, still your mercy remains.
+And should I stumble again, still I'm caught in your grace.
+Everlasting, your light will shine when all else fades.
+Never ending, your glory goes beyond all fame.
+\zh
+2. Your will above all else, my purpose remains.
+The art of losing myself in bringing you praise.
+Everlasting, your light will shine when all else fades.
+Never ending, your glory goes beyond all fame.
+\z
+\deutschu{1. Tausendfach habe ich versagt, doch deine Gnade bleibt.
+Und wenn ich stolpere, fängt dein Erbarmen mich auf.
+\zh
+Ewiger, dein Licht scheint wenn alles verblasst.
+Immerwährender, deine Pracht ist größer als jeder Ruhm.
+\zh
+2. Dein Wille stehe über allem anderen, das ist mein Ziel,
+mich darin verlieren, dich zu anbeten.
+}
+
+\end{frame1}
+\begin{frame1}
+
+In my heart and my soul, Lord, I give you control.
+Consume me from the inside out, Lord.
+Let justice and praise become my embrace,
+to love you from the inside out.
+\zh
+\refr{Everlasting, your light will shine when all else fades.
+Never ending, your glory goes beyond all fame.
+And the cry of my heart is to bring you praise.
+From the inside out, Lord my soul cries out.}
+\z
+\deutschu{Ich gebe dir die Kontrolle über mein Herz und meine Seele, erfülle mich von Innen heraus.
+Ich will Gerechtigkeit und Lob umarmen, dich von Innen heraus lieben.
+\zh
+Ewiger, dein Licht scheint wenn alles verblasst.
+Immerwährender, deine Pracht ist größer als jeder Ruhm.
+Meine Seele sehnt sich danach, dich zu anbeten, von Innen heraus.}
+
+\aut{Joel Houston / Hillsong, 2005}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{72}{This is our God}
+
+1. Your grace is enough, more than I need. At your word I will believe. 
+I wait for you, draw near again. Let your spirit make me new.
+\zh
+And I will fall at your feet, I will fall at your feet
+and I will worship you here.
+\zh
+2. Your presence in me, Jesus light the way, by the power of your word. 
+I am restored, I am redeemed. By your spirit I am free. 
+\z
+\refr{Freely you gave it all for us, surrendered your life upon that cross. 
+Great is the love poured out for all, this is our God. 
+Lifted on high, from death to life. Forever our God is glorified. 
+Servant and king, rescued the world, this is our God.}
+
+\aut{Hillsong, 2008}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{73}{Alabaster}
+
+1. I am broken at your feet like an alabaster jar. 
+Every piece of who I am, laid before your majesty.
+\z
+\refr{I will bow my life at your feet, at your feet. 
+My lips, so lost for words, will kiss your feet, kiss your feet.}
+\z
+2. Oh the gravity of you draws my soul unto its knees. 
+I will never be the same, I am lost and found in you. 
+
+\aut{Walker Beach \& Zach Neese, 2005}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{74}{Ich lieb dich Herr}
+
+Ich lieb dich, Herr, keiner ist wie du, 
+anbetend neigt sich mein Herz dir zu. 
+Mein König Gott, nimm dies Lied von mir! 
+Lass mich, Herr, ein Wohlklang sein vor dir! 
+\z
+In jedem Augenblick meines Lebens 
+will ich dir gehören und dich verehren. 
+Mit jedem Atemzug meines Lebens 
+will ich ein Wohlklang für dich sein.	
+\z
+Ein lieblicher Wohlklang. (4x)
+
+\aut{Gitta Leuschner \& Laurie Klein, 1978}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{75}{The more I seek you}
+
+The more I seek you, the more I find you. 
+The more I find you, the more I love you.
+\z
+I want to sit at your feet, drink from the cup in your hand. 
+Lay back against you and breathe, feel your heartbeat.
+This love is so deep, it's more than I can stand. 
+I melt in your peace, it's overwhelming.
+
+\aut{Zach Neese, Kari Jobe, 1999}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{76}{Good good father}
+
+1. Oh, I've heard a thousand stories of what they think you're like. 
+But I've heard the tender whisper of love in the dead of night. 
+And you tell me that you're pleased and that I'm never alone.
+\zh
+\refr{You're a good, good father, it's who you are, 
+it's who you are, it's who you are. 
+And I'm loved by you, it's who I am, it's who I am, it's who I am.}
+\zh
+2. Oh, and I've seen many searching for answers far and wide. 
+But I know we're all searching for answers only you provide 
+'cause you know just what we need before we say a word.
+\zh
+You are perfect in all of your ways, you are perfect in all of your ways, 
+you are perfect in all of your ways to us.
+\zh
+3. Oh, this love so undeniable. I, I can hardly speak. 
+Peace so unexplainable. I, I can hardly think as you call me deeper still, 
+as you call me deeper still, as you call me deeper still into love, love, love.
+
+\aut{Anthony Brown \& Pat Barrett, 2014}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{77}{My lighthouse}
+
+1. In my wrestling and in my doubts, in my failures, you won't walk out. 
+Your great love will lead me through.
+You are the peace in my troubled sea. (2x)
+\zh
+2. In the silence you won't let go, in the questions your truth will hold. 
+Your great love will lead me through. 
+You are the peace in my troubled sea. (2x)
+\z
+\refr{My lighthouse, my lighthouse, shining in the darkness, 
+I will follow you. My lighthouse, my lighthouse, 
+I will trust the promise, you will carry me safe to shore, 
+safe to shore, safe to shore, safe to shore.}
+\z
+3. I won't fear what tomorrow brings, with each morning I'll rise and sing. 
+My God's love will lead me through.
+You are the peace in my troubled sea. (2x)
+\z
+Fire before us, you're the brightest, you will lead us through the storms.
+
+\aut{Rend Collective, 2013}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{78}{Indescribable}
+
+1. From the highest of heights to the depths of the sea, 
+creation's revealing your majesty.
+From the colors of fall to the fragrance of spring, 
+every creature unique in the song that it sings, all exclaiming:
+\z
+\refr{Indescribable, uncontainable, you placed the stars in the sky 
+and you know them by name. You are amazing, God.
+All powerful, untamable. Awestruck we fall to our knees 
+as we humbly proclaim: You are amazing, God.}
+
+\end{frame1}
+\begin{frame1}
+
+2. Who has told every lightning bolt where it should go, 
+or seen heavenly storehouses laden with snow?
+Who imagined the sun and gives source to its light, 
+yet conceals it to bring us the coolness of night? None can fathom.
+\z
+\refr{Indescribable, uncontainable, you placed the stars in the sky 
+and you know them by name. You are amazing, God.
+Incomparable, unchangeable, you see the depths of my heart 
+and you love me the same. You are amazing, God.}
+
+\aut{Jesse Reeves \& Laura Story / Chris Tomlin, 2004}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{79}{Build your kingdom here}
+
+1. Come, set your rule and reign in our hearts again. 
+Increase in us, we pray; unveil why we're made.
+Come, set our hearts ablaze with hope like wildfire in our very souls. 
+Holy spirit come invade us now.
+We are your church, we need your power in us.
+\z
+2. We seek your kingdom first, we hunger and we thirst. 
+Refuse to waste our lives, for you're our joy and prize.
+To see the captive hearts released, the hurt, the sick, the poor at peace, 
+we lay down our lives for heaven's cause.
+We are your church, we pray: revive this earth.
+
+\end{frame1}
+\begin{frame1}
+
+\refr{Build your kingdom here, let the darkness fear. 
+Show your mighty hand, heal our streets and land.
+Set your church on fire, win this nation back. 
+Change the atmosphere, build your kingdom here, we pray.}
+\z
+3. Unleash your kingdoms power reaching the near and far. 
+No force of hell can stop your beauty changing hearts.
+You made us for much more than this, awake the kingdom seed in us. 
+Fill us with the strength and love of Christ.
+We are your church, we are the hope on earth.
+
+\aut{Rend Collective, 2011}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{80}{Holy spirit}
+
+There's nothing worth more, that could ever come close. 
+Nothing can compare, you're our living hope.
+Your presence, Lord.
+I've tasted and seen of the sweetest of loves, 
+when my heart becomes free and my shame is undone.
+Your presence, Lord.
+\z
+\refr{Holy spirit you are welcome here. 
+Come flood this place and fill the atmosphere. 
+Your glory, God, is what our hearts long for, 
+to be overcome by your presence, Lord.}
+\z
+Let us become more aware of your presence. 
+Let us experience the glory of your goodness.
+
+\aut{Bryan \& Katie Torwalt / Jesus Culture, 2011}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{81}{Here's my heart, Lord}
+
+Here's my heart, Lord. Here's my heart, Lord. Here's my heart, Lord.
+Speak what is true. Speak what is true.
+\z
+Cause I am found, I am yours, I am loved, I'm made pure, 
+I have life, I can breathe, I am healed, I am free.
+Cause you are strong, you are sure, you are life, you endure, 
+You are good, always true, you are light breaking through.
+\z
+Here's my life, Lord. Here's my life, Lord. Here's my life, Lord.
+Speak what is true. Speak what is true.
+\z
+You are more than enough, you are here, you are love, you are hope, 
+you are grace, you're all I have, you're everything.
+
+\aut{Chris Tomlin \& Jason Ingram \& Louie Giglio, 2013}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{82}{Calvary}
+
+1. The savior alone carried the cross 
+for all of my debts, he paid the cost. 
+Salvation complete, now forever I'm free. 
+Calvary covers it all. 
+\zh
+\refr{Calvary covers it all. 
+My sin and shame don't count anymore.
+All praise to the one who has ransomed my soul. 
+Calvary covers it all.}
+\zh
+2. No power on earth, not even the grave, 
+could separate us from mercy and grace. 
+He is faithful to save, oh his blood never fails. 
+Calvary covers it all.
+\zh
+No one but Jesus can make us pure as snow. 
+We stand in your freedom. Calvary covers it all.
+
+\aut{Jonas Myrin \& Reuben Morgan / Hillsong, 2014}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{83}{No longer slaves}
+
+1. You unravel me with a melody. 
+You surround me with a song of deliverance from my enemies,
+'til all my fears are gone.
+\zh
+I'm no longer a slave to fear, I am a child of God.
+\zh
+2. From my mother's womb you have chosen me. Love has called my name. 
+I've been born again into your family. Your blood flows through my veins.
+\zh
+I am surrounded by the arms of the father. 
+I am surrounded by songs of deliverance.
+We've been liberated from our bondage. 
+We're the sons and the daughters. 
+Let us sing our freedom. Ohohoh.
+\zh
+You split the sea so I could walk right through it. 
+You drowned my fears in perfect love.
+You rescued me so I could stand and sing: I am a child of God.
+
+\aut{Brian Johnson \& Joel Case Jonathan \& David Helser / Bethel Music, 2014}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{84}{O come to the altar}
+
+1. Are you hurting and broken within, 
+overwhelmed by the weight of the sin? 
+Jesus is calling.
+Have you come to the end of yourself, 
+do you thirst for a drink from the well? 
+Jesus is calling.
+\z
+O come to the altar, the father's arms are open wide,
+forgiveness was bought with the precious blood of Jesus Christ.
+
+\end{frame1}
+\begin{frame1}
+
+2. Leave behind your regrets and mistakes. 
+Come today, there's no reason to wait. 
+Jesus is calling.
+Bring your sorrows and trade them for joy. 
+From the ashes a new life is born. 
+Jesus is calling.
+\z
+\refr{Oh what a savior, isn't he wonderful? 
+Sing hallelujah, Christ is risen. 
+Bow down before him, for he is Lord of all.
+Sing hallelujah, Christ is risen.}
+\z
+Bear your cross as you wait for the crown, 
+tell the world of the treasure you found.
+
+\aut{Chris Brown et al. / Elevation Worship, 2015}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{85}{Tief in mir}
+
+Tief in mir hab ich Sehnsucht nach dir,
+Sehnsucht, die mich zu dir drängt.
+Tief in mir eine Flamme ganz sacht
+und ich wünsch mir, dass sie wie ein Feuer brennt.
+\z
+Fach die Liebe zu dir neu in mir an,
+dass dein Heilger Geist neu in mir wirken kann.
+Lass mein Herz mit deinem schlagen,
+denn mit dir kann ich es wagen.
+Und still du die Sehnsucht tief in mir. 
+
+\aut{Lukas Di Nunzio, 1998}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{86}{Gott und König}
+
+Du bist gnädig, du bist treu. Du bist voller Freundlichkeit.
+Deine Liebe fließt aus den Strömen deiner Güte zu uns.
+Du bist heilig und gerecht, voller Sanftmut und Geduld.
+Tiefer Friede liegt in dem Schatten deiner Flügel für uns.
+\z
+Wir singen:
+\refr{Majestät, du thronst in Herrlichkeit. Deine Güte währet ewig.
+Wir verehren dich, denn niemand kommt dir gleich. 
+Du bist unser Gott und König.}
+\z
+Wir erheben deinen Namen, Herr. Dir sei Ehre, Ruhm und Macht! (4x) 
+
+\aut{Mia Friesen \& Stefan Schöpfle / Outbreakband, 2012}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{87}{Your Name / Dein Name}
+
+1. As morning dawns and evening fades, you inspire songs of praise,
+that rise from earth to touch your heart and glorify your name.
+\zh
+\refr{Your name is a strong and mighty tower. 
+Your name is a shelter like no other.
+Your name - let the nations sing it louder. 
+'Cause nothing has the power to save, but your name.}
+\z
+\deutsch{1. Bei Morgentau und Abendrot, sing ich Lieder dir zum Lob.
+Lass meinen Klang dein Herz berührn und deinen Namen ehrn.
+\zh
+\refr{Dein Name ist ein felsenfester Turm.
+Dein Name gibt uns Halt in jedem Sturm.
+Dein Name - alle Völker sollen singen,
+denn niemand kann erretten als du, Herr nur du!}}
+
+\end{frame1}
+\begin{frame1}
+
+2. Jesus, in your name we pray, come and fill our hearts today.
+Lord, give us strength to live for you and glorify your name.
+\zh
+\refr{Your name is a strong and mighty tower. 
+Your name is a shelter like no other.
+Your name - let the nations sing it louder. 
+'Cause nothing has the power to save, but your name.}
+\z
+\deutsch{2. Jesus Christus, du bist hier. In deinem Namen beten wir:
+Lass uns für dich nur leben, Herr, und deinen Namen ehrn.
+\zh
+\refr{Dein Name ist ein felsenfester Turm.
+Dein Name gibt uns Halt in jedem Sturm.
+Dein Name - alle Völker sollen singen,
+denn niemand kann erretten als du, Herr nur du!}}
+
+\aut{Paul Baloche \& Glenn Packiam, 2006}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{88}{Vater, unser Vater}
+
+1. Bist zu uns wie ein Vater, der sein Kind nie vergisst,
+der trotz all seiner Größe immer ansprechbar ist.
+\z
+\refr{Vater, unser Vater, alle Ehre deinem Namen.
+Vater, unser Vater, bis ans Ende der Zeiten. Amen.}
+\z
+2. Deine Herrschaft soll kommen, das, was du willst, geschehn,
+auf der Erde, im Himmel sollen alle es sehn.
+\zh
+3. Gib uns das, was wir brauchen, gib uns heut unser Brot,
+und vergib uns den Aufstand gegen dich und dein Gebot.
+\z
+\refr{Vater, unser Vater, alle Ehre deinem Namen.
+Vater, unser Vater, bis ans Ende der Zeiten. Amen.}
+
+\end{frame1}
+\begin{frame1}
+
+4. Lehre uns zu vergeben, so wie du uns vergibst.
+Laß uns treu zu dir stehen, so wie du immer liebst.
+\zh
+5. Nimm Gedanken des Zweifels und der Anfechtung fort,
+mach uns frei von dem Bösen durch dein mächtiges Wort.
+\z
+\refr{Vater, unser Vater, alle Ehre deinem Namen.
+Vater, unser Vater, bis ans Ende der Zeiten. Amen.}
+\z
+6. Deine Macht hat kein Ende, wir vertrauen darauf.
+Bist ein herrlicher Herrscher, und dein Reich hört nie auf.
+\z
+\refr{Vater, unser Vater, alle Ehre deinem Namen.
+Vater, unser Vater, bis ans Ende der Zeiten. Amen.}
+
+\aut{Christoph Zehender, 1994}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{89}{The stand / Ich steh vor dir}
+
+1. You stood before creation,  eternity in your hand.
+You spoke the earth into motion,  my soul now to stand.
+\zh
+2. You stood before my failure,  and carried the cross for my shame.
+My sin weighed upon your shoulders,  my soul now to stand.
+\zh
+So what can I say,  and what could I do,
+but offer this heart, o God,  completely  to you.
+\z
+\deutsch{1. Du bist der Ursprung des Lebens,  du warst von Anfang an da,
+du hast die Erde geschaffen, durch dich bin ich hier.
+\zh
+2. Du kennst sie, all meine Fehler, du starbst am Kreuz für meine Schuld,
+du trugst die Last meiner Sünden, darum bin ich frei.
+\zh
+Darum kann ich nun nichts besseres tun: ich geb dir mein Herz, 
+oh Herr, nimm du mich ganz hin.}
+
+\end{frame1}
+\begin{frame1}
+
+3. So I'll walk upon salvation, your spirit alive in me.
+This life to declare your promise, my soul now to stand.
+\zh
+So what can I say, and what could I do,
+but offer this heart, o God, completely to you.
+\zh
+\refr{So I'll stand,  with arms high and heart abandoned, 
+in awe of the one who gave it all.
+I'll stand, my soul, Lord, to you surrendered. All I am is yours.}
+\z
+\deutsch{3. So leb ich nun als Erlöster, und dein Geist, er lebt in mir.
+Mein Leben soll dich bezeugen, dafür bin ich hier.
+\zh
+Darum kann ich nun nichts besseres tun: ich geb dir mein Herz, 
+oh Herr, nimm du mich ganz hin.
+\zh
+\refr{Ich steh vor dir mit erhobenen Händen, 
+weil du dein Leben für mich gabst.
+ich steh vor dir, hab mich hingegeben, ich gehöre dir.}}
+\vspace{-0.5em}
+\aut{Joel Houston / Hillsong, 2005. d: Sabrina Hoppe}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{90}{So lange ich lebe}
+
+1. Du hast mein Herz im Sturm erobert.
+Deine ausgestreckte Hand hat mich erreicht.
+Jesus, der Retter, der sein Leben gab,
+der aus unfassbarer Liebe für mich starb.
+\zh
+2. Mein Leben ist nicht mehr dasselbe.
+Nun lebst du in mir und machst mich neu.
+Dein Geist richtet mich aus auf dich allein.
+Du veränderst mich! Du veränderst mich!
+Du veränderst mich!
+\zh
+\refr{So lange ich lebe, will ich deinen Namen ehr'n!
+So lange ich atme, will ich von dir erzähl'n!
+So lange ich lebe, will ich dir dienen, will ich dir treu sein!
+So lange ich lebe!}
+\zh
+Für immer - dich lieben. Für immer - dich ehren.
+Für immer - dir dienen. Für immer!
+
+\aut{Rene Brede / Arbaitnehmer, 2006}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{91}{Auge im Sturm}
+
+1. Herr, ich suche deine Ruhe, 
+fern vom Getöse dieser Welt.
+Ich hör jetzt auf mit allem was ich tue, 
+und tu das eine, das im Leben zählt.
+Ich geh im Geist jetzt vor dir auf die Knie 
+und höre auf die Stimme meines Herrn!
+Führe du mein Innerstes zur Ruhe 
+und lass dein Feuer meine Hast verzehrn.
+\z
+\refr{Du bist ein starker Turm, du bist das Auge im Sturm!
+Du sprichst zum aufgewühlten Meer meiner Seele in mir, Herr: 
+"Friede mit dir, Friede mit dir".}
+
+\end{frame1}
+\begin{frame1}
+
+2. Herr, ich suche deinen Frieden,
+das was die Welt nicht geben kann,
+in Harmonie und tief versöhnt zu leben,
+denn das fängt erst in deiner Nähe an!
+Ich löse mich von allen Ambitionen
+und werd so still wie ein grad gestilltes Kind!
+Denn du hast mehr für mich als Illusionen,
+dein Rat für mich verweht nicht mit dem Wind!
+\z
+\refr{Du bist ein starker Turm, du bist das Auge im Sturm!
+Du sprichst zum aufgewühlten Meer meiner Seele in mir, Herr: 
+"Friede mit dir, Friede mit dir".}
+
+\aut{Martin Pepper, 1998-2000}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{92}{I will follow / Where you go}
+
+Where you go, I'll go. Where you stay, I'll stay.
+When you move, I'll move. I will follow.
+\zh
+1.All your ways are good. All your ways are sure. I will trust in you alone.
+Higher than my sight. High above my life. I will trust in you alone, 
+in you alone.
+\zh
+\refr{Where you go, I'll go. Where you stay, I'll stay.
+When you move, I'll move. I will follow you.
+Whom you love, I'll love. How you serve, I'll serve.
+If this life I lose, I will follow you. Yeah. I will follow you.}
+\z
+\deutschu{Wo du hingehst Herr, dahin folge ich dir. Wo du bleibst, bleibe ich.
+Wenn du gehst, gehe ich. Ich folge dir.
+\zh
+1. Deine Wege sind gut und sicher, ich vertraue dir.
+Höher als meine Sicht, hoch über mein Leben. Ich vertraue nur dir.
+\zh
+\refr{Wo du hingehst Herr, dahin folge ich dir. Wo du bleibst, bleibe ich.
+Wenn du gehst, gehe ich. Ich folge dir.
+Wen du liebst, liebe ich. Wie du dienst, will ich dienen.
+Wenn ich auch mein Leben dabei verliere, will ich dir folgen.}
+}
+
+\end{frame1}
+\begin{frame1}
+
+2. Light into the world. Light into my life. I will live for you alone.
+You're the one I seek, knowing I will find, all I need in you alone,
+in you alone.
+\zh
+\refr{Where you go, I'll go. Where you stay, I'll stay.
+When you move, I'll move. I will follow you.
+Whom you love, I'll love. How you serve, I'll serve.
+If this life I lose, I will follow you. Yeah. I will follow you.}
+\zh
+In you, there's life everlasting. In you, there's freedom for my soul.
+In you, there's joy, unending joy. And I will follow.
+\z
+\deutschu{2. Licht in diese Welt, Licht in mein Leben. Ich lebe für dich allein.
+Du bist der, den ich suche. Alles was ich brauche, fince ich in dir.
+\zh
+\refr{Wo du hingehst Herr, dahin folge ich dir. Wo du bleibst, bleibe ich.
+Wenn du gehst, gehe ich. Ich folge dir.
+Wen du liebst, liebe ich. Wie du dienst, will ich dienen.
+Wenn ich auch mein Leben dabei verliere, will ich dir folgen.}
+\zh
+Bei dir ist ewiges Leben, in dir ist Freiheit für meine Seele.
+Bei dir ist Freunde, unendliche Freude. Ich werde dir folgen.}
+
+\aut{Cris Tomlin / Hillsong, 2010}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{93}{Herrlicher Gott / Freude der Nationen}
+
+1. Du bist der einzig wahre Gott.
+Du schufst die Himmel und die Welt,
+mit Freude füllst du mich für immer.
+Herr, du bist alles, was ich will.
+Du bist mein Leben und mein Ziel.
+Mein Herz schlägt nur für dich, für immer.
+\zh
+Mein ganzes Sein gehört nur dir allein,
+Für alle Zeit steigt mein Lied auf zu dir.
+\z
+\refr{Du bist die Freude der Nationen,
+Retter und Erlöser, herrlicher Gott.
+Du bist Gott für alle Zeiten.
+Du thronst in unserm Lobpreis, herrlicher Gott!}
+
+\end{frame1}
+\begin{frame1}
+
+2. Jeden Tag suche ich nach dir,
+und deine Gegenwart ist mir
+der größte Schatz und Lohn, für immer.
+Mit Gnade und Barmherzigkeit
+stehst du zu mir und machst mich frei,
+denn ich vertraue dir für immer.
+\zh
+Mein ganzes Sein gehört nur dir allein,
+für alle Zeit steigt mein Lied auf zu dir.
+\z
+\refr{Du bist die Freude der Nationen,
+Retter und Erlöser, herrlicher Gott.
+Du bist Gott für alle Zeiten.
+Du thronst in unserm Lobpreis, herrlicher Gott!}
+
+\aut{Denis Campos / Outbreakband, 2010}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{94}{Im Einfachen sehn}
+
+1. Du hast Schönheit, zum Leben erweckt,
+lass mich dich im Einfachen sehn.
+Deine Liebe hast du in uns gesetzt,
+lass mich dich im Einfachen sehn.
+\zh
+\refr{Im Kleinen dich zu sehen, lässt mich niederknien,
+es überwältigt mich, zu spüren wer du bist.
+Im Kleinen dich zu sehen, lässt mich niederknien,
+voll Ehrfurcht seh' ich dich, erfassen kann ich's nicht.}
+\zh
+2. Ganz umgeben von Wundern bin ich,
+lass mich dich im Einfachen sehn.
+Im Erstaunen da finde ich dich,
+lass mich dich im Einfachen sehn.
+\z
+Und doch ist das, was ich erfassen kann,
+nur ein Funke deiner Fülle.  (4x)
+
+\aut{Gospel Forum Band, 2012}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{95}{This I believe / Das glaube ich}
+
+1. Ich glaube an den Vater, den Schöpfer aller Welt, Gott allmächtig.
+Durch Gottes Geist empfangen, kam Christus in die Welt:
+Jesus, mein Retter.
+\z
+\refr{Ja, ich glaub an Gott den Vater und an Christus, seinen Sohn;
+an den Heiligen Geist der Wahrheit, an den dreieinen Gott.
+Ich glaub an die Auferstehung, das Leben nach dem Tod.
+Ich glaube an deinen Namen, Jesus.}
+\z
+2. Mein Richter und mein Anwalt,
+gekreuzigt unter Leid, Vergebung ist in dir.
+Du stiegst ins Reich der Toten,
+standst auf in Herrlichkeit, und herrschst in Ewigkeit!
+\z\z
+Ja, ich glaub an dich, dass du auferstanden bist.
+Ja, ich glaub an Christus, unsern Herrn (2x)
+
+\end{frame1}
+\begin{frame1}
+
+3. Ja, ich glaub, dass wir ewig leben,
+dass die Jungfrau den Sohn gebar.
+Die Gemeinschaft der Kinder Gottes,
+die Kirche unsres Herrn.
+Ja, ich glaub an die Auferstehung,
+wenn Jesus wiederkommt.
+Ich glaube an deinen Namen, Jesus
+\z
+\refr{Ja, ich glaub an Gott den Vater und an Christus, seinen Sohn;
+an den Heiligen Geist der Wahrheit, an den dreieinen Gott.
+Ich glaub an die Auferstehung, das Leben nach dem Tod.
+Ich glaube an deinen Namen, Jesus.}
+
+\aut{Testi Canzoni / Hillsong, 2014}
+\end{frame1}
+
+%------------------------------------------------------------%
+\songA{96}{Wunderbarer Hirt}
+
+Du bist ein wunderbarer Hirt, der mich zu frischem Wasser führt.
+Du hast so reich gedeckt des Königs Tisch für mich.
+\zh
+Du bist mein Stecken und mein Stab. Und wandre ich im finstren Tal,
+fürcht ich kein Unheil mehr, denn du bist hier bei mir.
+\z
+\refr{Ich komm, ich komm an deinen Tisch.
+Ich komm, ich komm und ich bin gewiss:
+du bist mein wunderbarer Hirt.}
+\z
+Du hast mein Haupt gesalbt mit Öl, den Becher bis zum Rand gefüllt.
+An deiner Hand wird meine Seele still, sie wird still.
+
+\aut{Lothar Kosse, 2004}
+\end{frame1}
+
+%------------------------------------------------------------%
+
+\begin{frame2}
+\label{black2}
+\end{frame2}
+
+%------------------------------------------------------------%
+\songB{97}{Vor dir / In deinem Licht will ich leben}
+
+1. Vor dir kommt mein Herz zur Ruhe.
+Vor dir atmet meine Seele auf.
+Vor dir fallen meine Masken ab. Vor dir.
+\z
+2. Vor dir werden meine Sorgen klein.
+Vor dir werden meine Wunden heil.
+Vor dir mach ich meine Fäuste auf. Vor dir.
+\z
+\refr{In deinem Licht will ich leben, und deinen Willen tun,
+deinen Wegen folgen, dir mein Leben anvertraun.}
+\z
+3. Vor dir darf ich deine Wahrheit sehn.
+Vor dir müssen alle Schatten fliehn.
+Vor dir stehe ich in deinem Sieg. Vor dir.
+
+\aut{Johanna \& Melanie Schmidt, 2011}
+\end{frame2}
+
+%------------------------------------------------------------%
+\songB{98}{Lege deine Sorgen nieder}
+
+1. Lege deine Sorgen nieder, leg sie ab in meiner Hand.
+Du brauchst mir nichts zu erklären, denn ich hab dich längst erkannt.
+\z
+\refr{Lege sie nieder, in meine Hand.
+Komm leg sie nieder, lass sie los in meiner Hand.
+Lege sie nieder, lass einfach los.
+Lass alles falln, nichts ist für deinen Gott zu groß.}
+\z
+2. Lege deine Ängste nieder, die Gedanken in der Nacht.
+Frieden gebe ich dir wieder, Frieden hab ich dir gebracht.
+\z
+3.Lege deine Sünde nieder, gib sie mir mit deiner Scham.
+Du brauchst sie nicht länger tragen, denn ich hab für sie bezahlt.
+\z
+4. Lege deine Zweifel nieder, dafür bin ich viel zu groß.
+Hoffnung gebe ich dir wieder. Lass die Zweifel einfach los.
+
+\aut{Sefora Nelson, 2009}
+\end{frame2}
+
+%------------------------------------------------------------%
+\songB{99}{In the quiet / There is no one else for me}
+
+1. In the quiet, in the stillness, I know that you are God.
+In the secret of your presence, I know there I am restored.
+When you call I won't refuse, each new day again I'll choose.
+\z
+\refr{There is no one else for me, none but Jesus.
+Crucified to set me free, now I live to bring him praise.}
+\z
+2. In the chaos, in confusion, I know you're sovereign still.
+In the moment of my weakness, you give me grace to do your will.
+When you call I won't delay, this, my song, through all my days.
+\z
+All my delight is in you, Lord, all of my hope, all of my strength.
+All my delight is in you, Lord, forevermore.
+
+\aut{Brooke Frase / Hillsong, 2005}
+\end{frame2}
+
+%------------------------------------------------------------%
+\songB{100}{Set a fire}
+
+Set a fire down in my soul, that I can't contain and I can't control.
+I want more of you God, I want more of you God!
+\z
+There's no place I'd rather be,
+there's no place I'd rather be,
+there's no place I'd rather be,
+than here in your love, here in your love.
+\z
+\deutschu{Entfache ein Feuer in meinem Herzen, 
+das ich nicht für mich behalten kann, nicht kontrollieren kann. 
+Ich will mehr von dir, Gott. 
+Es gibt keinen Ort, an dem ich lieber wäre als hier in deiner Liebe.
+}
+
+\aut{Jesus Culture, 2012}
+\end{frame2}
+
+%------------------------------------------------------------%
+\songB{101}{Fear not}
+
+Fear not, for I am with you. Fear not, for I am with you.
+Fear not, for I am with you, says the Lord.
+\zh
+I have redeemed you, I have called you by name. Child, you are mine.
+When you walk through the waters, I'll be there; and through the flame.
+You will not (no way!) be drowned. You will not (no way!) be burned,
+for I am with you.
+\z
+\deutschu{Fürchte dich nicht, denn ich bin bei dir, sagt der Herr.
+Ich habe dich erlöst. Ich habe dich beim Namen gerufen. Kind, du bist mein.
+Wenn du durchs Wasser gehst, bin ich da; und durch die Flammen.
+Du wirst nicht untergehn. Du wirst nicht verbrennen,
+denn ich bin bei dir.}
+
+\aut{Phil Pringle, 1984}
+\end{frame2}
+
+%------------------------------------------------------------%
+\songB{102}{You never let go}
+
+1. Even though I walk through the valley of the shadow of death,
+your perfect love is casting out fear.
+And even when I'm caught in the middle of the storms of this life,
+I wont turn back, I know you are near.
+\z
+\deutsch{1. Führt kein Weg vorbei an den Tälern, wo der Lebensmut sinkt,
+vertriebst du liebevoll meine Angst.
+Und steck ich mittendrin in den Stürmen, die das Leben mir bringt, 
+geb ich nicht auf, weil du niemals wankst.}
+
+\end{frame2}
+\begin{frame2}
+
+And I will fear no evil, for my God is with me.
+And if my God is with me, whom then shall I fear?
+\zh
+\refr{Oh no, you never let go. Through the calm and through the storm.
+Oh no, you never let go. In every high and every low.
+Oh no, you never let go. Lord, you never let go of me.}
+\z
+\deutsch{Vor wem soll ich mich fürchten, wenn mir Gott zur Seite steht?
+Wenn mir mein Gott zur Seite steht, wovor soll mir graun?
+\zh
+\refr{Nie, Herr, lässt du mich allein, bei dir kann ich sicher sein.
+Nie, Herr, lässt du mich allein, du stehst wie Felsgestein.
+Nie, Herr, lässt du mich allein. Herr, du lässt mich niemals allein.}
+}
+
+\end{frame2}
+\begin{frame2}
+
+2. And I can see a light that is coming for the heart that holds on,
+a glorious light beyond all compare.
+And there will be an end to these troubles. But until that day comes,
+we'll live to know you here on the earth.
+\z
+\deutsch{2. Es leuchtet schon ein Licht in der Ferne, wärmt das Herz, das dir traut.
+Wie tausend Sonnen strahlt dieses Licht, 
+vertreibt für alle Zeit Schmerz und Sorgen.
+Doch bis dieser Tag naht, folg ich dir nach, such dein Angesicht.}
+
+\end{frame2}
+\begin{frame2}
+
+And I will fear no evil, for my God is with me.
+And if my God is with me, whom then shall I fear?
+\zh
+\refr{Oh no, you never let go. Through the calm and through the storm.
+Oh no, you never let go. In every high and every low.
+Oh no, you never let go. Lord, you never let go of me.}
+\z
+\deutsch{Vor wem soll ich mich fürchten, wenn mir Gott zur Seite steht?
+Wenn mir mein Gott zur Seite steht, wovor soll mir graun?
+\zh
+\refr{Nie, Herr, lässt du mich allein, bei dir kann ich sicher sein.
+Nie, Herr, lässt du mich allein, du stehst wie Felsgestein.
+Nie, Herr, lässt du mich allein. Herr, du lässt mich niemals allein.}
+}
+
+\end{frame2}
+\begin{frame2}
+
+Yes, I can see a light that is coming for the heart that holds on,
+and there will be an end to these troubles, but until that day comes,
+still I will praise you, still I will praise you.
+\z
+\deutsch{Es leuchtet schon ein Licht in der Ferne, wärmt das Herz, das dir traut,
+vertreibt für alle Zeit Schmerz und Sorgen.
+Doch bis dieser Tag naht, will ich dich preisen, will ich dich preisen.}
+
+\aut{Matt Redman, 2005. d: Arne Kopfermann}
+\end{frame2}
+
+%------------------------------------------------------------%
+\songB{103}{None but Jesus / In the quiet}
+
+1. In the quiet, in the stillness, I know that you are God.
+In the secret of your presence, I know there I am restored.
+When you call, I won't refuse. Each new day again I'll choose.
+\zh
+\refr{There is no one else for me, none but Jesus.
+Crucified to set me free. Now I live to bring him praise.}
+\z
+\deutsch{1. In der Stille, in der Ruhe, weiß ich: du bist mein Gott.
+Ich weiß: deine heilge Nähe ist es, die mich wieder heilt.
+Deinen Ruf erwider ich, jeden Tag entscheid ich mich.
+\zh
+\refr{Niemand ist dir jemals gleich, keiner, Jesus.
+Dein Tod hat mich frei gemacht, darum leb ich nun für dich.}}
+
+\end{frame2}
+\begin{frame2}
+
+2. In the chaos, in confusion, I know you're sovereign still.
+In the moment of my weakness, you give me grace to do your will.
+When you call, I won't delay. This my song through all my days.
+\zh
+\refr{There is no one else for me, none but Jesus.
+Crucified to set me free. Now I live to bring him praise.}
+\zh
+All my delight is in you, Lord. All of my hope, all of my strength.
+All my delight is in you, Lord, forevermore.
+\z
+\deutsch{2. In Verwirrung und im Chaos weiß ich, dass du regierst.
+Wenn ich schwach bin, bist du gnädig und schenkst mir Kraft, 
+deinen Willen zu tun.
+Wenn du rufst, zöger ich nicht, jeden Tag entscheid ich mich.
+\zh
+\refr{Niemand ist dir jemals gleich, keiner, Jesus.
+Dein Tod hat mich frei gemacht, darum leb ich nun für dich.}
+\zh
+All meine Freude bist du, Herr, Hoffnung und Kraft bist du allein.
+All meine Freude bist du, Herr, in Ewigkeit.}
+
+\aut{Brooke Fraser / Hillsong, 2005. d: Martin Mroncz}
+\end{frame2}
+
+%------------------------------------------------------------%
+\songB{104}{Jesus, höchster Name}
+
+Jesus, höchster Name, 
+teurer Erlöser, siegreicher Herr.
+Immanuel, Gott ist mit uns, 
+herrlicher Heiland, lebendiges Wort.
+\z
+Er ist der Friedefürst und der allmächtge Gott,
+Ratgeber wunderbar, ewiger Vater,
+und die Herrschaft ruht auf seiner Schulter
+und seines Friedensreichs wird kein Ende sein.
+
+\aut{Naida Hearn, 1974 + Jim \& Anne Mills, 1976. d: Gitta Leuschner}
+\end{frame2}
+
+%------------------------------------------------------------%
+\songB{105}{Wir sind hier zusammen}
+\z
+Wir sind hier zusammen in Jesu Namen,
+um dich zu loben, o Herr!
+\z
+Ehre dem Vater, Ehre dem Sohn,
+Ehre dem Heil'gen Geist, der in uns wohnt.
+\z
+Halleluja, halleluja.
+
+\aut{Überliefert}
+\end{frame2}
+
+%------------------------------------------------------------%
+\songB{106}{I surrender}
+
+1. Here I am, down on my knees again, 
+surrendering all, surrendering all.
+Find me here, Lord as you draw me near, 
+desperate for you, desperate for you.
+\zh
+I surrender.
+\zh
+2. Drench my soul, as mercy and grace unfold, 
+I hunger and thirst, I hunger and thirst
+With arms stretched wide, I know you hear my cry, 
+speak to me now, speak to me now.
+\zh
+\refr{I surrender, I surrender, 
+I wanna know you more, I wanna know you more.}
+\zh
+3. Like a rushing wind, Jesus breathe within. 
+Lord have your way, Lord have your way in me.
+Like a mighty storm, stir within my soul. 
+Lord have your way, Lord have your way in me.
+\aut{Matt Crocker / Hillsong, 2011}
+\end{frame2}
+
+%------------------------------------------------------------%
+\songB{107}{Even when it hurts (Praise song)}
+
+1. Take this fainted heart. Take these tainted hands.
+Wash me in your love. Come like grace again.
+\zh
+Even when my strength is lost, I'll praise you.
+Even when I have no song, I'll praise you.
+Even when it's hard to find the words:
+Louder then I'll sing your praise.
+\zh
+I will only sing your praise (3x)
+\zh
+2. Take this mountain weight. Take these ocean tears.
+Hold me through the trial. Come like hope again.
+\zh
+Even when the fight seems lost, I'll praise you.
+Even when it hurts like hell, I'll praise you.
+Even when it makes no sense to sing:
+Louder then I'll sing your praise.
+\zh
+I will only sing your praise (3x)
+
+\end{frame2}
+\begin{frame2}
+
+And my heart burns only for you, you are all, you are all I want.
+And my soul waits only for you, and I will sing till the morning has come.
+\zh
+Lord my heart burns only for you, you are all, you are all I want.
+And my soul waits only for you, and I will sing till the miracle comes.
+\zh
+I will only sing your praise (3x)
+\zh
+3. Even when the morning comes, I'll praise you.
+Even when the fight is won, I'll praise you.
+Even when my time on earth is done:
+Louder then I'll sing your praise.
+\zh
+I will only sing your praise (3x)
+
+\aut{Joel Houston / Hillsong, 2015}
+\end{frame2}
+
+%------------------------------------------------------------%
+\songB{108}{Anchor}
+
+1. I have this hope as an anchor for my soul.
+Through every storm I will hold to you.
+With endless love all my fear is swept away.
+In everything I will trust in you.
+\zh
+\refr{There is hope in the promise of the cross.
+You gave everything to save the world you love.
+And this hope is an anchor for my soul.
+Our God will stand, unshakeable.}
+\zh
+2. Unchanging one, you who was and is to come.
+Your promise sure, you will not let go.
+\z
+Your name is higher, your name is greater.
+All my hope is in you.
+Your word unfailing, your promise unshaken.
+All my hope is in you.
+
+\aut{Hillsong, 2012}
+\end{frame2}
+
+%------------------------------------------------------------%
+\songB{109}{All I need is you (Pursue)}
+
+1. I close my eyes to see my king in majesty.
+Your grace compels my soul to love and drawing close.
+I lift my hands and sing, surrender everything.
+In you I know I'm found. My God, to you I'll bow.
+\zh
+\refr{Now until forever, Jesus, I surrender.
+Show me what I don't know, more of you.
+I'm desperate for your presence, longing to be with you.
+Lead me to a new place. More of you.}
+\zh
+2. Through the fire I'll persevere. I won't submit to any fear.
+Where I'll go you've been before. All my trust is in you, Lord.
+\zh
+Lead me to you. Forever, Lord, I will pursue, I will pursue.
+You've won my heart. Jesus, you're all that I want, all that I want.
+\zh
+Open my eyes, let me see more of your love, more of your love.
+Here I will wait, just for a glimpse of you, God.
+I'll wait for you, God.
+
+\aut{Hillsong, 2014}
+\end{frame2}
+
+%------------------------------------------------------------%
+\songB{110}{We have a saviour}
+
+1. A child has been given, the king of our freedom.
+Sing, for the light has come: this is christmas.
+\zh
+2. Come and adore him, and bring gifts before him.
+Joy to the world, worship the son: this is christmas.
+\zh
+\refr{This is Jesus, Emmanuel here with us.
+Tell all the world: we have a savior, we have a savior.
+We are no longer lost, cause he has come down for us.
+We have a savior, we have a savior.}
+\z
+\deutschu{1. Ein Kind ist gegeben, der König unserer Freiheit.
+Singt, denn das Licht ist gekommen: es ist Weihnachten.
+\zh
+2. Kommt und verehrt ihn und bringt ihm Geschenke.
+Freude der Welt, betet den Sohn an: es ist Weihnachten.
+\zh
+Das ist Jesus, Emmanuel hier bei uns.
+Sag der ganzen Welt: Wir haben einen Retter.
+Wir sind nicht mehr verloren, 
+weil er für uns herabgekommen ist.}
+
+\end{frame2}
+\begin{frame2}
+
+3. Sing with angels and lift up your voices.
+Join in the song of hope: this is christmas
+\zh
+\refr{This is Jesus, Emmanuel here with us.
+Tell all the world: we have a savior, we have a savior.
+We are no longer lost, cause he has come down for us.
+We have a savior, we have a savior.}
+\zh
+His love will reign forever. (3x)
+\z
+\deutschu{3. Singt mit Engeln und hebt eure Stimmen.
+Stimmt ein in das Lied der Hoffnung: es ist Weihnachten.
+\zh
+Seine Liebe wird für immer regieren.}
+
+\aut{Hillsong, 2012}
+\end{frame2}
+
+%------------------------------------------------------------%
+\songB{111}{Glorious Ruins}
+
+1. When the mountains fall and the tempest roars, you are with me.
+When creation folds, still my soul will soar on your mercy.
+\zh
+I'll walk through the fire with my head lifted high
+and my spirit revived in your story.
+And I'll look to the cross as my failure is lost
+in the light of your glorious grace.
+\zh
+\refr{Let the ruins come to life in the beauty of your name.
+Rising up from the ashes, God, forever you reign.
+And my soul will find refuge in the shadow of your wings.
+I will love you forever and forever I'll sing.}
+\zh
+2. When the world caves in, still my hope will cling to your promise.
+Where my courage ends, let my heart find strength in your presence.
+
+\aut{Joel Houston \& Matt Crocker / Hillsong, 2012}
+\end{frame2}
+
+%------------------------------------------------------------%
+\songB{112}{O come, all ye faithful}
+1. O come, all ye faithful, joyful and triumphant.
+O come ye, o come ye to Bethelehem. 
+Come and behold him, born the king of angels.
+\zh
+\refr{O come, let us adore him, o come, let us adore him.
+O come, let us adore him, Christ the Lord!}
+\zh
+2. Sing, choirs of angels, sing in exultation.
+Sing, all ye citizens of heaven above: 
+"Glory to God, all glory in the highest!"
+\zh
+\deutsch{1. Herbei, o ihr Gläubigen, fröhlich triumphierend
+o kommet, o kommet nach Bethlehem! 
+Sehet das Kindlein, uns zum Heil geboren!
+\zh
+\refr{O lasset uns anbeten, o lasset uns anbeten. 
+O lasset uns anbeten den König!}
+\zh
+2. Du König der Ehren, Herrscher der Heerscharen,
+verschmähst nicht, zu ruhn in Marien Schoß,
+du wahrer Gott von Ewigkeit geboren.
+}
+
+\end{frame2}
+\begin{frame2}
+
+3. Yea, Lord we greet thee, born that happy morning.
+Jesus, to thee be all glory given. 
+Word of the father, now in flesh appearing.
+\zh
+\refr{O come, let us adore him, o come, let us adore him.
+O come, let us adore him, Christ the Lord!}
+\zh 
+Adeste fideles, laeti triumphantes.
+Venite, venite in Bethlehem. Natum videte, regem angelorum
+\refr{Venite adoremus, venite adoremus. Venite adoremus, dominum.}
+\zh
+\deutsch{3. Kommt, singet dem Herren, singt ihm, Engelchöre!
+Frohlocket, frohlocket, ihr Seligen: 
+Ehre sei Gott im Himmel und auf Erden!
+\zh
+\refr{O lasset uns anbeten, o lasset uns anbeten. 
+O lasset uns anbeten den König!}
+\zh
+4. Ja, dir, der du heute Mensch für uns geboren,
+Herr Jesu, sei Ehre und Preis und Ruhm, 
+dir, fleischgewordnes Wort des ewgen Vaters!}
+
+\aut{John Francis Wade, 1751. Deutsch: F.H. Ranke, 1823}
+\end{frame2}
+
+%------------------------------------------------------------%
+\songB{113}{Go, tell it on the mountains}
+
+\refr{Go, tell it on the mountains, over the hills and everywhere.
+Go, tell it on the mountains, that Jesus Christ is born. }
+\z
+1. While shepherds kept their watching, o'er silent flocks by night, 
+behold throughout the heavens, there shone a holy light.
+\zh
+2. The shepherds feared and trembled, when low! above the earth,
+rang out the angel chorus, that hailed our saviour's birth.
+\zh
+3. Down in a lowly manger, our humble Christ was born;
+And God sent us salvation, that blessed christmas morn'.
+\zh
+4. When I was a seeker, I sought both night and day.
+I sought the Lord to help me, and he showed me the way. 
+\zh
+5. He made me a watchman, upon the city wall, 
+And if I am a christian, I am the least of all.
+
+\aut{unbekannt, 1865}
+\end{frame2}
+
+%------------------------------------------------------------%
+%------------------------------------------------------------%
+%------------------------------------------------------------%
+\begin{frame}
+\includegraphics[height=0.95\paperheight]{Kassen.png}
+\end{frame}
+%------------------------------------------------------------%
+\begin{frame1} % Schwarz mit Nummerbalken
+\end{frame1}
+%------------------------------------------------------------%
+\begin{frame} % rein schwarze Folie
+\end{frame}
+%------------------------------------------------------------%
+
+\end{document}
+
+%------------------------------------------------------------%
+%------------------------------------------------------------%
+
+
+
+
+
+%------------------------------------------------------------%
+\songB{999}{Titel}
+
+\aut{, 20}
+\end{frame2}
+
+
+%------------------------------------------------------------%
+%{\usebackgroundtemplate{\includegraphics[width=\paperwidth]{kanu_david.pdf}}
+%\begin{frame}
+%\begin{textblock*}{6 em}(.78\textwidth,.048\textheight)
+%\textcolor{black}{Auto +}
+%\end{textblock*}
+%\label{kanu}
+%\end{frame}
+%}
+
+%------------------------------------------------------------%
+%\begin{frame}
+%\label{info}
+%\includegraphics[page=4, height=0.9\paperheight]{Punkt12_Schaukasten_alle.pdf}
+%\end{frame}
+
+%------------------------------------------------------------%
+%\begin{frame}
+%\begin{flushleft}
+%~~~~~~~~~~~~26.6. 12 Uhr: Punkt12 
+%~~~~~~~~~~~~~~~~~~ 15 Uhr: EM hier im kleinen Saal
+%~~~~~~~~~~~~~~~~~~ 20:30 Uhr: BECCKS AbendGoDi Garnisonskapelle 
+%~~~~~~~~~~~~30.6. 19 Uhr: Bau-forum (Donnerstag)
+%~~~~~~~~~~~~03.1. 12 Uhr: Gemeindeversammlung Zukunft Jugendpastor 
+%\end{flushleft}
+%\end{frame}
+
+
+%  \href{https://goo.gl/maps/ezCLWhBnKsp}{Heiliger See}
