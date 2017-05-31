@@ -16,7 +16,7 @@ chords + slides + text sheets for worship
 [song book titles](https://github.com/brry/chords/raw/master/Worship/Liederbuecher_aktiveZeile.xlsm) 
 (Feiert Jesus, SONG, Jesu Name, Feiern & Loben, Ev. Gesangbuch)
 
-* Download the [complete repository](https://github.com/brry/chords/archive/master.zip) with everything mentioned above
+Download the [complete repository](https://github.com/brry/chords/archive/master.zip) with everything mentioned above
 
 
 ### OpenSong
