@@ -12,6 +12,10 @@ chords + slides + text sheets for worship
 * The `.doc/.docx/.tex` source files are listed in the [Worship folder](https://github.com/brry/chords/tree/master/Worship)
 * Christmas music files are listed in the 
 [Christmas folder](https://github.com/brry/chords/tree/master/Christmas) (also with chords + slides + text sheets)
+* Large Table of Contents of 
+[song book titles](https://github.com/brry/chords/raw/master/Worship/Liederbuecher_aktiveZeile.xlsm) 
+(Feiert Jesus, SONG, Jesu Name, Feiern & Loben, Ev. Gesangbuch)
+
 * Download the [complete repository](https://github.com/brry/chords/archive/master.zip) with everything mentioned above
 
 
