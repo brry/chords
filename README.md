@@ -28,7 +28,7 @@ For presentations, we use the cross-platform free and open-source software [Open
 ### Background
 
 Worship Lieder für die Freizeiten der Connection Jugend, Baptistengemeinde Potsdam, 2011 bis 2017.  
-Zusammengestellt von [Berry Boessenkool](berry-b@gmx.de), Copyright über [CCLI](http://de.ccli.com/liedlizenz).  
+Zusammengestellt von Berry Boessenkool(<berry-b@gmx.de>), Copyright über [CCLI](http://de.ccli.com/liedlizenz).  
 **Anmerkungen und Korrekturen sind sehr willkommen!**
 
 Akkorde sind einheitlich deutsch:  
