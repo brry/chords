@@ -1,7 +1,7 @@
 
-131 Files in S:/Dropbox/Faith/chords
+139 Files in S:/Dropbox/Faith/chords
 Combined together with berryFunctions::combineFiles
-2018-01-18 22:31:34
+2018-02-13 11:22:24
 
 -------------------------------------------------------
 -------------------------------------------------------
@@ -1063,6 +1063,91 @@ OpenSong/Songs/Calvary
 -------------------------------------------------------
 -------------------------------------------------------
 
+OpenSong/Songs/Cornerstone 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Cornerstone</title>
+  <lyrics>
+[V1]
+ 1. All other ground is sinking sand,
+ a dying maze of desert land,
+ where darkness rules the heart of man,
+ till the son shines light on him.
+ _
+ Lord of all, show you're strong. On our knees we fall.
+ _
+ _
+ All anderer Grund ist Treibsand,
+ ein sterbendes Labyrinth aus Wüstenland,
+ wo die Dunkelheit das Herz des Menschen regiert,
+ bis der Sohn ihn erleuchtet.
+ Herr, zeige, dass du stark bist.
+ Wir fallen auf unsere Knie.
+
+[C]
+ Be a cornerstone, be a cornerstone,
+ be the rock higher than I.
+ Be my fortress wall,
+ be a foundation for all,
+ my cornerstone.
+ _
+ _
+ Sei ein Eckstein, sei ein Eckstein,
+ sei der Fels, höher als ich.
+ Sei meine Festungsmauer,
+ sei eine Grundlage für alles,
+ mein Eckstein.
+
+
+[V2]
+ 2. The buildings swaying in the wind,
+ the towers crumble down again.
+ This certainly will be the end
+ of them not built on him.
+ _
+ Lord of all, show you're strong.
+ On our knees we fall.
+ _
+ _
+ Gebäude biegen sich im Wind,
+ Türme stürzen zusammen.
+ Dies wird das Ende aller sein,
+ die nicht auf ihn gebaut stehen.
+ Herr, zeige, dass du stark bist.
+ Wir fallen auf unsere Knie.
+
+
+[B]
+ Jesus you, you are the builder of my heart.
+ You've held me together from the start.
+ _
+ _
+ Jesus, du bist der Erbauer meines Herzens.
+ Du hast mich von Anfang an zusammengehalten.
+</lyrics>
+  <author>Day of Fire, 2004</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 C V2 C B C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 OpenSong/Songs/Danke f�r die Sonne 
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -1250,6 +1335,96 @@ OpenSong/Songs/Das Privileg zu sein
 -------------------------------------------------------
 -------------------------------------------------------
 
+OpenSong/Songs/Defender 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Defender</title>
+  <lyrics>[V1]
+ 1. You go before I know that you've gone to win my war.
+ You come back with the head of my enemy,
+ you come back and you call it my victory.
+ You go before I know that you've gone to win my war.
+ Your love becomes my greatest defense,
+ it leads me from the dry wilderness.
+ _
+ _
+ Du gehst, bevor ich weiß, dass du gegangen bist,
+ um meinen Krieg zu gewinnen.
+ Du kommst mit dem Kopf meines Feindes zurück,
+ du kommst zurück und du nennst es meinen Sieg.
+ Deine Liebe wird meine größte Verteidigung,
+ es führt mich aus der trockenen Wildnis.
+
+[C]
+ All I did was praise, all I did was worship.
+ All I did was bow down, all I did was stay still.
+ _
+ Hallelujah, you have saved me, so much better your way.
+ Hallelujah, great defender, so much better your way.
+ _
+ _
+ Alles, was ich tat, war loben, anbeten,
+ mich zu verbeugen, still zu bleiben.
+ Halleluja, du hast mich gerettet, so viel besser dein Weg.
+ Hallelujah, großer Verteidiger, so viel besser.
+
+[V2]
+ 2. You know before I do,
+ where my heart can seek to find your truth.
+ Your mercy is the shade I'm living in,
+ you restore my faith and hope again.
+ _
+ _
+ 2. Du weißt, bevor ich es tue,
+ wo mein Herz deine Wahrheit finden kann.
+ Deine Gnade ist der Schatten, in dem ich lebe,
+ Du stellst meinen Glauben und meine Hoffnung wieder her.
+
+[B]
+ When I thought I lost me, you knew where I left me,
+ you reintroduced me to your love.
+ You picked up all my pieces, put me back together.
+ You are the defender of my heart.
+ _
+ _
+ Als ich dachte, ich hätte mich verloren,
+ wusstest du, wo ich mich gelassen habe,
+ Du hast mich wieder in deine Liebe hineingebracht.
+ Du hast alle meine Stücke aufgehoben, setzt mich wieder zusammen.
+ Du bist der Verteidiger meines Herzens.
+
+[O]
+ All I did was praise, all I need to do is worship.
+ Lord I will just bow down, I'm just gonna stay still.
+ _
+ _
+ Alles, was ich tat, war loben, alles, was ich tun muss, ist anbeten.
+ Herr, ich werde mich einfach verbeugen,
+ ich werde einfach still bleiben.
+ </lyrics>
+  <author>Rita Springer &amp; Steffany Frizzell Gretzinger / Bethel Music, 2015</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 C V2 C B C O</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 OpenSong/Songs/Der Herr segne dich 
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -1417,6 +1592,83 @@ OpenSong/Songs/Du allein
   <copyright></copyright>
   <presentation></presentation>
   <ccli></ccli>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+OpenSong/Songs/Du bist gut 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Du bist gut</title>
+  <lyrics>[V1]
+ 1. I want to scream it out from every mountain top:
+ your goodness knows no bounds, your goodness never stops.
+ Your mercy follows me, your kindness fills my life.
+ Your love amazes me.
+ _
+ _
+ 1. Die ganze Welt soll hörn, wie gut du zu uns bist,
+ wie groß und grenzenlos doch deine Gnade ist.
+ Du machst mein Leben reich, mit Liebe füllst du mich.
+ Ich kann nur staunen Herr!
+
+[C]
+ I sing because you are good
+ and I dance because you are good
+ and I shout because you are good
+ You are good to me.
+ _
+ _
+ Und ich singe, denn du bist gut.
+ Und ich tanze, denn du bist gut.
+ Und ich rufe laut:
+ Du bist gut, du bist gut zu mir!
+
+[V2]
+ 2. Nothing and no one comes anywhere close to you.
+ The earth and oceans deep only reflect this truth.
+ And in my darkest night, you shine as bright as day.
+ Your love amazes me
+ _
+ _
+ 2. Nichts kommt dir jemals gleich, niemand ist so wie du.
+ Der Himmel und das Meer rufen dir jubelnd zu.
+ In meiner tiefsten Nacht strahlst du als helles Licht.
+ Ich kann nur staunen Herr!
+
+
+[B]
+ With a cry of praise my heart will proclaim:
+ You are good, you are good.
+ In the sun or rain my life celebrates.
+ You are good, you are good.
+ _
+ _
+ Das ist mein Herzensschrei, und alle solln es hörn:
+ Du bist gut, du bist gut!
+ Und ob die Sonne scheint, oder der Regen fällt:
+ Du bist gut, du bist gut!
+
+</lyrics>
+  <author>Brian Johnson &amp; Jeremy Riddle / Bethel Music, 2010</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 C V2 C B C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -3932,7 +4184,7 @@ OpenSong/Songs/In Christ alone _ In Christus ist
  bis an das Ende dieser Zeit, wenn er erscheint in Herrlichkeit.
  </lyrics>
   <copyright></copyright>
-  <presentation></presentation>
+  <presentation>V1 V4</presentation>
   <ccli></ccli>
   <key></key>
   <aka></aka>
@@ -4381,6 +4633,79 @@ OpenSong/Songs/Lord, I lift your name on high
 -------------------------------------------------------
 -------------------------------------------------------
 
+OpenSong/Songs/Maestro aller Welt 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Maestro aller Welt</title>
+  <lyrics>[V1]
+ 1. Er sieht mich an, gibt einen Wink,
+ ich hole Atem und ich sing.
+ Schlägt er den Takt, bin ich dabei.
+ _
+ Er hat den Kampf für mich gekämpft.
+ Jetzt gibt es nichts mehr das uns trennt.
+ Sein Geist der Wahrheit macht mich frei.
+ _
+ Meine Blicke gehen zu ihm,
+ und alle Schatten fliehn.
+ Sein Lob erklinge.
+
+[C]
+ Mein Dirigent ist Jesus,
+ Mein Dirigent ist Jesus,
+ ich glaub an ihn.
+ _
+ Mein Dirigent ist Jesus,
+ Mein Dirigent ist Jesus,
+ Applaus an ihn.
+
+[V2]
+ 2. Er ist Maestro aller Welt.
+ Wer nur sein Sakkozipfel hält
+ oder ihm glaubt, ist VIP.
+ _
+ Ohne ihn ist Leben Lärm.
+ Er wurd für mich taub und das gern.
+ Jetzt hör ich jede Melodie.
+ _
+ Nach seinem Genie steht mir der Sinn.
+ Ich gebe mich ganz hin,
+ ihm Lob zu singen.
+
+[B]
+ Wenn ich mich noch einmal frag,
+ wem ich's beweisen muss,
+ schau ich auf dein leeres Grab,
+ und weiß du starbst für uns.
+ _
+ Ich hab mich übelst verspielt,
+ du nimmst die Buuuhs auf dich.
+ Dein blutend Sakko gibst du mir
+ in des Vaters Rampenlicht.
+</lyrics>
+  <author>Max Haubold, 2018</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 C V2 C B C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 OpenSong/Songs/Markus5 
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -4650,6 +4975,52 @@ OpenSong/Songs/Mighty to save
   <copyright></copyright>
   <presentation></presentation>
   <ccli></ccli>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+OpenSong/Songs/Mit allem was ich bin 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Mit allem was ich bin</title>
+  <lyrics>[V]
+ Deine Gnade erfüllt mein Herz mit Dankbarkeit,
+ wie Wasser die Wüste erfrischt.
+ Deine Liebe erfüllt mein Herz mit Dankbarkeit,
+ wie Licht das Dunkel erhellt.
+
+[C]
+ Auch wenn ich mich verloren fühl, bist du da.
+ Auch wenn ich dich nicht immer spür, bist du nah.
+ _
+ Mit allem was ich bin, will ich dich loben.
+ Mit meiner Stimme ruf ich aus: du bist treu.
+ Mit allem was ich bin, will ich dich lieben.
+ Von Herzen sing ich dir, denn du bist mein Gott.
+
+[B]
+ Du schenkst Leben, gibst mir Hoffnung für alle Zeit.
+ Bist mein Schöpfer und Erlöser für alle Zeit.
+</lyrics>
+  <author>Ben Lüdtke / Outbreakband, 2010</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V C V C B C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -5904,6 +6275,111 @@ OpenSong/Songs/Schritte wagen
 -------------------------------------------------------
 -------------------------------------------------------
 
+OpenSong/Songs/Seasons 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Seasons</title>
+  <lyrics>[V1]
+ 1. Like the frost on a rose, winter comes for us all.
+ Oh how nature acquaints us with the nature of patience.
+ Like a seed in the snow, I've been buried to grow.
+ For your promise is loyal, from seed to sequoia.
+ _
+ _
+ Wie der Frost auf einer Rose kommt der Winter für uns alle.
+ Oh, wie die Natur uns mit der Natur der Geduld bekannt macht.
+ Wie ein Samen im Schnee wurde ich begraben, um zu wachsen.
+ Denn dein Versprechen ist treu, vom Samen bis zum Mammutbaum.
+
+
+[C]
+ I know: though the winter is long,
+ even richer the harvest it brings.
+ Though my waiting prolongs,
+ even greater your promise for me, like a seed.
+ I believe that my season will come.
+ _
+ _
+ Ich weiß: obwohl der Winter lang ist,
+ noch reicher die Ernte, die er bringt.
+ Obwohl mein Warten andauert,
+ noch größer ist dein Versprechen für mich, wie ein Samen.
+ Ich glaube, dass meine Saison kommen wird.
+
+[V2]
+ 2. Lord I think of your love, like the low winter sun.
+ As I gaze I am blinded in the light of your brightness.
+ Like a fire to the snow, I'm renewed in your warmth.
+ Melt the ice of this wild soul till the barren is beautiful.
+ _
+ _
+ Herr, ich denke an deine Liebe, wie die niedrige Wintersonne.
+ Wenn ich schaue, bin ich im Licht deiner Helligkeit geblendet.
+ Wie ein Feuer im Schnee bin ich in deiner Wärme erneuert.
+ Schmilz das Eis dieser wilden Seele, bis das Ödland schön ist.
+
+[B1]
+ I can see the promise, I can see the future.
+ You're the God of seasons, I'm just in the winter.
+ If all I know of harvest, is that it's worth my patience.
+ Then if you're not done working, God I'm not done waiting.
+ _
+ _
+ Ich kann das Versprechen sehen, ich kann die Zukunft sehen.
+ Du bist der Gott der Jahreszeiten, ich bin nur im Winter.
+ Was ich von der Ernte weiß, ist dass es meine Geduld wert ist.
+ Wenn du nicht fertig mit deinem Tun bist,
+ dann bin ich nicht fertig mit Warten.
+ 
+[B2]
+ You can see my promise, even in the winter,
+ cause you're the God of greatness, even in a manger.
+ For all I know of seasons, is that you take your time.
+ You could have saved us in a second, instead you sent a child.
+ _
+ _
+ Du kannst mein Versprechen auch im Winter sehen,
+ denn du bist der Gott der Größe, sogar in einer Krippe.
+ Was ich von Jahreszeiten weiß, ist dass du dir Zeit nimmst.
+ Du hättest uns in einer Sekunde retten können,
+ stattdessen hast du ein Kind geschickt.
+
+[V3]
+ And when I finally see my tree,
+ still I believe there's a season to come.
+ _
+ 3. Like a seed you were sown for the sake of us all.
+ From Bethlehem's soil grew Calvary's sequoia.
+ _
+ _
+ Und wenn ich endlich meinen Baum sehe,
+ glaube ich trotzdem, dass es noch eine Saison geben wird.
+ _
+ Wie ein Same wurdest du für uns alle gesät.
+ Aus Bethlehems Boden wuchs Golgathas Mammutbaum.</lyrics>
+  <author>Hillsong, 2017</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 C V2 C B1 B2 C V3</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 OpenSong/Songs/Set a fire 
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -6204,25 +6680,15 @@ OpenSong/Songs/Termine
 <song>
   <title></title>
   <lyrics>
-[V1]
- - 22.10. Mose Abschiedsrede -
- 29.10. Heiße Eisen 1
- 5.11. Heiße Eisen 2
- 10.-12.11. BECCKS Freizeit 
+ Welcome, Info
+ Tanzkurs Part 1
+ Worship
+ Essen
  _
- _
- ...
+ Tanzkurs Part 2
+ Freitanz, DJ Dave'n'Fred
+ Aufräumen
 
-
-[V2]
-
- - 22.10. Mose Abschiedsrede -
- 29.10. Heiße Eisen 1
- 5.11. Heiße Eisen 2
- 10.-12.11. BECCKS Freizeit 
- _
- _
- 02.04.2018: Ostermontag
 
 
 
@@ -6851,6 +7317,92 @@ OpenSong/Songs/Vor dir _ In deinem Licht will ich leben
 -------------------------------------------------------
 -------------------------------------------------------
 
+OpenSong/Songs/Warum feiern wir nicht 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Warum feiern wir nicht</title>
+  <lyrics>[V1]
+ 1. Wir haben reich gedeckte Tische.
+ als wenn das selbstverständlich wär,
+ Schutz und Wärme, ein Zuhause.
+ Wir können uns wirklich nicht beschweren.
+ _
+ Wir sind Freunde, wir sind Nachbarn,
+ uns beziehungsweise nah.
+ Wir haben Väter, Mütter, Freunde,
+ alle Wunder sind doch da.
+
+[C]
+ Warum tanzen wir nicht? Warum lachen wir nicht?
+ Warum feiern wir nicht gemeinsam?
+ Warum singen wir nicht? Warum beten wir nicht?
+ Warum feiern wir nicht gemeinsam?
+
+[V2]
+ 2. Wir sind zutiefst geliebte Kinder
+ von dem Schöpfer aller Welt,
+ und als Könige und Priester
+ so hat er uns dargestellt.
+ _
+ Wir sind glückliche Erlöste,
+ sind von Schuld und Scham befreit,
+ unfassbar unverdient Beschenkte,
+ sind Bürger des Himmelsreichs
+
+[B1]
+ Hör', die Kapelle spielt ihr tanzbarstes Lied auf Repeat,
+ doch allen Beats zum Trotz wiegt sich niemand im Takt der Musik.
+ Zynismus und Gleichgültigkeit,
+ filigran als finstere Filter auf die Wahrnehmung gelegt,
+ bis wir den Geber der guten Gaben vor lauter Segen nicht mehr sehen.
+ _
+ Sind wir nicht überschüttet mit Strömen des Schönen,
+ doch so furchtbar fokussiert auf was uns noch fehlt,
+ dass wir ächzen und stöhnen unter der Last
+ des selbstverständlichen Wohlstands an den wir uns gewöhnten?
+
+[B2]
+ Wiegt nicht das, was uns eint, um so vieles schwerer als was uns vermeintlich zerteilt?
+ Und ist es nicht längst an der Zeit für ein Bisschen mehr Dankbarkeit?
+ Diktiert der Hass nicht bloß gescheiterte Geschichten,
+ und baut Erbarmen nicht Brücken, anstatt Mauern zu errichten?
+ _
+ In der Liebe ist keine Furcht - gelesen, geglaubt und gewusst.
+ Aber was, wenn die Wagen beladen mit Wissensmyriarden
+ aus den Köpfen nicht durch die Tunnel zu den Herzen passen?
+ Als ob Gott und den nächsten zu lieben zwei verschiedene Dinge wären,
+ die sich beliebig trennen lassen...
+
+[B3]
+ Warum feiern wir Freiheit so selten?
+ Warum versteckt sich die Freude fast verschüchtert hinter Zäunen?
+ Ist am Ende des Tages nicht alles, was ich habe, einfach nur Gnade?
+ Ich meine, hab ich irgendetwas dafür getan?
+ Ich glaube, am Ende des Tages ist alles, was wir haben, einfach nur Gnade
+</lyrics>
+  <author>Könige und Priester, 2017</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 C V2 C B1 B2 B3</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 OpenSong/Songs/We have a saviour 
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -7329,6 +7881,69 @@ OpenSong/Songs/You never let go
   <copyright></copyright>
   <presentation>V1 C V2 C B C</presentation>
   <ccli></ccli>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+OpenSong/Songs/You raise me up 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>You raise me up</title>
+  <lyrics>[V1]
+ 1. When I am down, and, oh, my soul, so weary,
+ when troubles come, and my heart burdened be,
+ then I am still and wait here in the silence
+ until you come and sit awhile with me.
+ _
+ _
+ Wenn ich ganz unten bin und meine Seele so müde,
+ wenn Sorgen kommen und mein Herz schwer ist,
+ dann bin ich ganz ruhig und warte hier in der Stille
+ bis du kommst und eine Weile bei mir sitzt.
+
+[C]
+ You raise me up, so I can stand on mountains.
+ You raise me up to walk on stormy seas.
+ I am strong when I am on your shoulders.
+ You raise me up to more than I can be.
+ _
+ _
+ Du hebst mich hoch, sodass ich auf Bergen stehen kann.
+ Du hebst mich hoch um auf stürmischen Meeren zu gehen.
+ Ich bin stark wenn ich auf deinen Schultern bin.
+ Du baust mich auf zu mehr als ich je sein kann.
+
+
+[V2]
+ 2. There is no life - no life without its hunger,
+ each restless heart beats so imperfectly.
+ But when you come and I am filled with wonder,
+ sometimes, I think I glimpse eternity.
+ _
+ _
+ Es gibt kein Leben ohne Lebenshunger,
+ jedes rastlose Herz schlägt so unvollkommen.
+ Aber wenn du kommst und ich mit Staunen erfüllt bin,
+ denke ich manchmal, einen Blick in die Ewigkeit getan zu haben.</lyrics>
+  <author>Brendan Graham &amp; Rolf Lovland / Secret Garden, 2001</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 C V2 C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
