@@ -10,8 +10,6 @@ und [Inhaltsverzeichnis](https://github.com/brry/chords/raw/master/Worship/inhal
 [Textblätter](https://github.com/brry/chords/raw/master/Worship/Worship_Text.docx)
 * `xml` Presentationsdateien: [alle OpenSong Dateien](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/brry/chords/tree/master/OpenSong) als zip-Ordner, einzelne Lieder im Ordner
 [OpenSong/Songs](https://github.com/brry/chords/tree/master/OpenSong/Songs) 
-
-
 * Weihnachtsmusik im Ordner
 [Christmas](https://github.com/brry/chords/tree/master/Christmas) (Akkorde, Texte, LibreOffice Presentation)
 * Großes Inhaltsverzeichnis christlicher Liederbücher als
@@ -19,7 +17,7 @@ und [Inhaltsverzeichnis](https://github.com/brry/chords/raw/master/Worship/inhal
 oder [PDF](https://github.com/brry/chords/raw/master/Worship/Liederbuecher.pdf) 
 (Feiert Jesus, SONG, Jesu Name, Feiern & Loben, Ev. Gesangbuch)
 
-* [Gesamtverzeichnis (zip)](https://github.com/brry/chords/archive/master.zip) mit allen o.g. Dateien
+[Gesamtverzeichnis (zip)](https://github.com/brry/chords/archive/master.zip) mit allen o.g. Dateien
 
 
 ### Hintergrund
