@@ -1,7 +1,7 @@
 
-148 Files in S:/Dropbox/Faith/chords
+149 Files in S:/Dropbox/Faith/chords
 Combined together with berryFunctions::combineFiles
-2018-04-11 21:08:15
+2018-04-19 23:14:38
 
 -------------------------------------------------------
 -------------------------------------------------------
@@ -3580,20 +3580,20 @@ OpenSong/Songs/Hosanna (king of glory) _ Ich seh den K�nig kommen
   <author>Brooke Fraser / Hillsong, 2006</author>
   <hymn_number>60</hymn_number>
   <capo print="false"></capo>
-  <lyrics>
-[V1]
+  <lyrics>[V1]
  I see the king of glory coming on the clouds with fire.
  The whole earth shakes. The whole earth shakes.
  I see his love and mercy washing over all our sin. 
  The people sing. The people sing.
  _
- Hosanna, hosanna, hosanna in the highest.
- _
- _
  Ich seh den König kommen, mächtig und in Herrlichkeit. 
  Die Erde bebt. Die Erde bebt.
  Ich seh, wie seine Gnade uns von aller Schuld befreit; 
  Und jeder singt. Und jeder singt.
+
+[C]
+ Hosanna, hosanna, hosanna in the highest.
+ _
  _
  Hosanna, hosanna, hosanna in der Höhe.
 
@@ -3603,15 +3603,10 @@ OpenSong/Songs/Hosanna (king of glory) _ Ich seh den K�nig kommen
  I see a near revival stirring as we pray and seek. 
  We're on our knees. We're on our knees.
  _
- Hosanna, hosanna, hosanna in the highest.
- _
- _
  Ich seh seine Gemeinde, die ihn in der Welt bezeugt; 
  und für ihn lebt. Und für ihn lebt.
  Ich sehe eine Erweckung, wenn wir ernsthaft um sie flehn. 
  Es kann geschehn. Es kann geschehn.
- _
- Hosanna, hosanna, hosanna in der Höhe.
 
 [B]
  Heal my heart and make it clean,
@@ -3628,14 +3623,9 @@ OpenSong/Songs/Hosanna (king of glory) _ Ich seh den K�nig kommen
  Ich will leben Herr, ganz in deinem Licht.
  Bis ich dann zu dir heimgeh in die Ewigkeit.
 
-[V3]
- Hosanna, hosanna, hosanna in the highest.
- _
- _
- Hosanna, hosanna, hosanna in der Höhe.
  </lyrics>
   <copyright></copyright>
-  <presentation></presentation>
+  <presentation>V1 C V2 C B C</presentation>
   <ccli></ccli>
   <key></key>
   <aka></aka>
@@ -5192,6 +5182,50 @@ OpenSong/Songs/Mary did you know
 -------------------------------------------------------
 -------------------------------------------------------
 
+OpenSong/Songs/Mein ganzes Leben 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Mein ganzes Leben / Surrender</title>
+  <lyrics>[V1]
+ Ich gebe dir mein Herz und alles was ich bin,
+ um deinetwillen, Herr, leg ich alles vor dir hin.
+ Das was ich mir erträum, was meine Rechte wärn.
+ Ich gebe alles auf für ein neues Leben, Herr.
+
+[C]
+ Mein ganzes Leben geb ich dir, geb ich dir.
+ Mein ganzes Leben geb ich dir, geb ich dir.
+
+[V2]
+ Ich sing dir dieses Lied, ich warte vor dem Kreuz,
+ und was die Welt sich wünscht verliert all seinen Reiz.
+ Ich will dich kennen, Herr, und deine Herrlichkeit
+ die Freude, die du teilst, sogar in deinem Leid.
+
+ </lyrics>
+  <author>Marc James / Vineyard, 2000</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 C V2 C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 OpenSong/Songs/Meine Hilfe kommt vom Herrn 
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -6455,7 +6489,7 @@ OpenSong/Songs/Our God is greater
  _
  _
  Und steht uns Gott zur Seite, was kann uns jemals hindern?
- Und steht uns Gott zur Seite, wer kann uns widerstehn?
+ Und steht uns Gott zur Seite, was kann uns je geschehen?
  _
  Gott, du bist größer, Gott, du bist stärker,
  Gott, du stehst höher als alles andre!

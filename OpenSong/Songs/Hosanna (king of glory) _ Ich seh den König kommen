@@ -4,20 +4,20 @@
   <author>Brooke Fraser / Hillsong, 2006</author>
   <hymn_number>60</hymn_number>
   <capo print="false"></capo>
-  <lyrics>
-[V1]
+  <lyrics>[V1]
  I see the king of glory coming on the clouds with fire.
  The whole earth shakes. The whole earth shakes.
  I see his love and mercy washing over all our sin. 
  The people sing. The people sing.
  _
- Hosanna, hosanna, hosanna in the highest.
- _
- _
  Ich seh den König kommen, mächtig und in Herrlichkeit. 
  Die Erde bebt. Die Erde bebt.
  Ich seh, wie seine Gnade uns von aller Schuld befreit; 
  Und jeder singt. Und jeder singt.
+
+[C]
+ Hosanna, hosanna, hosanna in the highest.
+ _
  _
  Hosanna, hosanna, hosanna in der Höhe.
 
@@ -27,15 +27,10 @@
  I see a near revival stirring as we pray and seek. 
  We're on our knees. We're on our knees.
  _
- Hosanna, hosanna, hosanna in the highest.
- _
- _
  Ich seh seine Gemeinde, die ihn in der Welt bezeugt; 
  und für ihn lebt. Und für ihn lebt.
  Ich sehe eine Erweckung, wenn wir ernsthaft um sie flehn. 
  Es kann geschehn. Es kann geschehn.
- _
- Hosanna, hosanna, hosanna in der Höhe.
 
 [B]
  Heal my heart and make it clean,
@@ -52,14 +47,9 @@
  Ich will leben Herr, ganz in deinem Licht.
  Bis ich dann zu dir heimgeh in die Ewigkeit.
 
-[V3]
- Hosanna, hosanna, hosanna in the highest.
- _
- _
- Hosanna, hosanna, hosanna in der Höhe.
  </lyrics>
   <copyright></copyright>
-  <presentation></presentation>
+  <presentation>V1 C V2 C B C</presentation>
   <ccli></ccli>
   <key></key>
   <aka></aka>
