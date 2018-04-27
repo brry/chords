@@ -1,7 +1,7 @@
 
-149 Files in S:/Dropbox/Faith/chords
+158 Files in S:/Dropbox/Faith/chords
 Combined together with berryFunctions::combineFiles
-2018-04-19 23:14:38
+2018-04-27 12:03:21
 
 -------------------------------------------------------
 -------------------------------------------------------
@@ -111,37 +111,37 @@ OpenSong/Songs/10'000 Reasons
  Sing wie niemals zuvor, nur für ihn, und bete den König an!
 
 [V1]
- 1. The sun comes up, it's a new day dawning.
+ The sun comes up, it's a new day dawning.
  It's time to sing your song again.
  Whatever may pass and whatever lies before me.
  Let me be singing when the evening comes.
  _
  _
- 1. Ein neuer Tag und ein neuer Morgen,
+ Ein neuer Tag und ein neuer Morgen,
  und wieder bring ich dir mein Lob.
  Was auch vor mir liegt, und was immer auch geschehen mag:
  lass mich noch singen wenn der Abend kommt!
 
 [V2]
- 2. You're rich in love, and you're slow to anger. 
+ You're rich in love, and you're slow to anger. 
  Your name is great, and your heart is kind.
  For all your goodness, I will keep on singing.
  Ten thousand reasons for my heart to find.
  _
  _
- 2. Du liebst so sehr und vergibst geduldig,
+ Du liebst so sehr und vergibst geduldig,
  schenkst Gnade, Trost und Barmherzigkeit.
  Von deiner Güte will ich immer singen,
  Zehntausend Gründe gibst du mir dafür!
 
 [V3]
- 3. And on that day when my strength is failing; 
+ And on that day when my strength is failing; 
  The end draws near and my time has come.
  Still my soul will sing your praise unending:
  Ten thousand years and then forevermore.
  _
  _
- 3. Und wenn am Ende die Kräfte schwinden,
+ Und wenn am Ende die Kräfte schwinden,
  wenn meine Zeit dann gekommen ist,
  wird meine Seele dich weiter preisen;
  Zehntausend Jahre und in Ewigkeit!
@@ -411,7 +411,7 @@ OpenSong/Songs/Allein deine Gnade gen�gt
  Ich geb dir mein Leben und was mich bewegt. 
  Allein deine Gnade genügt.
  _
- 1. Ich muss mich nicht länger um Liebe bemühn, 
+ Ich muss mich nicht länger um Liebe bemühn, 
  ich ruh im Vertrauen zu dir.
  Du hast meine Sünde getilgt durch dein Blut
  und Gnade ist für mich genug.
@@ -422,7 +422,7 @@ OpenSong/Songs/Allein deine Gnade gen�gt
  Ich geb dir mein Leben und was mich bewegt. 
  Allein deine Gnade genügt.
  _
- 2. Das Blut Jesu lässt mich gerecht vor dir steh'n, 
+ Das Blut Jesu lässt mich gerecht vor dir steh'n, 
  es hat alle Schuld gesühnt.
  Die Gnade hat über Gericht triumphiert 
  und nun bin ich frei in dir. 
@@ -470,6 +470,69 @@ OpenSong/Songs/Alleluia
   <copyright></copyright>
   <presentation></presentation>
   <ccli></ccli>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+OpenSong/Songs/Amazing Love (You are my King) 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Amazing Love (You are my King)</title>
+  <lyrics>[V1]
+ I'm forgiven because you were forsaken.
+ I'm accepted, you were condemned.
+ I'm alive and well, your spirit is within me,
+ bcause you died and rose again.
+ _
+ Mir wurde vergeben, weil du verlassen wurdest.
+ Ich bin akzeptiert, du wurdest verurteilt.
+ Ich lebe und gedeihe, dein Geist ist in mir,
+ weil du gestorben und wieder auferstanden bist.
+
+[C]
+ Amazing love, how can it be,
+ that you, my king, would die for me?
+ Amazing love, I know it's true.
+ It's my joy to honor you.
+ _
+ In all I do, I honor you.
+ _
+ _
+ Erstaunliche Liebe, wie kann es sein,
+ dass du, mein König, für mich sterben würdest?
+ Erstaunliche Liebe, ich weiß es ist wahr.
+ Es ist mir eine Freude, dich zu ehren.
+ _
+ In allem, was ich tue, ehre ich dich.
+
+[B]
+ You are my king, you are my king.
+ Jesus, you are my king.
+ Jesus, you are my king.
+ _
+ Du bist mein König, du bist mein König.
+ Jesus, du bist mein König.
+ Jesus, du bist mein König.
+</lyrics>
+  <author>Billy James Foote, 1999 + Chris Tomlin, 2000</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 C V1 C B C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -822,7 +885,7 @@ OpenSong/Songs/Befreit durch deine Gnade
   <hymn_number>69</hymn_number>
   <capo print="false"></capo>
   <lyrics>[V1]
- 1. Befreit durch deine Gnade, erschließt sich mir ein neuer Horizont.
+ Befreit durch deine Gnade, erschließt sich mir ein neuer Horizont.
  Wie gut du von mir denkst, war mir nicht klar.
  Lass mich durch deine Augen sehn,
  erkennen, welchen Mensch du in mir siehst.
@@ -835,7 +898,7 @@ OpenSong/Songs/Befreit durch deine Gnade
  von deiner Liebe, die bleibt.
 
 [V2]
- 2. Ergriffen von der Wahrheit, fängt meine Seele langsam an zu sehn.
+ Ergriffen von der Wahrheit, fängt meine Seele langsam an zu sehn.
  Durchbohrte Hände öffnen mir das Herz.
  Lass mich jetzt glauben und verstehn,
  dass du mich wirklich liebst so wie ich bin.
@@ -848,7 +911,7 @@ OpenSong/Songs/Befreit durch deine Gnade
  von deiner Liebe, die bleibt.
 
 [V3]
- 3. Begeistert von der Liebe, erkenn ich deinen Auftrag heut für mich:
+ Begeistert von der Liebe, erkenn ich deinen Auftrag heut für mich:
  die Welt soll von dir hören, jetzt und hier.
  Lass mich ein Werkzeug für dich sein
  und füll mich neu mit deinem heilgen Geist.
@@ -884,7 +947,7 @@ OpenSong/Songs/Behold (Then sings my soul)
 <song>
   <title>Behold (Then sings my soul)</title>
   <lyrics>[V1]
- 1. Behold the father's heart, the mystery he lavishes on us.
+ Behold the father's heart, the mystery he lavishes on us.
  As deep cries out to deep, oh, how desperately he wants us.
  The things of earth stand next to him, like a candle to the sun.
  Unfailing father, what compares to his great love?
@@ -896,7 +959,7 @@ OpenSong/Songs/Behold (Then sings my soul)
  Unfehlbarer Vater, was ist schon mit seiner Liebe vergleichbar?
 
 [V2]
- 2. Behold his holy son, the lion and the lamb given to us.
+ Behold his holy son, the lion and the lamb given to us.
  The word became a man, that my soul should know its savior.
  Forsaken for the sake of all mankind, salvation is in his blood.
  Jesus Messiah, the righteous died for love.
@@ -920,7 +983,7 @@ OpenSong/Songs/Behold (Then sings my soul)
 
 
 [V3]
- 3. Behold I have a friend, the spirit breathing holy fire within.
+ Behold I have a friend, the spirit breathing holy fire within.
  My ever present help, speaking truth when I can't find it.
  Light up this broken heart and light my way, till my time on earth is done.
  Oh, holy spirit, breathe in me like kingdom come.
@@ -1023,6 +1086,91 @@ OpenSong/Songs/Blessed be your name
   <copyright></copyright>
   <presentation>V1 C V2 C B C</presentation>
   <ccli></ccli>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+OpenSong/Songs/Broken 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Broken</title>
+  <lyrics>[V1]
+ Where do you turn when you've been broken,
+ how do you go on, broken?
+ What do you do, with shattered shards of clay?
+ Oh how do you find your way
+ through the ruins of your life,
+ how do you survive, broken?
+ _
+ Wohin gehst du, wenn du gebrochen bist? Wie gehts weiter?
+ Was machst du mit zerschmetterten Tonscherben?
+ Oh, wie findest du deinen Weg durch die Ruinen deines Leben?
+ Wie überlebst du, gebrochen?
+
+[V2]
+ Who will understand when you've been broken,
+ how can you explain it, broken?
+ Why do you feel pain when your heart is turned to stone?
+ Oh how do you walk alone, 
+ through the ruin's of your life, 
+ how do you survive?
+ _
+ Wer wird verstehen, wenn du gebrochen bist, wie kannst du es erklären?
+ Warum fühlst du Schmerz, wenn dein Herz zu Stein wird?
+ Wie gehst du alleine durch die Ruine deines Lebens,
+ Wie überlebst du?
+
+[C]
+ Oh, Lord, I'm falling at your feet.
+ I see you broken, dying for me.
+ Oh my Redeemer, how you suffered
+ _
+ Oh, Herr, ich falle zu deinen Füßen.
+ Ich sehe dich gebrochen, sterbend für mich.
+ Oh mein Erlöser, wie du gelitten hast
+
+[V3]
+ I could never understand how your heart was broken
+ when the father turned away. Broken.
+ I could never understand the pain
+ of hanging on a cross, so lamb of God,
+ you sacrificed your whole life.
+ _
+ Ich könnte niemals verstehen, wie dein Herz gebrochen wurde
+ als der Vater sich abwandte. 
+ Ich könnte den Schmerz nie verstehen, an einem Kreuz zu hängen, so Lamm Gottes,
+ Du hast dein ganzes Leben geopfert.
+
+[B]
+ Oh, Lord, I'm falling at your feet.
+ I see you dying, broken for me.
+ And I know, you understand, you understand.
+ _
+ _
+ Oh, Herr, ich falle zu deinen Füßen.
+ Ich sehe dich sterben, gebrochen für mich.
+ Und ich weiß, du verstehst, du verstehst.
+
+</lyrics>
+  <author>Liesel Brooks, 2011</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 V2 C V3 C B C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -1149,7 +1297,7 @@ OpenSong/Songs/Cornerstone
   <title>Cornerstone</title>
   <lyrics>
 [V1]
- 1. All other ground is sinking sand,
+ All other ground is sinking sand,
  a dying maze of desert land,
  where darkness rules the heart of man,
  till the son shines light on him.
@@ -1180,7 +1328,7 @@ OpenSong/Songs/Cornerstone
 
 
 [V2]
- 2. The buildings swaying in the wind,
+ The buildings swaying in the wind,
  the towers crumble down again.
  This certainly will be the end
  of them not built on him.
@@ -1420,7 +1568,7 @@ OpenSong/Songs/Defender
 <song>
   <title>Defender</title>
   <lyrics>[V1]
- 1. You go before I know that you've gone to win my war.
+ You go before I know that you've gone to win my war.
  You come back with the head of my enemy,
  you come back and you call it my victory.
  You go before I know that you've gone to win my war.
@@ -1449,13 +1597,13 @@ OpenSong/Songs/Defender
  Hallelujah, großer Verteidiger, so viel besser.
 
 [V2]
- 2. You know before I do,
+ You know before I do,
  where my heart can seek to find your truth.
  Your mercy is the shade I'm living in,
  you restore my faith and hope again.
  _
  _
- 2. Du weißt, bevor ich es tue,
+ Du weißt, bevor ich es tue,
  wo mein Herz deine Wahrheit finden kann.
  Deine Gnade ist der Schatten, in dem ich lebe,
  Du stellst meinen Glauben und meine Hoffnung wieder her.
@@ -1573,7 +1721,7 @@ OpenSong/Songs/Der Herr segne dich
  mit seinem Licht, tiefer Friede begleite dich.
  _
  _
- 1. Ob du ausgehst oder heimkommst, ob du wach bist oder schläfst,
+ Ob du ausgehst oder heimkommst, ob du wach bist oder schläfst,
  sei gesegnet und gestärkt durch seinen Geist.
  Ob du in das Tal hinabgehst oder Berge vor dir stehn,
  mögest du den nächsten Schritt in seinem Segen gehn!
@@ -1585,7 +1733,7 @@ OpenSong/Songs/Der Herr segne dich
  mit seinem Licht, tiefer Friede begleite dich.
  _
  _
- 2. Ob die Menschen, die du liebst, dies erwidern oder nicht,
+ Ob die Menschen, die du liebst, dies erwidern oder nicht,
  sei ein Segen durch die Gnade deines Herrn.
  Ob die Träume, die du träumtest noch verheißungsvoll bestehen
  oder längst schon nicht mehr für dich wie ein Traum aussehen.
@@ -1617,12 +1765,12 @@ OpenSong/Songs/Die Liebe des Retters
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Die Liebe des Retters</title>
-  <lyrics> 1. Ich danke Dir, Jesus, dass es Deine Güte war,
+  <lyrics> Ich danke Dir, Jesus, dass es Deine Güte war,
  die den Preis bezahlte und mich errettet hat.
  Ich danke Dir Jesus, dass es Deine Gnade war,
  die die Sünde aller Welt auf die Schulter nahm.
  _
- 2. Ich danke Dir, Jesus, denn der Tod hat nicht gesiegt,
+ Ich danke Dir, Jesus, denn der Tod hat nicht gesiegt,
  weil du auferstanden bist und nicht im Grabe bliebst.
  Ich danke Dir, Jesus, für das, was Du mir gibst,
  ein Leben für die Ewigkeit, weil Du in mir lebst.
@@ -1699,7 +1847,7 @@ OpenSong/Songs/Du allein
   <hymn_number>19</hymn_number>
   <capo print="false"></capo>
   <lyrics>[V1]
- 1. Du allein kennst meine Gedanken, du weißt wie ich fühle,
+ Du allein kennst meine Gedanken, du weißt wie ich fühle,
  du siehst meine Schranken und Ziele, du weißt was mir dann und wann fehlt.
  Du allein siehst Zweifel und Sorgen, die Fragen auf Morgen,
  du kennst meinen Weg und du weißt wie ich lebe, bist Tag und Nacht da.
@@ -1711,7 +1859,7 @@ OpenSong/Songs/Du allein
  Ich dank dir dafür.
 
 [V2]
- 2. Du allein kennst Wünsche und Träume, du weißt was ich meine,
+ Du allein kennst Wünsche und Träume, du weißt was ich meine,
  Doch nur du allein kennst den richtigen Weg, du denkst größer als ich.
  Du allein liebst mich immer weiter, auch wenn ich dich oft nicht verstehe.
  Du weißt dass ich vieles falsch sehe, doch du lässt mich nie los.
@@ -1747,13 +1895,13 @@ OpenSong/Songs/Du bist gut
 <song>
   <title>Du bist gut</title>
   <lyrics>[V1]
- 1. I want to scream it out from every mountain top:
+ I want to scream it out from every mountain top:
  your goodness knows no bounds, your goodness never stops.
  Your mercy follows me, your kindness fills my life.
  Your love amazes me.
  _
  _
- 1. Die ganze Welt soll hörn, wie gut du zu uns bist,
+ Die ganze Welt soll hörn, wie gut du zu uns bist,
  wie groß und grenzenlos doch deine Gnade ist.
  Du machst mein Leben reich, mit Liebe füllst du mich.
  Ich kann nur staunen Herr!
@@ -1771,13 +1919,13 @@ OpenSong/Songs/Du bist gut
  Du bist gut, du bist gut zu mir!
 
 [V2]
- 2. Nothing and no one comes anywhere close to you.
+ Nothing and no one comes anywhere close to you.
  The earth and oceans deep only reflect this truth.
  And in my darkest night, you shine as bright as day.
  Your love amazes me
  _
  _
- 2. Nichts kommt dir jemals gleich, niemand ist so wie du.
+ Nichts kommt dir jemals gleich, niemand ist so wie du.
  Der Himmel und das Meer rufen dir jubelnd zu.
  In meiner tiefsten Nacht strahlst du als helles Licht.
  Ich kann nur staunen Herr!
@@ -1824,7 +1972,7 @@ OpenSong/Songs/Du machst alles neu
 <song>
   <title>Du machst alles neu</title>
   <lyrics>[V1]
- 1. Meine Hoffnung ist lebendig,
+ Meine Hoffnung ist lebendig,
  mein Fundament in dir beständig.
  Auch wenn mein Verstand begrenzt ist,
  trau ich dir alles zu!
@@ -1839,7 +1987,7 @@ OpenSong/Songs/Du machst alles neu
  denn du machst alles neu.
 
 [V2]
- 2. In meinen dreckigsten Momenten,
+ In meinen dreckigsten Momenten,
  wenn ich zweifel, wer ich selbst bin,
  will ich nur noch zu dir rennen;
  Ich trau dir alles zu!
@@ -1923,6 +2071,66 @@ OpenSong/Songs/Du tust
 -------------------------------------------------------
 -------------------------------------------------------
 
+OpenSong/Songs/Ein Licht in dir geborgen 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Ein Licht in dir geborgen</title>
+  <lyrics>[V1]
+ Ein Funke, aus Stein geschlagen
+ wird Feuer in kalter Nacht.
+ Ein Stern, vom Himmel gefallen,
+ zieht Spuren von Gottes Macht.
+ _
+ So wie die Nacht flieht vor dem Morgen,
+ so zieht die Angst aus dem Sinn,
+ so wächst ein Licht in dir geborgen,
+ die Kraft zum neuen Beginn.
+
+[V2]
+ Glut, in Wassern gesunken
+ wird Glanz in spiegelnder Flut.
+ Ein Strahl, durch Wolken gedrungen
+ wird Quell von neuem Mut. 
+ _
+ So wie die Nacht flieht vor dem Morgen,
+ so zieht die Angst aus dem Sinn,
+ so wächst ein Licht in dir geborgen,
+ die Kraft zum neuen Beginn.
+
+[V3]
+ Ein Lachen in deinen Augen
+ vertreibt die blinde Wut.
+ Ein Licht in dir geborgen
+ wird Kraft in tiefer Not.
+ _
+ So wie die Nacht flieht vor dem Morgen,
+ so zieht die Angst aus dem Sinn,
+ so wächst ein Licht in dir geborgen,
+ die Kraft zum neuen Beginn.
+</lyrics>
+  <author>Gregor Linßen, 1990</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 OpenSong/Songs/Es scheint ein helles Licht 
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -1985,7 +2193,7 @@ OpenSong/Songs/Etwas in mir
   <hymn_number>41</hymn_number>
   <capo print="false"></capo>
   <lyrics> Etwas in mir zeigt mir, dass es dich wirklich gibt.
- Ich bin gewiss, dass du lebst, mich kennst und mich liebst. (2x)
+ Ich bin gewiss, dass du lebst, mich kennst und mich liebst.
  _
  _
  Du bringst mich zum Lachen, machst, dass mein Herz singt.
@@ -2219,6 +2427,67 @@ OpenSong/Songs/Frei Sein
 -------------------------------------------------------
 -------------------------------------------------------
 
+OpenSong/Songs/Freiheit der Kinder Gottes 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Freiheit der Kinder Gottes</title>
+  <lyrics>[V1]
+ Du machst mich frei von kranker Religion,
+ von Angst und Menschenfurcht.
+ Du machst mich frei von meiner Illusion,
+ von meiner Lebensflucht.
+ Du machst mich frei, zu staunen wie ein Kind,
+ das aus Vertrauen lebt.
+ Du machst mich frei, zu tanzen wie der Wind,
+ von deinem Geist bewegt.
+
+[C]
+ Das ist die Freiheit der Kinder Gottes,
+ das ist die Freiheit, die du uns gibst.
+ Das ist die Freiheit der Kinder Gottes.
+ So ist die Freiheit, weil du uns liebst.
+
+[V2]
+ Du machst mich frei, Versagen zu bestehen,
+ zu weinen, wenn es schmerzt.
+ Du machst mich frei, meine Fehler einzusehen,
+ zu lachen über mich selbst.
+ Du machst mich frei, zu tun, was mein Herz sagt
+ auch wenn's andren nicht gefällt.
+ Du machst mich frei von dem, der mich verklagt,
+ vom Urteil dieser Welt.
+
+[B]
+ Du lässt uns Freiheit, selbst zu entscheiden:
+ Tod oder Leben, Fluch oder Segen.
+ Du lässt uns die Freiheit selbst dich zu meiden,
+ doch deine Liebe kommt uns entgegen.
+ _
+ Wo dein Geist ist, da ist Freiheit, 
+ wo dein Geist ist, ist keine Furcht. </lyrics>
+  <author>Albert Frey, 2002</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 C V2 C B C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 OpenSong/Songs/From the inside out 
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -2299,7 +2568,7 @@ OpenSong/Songs/Fullness
 <song>
   <title>Fullness</title>
   <lyrics>[V1]
- 1. Fullness of eternal promise,
+ Fullness of eternal promise,
  stirring in your sons and daughters.
  Earth revealing heaven's wonders,
  spirit come, spirit come.
@@ -2312,7 +2581,7 @@ OpenSong/Songs/Fullness
 
 
 [V2]
- 2. What you spoke is now unfolding,
+ What you spoke is now unfolding,
  all your children shall behold it.
  Dreams awaken in this moment,
  spirit come, spirit come.
@@ -2336,7 +2605,7 @@ OpenSong/Songs/Fullness
 
 
 [V3]
- 3. Now the world awaits your presence,
+ Now the world awaits your presence,
  and this power is within us.
  We will rise to be your witness,
  spirit come, spirit come.
@@ -2362,7 +2631,7 @@ OpenSong/Songs/Fullness
 
 
 [V4]
- 4. Let our hearts continue burning
+ Let our hearts continue burning
  for our king is soon returning.
  As we hold to this assurance,
  spirit come, spirit come.
@@ -2403,7 +2672,7 @@ OpenSong/Songs/F�r den K�nig
   <author>Albert Frey, 2006</author>
   <hymn_number>62</hymn_number>
   <capo print="false"></capo>
-  <lyrics> 1. Für den König, für den Herrn. Für ihn geben wir uns hin.
+  <lyrics> Für den König, für den Herrn. Für ihn geben wir uns hin.
  Seine Ehre, unser Ziel, nichts bedeutet uns jemals so viel.
  Für den König, für sein Reich. Alle Menschen sind hier gleich.
  Lamm und Löwe sind vereint, und das Licht der Gerechtigkeit scheint.
@@ -2411,7 +2680,7 @@ OpenSong/Songs/F�r den K�nig
  Alle Ehre König Jesus. Unsere Herzen, sie fliegen dir zu.
  Wir erheben deinen Namen. Der allein wahre König bist du!
  _
- 2. Für den König, für sein Schwert, was den Feind das Fürchten lehrt,
+ Für den König, für sein Schwert, was den Feind das Fürchten lehrt,
  unsre Freiheit garantiert, uns zum Schutz unsre Grenze markiert.
  Für den König, für sein Volk, für die Heerschar, die ihm folgt.
  Ihm, der uns sein Leben gibt, lasst uns lieben, so wie er uns liebt!
@@ -2448,13 +2717,13 @@ OpenSong/Songs/Geh unter der Gnade
  Geh unter der Gnade, hör auf Gottes Worte;
  bleib in seiner Nähe, ob du wachst oder ruhst.
  _
- 1. Alte Stunden, alte Tage lässt du zögernd nur zurück.
+ Alte Stunden, alte Tage lässt du zögernd nur zurück.
  Wohlvertraut wie alte Kleider sind sie dir durch Leid und Glück.
  _
- 2. Neue Stunden, neue Tage - zögernd nur steigst du hinein.
+ Neue Stunden, neue Tage - zögernd nur steigst du hinein.
  Wird die neue Zeit dir passen? Ist sie dir zu groß, zu klein?
  _
- 3. Gute Wünsche, gute Worte wollen dir Begleiter sein.
+ Gute Wünsche, gute Worte wollen dir Begleiter sein.
  Doch die besten Wünsche münden alle in den einen ein:
  </lyrics>
   <copyright></copyright>
@@ -2585,6 +2854,92 @@ OpenSong/Songs/Glorious Ruins
 -------------------------------------------------------
 -------------------------------------------------------
 
+OpenSong/Songs/Gnade So Wunderbar 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Gnade So Wunderbar / This Is Amazing Grace</title>
+  <lyrics>[V1]
+ Who breaks the power of sin and darkness?
+ Whose love is mighty and so much stronger?
+ The king of glory, the king above all kings.
+ _
+ Wer hat dem Bösen die Macht genommen?
+ Wer ist so mächtig, liebt so vollkommen?
+ Der Herr des Himmels, König der Herrlichkeit.
+
+[V2]
+ Who shakes the whole earth with holy thunder
+ and leaves us breathless in awe and wonder?
+ The king of glory, the king above all kings.
+ _
+ Wer bringt mit Donner die Welt ins Wanken?
+ Wer lässt uns staunen, auf Knien danken?
+ Der Herr des Himmels, König der Herrlichkeit.
+
+[V3]
+ Who brings our chaos back into order?
+ Who makes the orphan a son and daughter?
+ The king of glory, the king above all kings.
+ _
+ Wer bringt das Chaos wieder in Ordnung?
+ Wer macht die Weisen zu seinen Kindern?
+ Der Herr des Himmels, König der Herrlichkeit.
+
+[V4]
+ Who rules the nations with truth and justice?
+ Shines like the sun in all of its brilliance?
+ The king of glory, the king above all kings.
+ _
+ Wer herrscht mit Weisheit, bringt Recht und Wahrheit,
+ strahlt wie die Sonne in ihrer Schönheit?
+ Der Herr des Himmels, König der Herrlichkeit.
+
+[C]
+ This is amazing grace, this is unfailing love:
+ that you would take my place, that you would bear my cross.
+ You lay down your life that I would be set free.
+ Oh, Jesus, I sing for all that you've done for me.
+ _
+ Gnade, so wunderbar. Liebe, so unfehlbar.
+ Du trugst das Kreuz für mich, du nimmst die Schuld auf dich.
+ Du gabst dein Leben hin, damit ich frei sein kann.
+ Oh, Jesus das alles hast du für mich getan.
+
+[B]
+ Worthy is the lamb who was slain.
+ Worthy is the king who conquered the grave.
+ _
+ Worthy, worthy, worthy!
+ _
+ _
+ Würdig ist das Lamm, das sich gab.
+ Würdig ist der Herr, besiegt ist das Grab.
+ _
+ Würdig, würdig, würdig!
+</lyrics>
+  <author>Riddle &amp; Farro &amp; Wickham / Bethel Music, 2012</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 V2 C V3 V4 C B C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 OpenSong/Songs/Go, tell it on the mountains 
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -2598,13 +2953,13 @@ OpenSong/Songs/Go, tell it on the mountains
  Go, tell it on the mountains, that Jesus Christ is born. 
  _
  _
- 1. While shepherds kept their watching, o'er silent flocks by night, 
+ While shepherds kept their watching, o'er silent flocks by night, 
  behold throughout the heavens, there shone a holy light.
  _
- 2. The shepherds feared and trembled, when low! above the earth,
+ The shepherds feared and trembled, when low! above the earth,
  rang out the angel chorus, that hailed our saviour's birth.
  _
- 3. Down in a lowly manger, our humble Christ was born;
+ Down in a lowly manger, our humble Christ was born;
  And God sent us salvation, that blessed christmas morn'.
 
 [P2]
@@ -2612,10 +2967,10 @@ OpenSong/Songs/Go, tell it on the mountains
  Go, tell it on the mountains, that Jesus Christ is born. 
  _
  _ 
- 4. When I was a seeker, I sought both night and day.
+ When I was a seeker, I sought both night and day.
  I sought the Lord to help me, and he showed me the way. 
  _
- 5. He made me a watchman, upon the city wall, 
+ He made me a watchman, upon the city wall, 
  And if I am a christian, I am the least of all.
  </lyrics>
   <copyright></copyright>
@@ -2786,7 +3141,7 @@ OpenSong/Songs/God of Wonders
   <hymn_number>9</hymn_number>
   <capo print="false"></capo>
   <lyrics>[V1]
- 1. Lord of all creation, of water earth and sky,
+ Lord of all creation, of water earth and sky,
  the heavens are your tabernacle. Glory to the Lord on high.
  _
  God of wonders beyond our galaxy, you are holy, holy.
@@ -2794,7 +3149,7 @@ OpenSong/Songs/God of Wonders
  Lord of heaven and earth, Lord of heaven and earth.
  _
  _
- 1. Herr der ganzen Schöpfung, du spannst den Himmel weit.
+ Herr der ganzen Schöpfung, du spannst den Himmel weit.
  Dein Licht erfüllt das Universum, du regierst in Herrlichkeit.
  _
  Deine Größe erfüllt das ganze All. Du bist heilig, heilig.
@@ -2802,7 +3157,7 @@ OpenSong/Songs/God of Wonders
  Du beherrscht alle Welt, du beherrscht alle Welt.
 
 [V2]
- 2. Early in the morning, I will celebrate the light
+ Early in the morning, I will celebrate the light
  And as I stumble through the darkness, I will call your name by night
  _
  God of wonders beyond our galaxy, you are holy, holy.
@@ -2810,7 +3165,7 @@ OpenSong/Songs/God of Wonders
  Lord of heaven and earth, Lord of heaven and earth.
  _
  _
- 2. Schon am frühen Morgen freu ich mich an deinem Licht.
+ Schon am frühen Morgen freu ich mich an deinem Licht.
  Und später wenn die Nacht hereinbricht, weiß ich: Du verlässt mich nicht.
  _
  Deine Größe erfüllt das ganze All. Du bist heilig, heilig.
@@ -2860,12 +3215,12 @@ OpenSong/Songs/Good good father
   <capo print="false"></capo>
   <lyrics>
 [V1]
- 1. Oh, I've heard a thousand stories of what they think you're like. 
+ Oh, I've heard a thousand stories of what they think you're like. 
  But I've heard the tender whisper of love in the dead of night. 
  And you tell me that you're pleased and that I'm never alone.
  _
  _
- 1. Ich habe tausend Geschichten gehört darüber,
+ Ich habe tausend Geschichten gehört darüber,
  was sie über dich denken.
  Aber ich habe sanftes, liebevolles Flüstern
  in dunkelster Nacht gehört:
@@ -2884,12 +3239,12 @@ OpenSong/Songs/Good good father
 
 
 [V2]
- 2. Oh, and I've seen many searching for answers far and wide. 
+ Oh, and I've seen many searching for answers far and wide. 
  But I know we're all searching for answers only you provide 
  'cause you know just what we need before we say a word.
  _
  _
- 2. Ich habe viele überall nach Antworten suchen sehen.
+ Ich habe viele überall nach Antworten suchen sehen.
  Aber ich weiß, dass wir alle nach Antworten suchen, 
  die nur du uns geben kannst.
  Du weißt genau, was wir brauchen,
@@ -2904,7 +3259,7 @@ OpenSong/Songs/Good good father
  Du bist in jeder Hinsicht perfekt.
 
 [V3]
- 3. Oh, this love so undeniable. I, I can hardly speak. 
+ Oh, this love so undeniable. I, I can hardly speak. 
  Peace so unexplainable. I, I can hardly think
  as you call me deeper still, as you call me deeper still,
  as you call me deeper still into love, love, love.
@@ -2949,7 +3304,7 @@ OpenSong/Songs/Gott hat einen Plan
   <author>Astrid Menzel</author>
   <hymn_number>52</hymn_number>
   <capo print="false"></capo>
-  <lyrics> 1. Gott hat einen Plan, Gott führt ihn auch aus.
+  <lyrics> Gott hat einen Plan, Gott führt ihn auch aus.
  Gottes Wort ist wahr, es geht ihm schon voraus.
  Was er sagt passiert, egal zu welcher Zeit.
  Sein Wort geht mit mir, kilometerweit.
@@ -2958,7 +3313,7 @@ OpenSong/Songs/Gott hat einen Plan
  so dass Bäume wachsen werden; sei der Same noch so klein.
  _
  _
- 2. Gott, ich bleib' bei dir, fest an deinem Wort
+ Gott, ich bleib' bei dir, fest an deinem Wort
  Denn du bist das Ziel, es treibt mich nichts mehr fort. 
  Höre ich dein Wort, so kehrt dein Friede ein.
  Ich nehm' es in mich auf, um Herzen zu befrei'n.
@@ -3032,7 +3387,7 @@ OpenSong/Songs/Gottes Spuren
   <capo print="false"></capo>
   <lyrics>
 [V1]
- 1. Wir haben Gottes Spuren festgestellt
+ Wir haben Gottes Spuren festgestellt
  auf unsern Menschenstraßen, 
  Liebe und Wärme in der kalten Welt,
  Hoffnung, die wir fast vergaßen. 	
@@ -3043,7 +3398,7 @@ OpenSong/Songs/Gottes Spuren
  uns durch das Leben tragen.
 
 [V2]
- 2. Blühende Bäume haben wir gesehn, 
+ Blühende Bäume haben wir gesehn, 
  wo niemand sie vermutet,
  Sklaven, die durch das Wasser gehn, 
  das die Herren überflutet.
@@ -3054,7 +3409,7 @@ OpenSong/Songs/Gottes Spuren
  uns durch das Leben tragen.
 
 [V3]
- 3. Bettler und Lahme sahen wir beim Tanz, 
+ Bettler und Lahme sahen wir beim Tanz, 
  hörten, wie Stumme sprachen,
  durch tote Fensterhöhlen kam ein Glanz,
  Strahlen, die die Nacht durchbrachen.
@@ -3124,7 +3479,7 @@ OpenSong/Songs/Heart of Worship
 <song>
   <title>Heart of Worship</title>
   <lyrics>[V1]
- 1. When the music fades, all is stripped away.
+ When the music fades, all is stripped away.
  And I simply come, longing just to bring
  something that's of worth, that will bless your heart.
  _
@@ -3159,7 +3514,7 @@ OpenSong/Songs/Heart of Worship
  Denn es geht nur um dich, es geht nur um dich, Jesus!
  
 [V2]
- 2. King of endless worth, no one could express
+ King of endless worth, no one could express
  how much you deserve.
  Though I'm weak and poor, all I have is yours,
  every single breath.
@@ -3238,13 +3593,13 @@ OpenSong/Songs/Here I am to worship
 <song>
   <title>Here I am to worship - Licht dieser Welt</title>
   <lyrics>[V1]
- 1. Light of the world, you stepped down into darkness,
+ Light of the world, you stepped down into darkness,
  opened my eyes, let me see
  beauty that made this heart adore you,
  hope of a life spent with you.
  _
  _
- 1. Licht dieser Welt, du strahlst in unsrer Nacht auf,
+ Licht dieser Welt, du strahlst in unsrer Nacht auf,
  leuchtest den Weg, lässt mich sehn.
  Herr, deine Schönheit lässt mich anbeten.
  Ewig werd ich vor dir stehn.
@@ -3262,13 +3617,13 @@ OpenSong/Songs/Here I am to worship
  du nur bist vollkommen gut zu mir.
 
 [V2]
- 2. King of all days, oh so highly exalted,
+ King of all days, oh so highly exalted,
  glorious in heaven above.
  Humbly you came to the earth you created,
  all for love's sake became poor.
  _
  _
- 2. Herr aller Zeiten, du bist hoch erhaben,
+ Herr aller Zeiten, du bist hoch erhaben,
  herrlich im Himmel erhöht.
  Doch voller Demut kamst du auf die Erde,
  zeigst, worin Liebe besteht.
@@ -3437,7 +3792,7 @@ OpenSong/Songs/Higher
 <song>
   <title>Higher</title>
   <lyrics>[V1]
- 1. Who gives orders to the morning,
+ Who gives orders to the morning,
  tells the sun where to rise?
  Who speaks life into existence,
  tells the dark where to reside?
@@ -3449,7 +3804,7 @@ OpenSong/Songs/Higher
  und du spannst den Himmel weit.
 
 [V2]
- 2. Who chose to love the unloving,
+ Who chose to love the unloving,
  told the crippled to rise up,
  chose to die for my redemption,
  came to mend the broken heart?
@@ -3711,6 +4066,54 @@ OpenSong/Songs/How great thou art _ Du gro�er Gott
   <copyright></copyright>
   <presentation>V1 C V2 C V3 C V4 C</presentation>
   <ccli></ccli>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+OpenSong/Songs/How He Loves Us 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>How He Loves Us</title>
+  <lyrics>[V]
+ He is jealous for me
+ Love's like a hurricane, and I am a tree
+ Bending beneath the weight of His wind and mercy
+ When all of a sudden,
+ I am unaware of these afflictions eclipsed by glory
+ And I realize just how beautiful you are and how great your affections are for me.
+
+[C]
+ And oh, how he loves us.
+ Oh how he loves us, how he loves us, oh.
+
+[B]
+ We are his portion and he is our prize,
+ drawn to redemption by the grace in his eyes.
+ If grace is an ocean, we're all sinking,
+ so heaven meets earth like a sloppy wet kiss
+ and my heart turns violently inside of my chest.
+ I don't have time to maintain these regrets
+ when I think about the way.
+</lyrics>
+  <author>Kim Walker-Smith &amp; John Mark McMillan / Jesus Culture, 2005</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -3995,14 +4398,14 @@ OpenSong/Songs/I will follow _ Where you go
  Ich geh deinen Weg, bleib, wo ich dich seh,
  lauf dir hinterher, Herr, ich folge dir.
 
-[V1] 
- 1. All your ways are good. All your ways are sure.
+[V
+ All your ways are good. All your ways are sure.
  I will trust in you alone.
  Higher than my sight. High above my life.
  I will trust in you alone, in you alone.
  _
  _
- 1. Herr, dein Weg ist gut, du gehst ihn mit mir.
+ Herr, dein Weg ist gut, du gehst ihn mit mir.
  Ich vertraue dir allein.
  Du siehst weiter, Herr, siehst, was ich nicht seh. 
  Ich vertraue dir allein, nur dir allein.
@@ -4020,13 +4423,13 @@ OpenSong/Songs/I will follow _ Where you go
  Herr, ich folge dir, ja, Herr, ich folge dir, ja.
 
 [V2]
- 2. Light into the world. Light into my life.
+ Light into the world. Light into my life.
  I will live for you alone.
  You're the one I seek, knowing I will find,
  all I need in you alone, in you alone.
  _
  _
- 2. Du strahlst in die Welt, du erhellst mein Herz,
+ Du strahlst in die Welt, du erhellst mein Herz,
  für dich lebe ich allein.
  Du vereinst in dir, was mein Herz begehrt.
  Bei dir find ich, was ich brauch, bei dir allein.
@@ -4295,7 +4698,7 @@ OpenSong/Songs/Im Einfachen sehn
   <hymn_number>94</hymn_number>
   <capo print="false"></capo>
   <lyrics>[V1]
- 1. Du hast Schönheit zum Leben erweckt,
+ Du hast Schönheit zum Leben erweckt,
  lass mich dich im Einfachen sehn.
  Deine Liebe hast du in uns gesetzt,
  lass mich dich im Einfachen sehn.
@@ -4307,7 +4710,7 @@ OpenSong/Songs/Im Einfachen sehn
  voll Ehrfurcht seh' ich dich, erfassen kann ich's nicht.
 
 [V2]
- 2. Ganz umgeben von Wundern bin ich,
+ Ganz umgeben von Wundern bin ich,
  lass mich dich im Einfachen sehn.
  Im Erstaunen da finde ich dich,
  lass mich dich im Einfachen sehn.
@@ -4478,7 +4881,7 @@ OpenSong/Songs/In the quiet _ There is no one else for me
   <hymn_number>99</hymn_number>
   <capo print="false"></capo>
   <lyrics>[V1]
- 1. In the quiet, in the stillness, I know that you are God.
+ In the quiet, in the stillness, I know that you are God.
  In the secret of your presence, I know there I am restored.
  When you call I won't refuse, each new day again I'll choose.
  _
@@ -4487,7 +4890,7 @@ OpenSong/Songs/In the quiet _ There is no one else for me
  Crucified to set me free, now I live to bring him praise.
 
 [V2]
- 2. In the chaos, in confusion, I know you're sovereign still.
+ In the chaos, in confusion, I know you're sovereign still.
  In the moment of my weakness, you give me grace to do your will.
  When you call I won't delay, this, my song, through all my days.
  _
@@ -4526,7 +4929,7 @@ OpenSong/Songs/In the secret
   <hymn_number>15</hymn_number>
   <capo print="false"></capo>
   <lyrics>[V1]
- 1. In the secret, in the quiet place, in the stillness you are there.
+ In the secret, in the quiet place, in the stillness you are there.
  In the secret, in the quiet hour I wait only for you, 
  'cause I want to know you more.
  _
@@ -4906,7 +5309,7 @@ OpenSong/Songs/Maestro aller Welt
 <song>
   <title>Maestro aller Welt</title>
   <lyrics>[V1]
- 1. Er sieht mich an, gibt einen Wink,
+ Er sieht mich an, gibt einen Wink,
  ich hole Atem und ich sing.
  Schlägt er den Takt, bin ich dabei.
  _
@@ -4928,7 +5331,7 @@ OpenSong/Songs/Maestro aller Welt
  Applaus an ihn.
 
 [V2]
- 2. Er ist Maestro aller Welt.
+ Er ist Maestro aller Welt.
  Wer nur sein Sakkozipfel hält
  oder ihm glaubt, ist VIP.
  _
@@ -5111,7 +5514,7 @@ OpenSong/Songs/Mary did you know
   <title>Mary did you know</title>
   <lyrics>
 [V1]
- 1. Mary, did you know, that your baby boy would someday walk on water?
+ Mary, did you know, that your baby boy would someday walk on water?
  Mary, did you know that your baby boy would save our sons and daughters? 
  Did you know that your baby boy has come to make you new?   
  This child that you've delivered will soon deliver you
@@ -5123,7 +5526,7 @@ OpenSong/Songs/Mary did you know
  Dieses Kind, das du gebären wirst, wird uns erretten.
 
 [V2]
- 2. Mary, did you know that your baby boy will give sight to a blind man?
+ Mary, did you know that your baby boy will give sight to a blind man?
  Mary, did you know that your baby boy would calm the sea with his hand
  Did you know that your baby boy has walked where angels trod?
  When you've kissed your little baby, then you've kissed the face of God.
@@ -5149,7 +5552,7 @@ OpenSong/Songs/Mary did you know
 
 
 [V3]
- 3. Mary, did you know that your baby boy is Lord of all creation?
+ Mary, did you know that your baby boy is Lord of all creation?
  Mary, did you know that your baby boy will one day rule the nations?
  Did you know that your baby boy was heaven's perfect lamb?
  This sleeping child you're holding is the great "I Am".
@@ -5164,50 +5567,6 @@ OpenSong/Songs/Mary did you know
   <copyright></copyright>
   <hymn_number></hymn_number>
   <presentation></presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <linked_songs/>
-  <tempo></tempo>
-  <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
-</song>
-
--------------------------------------------------------
--------------------------------------------------------
-
-OpenSong/Songs/Mein ganzes Leben 
-
-<?xml version="1.0" encoding="UTF-8"?>
-<song>
-  <title>Mein ganzes Leben / Surrender</title>
-  <lyrics>[V1]
- Ich gebe dir mein Herz und alles was ich bin,
- um deinetwillen, Herr, leg ich alles vor dir hin.
- Das was ich mir erträum, was meine Rechte wärn.
- Ich gebe alles auf für ein neues Leben, Herr.
-
-[C]
- Mein ganzes Leben geb ich dir, geb ich dir.
- Mein ganzes Leben geb ich dir, geb ich dir.
-
-[V2]
- Ich sing dir dieses Lied, ich warte vor dem Kreuz,
- und was die Welt sich wünscht verliert all seinen Reiz.
- Ich will dich kennen, Herr, und deine Herrlichkeit
- die Freude, die du teilst, sogar in deinem Leid.
-
- </lyrics>
-  <author>Marc James / Vineyard, 2000</author>
-  <copyright></copyright>
-  <hymn_number></hymn_number>
-  <presentation>V1 C V2 C</presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
@@ -5665,18 +6024,18 @@ OpenSong/Songs/My lighthouse
   <hymn_number>77</hymn_number>
   <capo print="false"></capo>
   <lyrics>[V1]
- 1. In my wrestling and in my doubts, in my failures, you won't walk out. 
+ In my wrestling and in my doubts, in my failures, you won't walk out. 
  Your great love will lead me through.
  You are the peace in my troubled sea. (2x)
  _
- 2. In the silence you won't let go, in the questions your truth will hold. 
+ In the silence you won't let go, in the questions your truth will hold. 
  Your great love will lead me through. 
  You are the peace in my troubled sea. (2x)
  _
  _
- 1. In meinem Ringen und Zweifeln, in meinen Fehlern, wirst du mich nicht verlassen. 
+ In meinem Ringen und Zweifeln, in meinen Fehlern, wirst du mich nicht verlassen. 
  Deine große Liebe führt mich durch. Du bist der Frieden in meinem unruhigen Meer.
- 2. In der Stille wirst du nicht loslassen, in Fragen wird deine Wahrheit halten. 
+ In der Stille wirst du nicht loslassen, in Fragen wird deine Wahrheit halten. 
  Deine große Liebe führt mich durch. Du bist der Frieden in meinem unruhigen Meer.
 
 [C]
@@ -5690,7 +6049,7 @@ OpenSong/Songs/My lighthouse
  Mein Leuchtturm, ich werde dem Versprechen vertrauen, du wirst mich sicher an Land bringen.
 
 [V3]
- 3. I won't fear what tomorrow brings, with each morning I'll rise and sing. 
+ I won't fear what tomorrow brings, with each morning I'll rise and sing. 
  My God's love will lead me through.
  You are the peace in my troubled sea. (2x)
  _
@@ -5702,7 +6061,7 @@ OpenSong/Songs/My lighthouse
  Fire before us, you're the brightest, you will lead us through the storms.
  _
  _
- 3. Ich werde nicht fürchten, was morgen bringt, jeden Morgen werde ich aufstehen und singen. 
+ Ich werde nicht fürchten, was morgen bringt, jeden Morgen werde ich aufstehen und singen. 
  Die Liebe meines Gottes wird mich durchführen. Du bist der Frieden in meinem unruhigen Meer.
  _
  Feuer vor uns, du leuchtest hell, du wirst uns durch die Stürme führen.
@@ -5878,7 +6237,7 @@ OpenSong/Songs/No longer slaves
   <hymn_number>83</hymn_number>
   <capo print="false"></capo>
   <lyrics>[V1]
- 1. You unravel me with a melody. 
+ You unravel me with a melody. 
  You surround me with a song of deliverance from my enemies,
  'til all my fears are gone.
  _
@@ -5892,7 +6251,7 @@ OpenSong/Songs/No longer slaves
  ich bin ein Kind Gottes.
 
 [V2]
- 2. From my mother's womb you have chosen me. Love has called my name. 
+ From my mother's womb you have chosen me. Love has called my name. 
  I've been born again into your family. Your blood flows through my veins.
  _
  I'm no longer a slave to fear, I am a child of God.
@@ -6021,7 +6380,7 @@ OpenSong/Songs/Nur den Saum deines Gewandes
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Jesus berühre mich</title>
-  <lyrics> 1. Nur den Saum deines Gewandes einen Augenblick berührn,
+  <lyrics> Nur den Saum deines Gewandes einen Augenblick berührn,
  und die Kraft, die von dir ausgeht, tief in meinem Innern spürn.
  Nur ein Blick aus deinen Augen, nur ein Wort aus deinem Mund,
  und die Heilungsströme fließen; meine Seele wird gesund.
@@ -6031,7 +6390,7 @@ OpenSong/Songs/Nur den Saum deines Gewandes
  Jesus, ich spüre dich, strecke mich aus nach dir, berühre dich
  und mein Herz brennt von Neuem nur für dich - in deiner Gegenwart
  _
- 2. Nur ein Stück vom Brot des Lebens, nur ein Tropfen aus dem Kelch,
+ Nur ein Stück vom Brot des Lebens, nur ein Tropfen aus dem Kelch,
  dann bin ich mit dir verbunden und mein Hunger wird gestillt.
  Nur ein Schluck vom Strom des Lebens, von dem Wasser, das du gibst,
  und die Ströme werden fließen, aus der Quelle tief in mir.
@@ -6236,13 +6595,13 @@ OpenSong/Songs/Oceans (where feet may fail)
   <hymn_number>66</hymn_number>
   <capo print="false"></capo>
   <lyrics>[V1]
- 1. You call me out upon the waters,
+ You call me out upon the waters,
  the great unknown, where feet may fail.
  And there I find you in the mystery.
  In oceans deep, my faith will stand.
  _
  _
- 1. Du rufst mich raus aufs weite Wasser,
+ Du rufst mich raus aufs weite Wasser,
  wo Füße nicht mehr sicher stehn.
  Dort finde ich dich im Verborgnen.
  Mein Glaube trägt im tiefen Meer.
@@ -6260,19 +6619,19 @@ OpenSong/Songs/Oceans (where feet may fail)
 
 
 [V2]
- 2. Your grace abounds in deepest waters,
+ Your grace abounds in deepest waters,
  your sovereign hand will be my guide. 
  Where feet may fail and fear surrounds me,
  you've never failed and you won't start now.
  _
  _
- 2. Die Gnade strömt wie tiefes Wasser,
+ Die Gnade strömt wie tiefes Wasser,
  und deine Hand zeigt mir den Weg.
  Wenn Angst mich lähmt und ich versage,
  lässt du nie los und gibst niemals auf.
 
 [B]
- Spirit lead me where my trust is without borders, 
+ Spirit, lead me where my trust is without borders, 
  let me walk upon the waters, wherever you would call me.
  Take me deeper than my feet could ever wander,
  and my faith will be made stronger in the presence of my savior.
@@ -6313,7 +6672,7 @@ OpenSong/Songs/One thing remains
   <capo print="false"></capo>
   <lyrics>
 [V1]
- 1. Higher than the mountains that I face,
+ Higher than the mountains that I face,
  stronger than the power of the grave,
  constant through the trial and the change,
  one thing remains, one thing remains:
@@ -6329,7 +6688,7 @@ OpenSong/Songs/One thing remains
 
 
 [V2]
- 2. On and on and on and on it goes.
+ On and on and on and on it goes.
  It overwhelms and satisfies my soul.
  And I never, ever, have to be afraid.
  One thing remains, one thing remains:
@@ -6489,7 +6848,7 @@ OpenSong/Songs/Our God is greater
  _
  _
  Und steht uns Gott zur Seite, was kann uns jemals hindern?
- Und steht uns Gott zur Seite, was kann uns je geschehen?
+ Und steht uns Gott zur Seite, wer kann uns widerstehn?
  _
  Gott, du bist größer, Gott, du bist stärker,
  Gott, du stehst höher als alles andre!
@@ -6539,6 +6898,60 @@ OpenSong/Songs/Peace like a river
   <copyright></copyright>
   <presentation></presentation>
   <ccli></ccli>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+OpenSong/Songs/Pieces 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Pieces</title>
+  <lyrics>[V1]
+ Unreserved, unrestrained,
+ your love is wild, your love is wild for me.
+ It isn't shy, it's unashamed,
+ your love is proud to be seen with me.
+ _
+ Vorbehaltlos, hemmungslos, deine Liebe ist wild für mich.
+ Sie ist nicht schüchtern, ist unbeschämt,
+ deine Liebe ist stolz darauf, mit mir gesehen zu werden.
+ 
+[C]
+ You don't give your heart in pieces,
+ you don't hide yourself to tease us.
+ _
+ Du gibst dein Herz nicht in Stücke,
+ du versteckst dich nicht, um uns zu ärgern.
+
+[V2]
+ Uncontrolled, uncontained,
+ your love is a fire burning bright for me.
+ It's not a spark, it's not just a flame,
+ your love is light, and all the world will see:
+ _
+ Unkontrolliert, schrankenlos,
+ deine Liebe ist ein Feuer, das hell für mich brennt.
+ Sie ist kein Funke, nicht nur eine Flamme,
+ deine Liebe ist Licht und die ganze Welt wird sehen:</lyrics>
+  <author>A. Cook &amp; S.F. Gretzinger / Bethel Music, 2015</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 C V2 C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -6605,7 +7018,7 @@ OpenSong/Songs/Pursue
 <song>
   <title>Pursue</title>
   <lyrics>[V1]
- 1. I close my eyes to see
+ I close my eyes to see
  my king in majesty.
  Your grace compels my soul
  to love and draw in close.
@@ -6615,7 +7028,7 @@ OpenSong/Songs/Pursue
  Deine Gnade bringt meine Seele dazu, dir in Liebe nahe zu sein.
 
 [V2]
- 2. I lift my hands and sing,
+ I lift my hands and sing,
  surrender everything.
  In you I know I'm found.
  My God, to you I'll bow.
@@ -6703,9 +7116,9 @@ OpenSong/Songs/Reckless love
  You have been so, so kind to me.
  _
  Bevor ich ein Wort sprach, sangst du über mich.
- du bist so, so gut zu mir.
+ du bist so gut zu mir.
  Bevor ich einen Atemzug nahm, hast du dein Leben in mich gehaucht.
- du bist so, so gütig zu mir.
+ du bist so gütig zu mir.
 
 [C]
  Oh, the overwhelming, never-ending, reckless love of God.
@@ -6713,10 +7126,10 @@ OpenSong/Songs/Reckless love
  I couldn't earn it, and I don't deserve it, still, you give yourself away.
  Oh, the overwhelming, never-ending, reckless love of God, yeah.
  _
- Oh die überwältigende, niemals endende,rücksichtslose Liebe Gottes.
- Oh es verfolgt mich, kämpft bis ich gefunden bin, verlässt die 99 Schafe.
+ Oh die überwältigende, niemals endende, verwegene Liebe Gottes.
+ Sie verfolgt mich, kämpft bis ich gefunden bin, verlässt die 99 Schafe.
  Ich hab es nicht verdient, dass du dich aufgibst.
- Oh die überwältigende, niemals endende, rücksichtslose Liebe von Gott.
+ Oh die überwältigende, niemals endende, verwegene Liebe Gottes.
 
 [V2]
  When I was your foe, still your love fought for me.
@@ -6725,9 +7138,9 @@ OpenSong/Songs/Reckless love
  You have been so, so kind to me.
  _
  Als ich dein Feind war, hat deine Liebe dennoch für mich gekämpft,
- du bist so, so gut zu mir.
+ du bist so gut zu mir.
  Als ich keinen Wert fühlte, bezahltest du alles für mich,
- du bist so, so gütig zu mir.
+ du bist so gütig zu mir.
 
 [B]
  There's no shadow you won't light up,
@@ -6772,7 +7185,7 @@ OpenSong/Songs/Revelation Song _ Heilig, heilig
   <capo print="false"></capo>
   <lyrics>
 [V1]
- 1. Worthy is the lamb who was slain. Holy, holy is he.
+ Worthy is the lamb who was slain. Holy, holy is he.
  Sing a new song to him who sits on heaven's mercy seat.
  _
  Holy, holy, holy, is the Lord, God, almighty.
@@ -6781,7 +7194,7 @@ OpenSong/Songs/Revelation Song _ Heilig, heilig
  you are my everything, and I will adore you".
  _
  _
- 1. Heilig, heilig, das Lamm Gottes, das geopfert ist.
+ Heilig, heilig, das Lamm Gottes, das geopfert ist.
  Lob und Ehre sei dir dem König auf dem Gnadenthron.
  _
  Heilig, heilig, heilig, ist der Herr, Gott, allmächtig,
@@ -6791,7 +7204,7 @@ OpenSong/Songs/Revelation Song _ Heilig, heilig
 
 
 [V2]
- 2. Clothed in rainbows, of living color. Flashes of lightening, rolls of thunder.
+ Clothed in rainbows, of living color. Flashes of lightening, rolls of thunder.
  Blessing and honor, strength and glory and power be to you, the only wise King.
  _
  Holy, holy, holy, is the Lord, God, almighty.
@@ -6800,7 +7213,7 @@ OpenSong/Songs/Revelation Song _ Heilig, heilig
  you are my everything, and I will adore you".
  _
  _
- 2. Deine Schönheit ist unbeschreiblich. Dein Licht strahlt heller als die Sonne.
+ Deine Schönheit ist unbeschreiblich. Dein Licht strahlt heller als die Sonne.
  Lobpreis und Ehre, Weisheit und Macht sei dir allein; nur dir, dem einzig wahren Gott.
  _
  Heilig, heilig, heilig, ist der Herr, Gott, allmächtig,
@@ -6810,7 +7223,7 @@ OpenSong/Songs/Revelation Song _ Heilig, heilig
 
 
 [V3]
- 3. Filled with wonder, awestruck wonder, at the mention of your name.
+ Filled with wonder, awestruck wonder, at the mention of your name.
  Jesus, your name is power, breath and living water. Such a marvelous mystery.
  _
  Holy, holy, holy, is the Lord, God, almighty.
@@ -6819,7 +7232,7 @@ OpenSong/Songs/Revelation Song _ Heilig, heilig
  you are my everything, and I will adore you".
  _
  _
- 3. Wenn dein Name auch nur erwähnt wird, wirkst du Wunder unter uns.
+ Wenn dein Name auch nur erwähnt wird, wirkst du Wunder unter uns.
  Jesus in deinem Namen ist die Kraft zum Leben. Welch ein Geheimnis öffnet sich!
  _
  Heilig, heilig, heilig, ist der Herr, Gott, allmächtig,
@@ -6855,7 +7268,7 @@ OpenSong/Songs/Sch�pfer aller Himmel _ Maker of the heavens
   <hymn_number>70</hymn_number>
   <capo print="false"></capo>
   <lyrics>
- 1. Maker of the heavens, painter of the sky, your greatest work reserved, for such as I.
+ Maker of the heavens, painter of the sky, your greatest work reserved, for such as I.
  The angels long to sing about the gift you gave to me, 
  the love of God so unrestrained and free.
  _
@@ -6863,7 +7276,7 @@ OpenSong/Songs/Sch�pfer aller Himmel _ Maker of the heavens
  You, oh Lord, are the essence of praise. I treasure you for who you are.
  _
  _
- 1. Schöpfer aller Himmel, der die Welt gemacht,  dein grösstes Werk hast du in mir vollbracht.
+ Schöpfer aller Himmel, der die Welt gemacht,  dein grösstes Werk hast du in mir vollbracht.
  Engel wollen singen von dem, was du mir gabst:  Liebe, die niemals ein Ende hat.
  _
  In dir, O Herr, erfüllt sich mein Gebet,  die Worte, die mein Herz nur sagen kann.
@@ -6871,7 +7284,7 @@ OpenSong/Songs/Sch�pfer aller Himmel _ Maker of the heavens
 
 
 [V2]
- 2. Maker of the heavens, painter of the sky,  the day will come, when I will see your face.
+ Maker of the heavens, painter of the sky,  the day will come, when I will see your face.
  I've loved you since I've known you, and I have grown to love you more.
  Each day my heart sails further from the shore.
  _
@@ -6879,7 +7292,7 @@ OpenSong/Songs/Sch�pfer aller Himmel _ Maker of the heavens
  You, oh Lord, are the essence of praise. I treasure you for who you are.
  _
  _
- 2. Schöpfer aller Himmel, der die Welt gemacht,  dein Angesicht erhellt die tiefste Nacht.
+ Schöpfer aller Himmel, der die Welt gemacht,  dein Angesicht erhellt die tiefste Nacht.
  Seitdem ich dich gefunden, liebe ich dich Herr.  Nach dir allein verlangt mein Herz so sehr.
  _
  In dir, O Herr, erfüllt sich mein Gebet,  die Worte, die mein Herz nur sagen kann.
@@ -6919,13 +7332,13 @@ OpenSong/Songs/Schritte wagen
  Schritte wagen, weil im Aufbruch ich nur sehen kann:
  Für mein Leben gibt es einen Plan.
  _
- 1. Schritte kann man manchmal sehen, Spuren, die noch nicht verweht.
+ Schritte kann man manchmal sehen, Spuren, die noch nicht verweht.
  Wege, die auch andere gehen, ob da jemand vor mir geht?
  _
- 2. Schritte kann man manchmal hören, Kinder trippeln, Stöckelschuh,
+ Schritte kann man manchmal hören, Kinder trippeln, Stöckelschuh,
  Gleichschrittschritte, die mich stören, Schritte kommen auf mich zu.
  _
- 3. Schritte kann man manchmal spüren, Freude will mit mir hinaus,
+ Schritte kann man manchmal spüren, Freude will mit mir hinaus,
  Füße fangen an zu frieren, tanzen, kommen auf mich zu.
 
 [V2]
@@ -6934,10 +7347,10 @@ OpenSong/Songs/Schritte wagen
  Schritte wagen, weil im Aufbruch ich nur sehen kann:
  Für mein Leben gibt es einen Plan.
  _
- 4. Schritte kann man sich erdenken, klug beschreiben einen Schritt.
+ Schritte kann man sich erdenken, klug beschreiben einen Schritt.
  Manches kann man sich auch schenken, nimmt der Kopf den Fuß nicht mit.
  _
- 5. Schritte kann und darf man gehen, Schritte führen uns zum Ziel.
+ Schritte kann und darf man gehen, Schritte führen uns zum Ziel.
  Ohne Schritte bleibst du stehen und verpasst dabei so viel.
  </lyrics>
   <copyright></copyright>
@@ -6965,7 +7378,7 @@ OpenSong/Songs/Seasons
 <song>
   <title>Seasons</title>
   <lyrics>[V1]
- 1. Like the frost on a rose, winter comes for us all.
+ Like the frost on a rose, winter comes for us all.
  Oh how nature acquaints us with the nature of patience.
  Like a seed in the snow, I've been buried to grow.
  For your promise is loyal, from seed to sequoia.
@@ -6992,7 +7405,7 @@ OpenSong/Songs/Seasons
  Ich glaube, dass meine Saison kommen wird.
 
 [V2]
- 2. Lord I think of your love, like the low winter sun.
+ Lord I think of your love, like the low winter sun.
  As I gaze I am blinded in the light of your brightness.
  Like a fire to the snow, I'm renewed in your warmth.
  Melt the ice of this wild soul till the barren is beautiful.
@@ -7033,7 +7446,7 @@ OpenSong/Songs/Seasons
  And when I finally see my tree,
  still I believe there's a season to come.
  _
- 3. Like a seed you were sown for the sake of us all.
+ Like a seed you were sown for the sake of us all.
  From Bethlehem's soil grew Calvary's sequoia.
  _
  _
@@ -7116,13 +7529,13 @@ OpenSong/Songs/Sinking deep
   <hymn_number>67</hymn_number>
   <capo print="false"></capo>
   <lyrics>[V1]
- 1. Standing here in your presence, in a grace so relentless.
+ Standing here in your presence, in a grace so relentless.
  I am won by perfect love.
  Wrapped within the arms of heaven, in a peace that lasts forever,
  sinking deep in mercy's sea.
  _
  _
- 1. Deine Gegenwart umgibt mich mit unermesslicher Gnade.
+ Deine Gegenwart umgibt mich mit unermesslicher Gnade.
  Ich wurde überzeugt durch vollkommene Liebe.
  Behütet in himmlischen Armen, im ewigdauernden Frieden,
  sinke ich ins Meer der Barmherzigkeit.
@@ -7141,13 +7554,13 @@ OpenSong/Songs/Sinking deep
 
 
 [V2]
- 2. When I'm lost, you pursue me, lift my head to see your glory.
+ When I'm lost, you pursue me, lift my head to see your glory.
  Lord of all, so beautiful.
  Here in you I find shelter, captivated by the splendour
  of your face, my secret place.
  _
  _
- 2. Wenn ich mich verirrt habe, weist du mir den Weg,
+ Wenn ich mich verirrt habe, weist du mir den Weg,
  hebst meinen Kopf an, dass ich deine Herrlichkeit sehe.
  Herr über alles, so schön, in dir finde ich meinen Schutz.
  Gefesselt von der Pracht deines Antlitzes; Mein geheimer Ort.
@@ -7192,12 +7605,12 @@ OpenSong/Songs/So lange ich lebe
   <hymn_number>90</hymn_number>
   <capo print="false"></capo>
   <lyrics>
- 1. Du hast mein Herz im Sturm erobert.
+ Du hast mein Herz im Sturm erobert.
  Deine ausgestreckte Hand hat mich erreicht.
  Jesus, der Retter, der sein Leben gab,
  der aus unfassbarer Liebe für mich starb.
  _
- 2. Mein Leben ist nicht mehr dasselbe.
+ Mein Leben ist nicht mehr dasselbe.
  Nun lebst du in mir und machst mich neu.
  Dein Geist richtet mich aus auf dich allein.
  Du veränderst mich! Du veränderst mich!  Du veränderst mich!
@@ -7239,7 +7652,7 @@ OpenSong/Songs/Sovereign over us
   <capo print="false"></capo>
   <lyrics>
 [V1]
- 1. There is strength within the sorrow, there is beauty in our tears.
+ There is strength within the sorrow, there is beauty in our tears.
  And you meet us in our mourning, with a love that cast out fears.
  You are working in our waiting, sanctifying us.
  And beyond our understanding, you're teaching us to trust.
@@ -7262,7 +7675,7 @@ OpenSong/Songs/Sovereign over us
 
 
 [V2]
- 2. You are wisdom unimagined, who could understand your ways?
+ You are wisdom unimagined, who could understand your ways?
  Reigning high above the heavens, reaching down in endless grace,
  You're the lifter of the lowly, compassionate and kind.
  You surround and you uphold me, your promises are my delight.
@@ -7287,6 +7700,70 @@ OpenSong/Songs/Sovereign over us
   <copyright></copyright>
   <presentation>V1 C V2 C B C</presentation>
   <ccli></ccli>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+OpenSong/Songs/Spirit break out 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Spirit break out</title>
+  <lyrics>[V1]
+ Our father, all of heaven roars your name.
+ Sing louder, let this place erupt with praise.
+ Can you hear it, the sound of heaven touching earth,
+ the sound of heaven touching earth?
+ _
+ Unser Vater, hör, der Himmel ruft zu dir.
+ Singt lauter, deinen Namen preisen wir.
+ Unaufhaltsam, das Lied des Himmels bricht herein,
+ berührt die Erde, macht uns eins.
+
+[C]
+ Spirit break out, break our walls down.
+ Spirit break out, heaven come down.
+ _
+ Heiliger Geist, reiß die Mauern ein.
+ Heiliger Geist, komm, brich herein.
+
+[V2]
+ King Jesus, you're the name we're lifting high.
+ Your glory: shaking up the earth and skies.
+ Revival; we wanna see your kingdom here,
+ we wanna see your kingdom here.
+ _
+ König Jesus, wir erheben dich allein, 
+ die Schöpfung bebt vor deiner Herrlichkeit.
+ Erweck uns, wir wollen dein Reich kommen sehn,
+ wir wollen dein Reich kommen sehn.
+
+[B]
+ Jesus, would you shine and let the father's glory fill this land of mine?
+ Blaze, spirit, blaze, and set our hearts on fire 'til we roar your praise!
+ And flow, river flow now, let the spirit break out to break our walls down,
+ and heaven come down, heaven come down, heaven come down.
+ 
+
+</lyrics>
+  <author>Bryant &amp; Hellebronth &amp; Dhillon &amp; Hughes, 2010</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -7342,6 +7819,62 @@ OpenSong/Songs/Still (berge mich in deinem Arm)
   <copyright></copyright>
   <presentation></presentation>
   <ccli></ccli>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+OpenSong/Songs/Surrender _ Mein ganzes Leben 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Surrender / Mein ganzes Leben</title>
+  <lyrics>[V1]
+ I'm giving you my heart, and all this is within,
+ I lay it all down, for the sake of you my king.
+ I'm giving you my dreams, laying down my rights,
+ giving up my pride, for the promise of new life.
+ _
+ Ich gebe dir mein Herz und alles was ich bin,
+ um deinetwillen, Herr, leg ich alles vor dir hin.
+ Das was ich mir erträum, was meine Rechte wärn.
+ Ich gebe alles auf für ein neues Leben, Herr.
+
+[C]
+ And I surrender all to you, all to you.
+ And I surrender all to you, all to you.
+ _
+ Mein ganzes Leben geb ich dir, geb ich dir.
+ Mein ganzes Leben geb ich dir, geb ich dir.
+
+[V2]
+ I'm singing you this song, waiting at the cross.
+ All the world holds dear, I count it all as loss
+ for the sake of knowing you, for the glory of your name,
+ to know the lasting joy, even sharing in your pain.
+ _
+ Ich sing dir dieses Lied, ich warte vor dem Kreuz,
+ und was die Welt sich wünscht verliert all seinen Reiz.
+ Ich will dich kennen, Herr, und deine Herrlichkeit
+ die Freude, die du teilst, sogar in deinem Leid.
+</lyrics>
+  <author>Marc James / Vineyard, 2000</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 C V2 C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -7453,16 +7986,16 @@ OpenSong/Songs/The stand _ Ich steh vor dir
   <capo print="false"></capo>
   <lyrics>
 [V1]
- 1. You stood before creation, eternity in your hand.
+ You stood before creation, eternity in your hand.
  You spoke the earth into motion, my soul now to stand.
- 2. You stood before my failure, and carried the cross for my shame.
+ You stood before my failure, and carried the cross for my shame.
  My sin weighed upon your shoulders, my soul now to stand.
  _
  So what can I say, and what could I do, but offer this heart, o God, completely to you.
  _
- 1. Du bist der Ursprung des Lebens, du warst von Anfang an da,
+ Du bist der Ursprung des Lebens, du warst von Anfang an da,
  du hast die Erde geschaffen, durch dich bin ich hier.
- 2. Du kennst sie, all meine Fehler, du starbst am Kreuz für meine Schuld,
+ Du kennst sie, all meine Fehler, du starbst am Kreuz für meine Schuld,
  du trugst die Last meiner Sünden, darum bin ich frei.
  _
  Darum kann ich nun nichts besseres tun:
@@ -7470,7 +8003,7 @@ OpenSong/Songs/The stand _ Ich steh vor dir
 
 
 [V3]
- 3. So I'll walk upon salvation, your spirit alive in me.
+ So I'll walk upon salvation, your spirit alive in me.
  This life to declare your promise, my soul now to stand.
  _
  So what can I say, and what could I do, but offer this heart, o God, completely to you.
@@ -7478,7 +8011,7 @@ OpenSong/Songs/The stand _ Ich steh vor dir
  I'll stand, my soul, Lord, to you surrendered. All I am is yours.
  _
  _
- 3. So leb ich nun als Erlöster, und dein Geist, er lebt in mir.
+ So leb ich nun als Erlöster, und dein Geist, er lebt in mir.
  Mein Leben soll dich bezeugen, dafür bin ich hier.
  _
  Darum kann ich nun nichts besseres tun:
@@ -7514,7 +8047,7 @@ OpenSong/Songs/This I believe _ Das glaube ich
   <hymn_number>95</hymn_number>
   <capo print="false"></capo>
   <lyrics>[V1]
- 1. Ich glaube an den Vater, den Schöpfer aller Welt, Gott allmächtig.
+ Ich glaube an den Vater, den Schöpfer aller Welt, Gott allmächtig.
  Durch Gottes Geist empfangen, kam Christus in die Welt:
  Jesus, mein Retter.
  _
@@ -7525,7 +8058,7 @@ OpenSong/Songs/This I believe _ Das glaube ich
 
 
 [V2]
- 2. Mein Richter und mein Anwalt,
+ Mein Richter und mein Anwalt,
  gekreuzigt unter Leid, Vergebung ist in dir.
  Du stiegst ins Reich der Toten,
  standst auf in Herrlichkeit, und herrschst in Ewigkeit!
@@ -7535,7 +8068,7 @@ OpenSong/Songs/This I believe _ Das glaube ich
 
 
 [V3]
- 3. Ja, ich glaub, dass wir ewig leben, dass die Jungfrau den Sohn gebar.
+ Ja, ich glaub, dass wir ewig leben, dass die Jungfrau den Sohn gebar.
  Die Gemeinschaft der Kinder Gottes, die Kirche unsres Herrn.
  Ja, ich glaub an die Auferstehung, wenn Jesus wiederkommt.
  Ich glaube an deinen Namen, Jesus
@@ -7568,31 +8101,40 @@ OpenSong/Songs/This is our God
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>This is our God</title>
+  <title>This is our God / Was für ein Gott</title>
   <author>Hillsong, 2008</author>
   <hymn_number>72</hymn_number>
   <capo print="false"></capo>
   <lyrics>[V1]
- 1. Your grace is enough, more than I need. At your word I will believe. 
- I wait for you, draw near again, let your spirit make me new.
- _ 
+ Your grace is enough, more than I need.
+ At your word I will believe. 
+ I wait for you, draw near again,
+ let your spirit make me new.
  _
- Deine Gnade ist genug, mehr als ich brauche. Deinem Wort glaube ich.
- Ich warte auf dich, komme dir nahe, lass mich von deinem Geist erneuern.
+ Deine Gnade reicht aus, ist mehr als ich brauch.
+ Deinem Wort vertraue ich, zieh mich zu dir.
+ Ich wart auf dich, mach mich neu durch deinen Geist.
 
 [C]
- And I will fall at your feet, I will fall at your feet and I will worship you here.
+ And I will fall at your feet,
+ I will fall at your feet
+ and I will worship you here.
  _
- _
- Ich werde dir zu Füßen fallen und dich anbeten.
+ Jesus hier knie ich vor dir, 
+ ja, hier knie ich vor dir,
+ und ich bete dich an.
 
 [V2]
- 2. Your presence in me, Jesus light the way, by the power of your word. 
- I am restored, I am redeemed. By your spirit I am free. 
+ Your presence in me, Jesus light the way,
+ by the power of your word
+ I am restored, I am redeemed.
+ By your spirit I am free. 
  _
- _
- Deine Gegenwart in mir, Jesus erleuchte den Weg durch die Kraft deiner Worte.
- Ich bin geheilt, ich bin erlöst. Durch deinen Geist bin ich frei.
+ Deine Kraft lebt in mir, zeigt mir meinen Weg.
+ Dein Wort leuchtet hell und klar. 
+ Ich bin erlöst, wieder hergestellt 
+ und befreit durch deinen Geist.
+
 
 [B]
  Freely you gave it all for us, surrendered your life upon that cross. 
@@ -7600,11 +8142,11 @@ OpenSong/Songs/This is our God
  Lifted on high, from death to life. Forever our God is glorified. 
  Servant and king, rescued the world - this is our God.
  _
- _
- Freiwillig hast du alles für uns hingegeben, dein Leben am Kreuz geopfert.
- Groß ist die Liebe, die du allen gibst - so ist unser Gott.
- Hoch erhoben, aus dem Tod zum Leben erweckt, Gott wird für immer verherrlicht.
- Diener und König, Retter der Welt - so ist unser Gott.</lyrics>
+ Er gab sich für uns in den Tod. Ans Kreuz schlug man ihn, den wahren Gott,
+ der sich selbst gibt, weil er uns liebt. Was für ein Gott!
+ Er überwand des Todes Macht, wird ewig geehrt in seiner Pracht.
+ Diener und Held, Retter der Welt, was für ein Gott!
+</lyrics>
   <copyright></copyright>
   <presentation>V1 C V2 C B C</presentation>
   <ccli></ccli>
@@ -7635,7 +8177,7 @@ OpenSong/Songs/Thy word
   <lyrics>[V1]
  Thy word is a lamp unto my feet and a light unto my path. (2x)
  _
- 1. When I feel afraid, think I've lost my way,
+ When I feel afraid, think I've lost my way,
  still you're there right beside me.
  Nothing will I fear as long as you are near.
  Please be near me to the end.
@@ -7644,27 +8186,27 @@ OpenSong/Songs/Thy word
  Dein Wort ist ein Licht auf meinem Weg, wenn ich durch das Dunkel geh'.
  Dein Wort ist ein Licht auf meinem Weg, lässt mich deine Hilfe seh'n.
  _
- 1. Nebel ringsumher, ich seh' dich nicht mehr,
+ Nebel ringsumher, ich seh' dich nicht mehr,
  kann den Weg nicht mehr sehen.
  Doch dein Wort ist das Licht, das durch den Nebel bricht.
  Du führst mich an deiner Hand.
 
 
 [V2]
- 2. I will not forget your love for me and yet my heart forever is wandering.
+ I will not forget your love for me and yet my heart forever is wandering.
  Jesus be my guide, and hold me to your side, I will love you to the end.
  _
  Thy Word is a lamp unto my feet and a light unto my path. (2x)
  _
  _
- 2. Mauern hart und kalt, geben keinen Halt, drohend stehen sie vor mir.
+ Mauern hart und kalt, geben keinen Halt, drohend stehen sie vor mir.
  Doch dein Wort ist mein Schwert, das aller Härte wehrt.
  Du stellst mich auf weitem Raum.
  _
  Dein Wort ist ein Licht auf meinem Weg, wenn ich durch das Dunkel geh'.
  Dein Wort ist ein Licht auf meinem Weg, lässt mich deine Hilfe seh'n.
  _ 
- 3. Tränen wischst du fort, tröstest durch dein Wort, Kraft zum Leben gibst du mir.
+ Tränen wischst du fort, tröstest durch dein Wort, Kraft zum Leben gibst du mir.
  Und wie ein weites Meer ist dein Wort, großer Herr, unergründlich tief und reich.
  </lyrics>
   <copyright></copyright>
@@ -7773,30 +8315,30 @@ OpenSong/Songs/Vater, unser Vater
   <capo print="false"></capo>
   <lyrics>
 [V1]
- 1. Bist zu uns wie ein Vater, der sein Kind nie vergisst,
+ Bist zu uns wie ein Vater, der sein Kind nie vergisst,
  der trotz all seiner Größe immer ansprechbar ist.
  _
  Vater, unser Vater, alle Ehre deinem Namen.
  Vater, unser Vater, bis ans Ende der Zeiten. Amen.
  _
- 2. Deine Herrschaft soll kommen, das, was du willst, geschehn,
+ Deine Herrschaft soll kommen, das, was du willst, geschehn,
  auf der Erde, im Himmel sollen alle es sehn.
  _
- 3. Gib uns das, was wir brauchen, gib uns heut unser Brot,
+ Gib uns das, was wir brauchen, gib uns heut unser Brot,
  und vergib uns den Aufstand gegen dich und dein Gebot.
 
 
 [V2]
- 4. Lehre uns zu vergeben, so wie du uns vergibst.
+ Lehre uns zu vergeben, so wie du uns vergibst.
  Laß uns treu zu dir stehen, so wie du immer liebst.
  _
- 5. Nimm Gedanken des Zweifels und der Anfechtung fort,
+ Nimm Gedanken des Zweifels und der Anfechtung fort,
  mach uns frei von dem Bösen durch dein mächtiges Wort.
  _
  Vater, unser Vater, alle Ehre deinem Namen.
  Vater, unser Vater, bis ans Ende der Zeiten. Amen.
  _
- 6. Deine Macht hat kein Ende, wir vertrauen darauf.
+ Deine Macht hat kein Ende, wir vertrauen darauf.
  Bist ein herrlicher Herrscher, und dein Reich hört nie auf.
 
 </lyrics>
@@ -7828,13 +8370,13 @@ OpenSong/Songs/Voice of truth _ Stimme seiner Wahrheit
   <hymn_number>40</hymn_number>
   <capo print="false"></capo>
   <lyrics>[V11]
- 1. Oh what I would do to have the kind of faith it takes
+ Oh what I would do to have the kind of faith it takes
  to climb out of this boat I'm in, onto the crashing waves,
  to step out of my comfort zone, into the realm of the unknown
  where Jesus is and he's holding out his hand.
  _
  _
- 1. Wenn ich nur den Glauben hätt'
+ Wenn ich nur den Glauben hätt'
  um aus dem Boot zu steigen und auf dem Meer zu gehen. 
  Was würd ich dafür tun! Ein Schritt aus meiner kleinen Welt,
  in ungewisses neues Land, wo Jesus ist und er reicht mir seine Hand.
@@ -7868,13 +8410,13 @@ OpenSong/Songs/Voice of truth _ Stimme seiner Wahrheit
 
 
 [V21]
- 2. Oh what I would do to have the kind of strength it takes
+ Oh what I would do to have the kind of strength it takes
  to stand before a giant with just a sling and a stone
  surrounded by the sound of a thousand warriors shaking in their armor,
  wishing they'd have had the strength to stand.
  _
  _
- 2. Wenn ich nur die Stärke hätt, den Riesen zu bekämpfen,
+ Wenn ich nur die Stärke hätt, den Riesen zu bekämpfen,
  nur mit einer Schleuder und einem einzigen Stein.
  Um mich rum der Klang von tausend Kriegern
  die vor Angst nur zittern und sich wünschten, so mutig zu sein.
@@ -7967,18 +8509,18 @@ OpenSong/Songs/Vor dir _ In deinem Licht will ich leben
   <hymn_number>97</hymn_number>
   <capo print="false"></capo>
   <lyrics>[V1]
- 1. Vor dir kommt mein Herz zur Ruhe.
+ Vor dir kommt mein Herz zur Ruhe.
  Vor dir atmet meine Seele auf.
  Vor dir fallen meine Masken ab. Vor dir.
  _
- 2. Vor dir werden meine Sorgen klein.
+ Vor dir werden meine Sorgen klein.
  Vor dir werden meine Wunden heil.
  Vor dir mach ich meine Fäuste auf. Vor dir.
  _
  In deinem Licht will ich leben, und deinen Willen tun,
  deinen Wegen folgen, dir mein Leben anvertraun.
  _
- 3. Vor dir darf ich deine Wahrheit sehn.
+ Vor dir darf ich deine Wahrheit sehn.
  Vor dir müssen alle Schatten fliehn.
  Vor dir stehe ich in deinem Sieg. Vor dir.
  </lyrics>
@@ -8007,7 +8549,7 @@ OpenSong/Songs/Warum feiern wir nicht
 <song>
   <title>Warum feiern wir nicht</title>
   <lyrics>[V1]
- 1. Wir haben reich gedeckte Tische.
+ Wir haben reich gedeckte Tische.
  als wenn das selbstverständlich wär,
  Schutz und Wärme, ein Zuhause.
  Wir können uns wirklich nicht beschweren.
@@ -8024,7 +8566,7 @@ OpenSong/Songs/Warum feiern wir nicht
  Warum feiern wir nicht gemeinsam?
 
 [V2]
- 2. Wir sind zutiefst geliebte Kinder
+ Wir sind zutiefst geliebte Kinder
  von dem Schöpfer aller Welt,
  und als Könige und Priester
  so hat er uns dargestellt.
@@ -8097,10 +8639,10 @@ OpenSong/Songs/We have a saviour
   <capo print="false"></capo>
   <lyrics>
 [V1]
- 1. A child has been given, the king of our freedom.
+ A child has been given, the king of our freedom.
  Sing, for the light has come: this is christmas.
  _
- 2. Come and adore him, and bring gifts before him.
+ Come and adore him, and bring gifts before him.
  Joy to the world, worship the son: this is christmas.
  _
  _
@@ -8125,7 +8667,7 @@ OpenSong/Songs/We have a saviour
 
 
 [V3]
- 3. Sing with angels and lift up your voices.
+ Sing with angels and lift up your voices.
  Join in the song of hope: this is christmas
  _
  This is Jesus, Emmanuel here with us.
@@ -8265,6 +8807,61 @@ OpenSong/Songs/Weil du mich liebst
 -------------------------------------------------------
 -------------------------------------------------------
 
+OpenSong/Songs/Weite R�ume meinen F��en 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Weite Räume meinen Füßen</title>
+  <lyrics>[V1]
+ Weite Räume meinen Füßen, Horizonte tun sich auf. 
+ Zwischen Wagemut und Ängsten nimmt das Leben seinen Lauf.
+ _
+ Du stellst meine Füße auf weiten Raum.
+ Du stellst meine Füße auf weiten Raum, auf weiten Raum.
+
+[V2]
+ Schritt ins Offne, Ort zum Atmen, hinter uns die Sklaverei. 
+ Mit dem Risiko des Irrtums machst du, Gott, uns Menschen frei.
+ _
+ Du stellst meine Füße auf weiten Raum.
+ Du stellst meine Füße auf weiten Raum, auf weiten Raum.
+
+[V3]
+ Da sind Quellen, sind Ressourcen, da ist Platz für Fantasie. 
+ Zwischen Chancen und Gefahren: Perspektiven wie noch nie.
+ _
+ Du stellst meine Füße auf weiten Raum.
+ Du stellst meine Füße auf weiten Raum, auf weiten Raum.
+
+[V4]
+ Doch bleib Kompass, bleibe Richtschnur, dass wir nicht verloren gehn.
+ Zu der Weite unsrer Räume lass uns auch die Grenzen sehn.
+ _
+ Du stellst meine Füße auf weiten Raum.
+ Du stellst meine Füße auf weiten Raum, auf weiten Raum.
+</lyrics>
+  <author>Eugen Eckert &amp; Alejandro Veciana / Habakuk, 2001</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 OpenSong/Songs/What grace 
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -8318,7 +8915,7 @@ OpenSong/Songs/Who am I
   <capo print="false"></capo>
   <lyrics>
 [V1]
- 1. Who am I that the Lord of all the earth
+ Who am I that the Lord of all the earth
  would care to know my name, would care to feel my hurt?
  Who am I, that the bright and morning star
  would choose to light the way for my ever wandering heart?
@@ -8349,7 +8946,7 @@ OpenSong/Songs/Who am I
 
 
 [V2]
- 2. Who am I, that the eyes that see my sin,
+ Who am I, that the eyes that see my sin,
  would look on me with love, and watch me rise again?
  Who am I, that the voice that calmed the sea,
  would call out through the rain, and calm the storm in me?
@@ -8511,13 +9108,13 @@ OpenSong/Songs/You never let go
   <hymn_number>102</hymn_number>
   <capo print="false"></capo>
   <lyrics>[V1]
- 1. Even though I walk through the valley of the shadow of death,
+ Even though I walk through the valley of the shadow of death,
  your perfect love is casting out fear.
  And even when I'm caught in the middle of the storms of this life,
  I wont turn back, I know you are near.
  _
  _
- 1. Führt kein Weg vorbei an den Tälern, wo der Lebensmut sinkt,
+ Führt kein Weg vorbei an den Tälern, wo der Lebensmut sinkt,
  vertriebst du liebevoll meine Angst.
  Und steck ich mittendrin in den Stürmen, die das Leben mir bringt, 
  geb ich nicht auf, weil du niemals wankst.
@@ -8540,13 +9137,13 @@ OpenSong/Songs/You never let go
 
 
 [V2]
- 2. And I can see a light that is coming for the heart that holds on,
+ And I can see a light that is coming for the heart that holds on,
  a glorious light beyond all compare.
  And there will be an end to these troubles. But until that day comes,
  we'll live to know you here on the earth.
  _
  _
- 2. Es leuchtet schon ein Licht in der Ferne, wärmt das Herz, das dir traut.
+ Es leuchtet schon ein Licht in der Ferne, wärmt das Herz, das dir traut.
  Wie tausend Sonnen strahlt dieses Licht, 
  vertreibt für alle Zeit Schmerz und Sorgen.
  Doch bis dieser Tag naht, folg ich dir nach, such dein Angesicht.
@@ -8587,7 +9184,7 @@ OpenSong/Songs/You raise me up
 <song>
   <title>You raise me up</title>
   <lyrics>[V1]
- 1. When I am down, and, oh, my soul, so weary,
+ When I am down, and, oh, my soul, so weary,
  when troubles come, and my heart burdened be,
  then I am still and wait here in the silence
  until you come and sit awhile with me.
@@ -8612,7 +9209,7 @@ OpenSong/Songs/You raise me up
 
 
 [V2]
- 2. There is no life - no life without its hunger,
+ There is no life - no life without its hunger,
  each restless heart beats so imperfectly.
  But when you come and I am filled with wonder,
  sometimes, I think I glimpse eternity.
@@ -8701,7 +9298,7 @@ OpenSong/Songs/Your love never fails
   <hymn_number>53</hymn_number>
   <capo print="false"></capo>
   <lyrics>[V1]
- 1. Nothing can separate, even if I ran away, your love never fails.
+ Nothing can separate, even if I ran away, your love never fails.
  I know I still make mistakes, but you have new mercies for me every day.
  Your love never fails.
  _
@@ -8727,7 +9324,7 @@ OpenSong/Songs/Your love never fails
 
 
 [V2]
- 2. The wind is strong and the water's deep,
+ The wind is strong and the water's deep,
  but I'm not alone in these open seas, cause your love never fails.
  The chasm is far too wide, I never thought I'd reach the other side,
  but your love never fails.
@@ -8776,7 +9373,7 @@ OpenSong/Songs/Your Name _ Dein Name
   <capo print="false"></capo>
   <lyrics>
 [V1]
- 1. As morning dawns and evening fades, you inspire songs of praise,
+ As morning dawns and evening fades, you inspire songs of praise,
  that rise from earth to touch your heart and glorify your name.
  _
  Your name is a strong and mighty tower. 
@@ -8785,7 +9382,7 @@ OpenSong/Songs/Your Name _ Dein Name
  'Cause nothing has the power to save, but your name.
  _
  _
- 1. Bei Morgentau und Abendrot, sing ich Lieder dir zum Lob.
+ Bei Morgentau und Abendrot, sing ich Lieder dir zum Lob.
  Lass meinen Klang dein Herz berührn und deinen Namen ehrn.
  _
  Dein Name ist ein felsenfester Turm.
@@ -8795,7 +9392,7 @@ OpenSong/Songs/Your Name _ Dein Name
 
 
 [V2]
- 2. Jesus, in your name we pray, come and fill our hearts today.
+ Jesus, in your name we pray, come and fill our hearts today.
  Lord, give us strength to live for you and glorify your name.
  _
  Your name is a strong and mighty tower. 
@@ -8804,7 +9401,7 @@ OpenSong/Songs/Your Name _ Dein Name
  'Cause nothing has the power to save, but your name.
  _
  _
- 2. Jesus Christus, du bist hier. In deinem Namen beten wir:
+ Jesus Christus, du bist hier. In deinem Namen beten wir:
  Lass uns für dich nur leben, Herr, und deinen Namen ehrn.
  _
  Dein Name ist ein felsenfester Turm.
