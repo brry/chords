@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>My lighthouse</title>
-  <author>Rend Collective, 2013</author>
-  <hymn_number>77</hymn_number>
-  <capo print="false"></capo>
+  <title>My Lighthouse</title>
   <lyrics>[V1]
- In my wrestling and in my doubts, in my failures, you won't walk out. 
+ In my wrestling and in my doubts,
+ in my failures, you won't walk out. 
  Your great love will lead me through.
- You are the peace in my troubled sea. (2x)
+ You are the peace in my troubled sea,
+ you are the peace in my troubled sea.
  _
- In the silence you won't let go, in the questions your truth will hold. 
+ Wenn ich zweifle und kämpf mit mir,
+ wenn ich falle, bleibst du doch hier,
+ deine Liebe trägt mich durch.
+ Du bist mein Halt in der rauen See,
+ du bist mein Halt in der rauen See.
+
+[V2]
+ In the silence you won't let go,
+ in the questions your truth will hold. 
  Your great love will lead me through. 
- You are the peace in my troubled sea. (2x)
+ You are the peace in my troubled sea,
+ you are the peace in my troubled sea.
  _
- _
- In meinem Ringen und Zweifeln, in meinen Fehlern, wirst du mich nicht verlassen. 
- Deine große Liebe führt mich durch. Du bist der Frieden in meinem unruhigen Meer.
- In der Stille wirst du nicht loslassen, in Fragen wird deine Wahrheit halten. 
- Deine große Liebe führt mich durch. Du bist der Frieden in meinem unruhigen Meer.
+ Auch im Schweigen bist du stehts da,
+ in den Fragen wird dein Wort wahr.
+ Deine Liebe trägt mich durch.
+ Du bist mein Halt in der rauen See,
+ du bist mein Halt in der rauen See.
 
 [C]
  My lighthouse, my lighthouse, shining in the darkness, 
@@ -25,31 +33,37 @@
  I will trust the promise, you will carry me safe to shore, 
  safe to shore, safe to shore, safe to shore.
  _
- _
- Mein Leuchtturm, der in der Dunkelheit leuchtet, ich werde dir folgen. 
- Mein Leuchtturm, ich werde dem Versprechen vertrauen, du wirst mich sicher an Land bringen.
+ Sei mein Licht, sei mein Licht du strahlst wie ein Leuchtturm
+ und ich schau auf dich. Sei mein Licht, sei mein Licht.
+ Du gabst das Versprechen, sicher bringst du mich bis ans Land,
+ bis ans Land, bis ans Land, bis ans Land.
 
 [V3]
- I won't fear what tomorrow brings, with each morning I'll rise and sing. 
+ I won't fear what tomorrow brings,
+ with each morning I'll rise and sing. 
  My God's love will lead me through.
- You are the peace in my troubled sea. (2x)
+ You are the peace in my troubled sea,
+ you are the peace in my troubled sea.
  _
- My lighthouse, my lighthouse, shining in the darkness, 
- I will follow you. My lighthouse, my lighthouse, 
- I will trust the promise, you will carry me safe to shore, 
- safe to shore, safe to shore, safe to shore.
+ Ich fürcht nicht was die Zukunft bringt,
+ ich geh vorwärts und mein Herz singt.
+ Gottes Liebe trägt mich durch.
+ Du bist mein Halt in der rauen See,
+ du bist mein Halt in der rauen See.
+
+[B]
+ Fire before us, you're the brightest,
+ you will lead us through the storms.
  _
- Fire before us, you're the brightest, you will lead us through the storms.
- _
- _
- Ich werde nicht fürchten, was morgen bringt, jeden Morgen werde ich aufstehen und singen. 
- Die Liebe meines Gottes wird mich durchführen. Du bist der Frieden in meinem unruhigen Meer.
- _
- Feuer vor uns, du leuchtest hell, du wirst uns durch die Stürme führen.
+ Dein Licht leuchtet, nichts strahlt heller
+ und du führst uns durch den Sturm.
  </lyrics>
+  <author>Rend Collective, 2013</author>
   <copyright></copyright>
-  <presentation></presentation>
+  <hymn_number></hymn_number>
+  <presentation>V1 V2 C V3 C B C</presentation>
   <ccli></ccli>
+  <capo print="false"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
