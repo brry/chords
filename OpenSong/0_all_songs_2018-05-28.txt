@@ -1,7 +1,7 @@
 
 160 Files in S:/Dropbox/Faith/chords
 Combined together with berryFunctions::combineFiles
-2018-05-15 10:35:46
+2018-05-28 10:24:06
 
 -------------------------------------------------------
 -------------------------------------------------------
@@ -485,7 +485,7 @@ OpenSong/Songs/Amazing Love (You are my King)
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Amazing Love (You are my King)</title>
-  <lyrics>[V1]
+  <lyrics>[V]
  I'm forgiven because you were forsaken.
  I'm accepted, you were condemned.
  I'm alive and well, your spirit is within me,
@@ -1102,7 +1102,8 @@ OpenSong/Songs/Broken
 [C]
  Oh, Lord, I'm falling at your feet.
  I see you broken, dying for me.
- Oh my Redeemer, how you suffered
+ Oh, Lord, I'm falling at your feet.
+ Oh my redeemer, how you suffered.
  _
  Oh, Herr, ich falle zu deinen Füßen.
  Ich sehe dich gebrochen, sterbend für mich.
@@ -1166,6 +1167,12 @@ OpenSong/Songs/Build your kingdom here
  Come, set our hearts ablaze with hope like wildfire in our very souls. 
  Holy spirit come invade us now.
  We are your church, we need your power in us.
+ _
+ Komm, setze deine Herrschaft und regiere wieder in unseren Herzen.
+ Erhöhe dich in uns, enthülle warum wir gemacht sind.
+ Komm, lass unsere Herzen in Hoffnung wie ein Lauffeuer in unseren Seelen erstrahlen.
+ Der Heilige Geist dringt jetzt in uns ein.
+ Wir sind deine Kirche, wir brauchen deine Kraft in uns.
 
 [V2]
  We seek your kingdom first, we hunger and we thirst. 
@@ -1173,12 +1180,23 @@ OpenSong/Songs/Build your kingdom here
  To see the captive hearts released, the hurt, the sick, the poor at peace, 
  we lay down our lives for heaven's cause.
  We are your church, we pray: revive this earth.
+ _
+ Wir suchen zuerst dein Königreich, wir hungern und wir dursten.
+ Weigern uns, unser Leben zu verschwenden, denn du bist unsere Freude und unser Preis.
+ Um die gefangenen Herzen frei zu sehen, die Verletzten, Kranken und Armen im Frieden,
+ legen wir unser Leben für die Sache des Himmels nieder.
+ Wir sind deine Kirche, wir beten: belebe diese Erde wieder neu.
 
 [C]
  Build your kingdom here, let the darkness fear. 
  Show your mighty hand, heal our streets and land.
  Set your church on fire, win this nation back. 
  Change the atmosphere, build your kingdom here, we pray.
+ _
+ Baue dein Königreich hier, lass die Dunkelheit fürchten.
+ Zeige deine mächtige Hand, heile unsere Straßen und Land.
+ Setze deine Kirche in Brand, gewinne diese Nation zurück.
+ Ändere die Atmosphäre, baue dein Königreich hier, beten wir.
 
 [V3]
  Unleash your kingdoms power reaching the near and far. 
@@ -1186,7 +1204,13 @@ OpenSong/Songs/Build your kingdom here
  You made us for much more than this, awake the kingdom seed in us. 
  Fill us with the strength and love of Christ.
  We are your church, we are the hope on earth.
- </lyrics>
+ _
+ Entfessle die Kraft deines Königreiches und erreiche die Nähe und Ferne.
+ Keine Macht der Hölle kann deine Schönheit stoppen, die Herzen ändert.
+ Du hast uns zu viel mehr gemacht als das, erwecke das Königreich in uns.
+ Erfülle uns mit der Kraft und Liebe Christi.
+ Wir sind deine Kirche, wir sind die Hoffnung auf Erden.
+</lyrics>
   <copyright></copyright>
   <presentation>V1 V2 C V3 C</presentation>
   <ccli></ccli>
