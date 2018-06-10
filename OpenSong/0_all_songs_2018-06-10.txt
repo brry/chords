@@ -1,7 +1,7 @@
 
 160 Files in S:/Dropbox/Faith/chords
 Combined together with berryFunctions::combineFiles
-2018-05-28 10:24:06
+2018-06-10 08:41:35
 
 -------------------------------------------------------
 -------------------------------------------------------
@@ -1074,7 +1074,7 @@ OpenSong/Songs/Broken
 <song>
   <title>Broken</title>
   <lyrics>[V1]
- Where do you turn when you've been broken,
+ Broken - Where do you turn when you've been broken,
  how do you go on, broken?
  What do you do, with shattered shards of clay?
  Oh how do you find your way
@@ -1087,7 +1087,7 @@ OpenSong/Songs/Broken
  Wie überlebst du, gebrochen?
 
 [V2]
- Who will understand when you've been broken,
+ Broken - Who will understand when you've been broken,
  how can you explain it, broken?
  Why do you feel pain when your heart is turned to stone?
  Oh how do you walk alone, 
@@ -1110,7 +1110,7 @@ OpenSong/Songs/Broken
  Oh mein Erlöser, wie du gelitten hast
 
 [V3]
- I could never understand how your heart was broken
+ Broken - I could never understand how your heart was broken
  when the father turned away. Broken.
  I could never understand the pain
  of hanging on a cross, so lamb of God,
@@ -2397,7 +2397,7 @@ OpenSong/Songs/Freiheit der Kinder Gottes
 <song>
   <title>Freiheit der Kinder Gottes</title>
   <lyrics>[V1]
- Du machst mich frei von kranker Religion,
+ Du machst mich frei von falscher Religion,
  von Angst und Menschenfurcht.
  Du machst mich frei von meiner Illusion,
  von meiner Lebensflucht.
@@ -3520,59 +3520,58 @@ OpenSong/Songs/Here for you
 <song>
   <title>Here for you</title>
   <lyrics>[V1]
- Let our praise be your welcome.
- Let our songs be a sign.
+ Let our praise be your welcome,
+ let our songs be a sign.
  We are here for you, we are here for you.
-
- Let your breath come from heaven.
- Fill our hearts with your life.
+ Let your breath come from heaven,
+ fill our hearts with your life.
  We are here for you, we are here for you.
+ _
+ Unser Lob heißt dich willkommen, unsere Lieder sind ein Zeichen.
+ Wir sind für dich da, wir sind für dich da.
+ Lass deinen Atem vom Himmel kommen,
+ fülle unsere Herzen mit deinem Leben.
 
 [C]
- To You our hearts are open,
- nothing here is hidden.
- You are our one desire,
- you alone are holy. 
- Only You are worthy.
- God, let Your fire fall down.
+ To you our hearts are open, nothing here is hidden.
+ You are our one desire, you alone are holy. 
+ Only you are worthy. God, let your fire fall down.
+ _
+ Dir sind unsere Herzen offen, hier ist nichts verborgen.
+ Du bist unser einziger Wunsch, du allein bist heilig.
+ Nur du bist es wert. Gott, lass dein Feuer fallen.
 
 [V2]
- Let our shout be Your anthem.
- Your renown fill the skies.
- We are here for You, we are here for You.
-
- Let Your Word move in power.
- Let what's dead come to life.
- We are here for You, we are here for You.
-
-[C]
- To You our hearts are open,
- nothing here is hidden.
- You are our one desire,
- you alone are holy. 
- Only You are worthy.
- God, let Your fire fall down.
+ Let our shout be your anthem,
+ your renown fill the skies.
+ We are here for you, we are here for you.
+ Let your word move in power,
+ let what's dead come to life.
+ We are here for you, we are here for you.
+ _
+ Unser Rufen sei deine Hymne, dein Ruhm fülle den Himmel.
+ Wir sind für dich da, wir sind für dich da.
+ Lass dein Wort kraftvoll wirken,
+ lass, was tot ist, zum Leben erwachen.
 
 [B]
- We welcome You with praise.
- We welcome You with praise.
- Almighty God of love.
- Be welcomed in this place.
- (2x)
- Let every heart adore.
- Let every soul awake.
- Almighty God of love.
- Be welcomed in this place.
-
- We welcome You with praise
- We welcome You with praise
- Almighty God of love
- Be welcomed in this place
+ We welcome you with praise, we welcome you with praise.
+ Almighty God of love, be welcomed in this place.
+ _
+ Let every heart adore, let every soul awake.
+ Almighty God of love, be welcomed in this place.
+ _
+ _
+ Wir begrüßen dich mit Lob, wir begrüßen dich mit Lob.
+ Allmächtiger Gott der Liebe, sei an diesem Ort willkommen.
+ _
+ Lass jedes Herz anbeten, lass jede Seele wach werden.
+ Allmächtiger Gott der Liebe, sei an diesem Ort willkommen.
 </lyrics>
-  <author>Matt Redman</author>
+  <author>Matt Redman, 2011</author>
   <copyright>2011 Chrysalis Music Ltd. sixsteps Music Thankyou Music Valley Of Songs Music worshiptogether.com songs</copyright>
   <hymn_number></hymn_number>
-  <presentation>V1 C V2 C C B</presentation>
+  <presentation>V1 C V2 C B C</presentation>
   <ccli>5925649</ccli>
   <capo print="false"></capo>
   <key></key>
@@ -4964,18 +4963,35 @@ OpenSong/Songs/Indescribable
  creation's revealing your majesty.
  From the colors of fall to the fragrance of spring, 
  every creature unique in the song that it sings, all exclaiming:
+ _
+ Von den Gipfeln der Welt, zu den Tiefen des Meers,
+ bezeugt deine Schöpfung wie herrlich du bist.
+ Von den Farben im Herbst bis zum Frühlingsduft -
+ Jedes Wesen bringt auf seine Art dir sein Lied, voller Staunen
 
 [C]
  Indescribable, uncontainable, you placed the stars in the sky 
  and you know them by name. You are amazing, God.
  All powerful, untamable. Awestruck we fall to our knees 
  as we humbly proclaim: You are amazing, God.
+ _
+ Unbeschreiblicher, Unbegreiflicher, du warfst die Sterne ins All
+ und du kennst ihre Bahn. Du bist unglaublich Gott.
+ Allmächtiger und Ewiger, wir fallen staunend und ehrfürchtig nieder vor dir,
+ Du bist unglaublich, Gott.
 
 [V2]
  Who has told every lightning bolt where it should go, 
  or seen heavenly storehouses laden with snow?
  Who imagined the sun and gives source to its light, 
- yet conceals it to bring us the coolness of night? None can fathom.
+ yet conceals it to bring us the coolness of night? 
+ None can fathom.
+ _
+ Wer weist selbst jedem Blitz, jedem Donner den Weg
+ oder wer füllt dem Himmel die Wolken mit Schnee?
+ Gibt der Sonne ihr Licht, ihr Wärme und Kraft
+ und verbirgt sie doch wieder im Schatten der Nacht?
+ Unerforschlich.
 </lyrics>
   <copyright></copyright>
   <presentation>V1 C V2 C</presentation>
@@ -5097,41 +5113,46 @@ OpenSong/Songs/King of my heart
 <song>
   <title>King of my heart</title>
   <lyrics>[V1]
- Let the King of my heart
- be the mountain where I run,
- The Fountain I drink from.
- Oh He is my Song.
- Let the King of my heart
- be the shadow where I hide,
- the randsom for my life.
- Oh He is my Song.
-
-[C1]
- You are good, good, ohhh. (4x)
+ Let the king of my heart be the mountain where I run,
+ the fountain I drink from. Oh he is my song.
+ Let the king of my heart be the shadow where I hide,
+ the randsom for my life. Oh he is my song.
+ _
+ You are good, good, oh.
+ _
+ Der König meines Herzens sei der Berg, zu dem ich renne,
+ der Brunnen, aus dem ich trinke. Oh, er ist mein Lied.
+ Der König meines Herzens sei der Schatten, wo ich mich verstecke,
+ der Random für mein Leben. Oh, er ist mein Lied.
+ Du bist gut, gut, oh.
 
 [V2]
- Let the King of my heart
- be the wind inside my sails,
- The anchor in the waves.
- Oh He is my Song.
- Let the King of my heart
- the fire inside my veins,
- the echo of my days.
- Oh He is my Song.
+ Let the king of my heart be the wind inside my sails,
+ the anchor in the waves. Oh he is my song.
+ Let the king of my heart be the fire inside my veins,
+ the echo of my days. Oh he is my song.
+ _
+ You're never gonna let me down.
+ _
+ Der König meines Herzens sei der Wind in meinen Segeln,
+ der Anker in den Wellen. Oh, er ist mein Lied.
+ Der König meines Herzens sei das Feuer in meinen Adern,
+ das Echo meiner Tage. Oh, er ist mein Lied.
+ Du wirst mich nie im Stich lassen.
 
-[C2]
- You're never gonna let me down. (4x)
-
-[C3]
- When the night is holding onto me,
- God is holding on.
-
- When the night is holding onto me,
- God is holding on.</lyrics>
-  <author>John Mark McMillan</author>
+[V3]
+ When the night is holding onto me, God is holding on.
+ You are good, good, oh.
+ You're never gonna let me down.
+ _
+ _
+ Wenn die Nacht mich festhält, hält Gott mich.
+ Du bist gut, gut, oh.
+ Du wirst mich nie im Stich lassen.</lyrics>
+  <author>sarah &amp; John Mark McMillan, 2015</author>
   <copyright>2017 BEC Recordings</copyright>
   <hymn_number></hymn_number>
-  <presentation>V1 C1 V2 C1 C2 C3 C1-3</presentation>
+  <presentation></presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
