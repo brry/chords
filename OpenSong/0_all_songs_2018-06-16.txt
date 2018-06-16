@@ -1,7 +1,7 @@
 
-160 Files in S:/Dropbox/Faith/chords
+163 Files in S:/Dropbox/Faith/chords
 Combined together with berryFunctions::combineFiles
-2018-06-10 08:41:35
+2018-06-16 22:53:41
 
 -------------------------------------------------------
 -------------------------------------------------------
@@ -5785,6 +5785,87 @@ OpenSong/Songs/Mighty to save
 -------------------------------------------------------
 -------------------------------------------------------
 
+OpenSong/Songs/Miracles 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Miracles</title>
+  <lyrics>[V1]
+ The one who made the blind to see
+ is moving here in front of me,
+ moving here in front of me.
+ The one who made the deaf to hear
+ is silencing my every fear,
+ silencing my every fear.
+ _
+ Der, der die Blinden sehen ließ
+ bewegt sich hier vor mir,
+ bewegt sich hier vor mir.
+ Der, der die Tauben hören ließ
+ lässt meine Ängste verstummen,
+ lässt meine Ängste verstummen.
+
+[C]
+ I believe in you, I believe in you.
+ You're the God of miracles.
+ I believe in you, I believe in you.
+ You're the God of miracles.
+ _
+ Ja ich glaub an dich, ja ich glaub an dich.
+ Du bist der Gott der Wunder.
+ Ja ich glaub an dich, ja ich glaub an dich.
+ Du bist der Gott der Wunder.
+
+[V2]
+ The one who does impossible,
+ is reaching out to make me whole,
+ reaching out to make me whole.
+ The one who put death in its place -
+ his life is flowing through my veins,
+ his life is flowing through my veins.
+ _
+ Der, der Unmögliches tut,
+ reicht mir die Hand um mich ganz zu machen,
+ reicht mir die Hand um mich ganz zu machen.
+ Der, der dem Tod seine Grenzen gesetzt hat -
+ sein Leben fließt durch meine Adern,
+ sein Leben fließt durch meine Adern.
+
+[B]
+ The God who was and is to come,
+ the power of the risen one,
+ the God who brings the dead to life:
+ you're the God of miracles,
+ you're the God of miracles.
+ _
+ Der Gott der war und der kommen wird,
+ die Kraft des Auferstandenen,
+ der Gott der die Toten auferweckt:
+ du bist der Gott der Wunder!
+ du bist der Gott der Wunder!
+</lyrics>
+  <author>Jesus Culture, 2015</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 C V2 C B C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 OpenSong/Songs/Mit allem was ich bin 
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -8261,6 +8342,85 @@ OpenSong/Songs/Tief in mir
 -------------------------------------------------------
 -------------------------------------------------------
 
+OpenSong/Songs/Till I see you 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Till I see you / Bis ich dir gegenübersteh</title>
+  <lyrics>[V1]
+ The greatest love that anyone could ever know
+ that overcame the cross and grave to find my soul.
+ And till I see you face to face
+ and grace amazing takes me home, I'll trust in you.
+ _
+ Die größte Liebe, die ein Mensch je finden kann,
+ sie zeigte sich für mich am Kreuz von Golgatha.
+ Bis ich dir gegenüber steh und dich mit meinen Augen seh,
+ vertrau ich dir.
+
+[V2]
+ Will I ever live to see your kingdom come?
+ And in my heart I pray you'd let your will be done.
+ Till I see you face to face
+ and grace amazing takes me home, I'll trust in you.
+ _
+ Ich wünsch mir, dass dein Reich hier auf der Welt entsteht
+ Von Herzen bet ich, dass dein Wille hier geschieht
+ Bis ich dir gegenüber steh und dich mit meinen Augen seh,
+ vertrau ich dir.
+
+[B]
+ And I will live to love you,
+ I will live to bring you praise,
+ I will live a child in awe of you.
+ _
+ Herr ich will dich lieben,
+ und ich leb zu deiner Ehr als dein Kind,
+ in Ehrfurcht, Herr, vor dir.
+
+[V3]
+ You are the voice that called the universe to be,
+ You are the whisper in my heart that speaks to me
+ And till I see you face to face
+ and grace amazing takes me home, I'll trust in you.
+ _
+ Ganz tief in mir vernehm ich diesen sanften Ruf
+ von deiner Stimme, die das ganze All erschuf.
+ Bis ich dir gegenüber steh und dich mit meinen Augen seh,
+ vertrau ich dir.
+
+[C]
+ 'Cause you alone are God of all,
+ you alone are worthy, Lord.
+ And with all I am,
+ my soul will bless your name.
+ _
+ Du allein bis würdig, Herr,
+ du allein regierst in mir.
+ Und mit meiner ganzen Kraft bet ich dich an.
+</lyrics>
+  <author>Hillsong, 2004</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 V2 B V3 B C V1 B C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 OpenSong/Songs/Treu 
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -8936,6 +9096,57 @@ OpenSong/Songs/Who am I
   <copyright></copyright>
   <presentation>V1 C V2 C</presentation>
   <ccli></ccli>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+OpenSong/Songs/Wir fliegen los 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Wir fliegen los</title>
+  <lyrics>[V1]
+ Diese Straße führt mich hin zu dir.
+ Ich laufe los, lass alles hinter mir.
+ Mein Geist erinnert sich wie gut du bist,
+ dass wo du lebst auch mein Zuhause ist.
+
+[P]
+ Und ich höre wie du rufst;
+ dein Versprechen, dass du Gutes tust.
+ Und ich spüre deinen Wind
+ der mich aufhebt und nach Hause bringt.
+
+[C]
+ Herrlichkeit, überall, soweit mein Auge reicht.
+ Schönheit, die in die Tiefen meiner Seele greift.
+ Befreit, seh ich dich so wie du wirklich bist.
+ Ich atme ein, ich habe dich schon viel zu lang vermisst!
+
+[B]
+ Ich steh vor dir, du strahlst mich an.
+ Ich strahl zurück, nimm deine Hand.
+ Wir fliegen los und sehn die Welt.
+ Voller Freude zeigst du mir:
+</lyrics>
+  <author>Elias Schaden / Vineyard, 2010</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
