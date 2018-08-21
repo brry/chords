@@ -9,3 +9,4 @@ apply_to_all_songs.R
 SongBeamerGemeinde/
 .Rprofile
 zz_chords.Rproj
+.httr-oauth

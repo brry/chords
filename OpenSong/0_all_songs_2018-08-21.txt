@@ -1,7 +1,7 @@
 
-163 Files in S:/Dropbox/Faith/chords
+166 Files in S:/Dropbox/Faith/chords
 Combined together with berryFunctions::combineFiles
-2018-06-16 22:53:41
+2018-08-21 08:01:28
 
 -------------------------------------------------------
 -------------------------------------------------------
@@ -1263,6 +1263,34 @@ OpenSong/Songs/Calvary
   <copyright></copyright>
   <presentation>V1 C V2 C B C</presentation>
   <ccli></ccli>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+OpenSong/Songs/cjeKiel 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title></title>
+  <lyrics> bit.ly/cjeKiel</lyrics>
+  <author></author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -5149,7 +5177,7 @@ OpenSong/Songs/King of my heart
  Wenn die Nacht mich festhält, hält Gott mich.
  Du bist gut, gut, oh.
  Du wirst mich nie im Stich lassen.</lyrics>
-  <author>sarah &amp; John Mark McMillan, 2015</author>
+  <author>Sarah &amp; John Mark McMillan, 2015</author>
   <copyright>2017 BEC Recordings</copyright>
   <hymn_number></hymn_number>
   <presentation></presentation>
@@ -5218,6 +5246,45 @@ OpenSong/Songs/Lead me to the cross _ F�hr mich an dein Kreuz
   <copyright></copyright>
   <presentation>V1 C V2 C B C</presentation>
   <ccli></ccli>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+OpenSong/Songs/Leben aus der Quelle 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Leben aus der Quelle</title>
+  <lyrics> Leben aus der Quelle, Leben nur aus dir,
+ Leben aus der Quelle des Lebens.
+ _
+ 1. Und du erforscht mich, veränderst mein Denken, 
+ nur noch aus dir will ich leben, oh Herr.
+ _
+ 2. Hilfst mir zu schweigen und auf dich zu warten,
+ nur noch aus dir will ich leben, oh Herr.
+ _
+ 3. Willst mich gebrauchen, als Salz für die Erde,
+ nur noch aus dir will ich leben, oh Herr.
+</lyrics>
+  <author>Lukas Di Nunzio, 1995</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -6993,6 +7060,46 @@ OpenSong/Songs/Our God is greater
 -------------------------------------------------------
 -------------------------------------------------------
 
+OpenSong/Songs/Over all the earth 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Over all the earth</title>
+  <lyrics> 1. Über alle Welt bist du der Herr.
+ Über jeden Berg, die Sonne und das Meer.
+ Doch mein größter Wunsch, das, was ich begehr,
+ ist Herr, regiere du in mir.
+ _
+ Regier in mir in deiner Kraft, über jeden Traum, auch in tiefster Nacht.
+ Du bist mein Gott, ich gehöre dir, darum regiere du in mir.
+ _
+ 2. Alles, was ich denk und jedes Wort
+ soll ein Spiegel sein von deiner Schönheit, Gott.
+ Du bedeutest mir mehr als alles hier,
+ darum regiere du in mir.
+ </lyrics>
+  <author>Brenton Brown / Vineyard, 1998</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 OpenSong/Songs/Peace like a river 
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -8082,6 +8189,7 @@ OpenSong/Songs/The stand _ Ich steh vor dir
  This life to declare your promise, my soul now to stand.
  _
  So what can I say, and what could I do, but offer this heart, o God, completely to you.
+ _
  So I'll stand, with arms high and heart abandoned, in awe of the one who gave it all.
  I'll stand, my soul, Lord, to you surrendered. All I am is yours.
  _
@@ -8172,7 +8280,7 @@ OpenSong/Songs/This I believe _ Das glaube ich
 -------------------------------------------------------
 -------------------------------------------------------
 
-OpenSong/Songs/This is our God 
+OpenSong/Songs/This is our God _ Was f�r ein Gott 
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
