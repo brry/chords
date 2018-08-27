@@ -15,7 +15,7 @@ und [Inhaltsverzeichnis](https://github.com/brry/chords/raw/master/Worship/inhal
 * Großes Inhaltsverzeichnis christlicher Liederbücher als
 [Exceldatei (mit Makro)](https://github.com/brry/chords/raw/master/Worship/Liederbuecher_aktiveZeile.xlsm) 
 oder [PDF](https://github.com/brry/chords/raw/master/Worship/Liederbuecher.pdf) 
-(Feiert Jesus, SONG, Jesu Name, Feiern & Loben, Ev. Gesangbuch)
+(Feiert Jesus, SONG, So groß ist der Herr, Jesu Name, Feiern & Loben, Ev. Gesangbuch)
 
 [Gesamtverzeichnis (zip)](https://github.com/brry/chords/archive/master.zip) mit allen o.g. Dateien
 
