@@ -1,7 +1,7 @@
 
-166 Files in S:/Dropbox/Faith/chords
+170 Files in S:/Dropbox/Faith/chords
 Combined together with berryFunctions::combineFiles
-2018-09-14 12:54:33
+2018-10-12 22:34:32
 
 -------------------------------------------------------
 -------------------------------------------------------
@@ -399,7 +399,6 @@ OpenSong/Songs/Allein deine Gnade gen�gt
   <hymn_number>6</hymn_number>
   <capo print="false"></capo>
   <lyrics>
-[V1]
  Allein deine Gnade genügt, 
  die in meiner Schwachheit Stärke mir gibt.
  Ich geb dir mein Leben und was mich bewegt. 
@@ -409,12 +408,6 @@ OpenSong/Songs/Allein deine Gnade gen�gt
  ich ruh im Vertrauen zu dir.
  Du hast meine Sünde getilgt durch dein Blut
  und Gnade ist für mich genug.
-
-[V2]
- Allein deine Gnade genügt, 
- die in meiner Schwachheit Stärke mir gibt.
- Ich geb dir mein Leben und was mich bewegt. 
- Allein deine Gnade genügt.
  _
  Das Blut Jesu lässt mich gerecht vor dir steh'n, 
  es hat alle Schuld gesühnt.
@@ -1263,6 +1256,55 @@ OpenSong/Songs/Calvary
   <copyright></copyright>
   <presentation>V1 C V2 C B C</presentation>
   <ccli></ccli>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+OpenSong/Songs/come now is the time _ komm jetzt ist die Zeit 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Come, now is the time</title>
+  <lyrics>[V]
+ Come, now is the time to worship.
+ Come, now is the time to give your heart
+ Come, just as you are to worship.
+ Come, just as you are before your God. Come!
+ _
+ Komm, jetzt ist die Zeit, wir beten an.
+ Komm, jetzt ist die Zeit, gib ihm dein Herz.
+ Komm, so wie du bist und bete an.
+ Komm, so wie du bist vor deinen Gott. Komm!
+
+[C]
+ One day ev'ry tongue will confess you are God.
+ One day ev'ry knee will bow.
+ Still the greatest treasure remains for those,
+ who gladly choose you now.
+ _
+ Jede Zunge wird dich bekennen als Gott.
+ Jeder wird sich beugen vor dir.
+ Doch der größte Schatz bleibt für die bestehn,
+ die jetzt schon mit dir gehen.
+</lyrics>
+  <author>Brian Doerksen, 1998</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -5107,6 +5149,106 @@ OpenSong/Songs/Jesus, h�chster Name
 -------------------------------------------------------
 -------------------------------------------------------
 
+OpenSong/Songs/Jesus, zu dir kann ich so kommen 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Jesus, zu dir kann ich so kommen</title>
+  <lyrics>[V1]
+ Jesus, zu dir kann ich so kommen, wie ich bin.
+ Du hast gesagt, dass jeder kommen darf.
+ Ich muss dir nicht erst beweisen, dass ich besser werden kann.
+ Was mich besser macht vor dir, das hast du längst am Kreuz getan.
+ Und weil du mein Zögern siehst, streckst du mir deine Hände hin,
+ und ich kann so zu dir kommen, wie ich bin.
+
+[V2]
+ Jesus, bei dir darf ich mich geben, wie ich bin.
+ Ich muss nicht mehr als ehrlich sein vor dir.
+ Ich muss nichts vor dir verbergen, der mich schon so lange kennt.
+ Du siehst, was mich zu dir zieht, und auch, was mich von dir noch trennt.
+ Und so leg ich Licht und Schatten meines Lebens vor dich hin,
+ denn bei dir darf ich mich geben, wie ich bin.
+
+[V3]
+ Jesus, bei dir muss ich nicht bleiben, wie ich bin.
+ Nimm fort, was mich und andere zerstört.
+ Einen Menschen willst du aus mir machen, wie er dir gefällt,
+ der ein Brief von deiner Hand ist, voller Liebe für die Welt.
+ Du hast schon seit langer Zeit mit mir das Beste nur im Sinn.
+ Darum muss ich nicht so bleiben, wie ich bin.
+</lyrics>
+  <author>Manfred Siebald, 1989</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+OpenSong/Songs/Keiner ist wie du _ There is none like you 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Keiner ist wie du / There is none like you</title>
+  <lyrics>[C]
+ There is none like you,
+ no one else can touch my heart like you do.
+ I could search for all eternity long
+ and find: there is none like you.
+ _
+ Keiner ist wie du!
+ Niemand sonst berührt mein Herz so wie du.
+ Wo auch immer ich noch suchte, o Herr,
+ es bleibt: keiner ist wie du!
+
+[V]
+ Your mercy flows like a river wide
+ and healing comes from your hands.
+ Suffering children are safe in your arms.
+ There is none like you.
+ _
+ Erbarmen fließt wie ein weiter Strom,
+ und Heilung strömt aus deiner Hand.
+ Kinder mit Wunden sind sicher bei dir,
+ keiner ist wie du!
+</lyrics>
+  <author>Lenny LeBlanc, 1991</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 OpenSong/Songs/King of my heart 
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -5116,14 +5258,14 @@ OpenSong/Songs/King of my heart
  Let the king of my heart be the mountain where I run,
  the fountain I drink from. Oh he is my song.
  Let the king of my heart be the shadow where I hide,
- the randsom for my life. Oh he is my song.
+ the ransom for my life. Oh he is my song.
  _
  You are good, good, oh.
  _
  Der König meines Herzens sei der Berg, zu dem ich renne,
  der Brunnen, aus dem ich trinke. Oh, er ist mein Lied.
  Der König meines Herzens sei der Schatten, wo ich mich verstecke,
- der Random für mein Leben. Oh, er ist mein Lied.
+ die Erlösung für mein Leben. Oh, er ist mein Lied.
  Du bist gut, gut, oh.
 
 [V2]
@@ -5132,13 +5274,13 @@ OpenSong/Songs/King of my heart
  Let the king of my heart be the fire inside my veins,
  the echo of my days. Oh he is my song.
  _
- You're never gonna let me down.
+ You are good, good, oh.
  _
  Der König meines Herzens sei der Wind in meinen Segeln,
  der Anker in den Wellen. Oh, er ist mein Lied.
  Der König meines Herzens sei das Feuer in meinen Adern,
  das Echo meiner Tage. Oh, er ist mein Lied.
- Du wirst mich nie im Stich lassen.
+
 
 [V3]
  When the night is holding onto me, God is holding on.
@@ -5319,6 +5461,83 @@ OpenSong/Songs/Lege deine Sorgen nieder
   <copyright></copyright>
   <presentation></presentation>
   <ccli></ccli>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+OpenSong/Songs/Lobe den Herrn, meine Seele 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Lobe den Herrn, meine Seele</title>
+  <lyrics>[C]
+ Lobe den Herrn, meine Seele, und seinen heiligen Namen.
+ Was er dir Gutes getan hat, Seele, vergiss es nicht, Amen.
+ Lobe, lobe den Herrn, lobe den Herrn, meine Seele.
+ Lobe, lobe den Herrn, lobe den Herrn, meine Seele.
+
+[V1]
+ Der meine Sünden vergeben hat,
+ der mich von Krankheit gesund gemacht,
+ den will ich preisen mit Psalmen und Weisen,
+ von Herzen ihm ewiglich singen:
+ _
+ Lobe den Herrn, meine Seele, und seinen heiligen Namen.
+ Was er dir Gutes getan hat, Seele, vergiss es nicht, Amen.
+ Lobe, lobe den Herrn, lobe den Herrn, meine Seele.
+ Lobe, lobe den Herrn, lobe den Herrn, meine Seele.
+
+[V2]
+ Der mich im Leiden getröstet hat,
+ der meinen Mund wieder fröhlich macht,
+ den will ich preisen mit Psalmen und Weisen,
+ von Herzen ihm ewiglich singen:
+ _
+ Lobe den Herrn, meine Seele, und seinen heiligen Namen.
+ Was er dir Gutes getan hat, Seele, vergiss es nicht, Amen.
+ Lobe, lobe den Herrn, lobe den Herrn, meine Seele.
+ Lobe, lobe den Herrn, lobe den Herrn, meine Seele.
+
+[V3]
+ Der mich vom Tode errettet hat,
+ der mich behütet bei Tag und Nacht,
+ den will ich preisen mit Psalmen und Weisen,
+ von Herzen ihm ewiglich singen:
+ _
+ Lobe den Herrn, meine Seele, und seinen heiligen Namen.
+ Was er dir Gutes getan hat, Seele, vergiss es nicht, Amen.
+ Lobe, lobe den Herrn, lobe den Herrn, meine Seele.
+ Lobe, lobe den Herrn, lobe den Herrn, meine Seele.
+
+[V4]
+ Der Erd und Himmel zusammenhält,
+ unter sein göttliches Jawort stellt,
+ den will ich preisen mit Psalmen und Weisen,
+ von Herzen ihm ewiglich singen: 
+ _
+ Lobe den Herrn, meine Seele, und seinen heiligen Namen.
+ Was er dir Gutes getan hat, Seele, vergiss es nicht, Amen.
+ Lobe, lobe den Herrn, lobe den Herrn, meine Seele.
+ Lobe, lobe den Herrn, lobe den Herrn, meine Seele.
+</lyrics>
+  <author>Norbert Kissel, 1991</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -8936,7 +9155,7 @@ OpenSong/Songs/We shall not be shaken
   <capo print="false"></capo>
   <lyrics>[V1]
  When everything's breaking, you are left unshaken. 
- When everything's tumbling down, you're the solid ground 
+ When everything's tumbling down, you're the solid ground.
  Nations could be quaken, economies failing. 
  When fear is found all around, you're the solid ground.
  _
@@ -8947,7 +9166,7 @@ OpenSong/Songs/We shall not be shaken
 
 [C]
  Our God you are, all that you say you are. 
- you never change, you never fail, you never fade.
+ You never change, you never fail, you never fade.
  Our God you are faithful in all your ways. 
  Forever you stand, forever you reign, forever remain.
  _
@@ -8958,8 +9177,8 @@ OpenSong/Songs/We shall not be shaken
 
 [B]
  We shall, we shall not be shaken. We shall, we shall not be shaken.
- When all around, is sinking sand. For you are, you are never changing.
- you are, you are never changing. 
+ When all around, is sinking sand. 
+ For you are, you are never changing. You are, you are never changing. 
  you will stand, the great 'I Am'. The great 'I Am'!
  _
  Wir werden nicht erschüttert.
