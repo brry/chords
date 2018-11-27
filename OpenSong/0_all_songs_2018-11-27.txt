@@ -1,94 +1,7 @@
 
-170 Files in S:/Dropbox/Faith/chords
+174 Files in S:/Dropbox/Faith/chords
 Combined together with berryFunctions::combineFiles
-2018-10-12 22:34:32
-
--------------------------------------------------------
--------------------------------------------------------
-
-OpenSong/Songs/0 full_slide_Helvetica11 
-
-<?xml version="1.0" encoding="UTF-8"?>
-<song>
-  <title>full_slide</title>
-  <lyrics> 01 aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aaa
- 02 aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aaa
- 03 aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aaa
- 04 aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aaa
- 05 aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aaa
- 06 aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aaa
- 07 aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aaa
- 08 aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aaa
- 09 aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aaa
- 10 aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aaa
- 11 aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aaa
- 12 aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aaa
- 13 aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aaa
- 14 bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bbb
-</lyrics>
-  <author>Berry</author>
-  <copyright></copyright>
-  <hymn_number>9999</hymn_number>
-  <presentation></presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <linked_songs/>
-  <tempo></tempo>
-  <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
-</song>
-
--------------------------------------------------------
--------------------------------------------------------
-
-OpenSong/Songs/0 full_slide_Helvetica14 
-
-<?xml version="1.0" encoding="UTF-8"?>
-<song>
-  <title>full_slide Example for Helvetica 11 for Text, 10 for title/author</title>
-  <lyrics> 01 aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aaa
- 02 aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aaa
- 03 aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aaa
- 04 aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aaa
- 05 aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aaa
- 06 aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aaa
- 07 aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aaa
- 08 aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aaa
- 09 aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aaa
- 10 aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aaa
- 11 aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aaa
- 12 aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aaa
- 13 aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aaa
- 14 aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aaa
- 15 aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aaa
- 16 aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aaa
- 17 aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aa aaa
- 18 bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bbb</lyrics>
-  <author>Berry, who is growing fond of OpenSong</author>
-  <copyright></copyright>
-  <hymn_number>9999</hymn_number>
-  <presentation></presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <linked_songs/>
-  <tempo></tempo>
-  <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
-</song>
+2018-11-27 14:08:37
 
 -------------------------------------------------------
 -------------------------------------------------------
@@ -651,6 +564,74 @@ OpenSong/Songs/Anker in der Zeit
 -------------------------------------------------------
 -------------------------------------------------------
 
+OpenSong/Songs/Auf Seele, Gott zu loben 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Auf Seele, Gott zu loben</title>
+  <lyrics>[V1]
+ Auf Seele, Gott zu loben, gar herrlich steht sein Haus.
+ Er spannt den Himmel droben gleich einem Teppich aus.
+ Er fährt auf Wolkenwagen, und Flammen sind sein Kleid.
+ Windfittiche ihn tragen, zu Diensten ihm bereit.
+
+[V2]
+ Gott hat das Licht entzündet, er schuf des Himmels Heer.
+ Das Erdreich ward gegründet, gesondert Erd und Meer.
+ Die kühlen Brunnen quellen aus jauchzend grünem Grund,
+ Die klaren Wasser schnellen aus Schlucht und Bergesgrund.
+
+[V3]
+ Vom Tau die Gräser blinken, im Wald die Quelle quillt,
+ Daraus die Tiere trinken, die Vögel und das Wild.
+ Die Vögel in den Zweigen lobsingen ihm in Ruh,
+ und alle Bäume neigen ihm ihre Früchte zu.
+
+[V4]
+ Gott lässet Saaten werden, zur Nahrung Mensch und Vieh.
+ Er bringet aus der Erde das Brot und sättigt sie.
+ Er sparet nicht an Güte, die Herzen zu erfreun.
+ Er schenkt die Zeit der Blüte, gibt Früchte, Öl und Wein.
+
+[V5]
+ Der Wald hat ihn erschauet und steht in Schmuck und Zier.
+ Gott hat den Berg gebauet zur Zuflucht dem Getier.
+ Das Jahr danach zu teilen, er hat den Mond gemacht.
+ Er lässt die Sonne eilen und gibt den Trost der Nacht.
+
+[V6]
+ Den Menschen heißt am Morgen er an das Tagewerk gehen,
+ lässt ihn in Plag und Sorgen das Werk der Allmacht sehn.
+ Er ist der treue Hüter, wacht über Meer und Land,
+ Die Erd ist voll der Güter und Gaben seiner Hand.
+
+[V7]
+ Lass dir das Lied gefallen. Mein Herz in Freuden steht.
+ Dein Loblied soll erschallen solange mein Odem geht.
+ Du tilgst des Sünders Fehde und bist mit Gnade nah.
+ Lob Gott, o meine Seele, sing ihm Halleluja.</lyrics>
+  <author>Martha Müller-Zitzke, 1947</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 OpenSong/Songs/Auge im Sturm 
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -763,6 +744,91 @@ OpenSong/Songs/Awesome God
   <copyright></copyright>
   <presentation>V1 C V2 C</presentation>
   <ccli></ccli>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+OpenSong/Songs/Beautiful 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Beautiful</title>
+  <lyrics>[V1]
+ I see your face in every sunrise,
+ the colors of the morning are inside your eyes.
+ The world awakens in the light of the day.
+ I look up to the sky and say: you're beautiful.
+ _
+ Ich sehe dein Gesicht bei jedem Sonnenaufgang,
+ Die Farben des Morgens sind in deinen Augen.
+ Die Welt erwacht im Licht des Tages.
+ Ich schaue zum Himmel und sage: Du bist wunderschön.
+
+[V2]
+ I see your power in the moonlit night
+ where planets are in motion and galaxies are bright.
+ We are amazed in the light of the stars.
+ It's all proclaiming who you are.
+ You're beautiful, you're beautiful.
+ _
+ Ich sehe deine Macht in der Mondnacht
+ wo Planeten in Bewegung sind und Galaxien hell sind.
+ Wir sind vom Licht der Sterne erstaunt.
+ Alles verkündet, wer du bist.
+ Du bist wunderschön, du bist wunderschön.
+
+[V3]
+ I see you there, hanging on a tree.
+ You bled and then you died and then you rose again for me.
+ Now you are sitting on your heavenly throne,
+ soon we will be coming home.
+ You're beautiful, you're beautiful.
+ _
+ Ich sehe dich dort an einem Baum hängen.
+ Du hast geblutet und bist gestorben und wieder aufgestanden.
+ Jetzt sitzt du auf deinem himmlischen Thron,
+ bald kommen wir nach Hause.
+ Du bist wunderschön, du bist wunderschön.
+
+[C]
+ When we arrive at eternity's shore
+ where death is just a memory and tears are no more,
+ we'll enter in as the wedding bells ring.
+ Your bride will come together and we'll sing:
+ you're beautiful, you're beautiful, you're beautiful.
+ _
+ Wenn wir am Ufer der Ewigkeit ankommen
+ wo der Tod nur eine Erinnerung ist und Tränen nicht mehr sind,
+ werden wir beim Läuten der Hochzeitsglocken hineingehen.
+ Deine Braut wird zusammen kommen und wir singen:
+ du bist schön, du bist schön, du bist schön.
+
+[B]
+ I see your face, you're beautiful, you're beautiful, you're beautiful.
+ I see your face, you're beautiful, you're beautiful, you're beautiful.
+ I see your face, I see your face.
+ I see your face, you're beautiful, you're beautiful, you're beautiful.
+ _
+ Ich sehe dein Gesicht, du bist wunderschön.
+</lyrics>
+  <author>Phil Whickham, 2007</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -1274,12 +1340,12 @@ OpenSong/Songs/Calvary
 
 OpenSong/Songs/come now is the time _ komm jetzt ist die Zeit 
 
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Come, now is the time</title>
   <lyrics>[V]
  Come, now is the time to worship.
- Come, now is the time to give your heart
+ Come, now is the time to give your heart.
  Come, just as you are to worship.
  Come, just as you are before your God. Come!
  _
@@ -1522,6 +1588,60 @@ OpenSong/Songs/Das H�chste meines Lebens
   <copyright></copyright>
   <presentation></presentation>
   <ccli></ccli>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+OpenSong/Songs/Das ist mein K�nig 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Das ist mein König</title>
+  <lyrics>[V1]
+ Der Wind, der in mir weht,
+ das Wort, das nie vergeht.
+ Alpha und Omega.
+ Der sein wird, ist und war.
+ _
+ Berge verbeugen sich
+ vor seinem Angesicht.
+ Ein Wort und es geschieht.
+ Er kommt und Ängste fliehn.
+
+[C]
+ Das ist mein König, König der Herrlichkeit.
+ Sein ist das Reich und die Macht in Ewigkeit.
+ Nichts muss ich fürchten, wenn Angst nach mir greift,
+ weil der König der Könige,
+ nah bei mir bleibt, nah bei mir bleibt,
+ nah bei mir bleibt, nah bei mir bleibt.
+
+[V2]
+ Der Weg auf dem ich geh.
+ Das Licht auf meinem Weg.
+ Meine Heimat, mein Zuhaus.
+ Deine Nähe füllt mich aus.
+ 
+
+</lyrics>
+  <author>Samuel Harfst &amp; Tobias Hundt, 2012</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 C V2 C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -2439,7 +2559,7 @@ OpenSong/Songs/Freiheit der Kinder Gottes
 <song>
   <title>Freiheit der Kinder Gottes</title>
   <lyrics>[V1]
- Du machst mich frei von falscher Religion,
+ Du machst mich frei von kranker Religion,
  von Angst und Menschenfurcht.
  Du machst mich frei von meiner Illusion,
  von meiner Lebensflucht.
@@ -3515,6 +3635,44 @@ OpenSong/Songs/Heart of Worship
 -------------------------------------------------------
 -------------------------------------------------------
 
+OpenSong/Songs/Heilig _ Verzehrendes Feuer 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Heilig / Verzehrendes Feuer</title>
+  <lyrics> Heilig, heilig, heilig ist der Herr.
+ Heilig, heilig, heilig ist der Herr.
+ _
+ Verzehrendes Feuer, ewige Glut,
+ vollkommen gerecht und vollkommen gut.
+ Gewaltige Wasser, endloses Meer,
+ unfassbar groß bist du, Herr.
+ _
+ Voll Ehrfurcht stehen wir vor dir,
+ aus Gnade dürfen wir uns nah'n,
+ Voll Ehrfurcht steh'n wir hier und beten an.</lyrics>
+  <author>Albert Frey, 1998</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 OpenSong/Songs/Here's my heart, Lord 
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -3632,7 +3790,7 @@ OpenSong/Songs/Here for you
 -------------------------------------------------------
 -------------------------------------------------------
 
-OpenSong/Songs/Here I am to worship 
+OpenSong/Songs/Here I am to worship _ Ich will dich anbeten 
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
@@ -3655,7 +3813,7 @@ OpenSong/Songs/Here I am to worship
  altogether wonderful to me.
  _
  Ich will dich anbeten, will mich vor dir beugen,
- will dir sagen, du nur bist mein Gott.
+ will dir sagen: du nur bist mein Gott.
  Denn du allein bist herrlich, du allein bist würdig,
  du nur bist vollkommen gut zu mir.
 
@@ -4889,6 +5047,76 @@ OpenSong/Songs/In Christ alone _ In Christus ist
 -------------------------------------------------------
 -------------------------------------------------------
 
+OpenSong/Songs/In the Presence of Angels 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>In the Presence of Angels</title>
+  <lyrics>[V1]
+ This is a realm of your glory,
+ this is a realm of your grace.
+ I can feel your mighty power,
+ it is moving in this place.
+ _
+ Dies ist ein Reich deiner Herrlichkeit 
+ und ein Reich deiner Gnade.
+ Ich kann deine mächtige Kraft fühlen,
+ die diesen Ort bewegt.
+
+[P]
+ We're in the presence of angels
+ with God's glory on their wings.
+ Like the voice of many waters,
+ I can hear the angels sing.
+ _
+ Wir sind in der Gegenwart von Engeln
+ mit Gottes Herrlichkeit auf ihren Flügeln.
+ Wie die Stimme vieler Gewässer
+ kann ich die Engel singen hören.
+
+[C]
+ Holy, holy, holy, holy
+ _
+ Worthy, worthy, worthy, worthy
+ _
+ Glory, glory, glory, glory
+ _
+ _
+ Heilig, würdig, Herrlichkeit
+
+[V2]
+ This is a realm of your glory,
+ this is a realm of your grace.
+ All my heart's desire,V1 P C V2 P C
+ is to see your face.
+ _
+ Dies ist ein Reich deiner Herrlichkeit 
+ und ein Reich deiner Gnade.
+ Mein ganzer Herzenswunsch ist,
+ dein Gesicht zu sehen.
+</lyrics>
+  <author>Roy Fields, 2008</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 P C V2 P C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 OpenSong/Songs/In the quiet _ There is no one else for me 
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -4994,7 +5222,7 @@ OpenSong/Songs/In the secret
 
 OpenSong/Songs/Indescribable 
 
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Indescribable</title>
   <author>Jesse Reeves &amp; Laura Story / Chris Tomlin, 2004</author>
@@ -5020,7 +5248,7 @@ OpenSong/Songs/Indescribable
  Unbeschreiblicher, Unbegreiflicher, du warfst die Sterne ins All
  und du kennst ihre Bahn. Du bist unglaublich Gott.
  Allmächtiger und Ewiger, wir fallen staunend und ehrfürchtig nieder vor dir,
- Du bist unglaublich, Gott.
+ du bist unglaublich, Gott.
 
 [V2]
  Who has told every lightning bolt where it should go, 
@@ -5038,6 +5266,63 @@ OpenSong/Songs/Indescribable
   <copyright></copyright>
   <presentation>V1 C V2 C</presentation>
   <ccli></ccli>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+OpenSong/Songs/Jesus Erl�ser der Welt _ Was f�r ein Mensch 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Jesus Erlöser der Welt / Was für ein Mensch</title>
+  <lyrics>[V1]
+ Was für ein Mensch, dem Wind und Wellen gehorchen.
+ Was für ein Mensch, der auf dem Wasser geht.
+ Was für ein Mensch, der Wasser in Wein verwandelt,
+ Brot und Fisch vermehrt.
+ Was für ein Mensch, der die Gefangenen frei macht.
+ Was für ein Mensch, der selbst den Tod bezwingt.
+ Was für ein Mensch, der allen Armen und Schwachen
+ frohe Botschaft bringt.
+
+[C]
+ Jesus, Erlöser der Welt,
+ du bist Christus, der Fels der uns hält.
+ Gott ist mit uns, er selbst kommt zur Welt,
+ das Licht, das die Nacht erhellt.
+
+[V2]
+ Was für ein Gott, der zu uns kommt, um zu dienen.
+ Was für ein Gott, der klein wird, wie ein Kind.
+ Was für ein Gott, der alle Schuld dieser Erde
+ für uns auf sich nimmt.
+ Was für ein Gott, der mit uns sein neues Reich baut.
+ Was für ein Gott, der uns das Erbe gibt.
+ Was für ein Gott, der uns als Söhne und Töchter
+ unbeschreiblich liebt.
+
+[B]
+ Was für ein Mensch, Jesus.
+ Was für ein Gott, Jesus.
+ Was für ein Gott.</lyrics>
+  <author>Albert Frey, 2004</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 C V2 C B</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
