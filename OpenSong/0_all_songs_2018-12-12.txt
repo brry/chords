@@ -1,7 +1,7 @@
 
-174 Files in S:/Dropbox/Faith/chords
+200 Files in S:/Dropbox/Faith/chords
 Combined together with berryFunctions::combineFiles
-2018-11-27 14:08:37
+2018-12-12 12:51:02
 
 -------------------------------------------------------
 -------------------------------------------------------
@@ -208,6 +208,56 @@ OpenSong/Songs/All I need is you (Pursue)
   <copyright></copyright>
   <presentation>V1 C V2 C B C</presentation>
   <ccli></ccli>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+OpenSong/Songs/Alle Jahre wieder 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Alle Jahre wieder</title>
+  <lyrics>[V1]
+ 1. Alle Jahre wieder, kommt das Christuskind,
+ auf die Erde nieder, wo wir Menschen sind.
+ _
+ 2. Kehrt mit seinem Segen ein in jedes Haus,
+ geht auf allen Wegen mit uns ein und aus.
+ _
+ 3. Steht auch mir zur Seite, still und unerkannt,
+ dass es treu mich leite an der lieben Hand.
+
+[V2]
+ 4. Aus dem Himmel ferne, wo die Engel sind,
+ schaut doch Gott so gerne her auf jedes Kind.
+ _
+ 5. Höret seine Bitte treu bei Tag und Nacht,
+ nimmt's bei jedem Schritte väterlich in Acht.
+ _
+ 6. Gibt mit Vaterhänden ihm sein täglich Brot,
+ hilft an allen Enden ihm aus Angst und Not.
+ _
+ 7. Sagt's den Kindern allen, dass ein Vater ist,
+ dem sie wohl gefallen, der sie nie vergisst!
+</lyrics>
+  <author>Wilhelm Hey (1789-1854)</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -671,6 +721,48 @@ OpenSong/Songs/Auge im Sturm
   <copyright></copyright>
   <presentation>V1 C V2 C</presentation>
   <ccli></ccli>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+OpenSong/Songs/Away in a manger 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Away in a manger</title>
+  <lyrics> 1. Away in a manger, no crib for a bed,
+ the little Lord Jesus, laid down his sweet head.
+ The stars in the bright sky, looked down where he lay:
+ the little Lord Jesus, asleep on the hay.
+ _
+ 2. The cattle are lowing, the baby awakes;
+ But little Lord Jesus, no crying he makes.
+ I love thee, Lord Jesus, look down from the sky,
+ and stay by my bedside, 'til morning is nigh.
+ _
+ 3. Be near me Lord Jesus, I ask thee to stay,
+ close by me forever, and love me I pray.
+ Bless all the dear children, in thy tender care,
+ and fit us for heaven, to live with thee there. 
+</lyrics>
+  <author>unbekannt, 1885</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -2204,6 +2296,47 @@ OpenSong/Songs/Du tust
 -------------------------------------------------------
 -------------------------------------------------------
 
+OpenSong/Songs/Ein heller Stern 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Ein heller Stern</title>
+  <lyrics> 1. Ein heller Stern hat in der Nacht die Botschaft in die Welt gebracht.
+ Ein heller Stern hat in der Nacht die Botschaft in die Welt gebracht.
+ _
+ Gloria, Gloria, Halleluja. Gloria, Gloria, Halleluja.
+ Gloria, Gloria, Halleluja. Gloria, Gloria, Halleluja.
+ _
+ 2. Die Engel haben auf dem Feld, den Hirten es zuerst erzählt.
+ 3. Die Hirten ließen alles steh'n, um zu dem Kind im Stall zu geh'n.
+ 4. Maria wusst' es lange schon, das Kind im Stroh ist Gottes Sohn.
+ 5. Und Josef auch, der Zimmermann, nimmt dieses Kind in Liebe an.
+ 6. Der helle Stern hat in der Nacht, die Könige zum Stall gebracht.
+ 7. So wissen alle nun davon: Gott schenkt uns seinen eig'nen Sohn.
+ 8. Drum freut euch all, ihr lieben Leut, dankt Gott und feiert Weihnacht heut.
+</lyrics>
+  <author>unbekannt</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 OpenSong/Songs/Ein Licht in dir geborgen 
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -2243,6 +2376,54 @@ OpenSong/Songs/Ein Licht in dir geborgen
  die Kraft zum neuen Beginn.
 </lyrics>
   <author>Gregor Linßen, 1990</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+OpenSong/Songs/Es kommt ein Schiff, geladen 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Es kommt ein Schiff, geladen</title>
+  <lyrics> 1. Es kommt ein Schiff, geladen bis an sein’ höchsten Bord,
+ trägt Gottes Sohn voll Gnaden, des Vaters ewigs Wort.
+ _
+ 2. Das Schiff geht still im Triebe, es trägt ein teure Last; 
+ das Segel ist die Liebe, der Heilig Geist der Mast.
+ _
+ 3. Der Anker haft’ auf Erden, da ist das Schiff am Land.
+ Das Wort will Fleisch uns werden, der Sohn ist uns gesandt.
+ _
+ 4. Zu Bethlehem geboren im Stall ein Kindelein,
+ gibt sich für uns verloren; gelobet muß es sein.
+ _
+ 5. Und wer dies Kind mit Freuden umfangen, küssen will,
+ muß vorher mit ihm leiden groß Pein und Marter viel,
+ _
+ 6. danach mit ihm auch sterben und geistlich auferstehn,
+ das ewig Leben erben, wie an ihm ist geschehn.
+ _
+ 7. Maria, Gottes Mutter, gelobet musst du sein.
+ Jesus ist unser Bruder, das liebe Kindelein.
+</lyrics>
+  <author>Daniel Sudermann, 1626</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
   <presentation></presentation>
@@ -3055,33 +3236,95 @@ OpenSong/Songs/Go, tell it on the mountains
 <song>
   <title>Go, tell it on the mountains</title>
   <author>unbekannt, 1865</author>
-  <hymn_number>113</hymn_number>
+  <hymn_number></hymn_number>
   <capo print="false"></capo>
-  <lyrics>[P1]
- Go, tell it on the mountains, over the hills and everywhere.
- Go, tell it on the mountains, that Jesus Christ is born. 
+  <lyrics>[C]
+ Go, tell it on the mountains,
+ over the hills and everywhere.
+ Go, tell it on the mountains,
+ that Jesus Christ is born. 
  _
- _
- While shepherds kept their watching, o'er silent flocks by night, 
- behold throughout the heavens, there shone a holy light.
- _
- The shepherds feared and trembled, when low! above the earth,
- rang out the angel chorus, that hailed our saviour's birth.
- _
- Down in a lowly manger, our humble Christ was born;
- And God sent us salvation, that blessed christmas morn'.
+ Geh, sag es auf den Bergen,
+ über den Hügeln und überall.
+ Geh, sag es auf den Bergen,
+ dass Jesus Christus geboren ist.
 
-[P2]
- Go, tell it on the mountains, over the hills and everywhere.
- Go, tell it on the mountains, that Jesus Christ is born. 
+[V1]
+ While shepherds kept their watching,
+ o'er silent flocks by night, 
+ behold throughout the heavens,
+ there shone a holy light.
+ _
+ Go, tell it on the mountains,
+ over the hills and everywhere.
+ Go, tell it on the mountains,
+ that Jesus Christ is born. 
+ _
+ _
+ Während die Hirten nachts bei stillen Herden Wache hielten,
+ siehe, da schien im Himmel ein heiliges Licht.
+
+[V2]
+ The shepherds feared and trembled,
+ when low above the earth,
+ rang out the angel chorus,
+ that hailed our saviour's birth.
+ _
+ Go, tell it on the mountains,
+ over the hills and everywhere.
+ Go, tell it on the mountains,
+ that Jesus Christ is born. 
+ _
+ _
+ Die Hirten fürchteten und zitterten,
+ als tief über der Erde der Engelchor erklang
+ und die Geburt unseres Erlösers bejubelte.
+
+[V3]
+ Down in a lowly manger,
+ our humble Christ was born;
+ And God sent us salvation,
+ that blessed christmas morn'.
+ _
+ Go, tell it on the mountains,
+ over the hills and everywhere.
+ Go, tell it on the mountains,
+ that Jesus Christ is born. 
+ _
+ _
+ In einer niedrigen Krippe wurde unser demütiger Christus geboren;
+ Und Gott schickte uns Erlösung an diesem gesegneten Weihnachtsmorgen.
+
+[V4]
+ When I was a seeker,
+ I sought both night and day.
+ I sought the Lord to help me,
+ and he showed me the way. 
+ _
+ Go, tell it on the mountains,
+ over the hills and everywhere.
+ Go, tell it on the mountains,
+ that Jesus Christ is born. 
+ _
+ _
+ Als ich suchte, suchte ich Tag und Nacht.
+ Ich bat den Herrn, mir zu helfen, und er zeigte mir den Weg.
+
+[V5]
+ He made me a watchman,
+ upon the city wall, 
+ And if I am a christian,
+ I am the least of all.
+ _
+ Go, tell it on the mountains,
+ over the hills and everywhere.
+ Go, tell it on the mountains,
+ that Jesus Christ is born. 
  _
  _ 
- When I was a seeker, I sought both night and day.
- I sought the Lord to help me, and he showed me the way. 
- _
- He made me a watchman, upon the city wall, 
- And if I am a christian, I am the least of all.
- </lyrics>
+ Er machte mich zu einem Wächter an der Stadtmauer.
+ Wenn ich Christ bin, bin ich der Kleinste von allen.
+</lyrics>
   <copyright></copyright>
   <presentation></presentation>
   <ccli></ccli>
@@ -3566,6 +3809,97 @@ OpenSong/Songs/Gro� ist unser Gott
 -------------------------------------------------------
 -------------------------------------------------------
 
+OpenSong/Songs/Guten Abend, sch�n Abend 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Guten Abend, schön Abend</title>
+  <lyrics> 1. Guten Abend, schön Abend, es weihnachtet schon!
+ Am Kranze die Lichter die leuchten so fein:
+ sie geben der Heimat einen helllichten Schein.
+ _
+ 2. Guten Abend, schön Abend, es weihnachtet schon!
+ Der Schnee fällt in Flocken und weiß glänzt der Wald:
+ Nun freut euch ihr Kinder, die Weihnacht kommt bald.
+ _
+ 3. Guten Abend, schön Abend, es weihnachtet schon!
+ Nun singt es und klingt es so lieblich und fein.
+ Wir singen die fröhliche Weihnachtszeit ein.
+</lyrics>
+  <author>unbekannt</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+OpenSong/Songs/Hark the herald angels 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Hark the herald angels</title>
+  <lyrics>[V1]
+ Hark the herald angels sing: "Glory to the new born King.
+ Peace on earth and mercy mild, God an sinners reconciled."
+ Joyful all ye nations rise. Join the triumph of the skies
+ With angelic host proclaim: "Christ is born in Bethlehem!"
+ Hark the herald angels sing "Glory to the new born King."
+[V2]
+ Christ, by highest heaven adored; Christ the everlasting Lord;
+ Late in time behold him come, offspring of the favored one.
+ Veiled in flesh, the Godhead see; hail the incarnate deity.
+ Pleased as man with men to dwell, Jesus, our Immanuel.
+ Hark the herald angels sing, "Glory to the new born King."
+[V3]
+ Hail! the heaven-born prince of peace, hail the son of righteousness.
+ Light and life to all he brings, risen with healing in his wings.
+ Mild he lays his glory by, born that man no more may die,
+ born to raise the sons of earth, born to five them second birth.
+ Hark the herald angels sing, "Glory to the new born King."
+[V4]
+ Come, desire of nations come, fix in us thy humble home;
+ Rise, the woman's conquering seed, bruise in us the serpent's head.
+ Now display thy saving power, ruined nature now restore;
+ Now in mystic union join thine to ours, and ours to thine.
+ Hark the herald angels sing, "Glory to the new born King."
+</lyrics>
+  <author>Charles Wesley, 1739 &amp; Felix Mendelssohn, 1840</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 OpenSong/Songs/Heart of Worship 
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -3652,6 +3986,65 @@ OpenSong/Songs/Heilig _ Verzehrendes Feuer
  aus Gnade dürfen wir uns nah'n,
  Voll Ehrfurcht steh'n wir hier und beten an.</lyrics>
   <author>Albert Frey, 1998</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+OpenSong/Songs/Herbei, o ihr Gl�ubigen 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Herbei, o ihr Gläubigen</title>
+  <lyrics>[V1]
+ Herbei, o ihr Gläubigen, fröhlich triumphierend,
+ o kommet, o kommet nach Bethlehem!
+ Sehet das Kindlein, uns zum Heil geboren!
+ _
+ O lasset uns anbeten, o lasset uns anbeten,
+ o lasset uns anbeten den König!
+
+[V2]
+ Du König der Ehren, Herrscher der Heerscharen,
+ verschmähst nicht, zu ruhn in Marien Schoß,
+ du wahrer Gott von Ewigkeit geboren.
+ _
+ O lasset uns anbeten, o lasset uns anbeten,
+ o lasset uns anbeten den König!
+
+[V3]
+ Kommt, singet dem Herren, singt ihm, Engelchöre!
+ Frohlocket, frohlocket, ihr Seligen:
+ Ehre sei Gott im Himmel und auf Erden!
+ _
+ O lasset uns anbeten, o lasset uns anbeten,
+ o lasset uns anbeten den König!
+
+[V4]
+ Ja, dir, der du heute Mensch für uns geboren,
+ Herr Jesu, sei Ehre und Preis und Ruhm,
+ dir, fleischgewordnes Wort des ewgen Vaters!
+ _
+ O lasset uns anbeten, o lasset uns anbeten,
+ o lasset uns anbeten den König!
+</lyrics>
+  <author>John Francis Wade, 1751, D: F.H. Ranke, 1823</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
   <presentation></presentation>
@@ -4105,6 +4498,54 @@ OpenSong/Songs/Holy spirit
   <copyright></copyright>
   <presentation>V1 V2 C V1 V2 C B C</presentation>
   <ccli></ccli>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+OpenSong/Songs/H�rt der Engel helle Lieder 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Hört der Engel helle Lieder</title>
+  <lyrics>[V1]
+ 1. Hört der Engel helle Lieder klingen das weite Feld entlang,
+ und die Berge hallen wider von des Himmels Lobgesang:
+ _
+ Glo-ria in excelsis Deo.
+ _
+ 2. Hirten sagt, was ist geschehen, was tun uns die Engel kund?
+ Alles Leid könnt jetzt vergehen auf dem weiten Erdenrund.
+ _
+ 3. Denn ein Kindlein ist geboren, kommen ist der Heiland dein.
+ Er errettet, was verloren, Friede soll auf Erden sein.
+
+[V2]
+ 2a. Hirten, warum wird gesungen? Sagt mir doch eures Jubels Grund!
+ Welch ein Sieg ward denn errungen, den uns die Chöre machen kund?
+ _
+ Glo-ria in excelsis Deo.
+ _
+ 3a. Sie verkünden uns mit Schalle, dass der Erlöser nun erschien,
+ dankbar singen sie heut alle an diesem Fest und grüßen ihn.
+</lyrics>
+  <author>Otto Abel, 1954</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -5047,6 +5488,55 @@ OpenSong/Songs/In Christ alone _ In Christus ist
 -------------------------------------------------------
 -------------------------------------------------------
 
+OpenSong/Songs/In dulci jubilo 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>In dulci jubilo</title>
+  <lyrics>[V1]
+ 1. In dulci jubilo, nun singet und seid froh:
+ Unsers Herzens Wonne liegt in praese pio
+ und leuchtet wie die Sonne matris in gremio.
+ Alpha es et O, Alpha es et O.
+ _
+ 2. O Jesu parvule, nach dir ist mir so weh.
+ Tröst mir mein Gemüte, o puer optime.
+ Durch alle deine Güte, o princeps gloriae,
+ trahe me post te! trahe me post te!
+
+[V2]
+ 3. Ubi sunt gaudia? Nirgend mehr denn da,
+ da die Engel singen nova cantica,
+ Und die Schellen klingen in regis curia.
+ Eia, wär’n wir da! Eia, wär’n wir da!
+ _
+ 4. Mater et filia ist Jungfrau Maria;
+ wir wären gar verloren per nostra crimina:
+ So hast du uns erworben celorum gaudia.
+ Maria, hilf uns da! Maria, hilf uns da!
+</lyrics>
+  <author>Heinrich Seuse, 1440</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 OpenSong/Songs/In the Presence of Angels 
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -5316,6 +5806,7 @@ OpenSong/Songs/Jesus Erl�ser der Welt _ Was f�r ein Mensch
 [B]
  Was für ein Mensch, Jesus.
  Was für ein Gott, Jesus.
+ Was für ein Mensch, Jesus.
  Was für ein Gott.</lyrics>
   <author>Albert Frey, 2004</author>
   <copyright></copyright>
@@ -5485,6 +5976,53 @@ OpenSong/Songs/Jesus, zu dir kann ich so kommen
 -------------------------------------------------------
 -------------------------------------------------------
 
+OpenSong/Songs/Joy to the world 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Joy to the world</title>
+  <lyrics>[V1]
+ Joy to the world, the Lord is come! Let earth receive her king;
+ Let every heart prepare him room, and heaven and nature sing,
+ and heaven and nature sing, and heaven, and heaven, and nature sing.
+
+[V2]
+ Joy to the earth, the savior reigns! Let men their songs employ;
+ While fields and floods, rocks, hills and plains, repeat the sounding joy,
+ repeat the sounding joy, repeat, repeat, the sounding joy.
+
+[V3]
+ No more let sins and sorrows grow, nor thorns infest the ground;
+ He comes to make his blessings flow, far as the curse is found.
+ far as the curse is found, far as, far as, the curse is found.
+
+[V4]
+ He rules the world with truth and grace, and makes the nations prove
+ the glories of his righteousness, and wonders of his love,
+ and wonders of his love, and wonders, wonders, of his love.
+</lyrics>
+  <author>Isaac Watts, 1719</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 OpenSong/Songs/Keiner ist wie du _ There is none like you 
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -5566,18 +6104,140 @@ OpenSong/Songs/King of my heart
  Der König meines Herzens sei das Feuer in meinen Adern,
  das Echo meiner Tage. Oh, er ist mein Lied.
 
+[B1]
+ You're never gonna let me down.
+ _
+ You are good, good, oh.
+ _
+ _
+ Du wirst mich nie im Stich lassen.
+ Du bist gut, gut, oh.
 
-[V3]
+[B2]
  When the night is holding onto me, God is holding on.
  You are good, good, oh.
- You're never gonna let me down.
  _
  _
  Wenn die Nacht mich festhält, hält Gott mich.
  Du bist gut, gut, oh.
- Du wirst mich nie im Stich lassen.</lyrics>
+</lyrics>
   <author>Sarah &amp; John Mark McMillan, 2015</author>
   <copyright>2017 BEC Recordings</copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+OpenSong/Songs/Kling, Gl�ckchen, klingelingeling 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Kling, Glöckchen, klingelingeling</title>
+  <lyrics> Kling, Glöckchen, klingelingeling, Kling, Glöckchen, kling!
+ _
+ 1. Laßt mich ein, ihr Kinder! Ist so kalt der Winter!
+ Öffnet mir die Türen! Laßt mich nicht erfrieren! 
+ _
+ 2. Mädchen, hört, und Bübchen, Macht mir auf das Stübchen!
+ Bringt euch viele Gaben, Sollt euch dran erlaben!
+ _
+ 3. Hell erglühn die Kerzen, Öffnet mir die Herzen,
+ Will drin wohnen fröhlich, Frommes Kind, wie selig!
+</lyrics>
+  <author>Karl Enslin, 19.Jhdt</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+OpenSong/Songs/Lasst euch anstiften zur Freude 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Lasst euch anstiften zur Freude</title>
+  <lyrics>[V1]
+ Lasst euch anstiften zur Freude,
+ lasst uns Freudenstifter sein.
+ Und es finden hier und heute,
+ viele Leute wieder Freude, 
+ und kein Mensch ist mehr allein,
+ denn Gott selbst wird bei uns sein.
+ _
+ Halleluja, Halleluja, denn Gott selbst wird bei uns sein. (2x)
+
+[V2]
+ Lasst euch anstiften zur Hoffnung!
+ Lasst uns Hoffnungsstifter sein.
+ Und es finden hier und heute,
+ viele Leute wieder Hoffnung,
+ und kein Mensch ist mehr allein,
+ denn Gott selbst wird bei uns sein.
+ _
+ Halleluja, Halleluja, denn Gott selbst wird bei uns sein. (2x)
+
+[V3]
+ Lasst euch anstiften zum Frieden!
+ Lasst uns Friedensstifter sein.
+ Und es finden hier und heute,
+ viele Leute wieder Frieden,
+ und kein Mensch ist mehr allein,
+ denn Gott selbst wird bei uns sein.
+ _
+ Halleluja, Halleluja, denn Gott selbst wird bei uns sein. (2x)
+
+[V4]
+ Stiftet an mit hellem Leuchten!
+ Tragt es in die Welt hinein.
+ Als das Kind im Stall geboren,
+ so verloren, kam ein Leuchten
+ mit ihm in die Welt herein,
+ denn Gott selbst wird bei uns sein.
+ _
+ Halleluja, Halleluja, denn Gott selbst wird bei uns sein. (2x)
+
+[V5]
+ Lasst euch anstiften zur Liebe,
+ denn dann findet Frieden statt.
+ Weil im Stall das Kind, das kleine,
+ ganz alleine, zu der Liebe
+ alle angestiftet hat.
+ Und so findet Frieden statt.
+ _
+ Halleluja, Halleluja, denn Gott selbst wird bei uns sein. (2x)
+</lyrics>
+  <author>Rolf Krenzer &amp; Detlef Jöcker</author>
+  <copyright></copyright>
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
@@ -5762,6 +6422,45 @@ OpenSong/Songs/Lege deine Sorgen nieder
 -------------------------------------------------------
 -------------------------------------------------------
 
+OpenSong/Songs/Leise rieselt der Schnee 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Leise rieselt der Schnee</title>
+  <lyrics> 1. Leise rieselt der Schnee, Still und starr liegt der See,
+ Weihnachtlich glänzet der Wald. Freue dich, 's Christkind kommt bald!
+ _
+ 2. In den Herzen ist's warm; Still schweigt Kummer und Harm. 
+ Sorge des Lebens verhallt; Freue dich! 's Christkind kommt bald! 
+ _
+ 3. 's Kindlein, göttlich und arm, Macht die Herzen so warm,
+ Strahle, du Stern überm Wald. Freue dich, 's Christkind kommt bald!
+ _
+ 4. Bald ist heilige Nacht, Chor der Engel erwacht;
+ Horch nur, wie lieblich es schallt. Freue dich, 's Christkind kommt bald!
+</lyrics>
+  <author>Eduard Ebel, 1895</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 OpenSong/Songs/Lobe den Herrn, meine Seele 
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -5868,6 +6567,83 @@ OpenSong/Songs/Lord, I lift your name on high
   <copyright></copyright>
   <presentation></presentation>
   <ccli></ccli>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+OpenSong/Songs/Macht hoch die T�r 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Macht hoch die Tür</title>
+  <lyrics>[V1]
+ Macht hoch die Tür, die Tor macht weit;
+ es kommt der Herr der Herrlichkeit,
+ ein König aller Königreich,
+ ein Heiland aller Welt zugleich,
+ der Heil und Leben mit sich bringt;
+ derhalben jauchzt, mit Freuden singt:
+ Gelobet sei mein Gott,
+ mein Schöpfer reich von Rat.
+
+[V2]
+ Er ist gerecht, ein Helfer wert;
+ Sanftmütigkeit ist sein Gefährt,
+ sein Königskron ist Heiligkeit,
+ sein Zepter ist Barmherzigkeit;
+ all unsre Not zum End er bringt,
+ derhalben jauchzt, mit Freuden singt:
+ Gelobet sei mein Gott,
+ mein Heiland groß von Tat.
+
+[V3]
+ O wohl dem Land, o wohl der Stadt,
+ so diesen König bei sich hat.
+ Wohl allen Herzen insgemein,
+ da dieser König ziehet ein.
+ Er ist die rechte Freudensonn,
+ bringt mit sich lauter Freud und Wonn.
+ Gelobet sei mein Gott,
+ mein Tröster früh und spat.
+
+[V4]
+ Macht hoch die Tür, die Tor macht weit,
+ eu’r Herz zum Tempel zubereit’.
+ Die Zweiglein der Gottseligkeit
+ steckt auf mit Andacht, Lust und Freud;
+ so kommt der König auch zu euch,
+ ja, Heil und Leben mit zugleich.
+ Gelobet sei mein Gott,
+ voll Rat, voll Tat, voll Gnad.
+
+[V5]
+ Komm, o mein Heiland Jesu Christ,
+ meins Herzens Tür dir offen ist.
+ Ach zieh mit deiner Gnade ein;
+ dein Freundlichkeit auch uns erschein.
+ Dein Heilger Geist uns führ und leit
+ den Weg zur ewgen Seligkeit.
+ Dem Namen dein, o Herr,
+ sei ewig Preis und Ehr.
+</lyrics>
+  <author>Georg Weißel, 1623</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -6050,49 +6826,11 @@ OpenSong/Songs/Man of sorrows
 -------------------------------------------------------
 -------------------------------------------------------
 
-OpenSong/Songs/Markus5 
-
-<?xml version="1.0" encoding="UTF-8"?>
-<song>
-  <title></title>
-  <lyrics>[V4]
- 21 Und als Jesus im Boot wieder ans andere Ufer hinübergefahren war, strömte viel Volk bei ihm zusammen; und er war am See. 22 Da kommt einer von den Synagogenvorstehern mit Namen Jairus, und als er ihn sieht, fällt er ihm zu Füssen 23 und fleht ihn an: Mein Töchterchen ist todkrank. Komm und leg ihr die Hand auf, damit sie gerettet wird und am Leben bleibt. 24 Und er ging mit ihm. Und viel Volk folgte ihm und drängte sich um ihn.
-
-[V5]
- 25 Und da war eine Frau, die hatte seit zwölf Jahren Blutungen 26 und hatte viel gelitten unter vielen Ärzten und ihr ganzes Vermögen ausgegeben. Aber es hatte ihr nichts genützt, es war nur noch schlimmer geworden mit ihr. 27 Als sie nun von Jesus hörte, kam sie im Gedränge von hinten an ihn heran und berührte seinen Mantel. 28 Denn sie sagte sich: Wenn ich auch nur seine Kleider berühre, werde ich gerettet. 29 Und sogleich versiegte die Quelle ihrer Blutungen, und sie spürte an ihrem Körper, dass sie von der Plage geheilt war.
- 30 Und sogleich spürte Jesus, dass eine Kraft von ihm ausgegangen war, und er wandte sich im Gedränge um und sprach: Wer hat meine Kleider berührt? 31 Da sagten seine Jünger zu ihm: Du siehst doch, wie das Volk sich um dich drängt, und da sagst du: Wer hat mich berührt? 32 Und er schaute umher, um die zu sehen, die das getan hatte.
- 33 Die Frau aber kam, verängstigt und zitternd, weil sie wusste, was ihr geschehen war, und warf sich vor ihm nieder und sagte ihm die ganze Wahrheit. 34 Er aber sagte zu ihr: Tochter, dein Glaube hat dich gerettet. Geh in Frieden und sei geheilt von deiner Plage. 35 Noch während er redet, kommen Leute des Synagogenvorstehers und sagen: Deine Tochter ist gestorben! Was bemühst du den Meister noch?
-
-[V7]
- 36 Doch Jesus, der hörte, was geredet wurde, sagt zu dem Synagogenvorsteher: Fürchte dich nicht, glaube nur! 37 Und er liess niemanden mit sich gehen ausser Petrus, Jakobus und Johannes, den Bruder des Jakobus. 38 Und sie kommen in das Haus des Synagogenvorstehers. Und er sieht die Aufregung, wie sie weinen und laut klagen. 39 Und er geht hinein und sagt zu ihnen: Was lärmt und weint ihr? Das Kind ist nicht gestorben, es schläft. 40 Da lachten sie ihn aus. Er aber schickt alle hinaus, nimmt den Vater des Kindes und die Mutter und seine Begleiter mit und geht hinein, wo das Kind ist. 41 Und er nimmt die Hand des Kindes und spricht zu ihm: Talita kum! Das heisst: Mädchen, ich sage dir, steh auf! 42 Und sogleich stand das Mädchen auf und ging umher. Es war zwölf Jahre alt. Da waren sie fassungslos vor Entsetzen. 43 Und er schärfte ihnen ein, dies niemanden wissen zu lassen. Und er sagte, man solle ihr zu essen geben. 
- </lyrics>
-  <author></author>
-  <copyright></copyright>
-  <hymn_number></hymn_number>
-  <presentation></presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <linked_songs/>
-  <tempo></tempo>
-  <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
-</song>
-
--------------------------------------------------------
--------------------------------------------------------
-
 OpenSong/Songs/Mary did you know 
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>Mary did you know</title>
+  <title>Mary, did you know</title>
   <lyrics>[V1]
  Mary, did you know, that your baby boy would someday walk on water?
  Mary, did you know that your baby boy would save our sons and daughters? 
@@ -6137,10 +6875,73 @@ OpenSong/Songs/Mary did you know
  Wusstest du, dass dein Söhnlein des Himmels vollkommenes Lamm ist?
  Das schlafende Kind, das du gerade hältst, ist der große "Ich bin".
  </lyrics>
-  <author>Mark Lowry, Buddy Greene, 1991</author>
+  <author>Mark Lowry &amp; Buddy Greene, 1991</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
   <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+OpenSong/Songs/Marys Boy Child - Denn es ist Weihnachtszeit 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Marys Boy Child / Denn es ist Weihnachtszeit</title>
+  <lyrics>[V1]
+ Long time ago in Bethlehem, so the Holy Bible say,
+ Mary's boy child Jesus Christ, was born on Christmas Day.
+ _
+ Als aller Hoffnung Ende war, in dem dunklen Weltenlauf,
+ da ging im Stall von Bethlehem der Stern der Liebe auf.
+
+[C]
+ Hark, now hear the angels sing, a new king born today
+ And man will live for evermore, because of Christmas day.
+ Trumpets sound and angels sing, listen to what they say,
+ that man will live for evermore, because of Christmas Day.
+ _
+ Hört, es klingt vom Himmelszelt das Lied der Christenheit,
+ das Lied vom Frieden auf der Welt, denn es ist Weihnachtszeit.
+ Hört das Lied, das nie verklingt in einer Welt voll Leid,
+ das allen Herzen Liebe bringt, denn es ist Weihnachtszeit.
+
+[V2]
+ While shepherds watch their flocks by night, they see a bright new shining star,
+ they hear a choir sing, the music seemed to come from afar.
+ Now Joseph and his wife, Mary, come to Bethlehem that night,
+ they find no place to born the child, not a single room was in sight.
+ _
+ Die Hirten sah'n am Himmelszelt den hohen, hellen Stern.
+ Da war der Tag der Herrlichkeit auf Erden nicht mehr fern.
+
+[V3]
+ By and by they find a little nook in a stable all forlorn,
+ and in a manger cold and dark, Mary's little boy was born.
+ Long time ago in Bethlehem, so the Holy Bible say,
+ Mary's boy child, Jesus Christ, was born on Christmas Day.
+ _
+ Das Kind, das in der Krippe schlief, das lag im hellen Schein
+ und leise rief der Engelchor die Hirten all herein.
+</lyrics>
+  <author>J. Hairston (1956), D: Heinz Korn</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
@@ -6811,6 +7612,49 @@ OpenSong/Songs/N�her an sein Herz
 -------------------------------------------------------
 -------------------------------------------------------
 
+OpenSong/Songs/N�her zu dir 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Näher zu dir</title>
+  <lyrics>[V1]
+ Man sagt, du wohnst auf hohen Bergen. Man sagt, du thronst weit überm Meer.
+ Man sucht nach dir dort bei den Sternen, doch du wohnst nicht weg von hier.
+ Wir ziehn zu dir auf vielen Straßen. Aus Nord und Süd, Ost und West.
+ Es ist nicht weit zu deinen Kammern, weil du dich von uns finden lässt.
+ _
+ Näher, näher zu dir, näher mein Gott zu dir!
+
+[V2]
+ Von vorn und von hinten fest umschlossen, hast du die Hand auf mich gelegt.
+ Das Öl der Heilung ausgegossen und Ewigkeit ins Herz gesät.
+ Du hast die Augen eines Vaters, die Sehnsucht lässt mich nicht mehr gehen.
+ Wie könnt ich jemals von dir lassen und dein Gesicht nicht vor mir sehn.
+ _
+ Näher, näher zu dir, näher mein Gott zu dir!
+</lyrics>
+  <author>Lothar Kosse, 2004</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 OpenSong/Songs/No longer slaves 
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -7185,7 +8029,7 @@ OpenSong/Songs/O come, all ye faithful
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>O come, all ye faithful</title>
+  <title>O come, all ye faithful / Herbei, o ihr Gläubigen</title>
   <author>John Francis Wade, 1751. Deutsch: F.H. Ranke, 1823</author>
   <hymn_number>112</hymn_number>
   <capo print="false"></capo>
@@ -7268,6 +8112,48 @@ OpenSong/Songs/O come, all ye faithful
 -------------------------------------------------------
 -------------------------------------------------------
 
+OpenSong/Songs/O Tannenbaum 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>O Tannenbaum</title>
+  <lyrics> O Tannenbaum, o Tannenbaum, wie grün sind deine Blätter.
+ Du grünst nicht nur zur Sommerzeit,
+ nein auch im Winter, wenn es schneit.
+ O Tannenbaum, o Tannenbaum, wie grün sind deine Blätter!
+ _
+ O Tannenbaum, o Tannenbaum, du kannst mir sehr gefallen!
+ Wie oft hat nicht zur Winterszeit
+ ein Baum von dir mich hoch erfreut!
+ O Tannenbaum, o Tannenbaum, du kannst mir sehr gefallen!
+ _
+ O Tannenbaum, o Tannenbaum, dein Kleid will mich was lehren:
+ Die Hoffnung und Beständigkeit
+ gibt Mut und Kraft zu jeder Zeit!
+ O Tannenbaum, o Tannenbaum, dein Kleid will mich was lehren.
+</lyrics>
+  <author>Melchior Franck, 16. Jhdt</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 OpenSong/Songs/Oceans (where feet may fail) 
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -7323,6 +8209,48 @@ OpenSong/Songs/Oceans (where feet may fail)
   <copyright></copyright>
   <presentation>V1 C V2 C B C</presentation>
   <ccli></ccli>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+OpenSong/Songs/Oh du fr�hliche, oh du selige 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Oh du fröhliche, oh du selige</title>
+  <lyrics> 1. Oh du fröhliche, oh du selige,
+ gnadenbringende Weihnachtszeit.
+ Welt ging verloren, Christ ward geboren.
+ Freue, freue dich, oh Christenheit!
+ _
+ 2. Oh du fröhliche, oh du selige,
+ gnadenbringende Weihnachtszeit.
+ Christ ist erschienen, uns zu versühnen.
+ Freue, freue dich, oh Christenheit!
+ _
+ 3. Oh du fröhliche, oh du selige,
+ gnadenbringende Weihnachtszeit.
+ Himmlische Heere, jauchzen Dir Ehre.
+ Freue, freue dich, oh Christenheit!
+</lyrics>
+  <author>Herder, 1788 &amp; Falk, 1816</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -8193,6 +9121,45 @@ OpenSong/Songs/Set a fire
 -------------------------------------------------------
 -------------------------------------------------------
 
+OpenSong/Songs/Sind die Lichter angez�ndet 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Sind die Lichter angezündet</title>
+  <lyrics> 1. Sind die Lichter angezündet, Freude zieht in jeden Raum.
+ Weihnachtsfreude wird verkündet, unter jedem Lichterbaum.
+ Leuchte, Licht mit hellem Schein, überall, überall soll Freude sein.
+ _
+ 2. Süße Dinge schöne Gaben, gehen nun von Hand zu Hand,
+ Jedes Kind soll Freude haben, jedes Kind in jedem Land.
+ Leuchte, Licht mit hellem Schein, überall, überall soll Freude sein.
+ _
+ 3. Sind die Lichter angezündet, rings ist jeder Raum erhellt.
+ Weihnachtsfriede wird verkündet, zieht hinaus in alle Welt.
+ Leuchte, Licht mit hellem Schein, überall, überall soll Friede sein.
+</lyrics>
+  <author>Erika Engel, 1950 &amp; Hans Sandig, 1957</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 OpenSong/Songs/Sinking deep 
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -8441,6 +9408,60 @@ OpenSong/Songs/Spirit break out
 -------------------------------------------------------
 -------------------------------------------------------
 
+OpenSong/Songs/Stern �ber Bethlehem 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Stern über Bethlehem</title>
+  <lyrics>[V]
+ 1. Stern über Bethlehem, zeig uns den Weg,
+ führ uns zur Krippe hin, zeig wo sie steht.
+ Leuchte du uns voran, bis wir dort sind,
+ Stern über Bethlehem, führ uns zum Kind!
+ _
+ 2. Stern über Bethlehem, bleib bei uns stehn.
+ Du sollst den steilen Pfad vor uns her gehen!
+ Führ uns zu Stall und zu Esel und Rind;
+ Stern über Bethlehem, führ uns zum Kind!
+
+[V2]
+ 3. Stern über Bethlehem, nun bleibst du stehn
+ und läßt uns alle das Wunder hier sehn,
+ das da geschehen, was niemand gedacht,
+ Stern über Bethlehem, in dieser Nacht!
+ _
+ 4. Stern über Bethlehem, wir sind am Ziel,
+ denn dieser arme Stall birgt doch so viel!
+ Du hast uns hergeführt, wir danken dir.
+ Stern über Bethlehem, wir bleiben hier!
+ _
+ 5. Stern über Bethlehem, kehrn wir zurück,
+ steht doch dein heller Schein in unserm Blick,
+ und was uns froh gemacht, teilen wir aus.
+ Stern über Bethlehem, schein auch zuhaus.
+</lyrics>
+  <author>Alfred Hans Zoller &amp; George Cooper, 1890</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 OpenSong/Songs/Still (berge mich in deinem Arm) 
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -8477,6 +9498,81 @@ OpenSong/Songs/Still (berge mich in deinem Arm)
   <copyright></copyright>
   <presentation></presentation>
   <ccli></ccli>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+OpenSong/Songs/Stille Nacht, heilige Nacht 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Stille Nacht, heilige Nacht</title>
+  <lyrics>[V1]
+ Stille Nacht, heilige Nacht.
+ Alles schläft, einsam wacht
+ nur das traute hochheilige Paar.
+ Holder Knabe im lockigen Haar,
+ schlaf in himmlischer Ruh!
+ Schlaf in himmlischer Ruh.
+
+[V2]
+ Stille Nacht, heilige Nacht.
+ Hirten erst kundgemacht
+ durch der Engel Halleluja,
+ tönt es laut von fern und nah:
+ Christ, der Retter ist da!
+ Christ, der Retter ist da.
+
+[V3]
+ Stille Nacht, Heilige Nacht.
+ Gottes Sohn, oh, wie lacht
+ Lieb' aus deinem göttlichen Mund,
+ da uns schlägt die rettende Stund,
+ Christ, in deiner Geburt!
+ Christ, in deiner Geburt.
+
+[V4]
+ Stille Nacht, heilige Nacht,
+ die der Welt Heil gebracht
+ aus des Himmels goldenen Höh'n
+ uns der Gnade Fülle läßt seh'n:
+ Jesus in Menschengestalt!
+ Jesus in Menschengestalt.
+
+[V5]
+ Stille Nacht, heilige Nacht,
+ wo sich heut alle Macht
+ jener Liebe huldvoll ergoß,
+ die uns arme Menschen umschloß:
+ Jesus, der Heiland der Welt!
+ Jesus, der Heiland der Welt.
+
+[V6]
+ Stille Nacht, heilige Nacht,
+ lange schon uns bedacht,
+ als der Herr, vom Zorne befreit,
+ in der Väter urgrauen Zeit
+ aller Welt Schonung verhieß,
+ aller Welt Schonung verhieß.
+</lyrics>
+  <author>Gruber &amp; Mohr, 1818</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -8825,6 +9921,55 @@ OpenSong/Songs/This is our God _ Was f�r ein Gott
 -------------------------------------------------------
 -------------------------------------------------------
 
+OpenSong/Songs/This little light of mine 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>This little light of mine</title>
+  <lyrics>[V1]
+ This little light of mine, I'm gonna let it shine.
+ This little light of mine, I'm gonna let it shine.
+ This little light of mine, I'm gonna let it shine.
+ Let it shine, let it shine, let it shine.
+ _
+ In my daily work
+ All throughout my heart
+ Out there in the dark
+ Everywhere I go
+
+[V2]
+ This little light of mine, I'm gonna let it shine.
+ This little light of mine, I'm gonna let it shine.
+ This little light of mine, I'm gonna let it shine.
+ Let it shine, let it shine, let it shine.
+ _
+ Hide it under a bushel, no!
+ Don't let Satan blow it out.
+ All up in my house
+ Let it shine till Jesus comes.	
+</lyrics>
+  <author>Harry Dixon Loes, 1920</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 OpenSong/Songs/Thy word 
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -8987,6 +10132,45 @@ OpenSong/Songs/Till I see you
   <copyright></copyright>
   <hymn_number></hymn_number>
   <presentation>V1 V2 B V3 B C V1 B C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+OpenSong/Songs/Tochter Zion 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Tochter Zion</title>
+  <lyrics> 1. Tochter Zion, freue dich! Jauchze, laut, Jerusalem!
+ Sieh, dein König kommt zu dir! Ja er kommt, der Friedenfürst.
+ Tochter Zion, freue dich! Jauchze, laut, Jerusalem!
+ _
+ 2. Hosianna, Davids Sohn, Sei gesegnet deinem Volk!
+ Gründe nun dein ewig' Reich, Hosianna in der Höh'!
+ Hosianna, Davids Sohn, Sei gesegnet deinem Volk!
+ _
+ 3. Hosianna, Davids Sohn, Sei gegrüßet, König mild!
+ Ewig steht dein Friedensthron, Du, des ew'gen Vaters Kind.
+ Hosianna, Davids Sohn, Sei gegrüßet, König mild!
+</lyrics>
+  <author>G.F. Händel &amp; F.H. Ranke, 18./19.Jhdt</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
@@ -9229,6 +10413,55 @@ OpenSong/Songs/Vom Anfang bis zum Ende
 -------------------------------------------------------
 -------------------------------------------------------
 
+OpenSong/Songs/Vom Himmel hoch, da komm' ich her 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Vom Himmel hoch, da komm' ich her</title>
+  <lyrics>[V1]
+ 1. Vom Himmel hoch, da komm' ich her,
+ ich bring' euch gute neue Mär.
+ Der guten Mär bring' ich so viel,
+ davon ich sing'n und sagen will.
+ _
+ 2. Euch ist ein Kindlein heut geborn
+ von einer Jungfrau auserkorn,
+ ein Kindelein so zart und fein,
+ das soll euch Freud und Wonne sein.
+
+[V2]
+ 3. Es ist der Herr Christ, unser Gott,
+ der will euch führn aus aller Not,
+ er will eur Heiland selber sein,
+ von allen Sünden machen rein.
+ _
+ 4. Lob, Ehr sei Gott im höchsten Thron,
+ der uns schenkt seinen eignen Sohn.
+ Des freuen sich der Engel Schar
+ und singen uns ein neues Jahr.
+</lyrics>
+  <author>Martin Luther, 1535</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 OpenSong/Songs/Vor dir _ In deinem Licht will ich leben 
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -9377,10 +10610,8 @@ OpenSong/Songs/We have a saviour
  _
  Ein Kind ist gegeben, der König unserer Freiheit.
  Singt, denn das Licht ist gekommen: es ist Weihnachten.
- _
  Kommt und verehrt ihn und bringt ihm Geschenke.
  Freude der Welt, betet den Sohn an: es ist Weihnachten.
-
 
 [C]
  This is Jesus, Emmanuel here with us.
@@ -9394,7 +10625,6 @@ OpenSong/Songs/We have a saviour
  Wir sind nicht mehr verloren, 
  weil er für uns herabgekommen ist.
 
-
 [V3]
  Sing with angels and lift up your voices.
  Join in the song of hope: this is christmas
@@ -9404,7 +10634,7 @@ OpenSong/Songs/We have a saviour
  We are no longer lost, cause he has come down for us.
  We have a savior, we have a savior.
  _
- His love will reign forever. (3x)
+ His love will reign forever.
  _
  _
  Singt mit Engeln und hebt eure Stimmen.
@@ -9775,6 +11005,48 @@ OpenSong/Songs/Who am I
 -------------------------------------------------------
 -------------------------------------------------------
 
+OpenSong/Songs/Wie soll ich dich empfangen 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Wie soll ich dich empfangen</title>
+  <lyrics> 1. Wie soll ich dich empfangen und wie begegn ich dir,
+ o aller Welt Verlangen, o meiner Seelen Zier?
+ O Jesu, Jesu, setze mir selbst die Fackel bei,
+ damit, was dich ergötze, mir kund und wissend sei.
+ _
+ 2. Dein Zion streut dir Palmen und grüne Zweige hin,
+ und ich will dir in Psalmen ermuntern meinen Sinn.
+ Mein Herze soll dir grünen in stetem Lob und Preis
+ und deinem Namen dienen, so gut es kann und weiß.
+ _
+ 3. Was hast du unterlassen zu meinem Trost und Freud,
+ als Leib und Seele saßen in ihrem größten Leid?
+ Als mir das Reich genommen, da Fried und Freude lacht,
+ da bist du, mein Heil, kommen und hast mich froh gemacht.
+</lyrics>
+  <author>Paul Gerhardt, 1653</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 OpenSong/Songs/Wir fliegen los 
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -9805,6 +11077,63 @@ OpenSong/Songs/Wir fliegen los
  Voller Freude zeigst du mir:
 </lyrics>
   <author>Elias Schaden / Vineyard, 2010</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+OpenSong/Songs/Wir sagen euch an 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Wir sagen euch an</title>
+  <lyrics>[V1]
+ 1. Wir sagen euch an den lieben Advent.
+ Sehet, die erste Kerze brennt!
+ Wir sagen euch an eine heilige Zeit.
+ Machet dem Herrn die Wege bereit!
+ Freut euch, ihr Christen! Freuet euch sehr.
+ Schon ist nahe der Herr.
+ _
+ 2. Wir sagen euch an den lieben Advent.
+ Sehet, die zweite Kerze brennt. 
+ So nehmet euch eins um das andere an,
+ wie auch der Herr an uns getan! 
+ Freut euch, ihr Christen! Freuet euch sehr.
+ Schon ist nahe der Herr. 
+
+[V2]
+ 3. Wir sagen euch an den lieben Advent.
+ Sehet, die dritte Kerze brennt. 
+ Nun tragt eurer Güte hellen Schein
+ weit in die dunkle Welt hinein. 
+ Freut euch, ihr Christen! Freuet euch sehr.
+ Schon ist nahe der Herr. 
+ _
+ 4. Wir sagen euch an den lieben Advent.
+ Sehet, die vierte Kerze brennt.
+ Gott selber wird kommen, er zögert nicht.
+ Auf, auf, ihr Herzen, werdet licht. 
+ Freut euch, ihr Christen! Freuet euch sehr.
+ Schon ist nahe der Herr.
+</lyrics>
+  <author>Maria Ferschl (1895-1982)</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
   <presentation></presentation>
@@ -10249,6 +11578,72 @@ OpenSong/Songs/Your Name _ Dein Name
   <copyright></copyright>
   <presentation></presentation>
   <ccli></ccli>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+OpenSong/Songs/Zu Bethlehem geboren 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Zu Bethlehem geboren</title>
+  <lyrics>[V1]
+ 1. Zu Bethlehem geboren,
+ ist uns ein Kindelein,
+ das hab' ich auserkoren,
+ sein eigen will ich sein.
+ Eia, eia, sein eigen will ich sein.
+ _
+ 2. In seine Lieb versenken
+ will ich mich ganz hinab;
+ mein Herz will ich ihm schenken 
+ und alles, was ich hab,
+ eia, eia, und alles, was ich hab.
+
+[V2]
+ 3. O Kindelein, von Herzen
+ will ich dich lieben sehr,
+ in Freuden und in Schmerzen
+ je länger und je mehr,
+ eia, eia, je länger und je mehr.
+ _
+ 4. Die Gnade mir doch gebe,
+ bitt ich aus Herzensgrund,
+ daß ich allein dir lebe
+ jetzt und zu aller Stund,
+ eia, eia, jetzt und zu aller Stund.
+
+[V3]
+ 5. Dich, wahren Gott, ich finde
+ in unserm Fleisch und Blut;
+ darum ich mich dann binde 
+ an dich, mein höchstes Gut,
+ eia, eia, an dich, mein höchstes Gut. 
+ _
+ 6. Laß mich von dir nicht scheiden,
+ knüpf zu, knüpf zu das Band
+ der Liebe zwischen beiden; 
+ nimm hin mein Herz zum Pfand,
+ eia, eia, nimm hin mein Herz zum Pfand! 
+</lyrics>
+  <author>Friedrich Spee, 1638</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
