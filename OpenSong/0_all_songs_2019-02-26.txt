@@ -1,7 +1,7 @@
 
-200 Files in S:/Dropbox/Faith/chords
+209 Files in S:/Dropbox/Faith/chords
 Combined together with berryFunctions::combineFiles
-2018-12-12 12:51:02
+2019-02-26 09:34:41
 
 -------------------------------------------------------
 -------------------------------------------------------
@@ -96,10 +96,44 @@ OpenSong/Songs/Abendlied
  und versprichst, dass jede Nacht einen Morgen sieht.
 
  </lyrics>
-  <author>Ararat</author>
+  <author>Ararat, 2006</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
   <presentation>V1 C V2 C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+OpenSong/Songs/Absoluto Guto 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Absoluto Guto</title>
+  <lyrics>[V1]
+ Meinem Gott vertraue ich
+ _
+ mehr text
+
+[C]
+ hier der refrain</lyrics>
+  <author>author, year</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
@@ -1715,8 +1749,8 @@ OpenSong/Songs/Das ist mein K�nig
 [C]
  Das ist mein König, König der Herrlichkeit.
  Sein ist das Reich und die Macht in Ewigkeit.
- Nichts muss ich fürchten, wenn Angst nach mir greift,
- weil der König der Könige,
+ Nichts muss ich fürchten, solange ich weiß,
+ dass der König der Könige,
  nah bei mir bleibt, nah bei mir bleibt,
  nah bei mir bleibt, nah bei mir bleibt.
 
@@ -1726,7 +1760,13 @@ OpenSong/Songs/Das ist mein K�nig
  Meine Heimat, mein Zuhaus.
  Deine Nähe füllt mich aus.
  
-
+[C2]
+ Das ist mein König, König der Herrlichkeit.
+ Sein ist das Reich und die Macht in Ewigkeit.
+ Nichts muss ich fürchten, wenn Angst nach mir greift,
+ weil der König der Könige,
+ nah bei mir bleibt, nah bei mir bleibt,
+ nah bei mir bleibt, nah bei mir bleibt.
 </lyrics>
   <author>Samuel Harfst &amp; Tobias Hundt, 2012</author>
   <copyright></copyright>
@@ -3809,6 +3849,97 @@ OpenSong/Songs/Gro� ist unser Gott
 -------------------------------------------------------
 -------------------------------------------------------
 
+OpenSong/Songs/Gro�er Gott wir loben dich 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Großer Gott wir loben dich</title>
+  <lyrics>[V1]
+ Großer Gott, wir loben dich;
+ Herr, wir preisen deine Stärke.
+ Vor dir neigt die Erde sich
+ und bewundert deine Werke.
+ Wie du warst vor aller Zeit,
+ so bleibst du in Ewigkeit.
+
+[V2]
+ Alles, was dich preisen kann,
+ Cherubim und Seraphinen
+ stimmen dir ein Loblied an;
+ alle Engel, die dir dienen,
+ rufen dir stets ohne Ruh
+ »Heilig, heilig, heilig!« zu.
+
+[V3]
+ Heilig, Herr Gott Zebaoth!
+ Heilig, Herr der Himmelsheere!
+ Starker Helfer in der Not!
+ Himmel, Erde, Luft und Meere
+ sind erfüllt von deinem Ruhm;
+ alles ist dein Eigentum.
+
+[V4]
+ Auf dem ganzen Erdenkreis
+ loben Große, loben Kleine
+ dich, Gott Vater. Dir zum Preis
+ singt die heilige Gemeinde;
+ sie verehrt auf seinem Thron
+ deinen eingebornen Sohn.
+
+[V5]
+ Sieh dein Volk in Gnaden an.
+ Hilf uns, segne, Herr, dein Erbe;
+ leit uns auf der rechten Bahn,
+ dass der Feind uns nicht verderbe.
+ Führe uns durch diese Zeit,
+ nimm uns auf in Ewigkeit.
+
+[V6]
+ Alle Tage wollen wir
+ dich und deinen Namen preisen
+ und zu allen Zeiten dir
+ Ehre, Lob und Dank erweisen.
+ Rett aus Sünden, rett aus Tod,
+ sei uns gnädig, Herre Gott.
+
+[V7]
+ Dich, Gott Vater auf dem Thron,
+ loben Große, loben Kleine.
+ Deinem eingebornen Sohn
+ singt die heilige Gemeinde,
+ und sie ehrt den Heilgen Geist,
+ der uns seinen Trost erweist.
+
+[V8]
+ Herr, erbarm, erbarme dich.
+ Lass uns deine Güte schauen;
+ deine Treue zeige sich,
+ wie wir fest auf dich vertrauen.
+ Auf dich hoffen wir allein,
+ lass uns nicht verloren sein.
+</lyrics>
+  <author>Franz Ignaz &amp; Heinrich Bone, 1768</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 OpenSong/Songs/Guten Abend, sch�n Abend 
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -3826,7 +3957,98 @@ OpenSong/Songs/Guten Abend, sch�n Abend
  Nun singt es und klingt es so lieblich und fein.
  Wir singen die fröhliche Weihnachtszeit ein.
 </lyrics>
-  <author>unbekannt</author>
+  <author>unbekannt, 1931</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+OpenSong/Songs/Happy day 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Happy day</title>
+  <lyrics>[V1]
+ The greatest day in history:
+ death is beaten, you have rescued me.
+ Sing it out: Jesus is alive
+ The empty cross, the empty grave,
+ life eternal - you have won the day
+ Shout it out: Jesus is alive, he's alive!
+ _
+ Der größte Tag für alle Zeit:
+ du hast den Tod besiegt und mich befreit.
+ Singt es laut: Jesus Christus lebt!
+ Das Kreuz ist leer, das Grab ist leer,
+ Leben hat gesiegt. Du bist der Herr!
+ Ruft es laut: Jesus Christus lebt! Ja, er lebt!
+
+[C]
+ And oh, happy day, happy day,
+ you washed my sin away.
+ Oh, happy day, happy day,
+ I'll never be the same,
+ forever I am changed.
+ _
+ Und oh, welch ein Tag, welch ein Tag,
+ du wäschst mich von Sünde rein.
+ Oh, welch ein Tag, welch ein Tag,
+ nichts wird wie vorher sein.
+ Ich bin für immer dein.
+
+[V2]
+ When I stand in that place,
+ free at last, meeting face to face,
+ I am yours, Jesus you are mine.
+ Endless joy, perfect peace,
+ earthly pain finally will cease.
+ Celebrate, Jesus is alive, he's alive!
+ _
+ Ich werd einmal vor dir stehn.
+ Endlich frei, darf ich dich, Herr, sehn.
+ Ich bin dein, Jesus, du bist mein,
+ wo die Freude triumphiert
+ und der Schmerz sein Ende finden wird.
+ Feiert ihn: Jesus Christus lebt! Ja, er lebt!
+
+[B]
+ Oh, what a glorious day,
+ what a glorious way,
+ that you have saved me.
+ And oh, what a glorious day,
+ what a glorious name, hey!
+ _
+ Oh, herrlich ist dieser Tag,
+ herrlich ist dieser Weg.
+ Ich bin errettet.
+ Oh, herrlich ist dieser Tag,
+ herrlich ist dein Ruhm. Hey!
+
+[E]
+ What a glorious, glorious day,
+ I'll never be the same.
+ _
+ Welch ein herrlicher,
+ herrlicher Tag.
+ Ich bin für immer dein!
+</lyrics>
+  <author>Ben Cantelon &amp; Tim Hughes, 2006</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
   <presentation></presentation>
@@ -4821,7 +5043,7 @@ OpenSong/Songs/I know who I am
 <song>
   <title>I know who I am</title>
   <lyrics>[C]
- I know who I am (3x)
+ I know who I am, I know who I am, I know who I am:
  I am yours, I am yours.
  And you are mine, Jesus you are mine,
  you are mine, Jesus you are mine.
@@ -4854,7 +5076,7 @@ OpenSong/Songs/I know who I am
  Ich bin akzeptiert - ich weiß, wer ich bin.
  Ich bin geborgen und sicher, von dir geliebt zu sein
  Ich bin lebendig und frei, ich gehöre zu dir und du gehörst zu mir.</lyrics>
-  <author>Israel Houghton</author>
+  <author>Israel Houghton &amp; Chris Tomlin, 2007</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
   <presentation>C V1 B C</presentation>
@@ -6072,11 +6294,11 @@ OpenSong/Songs/Keiner ist wie du _ There is none like you
 -------------------------------------------------------
 -------------------------------------------------------
 
-OpenSong/Songs/King of my heart 
+OpenSong/Songs/King of my heart _ Der mein Herz regiert 
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>King of my heart</title>
+  <title>King of my heart / Der mein Herz regiert</title>
   <lyrics>[V1]
  Let the king of my heart be the mountain where I run,
  the fountain I drink from. Oh he is my song.
@@ -6085,10 +6307,10 @@ OpenSong/Songs/King of my heart
  _
  You are good, good, oh.
  _
- Der König meines Herzens sei der Berg, zu dem ich renne,
- der Brunnen, aus dem ich trinke. Oh, er ist mein Lied.
- Der König meines Herzens sei der Schatten, wo ich mich verstecke,
- die Erlösung für mein Leben. Oh, er ist mein Lied.
+ Er, der mein Herz regiert, sei mein Fels und sei mein Schutz,
+ der Quell aus dem ich trink. Oh, er ist mein Lied.
+ Er, der mein Herz regiert, sei der Schatten, der mich birgt,
+ mein Retter allezeit. Oh, er ist mein Lied.
  Du bist gut, gut, oh.
 
 [V2]
@@ -6099,30 +6321,36 @@ OpenSong/Songs/King of my heart
  _
  You are good, good, oh.
  _
- Der König meines Herzens sei der Wind in meinen Segeln,
- der Anker in den Wellen. Oh, er ist mein Lied.
- Der König meines Herzens sei das Feuer in meinen Adern,
- das Echo meiner Tage. Oh, er ist mein Lied.
+ Er, der mein Herz regiert, sei der Wind, der mich bewegt,
+ der Anker, der mich hält. Oh, er ist mein Lied.
+ Er, der mein Herz regiert, sei das Feuer tief in mir,
+ der Klang, der von mir bleibt. Oh, er ist mein Lied.
+ Du bist gut, gut, oh.
 
 [B1]
- You're never gonna let me down.
+ You're never gonna let
+ never gonna let me down.
  _
  You are good, good, oh.
  _
  _
- Du wirst mich nie im Stich lassen.
+ Du lässt mich nie allein,
+ niemals lässt du mich allein.
  Du bist gut, gut, oh.
 
 [B2]
- When the night is holding onto me, God is holding on.
+ When the night is holding onto me,
+ God is holding on.
+ _
  You are good, good, oh.
  _
  _
- Wenn die Nacht mich festhält, hält Gott mich.
+ Auch wenn Dunkelheit mich festhält:
+ Gott lässt mich nicht los.
  Du bist gut, gut, oh.
 </lyrics>
   <author>Sarah &amp; John Mark McMillan, 2015</author>
-  <copyright>2017 BEC Recordings</copyright>
+  <copyright></copyright>
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli></ccli>
@@ -6160,6 +6388,67 @@ OpenSong/Songs/Kling, Gl�ckchen, klingelingeling
  Will drin wohnen fröhlich, Frommes Kind, wie selig!
 </lyrics>
   <author>Karl Enslin, 19.Jhdt</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+OpenSong/Songs/Komm n�her _ Ich wei�, dein Herz 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Komm näher / Ich weiß, dein Herz</title>
+  <lyrics>[V1]
+ Ich weiß, dein Herz hat sich verirrt,
+ du bist verängstigt und verwirrt,
+ mein Kind, du brauchst dich nicht zu fürchten.
+ _
+ Ich weiß, du bist enttäuscht, verletzt,
+ du fühlst dich hilflos, ausgesetzt,
+ mein Kind, du brauchst dich nicht zu schämen.
+
+[C]
+ Komm näher, näher, näher,
+ komm aus der Distanz.
+ Komm näher, näher, näher,
+ gib mir deine Angst.
+ Komm näher, näher, näher,
+ komm, vertrau mir ganz.
+ Komm näher in meinen Arm.
+
+[V2]
+ Ich weiß, du fühlst dich ungeschützt,
+ getäuscht, missachtet, ausgenutzt,
+ mein Kind, du musst dich nicht verschließen.
+ _
+ Ich weiß, in dir ist Wut und Zorn,
+ du hast dein Gleichgewicht verlorn,
+ mein Kind, du brauchst nichts zu verbergen.
+
+[B]
+ Wenn Vater, Mutter dich verlassen,
+ bleibe ich dir treu.
+ Wenn deine Kleider nicht mehr passen,
+ kleide ich dich neu.
+ Von allen untragbaren Lasten,
+ mache ich dich frei.</lyrics>
+  <author>Albert Frey. 2013</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
   <presentation></presentation>
@@ -6236,7 +6525,7 @@ OpenSong/Songs/Lasst euch anstiften zur Freude
  _
  Halleluja, Halleluja, denn Gott selbst wird bei uns sein. (2x)
 </lyrics>
-  <author>Rolf Krenzer &amp; Detlef Jöcker</author>
+  <author>Rolf Krenzer &amp; Detlef Jöcker, 1991</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
   <presentation></presentation>
@@ -7353,6 +7642,61 @@ OpenSong/Songs/More love
 -------------------------------------------------------
 -------------------------------------------------------
 
+OpenSong/Songs/Morgenstern 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Morgenstern</title>
+  <lyrics>[V1]
+ Meine Seele singe, denn die Nacht ist vorbei.
+ Mach dich auf und bringe deinem Gott Lob und Preis.
+ Alle Schöpfung juble, wenn der Tag nun anbricht.
+ Gottes Töchter und Söhne strahlen in seinem Licht.
+ _
+ Der wahre Morgenstern,
+ er ist aufgegangen,
+ der Erlöser ist hier.
+ Ich weiß, dass Jesus lebt,
+ er ist auferstanden,
+ und er lebt auch in mir,
+ er lebt auch in mir.
+
+[V2]
+ Diesen Tag will ich feiern, er hat alles getan,
+ um die Welt zu erneuern, Jesus selbst geht voran.
+ Er hat überwunden, alle Mächte der Nacht.
+ Er hat mich gefunden und mir Leben gebracht.
+ _
+ Der wahre Morgenstern,
+ er ist aufgegangen,
+ der Erlöser ist hier.
+ Ich weiß, dass Jesus lebt,
+ er ist auferstanden,
+ und er lebt auch in mir,
+ er lebt auch in mir.
+</lyrics>
+  <author>Albert Frey, 2005</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 OpenSong/Songs/Mutig komm ich vor den Thron 
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -7553,6 +7897,65 @@ OpenSong/Songs/My Lighthouse
 -------------------------------------------------------
 -------------------------------------------------------
 
+OpenSong/Songs/Nach dem H�ren kommt das Handeln 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Nach dem Hören kommt das Handeln</title>
+  <lyrics>[C]
+ Etwas einsehn und dann hingehn
+ kostet Zeit und Kraft und Mut.
+ Wirklich wirksam wird die Liebe,
+ wenn man Gottes Willen tut.
+ _
+ Nach dem Hören kommt das Handeln,
+ wo geholfen werden muss. 
+ Läufst du los aus lauter Liebe,
+ hat dein Glaube Hand und Fuß.
+
+[V1]
+ Sonntags um zehn beim Kirchenschlaf,
+ sehn wir vieles ein, nicken fromm und brav.
+ Sitzen da und hören zu, die Hände im Schoß.
+ Doch was Jesus durch uns tun will,
+ geht am Montagmorgen los.
+
+[V2]
+ Hast du auch das Prinzip, nie dein Auto zu verleihn?
+ Fällt am Bett eines Kranken dir nur selten etwas ein?
+ Keine Zeit mehr für Briefe an Menschen in Not.
+ Wenn deine Mutter dich schon wieder
+ um was bittet, siehst du rot.
+
+[V3]
+ Im Café spricht dich schüchtern ein Ausländer an
+ und natürlich weißt du auch nicht,
+ wo er Arbeit finden kann.
+ In der Mensa weint Deine Tischnachbarin,
+ hat ihr Examen nicht geschafft und der Beruf ist hin.
+</lyrics>
+  <author>Paul Stookey, Deutsch: Andreas Malessa, 1985</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>C V1 C V2 C V3 C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 OpenSong/Songs/N�her an sein Herz 
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -7618,18 +8021,26 @@ OpenSong/Songs/N�her zu dir
 <song>
   <title>Näher zu dir</title>
   <lyrics>[V1]
- Man sagt, du wohnst auf hohen Bergen. Man sagt, du thronst weit überm Meer.
- Man sucht nach dir dort bei den Sternen, doch du wohnst nicht weg von hier.
- Wir ziehn zu dir auf vielen Straßen. Aus Nord und Süd, Ost und West.
- Es ist nicht weit zu deinen Kammern, weil du dich von uns finden lässt.
+ Man sagt, du wohnst auf hohen Bergen.
+ Man sagt, du thronst weit überm Meer.
+ Man sucht nach dir dort bei den Sternen,
+ doch du wohnst nicht weg von hier.
+ Wir ziehn zu dir auf vielen Straßen.
+ Aus Nord und Süd, Ost und West.
+ Es ist nicht weit zu deinen Kammern,
+ weil du dich von uns finden lässt.
  _
  Näher, näher zu dir, näher mein Gott zu dir!
 
 [V2]
- Von vorn und von hinten fest umschlossen, hast du die Hand auf mich gelegt.
- Das Öl der Heilung ausgegossen und Ewigkeit ins Herz gesät.
- Du hast die Augen eines Vaters, die Sehnsucht lässt mich nicht mehr gehen.
- Wie könnt ich jemals von dir lassen und dein Gesicht nicht vor mir sehn.
+ Von vorn und von hinten fest umschlossen,
+ hast du die Hand auf mich gelegt.
+ Das Öl der Heilung ausgegossen
+ und Ewigkeit ins Herz gesät.
+ Du hast die Augen eines Vaters,
+ die Sehnsucht lässt mich nicht mehr gehen.
+ Wie könnt ich jemals von dir lassen
+ und dein Gesicht nicht vor mir sehn.
  _
  Näher, näher zu dir, näher mein Gott zu dir!
 </lyrics>
@@ -8929,7 +9340,7 @@ OpenSong/Songs/Schritte wagen
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Schritte wagen</title>
-  <author>Clemens Bittlinger</author>
+  <author>Clemens Bittlinger, 1987</author>
   <hymn_number>37</hymn_number>
   <capo print="false"></capo>
   <lyrics>
@@ -9645,48 +10056,6 @@ OpenSong/Songs/Surrender _ Mein ganzes Leben
 -------------------------------------------------------
 -------------------------------------------------------
 
-OpenSong/Songs/Termine 
-
-<?xml version="1.0" encoding="UTF-8"?>
-<song>
-  <title></title>
-  <lyrics>
- Welcome, Info
- Tanzkurs Part 1
- Worship
- Essen
- _
- Tanzkurs Part 2
- Freitanz, DJ Dave'n'Fred
- Aufräumen
-
-
-
-
-
- </lyrics>
-  <author></author>
-  <copyright></copyright>
-  <hymn_number></hymn_number>
-  <presentation></presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <linked_songs/>
-  <tempo></tempo>
-  <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
-</song>
-
--------------------------------------------------------
--------------------------------------------------------
-
 OpenSong/Songs/The more I seek you 
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -9811,16 +10180,19 @@ OpenSong/Songs/This I believe _ Das glaube ich
  Ich glaub an die Auferstehung, das Leben nach dem Tod.
  Ich glaube an deinen Namen, Jesus.
 
-
 [V2]
  Mein Richter und mein Anwalt,
  gekreuzigt unter Leid, Vergebung ist in dir.
  Du stiegst ins Reich der Toten,
  standst auf in Herrlichkeit, und herrschst in Ewigkeit!
  _
+ Ja, ich glaub an Gott den Vater und an Christus, seinen Sohn;
+ an den Heiligen Geist der Wahrheit, an den dreieinen Gott.
+ Ich glaub an die Auferstehung, das Leben nach dem Tod.
+ Ich glaube an deinen Namen, Jesus.
+ _
  Ja, ich glaub an dich, dass du auferstanden bist.
- Ja, ich glaub an Christus, unsern Herrn (2x)
-
+ Ja, ich glaub an Christus, unsern Herrn.
 
 [V3]
  Ja, ich glaub, dass wir ewig leben, dass die Jungfrau den Sohn gebar.
@@ -9905,6 +10277,62 @@ OpenSong/Songs/This is our God _ Was f�r ein Gott
   <copyright></copyright>
   <presentation>V1 C V2 C B C</presentation>
   <ccli></ccli>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+OpenSong/Songs/This is what you do 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>This is what you do</title>
+  <lyrics>[V]
+ It's always like springtime with you, making all things new.
+ Your light is breaking through the dark.
+ _
+ This love it is sweeter than wine,
+ bringing joy, bringing life.
+ Your hope is rising like the dawn.
+ _
+ Ich blüh auf, denn du bist hier. Alles neu, ich bin frei.
+ Dein Licht durchdringt die dunkle Nacht.
+ Deine Liebe ist süßer als Wein,
+ macht mich froh, macht mich frei.
+ Hoffnung steigt auf am Horizont.
+
+[C]
+ This is what you do, this is what you do,
+ You make me come alive.
+ _
+ You make me come alive, you make me come alive.
+ _
+ It's like I'm living for the first time,
+ finally living for the first time.
+ _
+ _
+ Du machst alles neu, du machst alles neu.
+ Du hauchst mir Leben ein.
+ Du gibst mir völlig neues Leben,
+ gibst mir völlig neues Leben.
+</lyrics>
+  <author>Jeremy Riddle &amp; Matt Stinton / Bethel Music, 2011</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -10721,6 +11149,67 @@ OpenSong/Songs/We shall not be shaken
 -------------------------------------------------------
 -------------------------------------------------------
 
+OpenSong/Songs/We stand and lift up _ Holy is the Lord 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>We stand and lift up / Holy is the Lord</title>
+  <lyrics>[V]
+ We stand and lift up our hands,
+ for the joy of the Lord is our strength.
+ We bow down and worship him now;
+ How great, how awesome is he!
+ _
+ Wir stehn voll Freude vor Gott,
+ denn die Freude am Herrn gibt uns Kraft.
+ Und wir knien und beten ihn an.
+ Wie groß, wie mächtig ist er.
+
+[C]
+ And together we sing, everyone sing:
+ _
+ Holy is the Lord, God, almighty,
+ the earth is filled with his glory.
+ Holy is the Lord, God, almighty,
+ the earth is filled with his glory,
+ the earth is filled with his glory.
+ _
+ O, wir singen es laut, wir singen laut:
+ Heilig ist der Herr und allmächtig,
+ die Welt ist voll seiner Herrlichkeit.
+ Heilig ist der Herr und allmächtig,
+ die Welt ist voll seiner Herrlichkeit,
+ die Welt ist voll seiner Herrlichkeit.
+
+[B]
+ It's rising up all around,
+ it's the anthem of the Lord's renown.
+ _
+ Und ein Lied erschallt überall,
+ eine Hymne auf den Herrn der Herrn.
+</lyrics>
+  <author>Chris Tomlin, 2003</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 OpenSong/Songs/Weil du mich liebst 
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -10816,14 +11305,14 @@ OpenSong/Songs/Weite R�ume meinen F��en
 -------------------------------------------------------
 -------------------------------------------------------
 
-OpenSong/Songs/what a beautiful name 
+OpenSong/Songs/What a beautiful name _ Wie sch�n dieser Name ist 
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>what a beautiful name</title>
+  <title>What a beautiful name / Wie schön dieser Name ist </title>
   <lyrics>[V1]
  You were the word at the beginning,
- one with God, the lord most high.
+ one with God, the Lord most high.
  Your hidden glory in creation,
  now revealed in you, our Christ.
  _
@@ -10844,7 +11333,7 @@ OpenSong/Songs/what a beautiful name
 
 [V2]
  You didn't want heaven without us,
- so Jesus you brought heaven down.
+ so Jesus, you brought heaven down.
  My sin was great, your love was greater,
  what could separate us now?
  _
@@ -10861,7 +11350,7 @@ OpenSong/Songs/what a beautiful name
  _
  You have no rival, you have no equal.
  Now and forever, God, you reign.
- Yours is the Kingdom, yours is the glory,
+ Yours is the kingdom, yours is the glory,
  yours is the name above all names.
  _
  Der Tod konnte dich nicht halten, der Schleier riss vor dir.
@@ -10873,7 +11362,7 @@ OpenSong/Songs/what a beautiful name
  Dein ist das Königreich, dein ist der Ruhm,
  dein ist der Name aller Namen.
 </lyrics>
-  <author>Hillsong</author>
+  <author>Ben Fielding &amp; Brooke Ligertwood / Hillsong, 2016</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
   <presentation>V1 C V2 C B C</presentation>
@@ -10989,6 +11478,76 @@ OpenSong/Songs/Who am I
   <copyright></copyright>
   <presentation>V1 C V2 C</presentation>
   <ccli></ccli>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+OpenSong/Songs/Who You say I am 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Who You say I am / Ich weiß, wer ich bin</title>
+  <lyrics>[V1]
+ Who am I that the highest king would welcome me?
+ I was lost but he brought me in.
+ Oh his love for me, oh his love for me
+ _
+ Wer bin ich, dass der König kam und mich empfing?
+ War verlor'n, doch er nahm mich an.
+ Oh wie er mich liebt, oh wie er mich liebt.
+
+[C]
+ Who the son sets free, oh, is free indeed.
+ I'm a child of God, yes I am.
+ _
+ In my father's house there's a place for me.
+ I'm a child of God, yes I am.
+ _
+ _
+ Wen der Sohn befreit, der ist wirklich frei.
+ Ich bin Gottes Kind, ja sein Kind.
+ _
+ Denn in seinem Haus ist ein Platz für mich.
+ Ich bin Gottes Kind, ja sein Kind.
+
+[V2]
+ Free at last; he has ransomed me, his grace runs deep.
+ While I was a slave to sin,
+ Jesus died for me, yes he died for me.
+ _
+ Endlich frei, voller Gnade hat er mich erlöst.
+ War Sklave der Sünde, 
+ doch Jesus starb für mich, doch Jesus starb für mich
+
+[B]
+ I am chosen, not forsaken.
+ I am who you say I am.
+ You are for me, not against me,
+ I am who you say I am.
+ _
+ Du erwählst mich, du verlässt nicht.
+ Durch dich weiß ich, wer ich bin.
+ Du bist für mich, willst mein bestes.
+ Durch dich weiß ich, wer ich bin.
+</lyrics>
+  <author>Ben Fielding &amp; Reuben Morgan / Hillsong, 2017</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 C V2 C B C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -11134,6 +11693,65 @@ OpenSong/Songs/Wir sagen euch an
  Schon ist nahe der Herr.
 </lyrics>
   <author>Maria Ferschl (1895-1982)</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+OpenSong/Songs/Wir sind gekommen um dich anzubeten 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Wir sind gekommen um dich anzubeten</title>
+  <lyrics>[V1]
+ All die Sprachen und Geschichten
+ hören wir hier im Abendland.
+ Können wir die Sterne sichten,
+ der Weisen aus dem Morgenland.
+ Eine Ahnung von dem König
+ ist in unser Herz gelegt.
+ Lebt in aller Völker Seelen,
+ ist was uns zu dir bewegt.
+ Dein Stern in dunkeler Nacht,
+ hat uns zu dir gebracht.
+
+[C]
+ Wir sind gekommen um dich anzubeten.
+ Auf vielen Wegen haben wir zu dir gefunden.
+ Dein Ruf ist durch die Welt gegangen,
+ hat angefangen die Sehnsucht aufzuwecken,
+ uns von fern und von nah zu verbinden,
+ um dich zu finden, um dich zu finden.
+
+[V2]
+ All die Stimmen und Gesichter,
+ die so unterschiedlich sind.
+ Können wir die Worte finden,
+ in denen deine Liebe klingt.
+ Lasst uns hier in diesen Zeiten,
+ deine Friedensbringer sein.
+ Alte Grenzen überschreiten,
+ bring Hoffnung in die Welt hinein.
+ Wir sehen wie das Licht,
+ der Ewigkeit anbricht.
+</lyrics>
+  <author>Guido Baltes, Pamela Natterer &amp; Lars Peter, 2012</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
   <presentation></presentation>
