@@ -1,7 +1,7 @@
 
-209 Files in S:/Dropbox/Faith/chords
+214 Files in C:/Dropbox/Faith/chords
 Combined together with berryFunctions::combineFiles
-2019-02-26 09:34:41
+2019-03-26 19:43:13
 
 -------------------------------------------------------
 -------------------------------------------------------
@@ -100,40 +100,6 @@ OpenSong/Songs/Abendlied
   <copyright></copyright>
   <hymn_number></hymn_number>
   <presentation>V1 C V2 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <linked_songs/>
-  <tempo></tempo>
-  <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
-</song>
-
--------------------------------------------------------
--------------------------------------------------------
-
-OpenSong/Songs/Absoluto Guto 
-
-<?xml version="1.0" encoding="UTF-8"?>
-<song>
-  <title>Absoluto Guto</title>
-  <lyrics>[V1]
- Meinem Gott vertraue ich
- _
- mehr text
-
-[C]
- hier der refrain</lyrics>
-  <author>author, year</author>
-  <copyright></copyright>
-  <hymn_number></hymn_number>
-  <presentation></presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
@@ -755,6 +721,61 @@ OpenSong/Songs/Auge im Sturm
   <copyright></copyright>
   <presentation>V1 C V2 C</presentation>
   <ccli></ccli>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+OpenSong/Songs/Awake 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Awake</title>
+  <lyrics>[V]
+ Awake from your sleep, arise from the dead.
+ Christ will give us light, he will lift our heads.
+ We turn to him in song, awaken the dawn.
+ _
+ Awake from your sleep, it's nearer than before.
+ Salvation is him, he's knocking at our door.
+ We turn to him in song, awaken the dawn.
+ _
+ Erwache aus deinem Schlaf, stehe von den Toten auf.
+ Christus wird uns Licht geben, er wird unsere Köpfe heben.
+ Wir wenden uns im Lied an ihn, erwecken die Morgenröte.
+ Erwache aus deinem Schlaf, es ist näher als vorher.
+ Erlösung ist er, er klopft an unsere Tür.
+ Wir wenden uns im Lied an ihn, erwecken die Morgenröte.
+
+[C]
+ God knows all we want to do is sing,
+ till there's nothing left to bring.
+ To the seat of grace we climb
+ step by step, through these difficult times.
+ _
+ _
+ Gott weiß, dass wir nur singen wollen,
+ bis es nichts mehr zu bringen gibt.
+ Zum Sitz der Gnade klettern wir,
+ Schritt für Schritt durch diese schwierigen Zeiten.
+</lyrics>
+  <author>Josh White, 2010</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -2077,6 +2098,60 @@ OpenSong/Songs/Die Liebe des Retters
 -------------------------------------------------------
 -------------------------------------------------------
 
+OpenSong/Songs/Diese Stadt 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Diese Stadt</title>
+  <lyrics>[V]
+ Diese Stadt, diese Straßen,
+ diese Wege gehören dir.
+ Diese Kirche, dieses Land,
+ diese Menschen gehören dir.
+ Diese Hände, dieses Herz,
+ dieses Leben gehört dir.
+
+[C]
+ Dazu sind wir berufen,
+ zu tun, was du von uns willst:
+ _
+ Die Schwachen zu stärken,
+ mit Armen zu teilen,
+ und Boten des Friedens zu sein.
+ Verlorene suchen, die Wunden zu heilen,
+ und aufstehn für Wahrheit und Recht.
+ Die Tränen zu trocknen
+ und Freiheit verkünden
+ für die, die im Dunkeln sind.
+
+[B]
+ Wenn alle Völker vor dir stehn
+ und alle Augen auf dich sehn,
+ gehört die Ehre dir allein,
+ gehört die Ehre dir allein.
+</lyrics>
+  <author>Guido Baltes &amp; Mark Tedder, 2010</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V C V C B C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 OpenSong/Songs/Dir geb�hrt die Ehre 
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -3368,6 +3443,66 @@ OpenSong/Songs/Go, tell it on the mountains
   <copyright></copyright>
   <presentation></presentation>
   <ccli></ccli>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+OpenSong/Songs/God I look to you 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>God I look to you</title>
+  <lyrics>[V1]
+ God, I look to you, I won't be overwhelmed,
+ give me vision to see things like you do.
+ God, I look to you, you're where my help comes from,
+ give me wisdom, you know just what to do.
+ _
+ Gott ich schau zu dir, du wirst mir nicht zu viel.
+ Laß mich sehen. Will sehen so wie du.
+ Gott ich schau zu dir, weil von dir Hilfe kommt,
+ Gib mir Weisheit, denn du weisst, was du tust.
+
+[C]
+ And I will love you, Lord, my strength.
+ And I will love you, Lord, my shield.
+ And I will love you, Lord, my rock.
+ Forever, all my days, I will love you, God.
+ _
+ Denn ich lieb dich Herr, mein Fels.
+ Denn ich lieb dich Herr, mein Schild.
+ Ja, ich lieb dich Herr, mein Hort für immer.
+ Allezeit lieb ich dich, mein Gott.
+
+[B]
+ Hallelujah, our God reigns,
+ hallelujah, our God reigns
+ oh, hallelujah, our God reigns.
+ Forever, all my days, hallelujah!
+ _
+ Halleluja, Gott regiert,
+ halleluja, Gott regiert,
+ halleluja, Gott regiert für immer.
+ Jeden Tag, halleluja.
+</lyrics>
+  <author>Ian Mcintosh &amp; Jenn Johnson / Bethel, 2010</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -6750,6 +6885,98 @@ OpenSong/Songs/Leise rieselt der Schnee
 -------------------------------------------------------
 -------------------------------------------------------
 
+OpenSong/Songs/Living hope 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Living hope</title>
+  <lyrics>[V1]
+ How great the chasm that lay between us?
+ How high the mountain I could not climb?
+ In desperation, I turned to heaven,
+ and spoke your name into the night.
+ Then through the darkness, your loving kindness
+ tore through the shadows of my soul.
+ The work is ﬁnished, the end is written.
+ Jesus Christ, my living hope.
+ _
+ Wie groß ist die Kluft zwischen uns?
+ Wie hoch der Berg, den ich nicht erklimmen kann?
+ In Verzweiflung wandte ich mich dem Himmel zu
+ und sprach deinen Namen in die Nacht.
+ Dann geht durch die Dunkelheit deine liebende Güte
+ und durchdringt die Schatten meiner Seele.
+ Es ist vollbracht, das Ende ist geschrieben.
+ Jesus Christus, meine lebendige Hoffnung.
+
+[V2]
+ Who could imagine so great a mercy?
+ What heart could fathom such boundless grace?
+ The God of ages stepped down from glory
+ To wear my sin and bear my shame.
+ The cross has spoken, I am forgiven.
+ The king of kings calls me his own.
+ Beautiful savior, I'm yours forever.
+ Jesus Christ, my living hope.
+ _
+ Wer kann sich eine so große Gnade vorstellen?
+ Welches Herz könnte eine solche grenzenlose Gnade ergründen?
+ Der Gott aller Zeiten kam von seiner Herrlichkeit hinab.
+ Um meine Sünde zu tragen und meine Schande zu ertragen.
+ Das Kreuz hat gesprochen, mir ist vergeben.
+ Der König der Könige nennt mich sein.
+ Schöner Retter, ich bin für immer dein.
+ Jesus Christus, meine lebendige Hoffnung.
+
+[C]
+ Hallelujah, praise the one who set me free.
+ Hallelujah, death has lost its grip on me.
+ You have broken every chain,
+ there's salvation in your name.
+ Jesus Christ, my living hope.
+ _
+ Halleluja, lobe den, der mich befreite.
+ Halleluja, der Tod hat mich nicht mehr im Griff.
+ Du hast jede Kette gebrochen.
+ In deinem Namen gibt es Erlösung.
+ Jesus Christus, meine lebendige Hoffnung.
+
+[V3]
+ Then came the morning that sealed the promise,
+ your buried body began to breathe.
+ Out of the silence, the roaring lion
+ declared the grave has no claim on me.
+ _
+ Jesus, yours is the victory!
+ _
+ Dann kam der Morgen, der das Versprechen besiegelte.
+ Dein begrabener Körper begann zu atmen.
+ Aus der Stille heraus erklärte der brüllende Löwe:
+ Das Grab hat keine Macht über mich.
+ Jesus, dein ist der Sieg!
+</lyrics>
+  <author>Phil Wickham &amp; Brian Johnson, 2018</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 V2 C V3 C C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 OpenSong/Songs/Lobe den Herrn, meine Seele 
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -6806,6 +7033,61 @@ OpenSong/Songs/Lobe den Herrn, meine Seele
  Lobe, lobe den Herrn, lobe den Herrn, meine Seele.
 </lyrics>
   <author>Norbert Kissel, 1991</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+OpenSong/Songs/Lord you have my heart 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Lord you have my heart</title>
+  <lyrics>[V1]
+ Lord, you have my heart
+ and I will search for yours.
+ Jesus, take my life and lead me on.
+ _
+ Lord you have my heart
+ and I will search for yours.
+ Let me be to you a sacrifice.
+ _
+ _
+ Herr, hier ist mein Herz, ich streck mich aus nach dir,
+ Jesus, nimm mich ganz und leite mich.
+ Herr, hier ist mein Herz, ich streck mich aus nach dir,
+ und lass mich für dich ein Opfer sein.
+
+[C]
+ And I will praise you, Lord.
+ And I will sing of love come down.
+ And as you show your face,
+ we'll see your glory here.
+ _
+ Und dich nur preis ich, Herr,
+ denn du gabst dich aus Liebe hin.
+ Du bist jetzt unter uns,
+ wir sehen deine Macht.
+
+
+</lyrics>
+  <author>Martin Smith, 1992 &amp; Andy Piercy / Delirious, 1998</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
   <presentation></presentation>
@@ -8657,6 +8939,101 @@ OpenSong/Songs/Oh du fr�hliche, oh du selige
  Freue, freue dich, oh Christenheit!
 </lyrics>
   <author>Herder, 1788 &amp; Falk, 1816</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+OpenSong/Songs/One day _ when we all get to heaven 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>One day (when we all get to heaven)</title>
+  <lyrics>[V1]
+ One day you'll make everything new, Jesus.
+ One day you will bind every wound.
+ The former things shall all pass away.
+ No more tears.
+ _
+ Eines Tags machst du alles neu, Jesus,
+ dann sind Leid und Tränen vorbei.
+ Das Alte setzt mir nicht länger zu,
+ und kein Schmerz.
+
+[V2]
+ One day you'll make sense of it all, Jesus.
+ One day every question resolved.
+ Every anxious thought left behind.
+ No more fear.
+ _
+ Eines Tags werd ich ganz verstehn, Jesus,
+ alle Fragen werden vergehn.
+ Alle Sorgen lass ich zurück,
+ jede Angst.
+
+[C]
+ When we all get to heaven.
+ What a day of rejoicing that will be.
+ When we all see Jesus.
+ We'll sing and shout the victory.
+ _
+ Du empfängst uns im Himmel.
+ Welch ein Tag voller Freude wird das sein!
+ Denn wir sehn dich, Jesus.
+ Wir ehren dich und dich allein!
+
+[V3]
+ One day we will see face to face, Jesus.
+ Is there a greater vision of grace?
+ And in a moment we shall be changed.
+ On that day.
+ _
+ Eines Tags stehn wir dann vor dir, Jesus,
+ den Gott der Gnade finden wir hier.
+ In diesem Augenblick ist nichts mehr,
+ wie es war.
+
+[V4]
+ And one day we'll be free, free indeed, Jesus.
+ One day all this struggle will cease.
+ And we will see your glory revealed.
+ On that day.
+ _
+ Denn eines Tags sind wir wirklich frei, Jesus.
+ Alle Kämpfe sind dann vorbei.
+ Wir werden dich in Herrlichkeit sehn
+ eines Tags.
+
+[B]
+ No more tears, no more pain.
+ No cancer, no depression.
+ No more fear.
+ And we will see your face.
+ _
+ Oh, eines Tags stehn wir dann vor dir, Jesus,
+ den Gott der Gnade finden wir hier.
+ Und dann ist nichts mehr, wie es einst war.
+ Ja, dann ist nichts mehr, wie es einst war.
+ Dann ist nichts mehr, wie es einst war,
+ eines Tags.
+</lyrics>
+  <author>Matt &amp; Beth Redman &amp; Leonard Jarman, 2017</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
   <presentation></presentation>
