@@ -1,0 +1,8 @@
+Diese Bibeln kann man in den lokalen (PC-spezifischen) Ordner für Bibel kopieren.
+Der liegt meistens irgendwo auf C, zB:
+C:\Program Files (x86)\OpenSong\OpenSong Scripture
+
+Tipp: Dem ganzen OpenSong Ordner VORHER volle Rechte für Nutzer geben:
+rechtsklick - Eigenschaften - Sicherheit - Bearbeiten - Benutzer (...) - Vollzugriff Haken setzen - OK
+
+Wenn man die Indexe mit kopiert, brauchen die theoretisch nicht lokal erstellt werden.
