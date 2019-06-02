@@ -1,7 +1,7 @@
 
-223 Files in C:/Dropbox/Faith/chords
+228 Files in C:/Dropbox/Faith/chords
 Combined together with berryFunctions::combineFiles
-2019-05-13 12:21:12
+2019-06-02 13:51:49
 
 -------------------------------------------------------
 -------------------------------------------------------
@@ -1144,6 +1144,49 @@ OpenSong/Songs/Befreit durch deine Gnade
 -------------------------------------------------------
 -------------------------------------------------------
 
+#~ Begegne mir ----
+OpenSong/Songs/Begegne mir
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Begegne mir</title>
+  <lyrics>[C]
+ Ich warte auf dich, mein Gott.
+ Komm, begegne mir.
+ Ich will dich finden, Herr.
+ Bitte komm und zeig dich mir.
+
+[V1]
+ Hier vor dir wird mein Herz stark,
+ nah bei dir will ich bleiben, Herr.
+ Wenn ich dir mein Loblied sing,
+ kommst du mit Macht
+ und du füllst mein Herz.
+ Bitte komm, bitte komm,
+ erfüll mein Herz!
+</lyrics>
+  <author>Arne Kopfermann &amp; Lamont Hiebert, 1999</author>
+  <copyright>© 1999 Universal Music - Brentwood Benson Publishing</copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli>5183034</ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 #~ Behold (Then sings my soul) ----
 OpenSong/Songs/Behold (Then sings my soul)
 
@@ -2136,6 +2179,64 @@ OpenSong/Songs/Der Herr segne dich
   <copyright></copyright>
   <presentation></presentation>
   <ccli></ccli>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+#~ Der Tag vergeht ----
+OpenSong/Songs/Der Tag vergeht
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Der Tag vergeht</title>
+  <lyrics>[V1]
+ Der Tag vergeht und kommt nie mehr zurück,
+ nichts bleibt bestehn.
+ nichts bleibt bestehn.
+ Die Sonne sinkt und mancher Traum vom Glück
+ wird bald vergehn.
+ wird bald vergehn.
+ Doch was Du nimmst und was Du gibst
+ bestätigt nur, dass Du uns liebst;
+ wenn wir Dich, Herr,
+ so oft auch nicht verstehn.
+
+[C]
+ Heute und morgen
+ bin ich geborgen,
+ wie auch die Zeit verrinnt.
+ Hoffnung und Leben
+ wirst Du mir geben,
+ Herr, denn ich bin Dein Kind.
+
+[V2]
+ Der Abend kommt die Zeit hält niemals an,
+ sie geht dahin,
+ sie geht dahin.
+ Still fragt die Nacht, wie wird das Ende sein,
+ was ist der Sinn,
+ was ist der Sinn?
+ Was man verdrängt und dennoch ahnt
+ ist Gottes Stimme die uns mahnt,
+ in Seiner Hand ist Ende und Beginn.</lyrics>
+  <author>Johannes Jourdan und Siegfried Fietz</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 C V2 C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -4207,6 +4308,73 @@ OpenSong/Songs/Gro�er Gott wir loben dich
 -------------------------------------------------------
 -------------------------------------------------------
 
+#~ Gut, dass wir einander haben ----
+OpenSong/Songs/Gut, dass wir einander haben
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Gut, dass wir einander haben</title>
+  <lyrics>[C]
+ Gut, dass wir einander haben,
+ gut, dass wir einander sehn,
+ Sorgen, Freuden, Kräfte teilen
+ und auf einem Wege gehn.
+ Gut, dass wir nicht uns nur haben,
+ dass der Kreis sich niemals schließt
+ und dass Gott, von dem wir reden,
+ hier in unsrer Mitte ist.
+
+[V1]
+ Keiner, der nur immer redet;
+ keiner, der nur immer hört.
+ Jedes Schweigen, jedes Hören,
+ jedes Wort hat seinen Wert.
+ Keiner widerspricht nur immer;
+ keiner passt sich immer an.
+ Und wir lernen, wie man streiten
+ und sich dennoch lieben kann.
+
+[V2]
+ Keiner, der nur immer jubelt;
+ keiner, der nur immer weint.
+ Oft schon hat uns Gott in unsrer Freude,
+ unsrem Schmerz vereint.
+ Keiner trägt nur immer andre;
+ keiner ist nur immer Last.
+ Jedem wurde schon geholfen;
+ jeder hat schon angefasst.
+
+[V3]
+ Keiner ist nur immer schwach,
+ und keiner hat für alles Kraft.
+ Jeder kann mit Gottes Gaben das tun,
+ was kein andrer schafft.
+ Keiner, der noch alles braucht,
+ und keiner, der schon alles hat.
+ Jeder lebt von allen andern;
+ jeder macht die andern satt.</lyrics>
+  <author>Manfred Siebald, 1990</author>
+  <copyright>© 1990 SCM Hänssler, Holzgerlingen</copyright>
+  <hymn_number></hymn_number>
+  <presentation>C V1 C V2 C V3 C</presentation>
+  <ccli>4334073</ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 #~ Guten Abend, sch�n Abend ----
 OpenSong/Songs/Guten Abend, sch�n Abend
 
@@ -5374,6 +5542,75 @@ OpenSong/Songs/How long, o Lord (Psalm 13)
   <copyright></copyright>
   <presentation></presentation>
   <ccli></ccli>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+#~ I could sing of your love forever _ Ich will von deiner Liebe singen ----
+OpenSong/Songs/I could sing of your love forever _ Ich will von deiner Liebe singen
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>I could sing of your love forever / Ich will von deiner Liebe singen</title>
+  <lyrics>[V1]
+ Over the mountains and the sea
+ your river runs with love for me.
+ And I will open up my heart
+ and let the Healer set me free.
+ I'm happy to be in the truth
+ and I will daily lift my hands.
+ For I will always sing
+ of when your love came down, yeah.
+ _
+ Über die Berge und das Meer
+ fließt dein Liebesstrom zu mir.
+ Vor dir mach ich mein Herz ganz weit,
+ denn der mich heilt, der setzt mich frei.
+ An deiner Wahrheit freu ich mich,
+ und täglich rufe ich zu dir.
+ Wie du mich liebst, davon
+ will ich immer singen.
+
+[C]
+ I could sing of your love forever.
+ I could sing of your love forever.
+ I could sing of your love forever.
+ I could sing of your love forever.
+ _
+ Ich will von deiner Liebe singen,
+ immer von deiner Liebe singen.
+ Ich will von deiner Liebe singen,
+ immer von deiner Liebe singen.
+
+[B]
+ Oh I feel like dancing,
+ it's foolishness, I know.
+ But when the world has seen the light,
+ they will dance with joy like we're dancing now.
+ _
+ Ja, ich könnte tanzen,
+ auch wenn es töricht scheint.
+ Doch wenn die Welt dein Licht erkennt,
+ tanzen sie mit uns vor lauter Freude.
+</lyrics>
+  <author>Martin Smith, 1994</author>
+  <copyright>1994 Curious? Music UK </copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 C V1 C B C</presentation>
+  <ccli>1043199</ccli>
+  <capo print="false"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -7951,6 +8188,58 @@ OpenSong/Songs/Meine Hilfe kommt vom Herrn
   <hymn_number></hymn_number>
   <presentation>C V1 C V2 C</presentation>
   <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+#~ Meine Zeit steht in deinen H�nden ----
+OpenSong/Songs/Meine Zeit steht in deinen H�nden
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Meine Zeit steht in deinen Händen</title>
+  <lyrics>[C]
+ Meine Zeit steht in deinen Händen.
+ Nun kann ich ruhig sein, ruhig sein in dir.
+ Du gibst Geborgenheit, du kannst alles wenden.
+ Gib mir ein festes Herz, mach es fest in dir.
+
+[V1]
+ Sorgen quälen und werden mir zu groß.
+ Mutlos frag ich: Was wird morgen sein?
+ Doch du liebst mich, du lässt mich nicht los.
+ Vater, du wirst bei mir sein.
+
+[V2]
+ Hast und Eile, Zeitnot und Betrieb
+ nehmen mich gefangen, jagen mich.
+ Herr, ich rufe: Komm und mach mich frei!
+ Führe du mich Schritt für Schritt!
+
+[V3]
+ Es gibt Tage, die scheinen ohne Sinn.
+ Hilflos seh ich, wie die Zeit verrinnt.
+ Stunden, Tage, Jahre gehen hin,
+ und ich frag, wo sie geblieben sind.
+</lyrics>
+  <author>Peter Strauch, 1981</author>
+  <copyright>© 1981 SCM Hänssler, Holzgerlingen</copyright>
+  <hymn_number></hymn_number>
+  <presentation>C V1 C V2 C V3 C</presentation>
+  <ccli>4292737</ccli>
   <capo print="false"></capo>
   <key></key>
   <aka></aka>
