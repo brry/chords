@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>Living hope</title>
+  <title>Living hope / Jesus, meine Hoffnung, lebt</title>
   <lyrics>[V1]
  How great the chasm that lay between us?
  How high the mountain I could not climb?
@@ -11,14 +11,14 @@
  The work is ﬁnished, the end is written.
  Jesus Christ, my living hope.
  _
- Wie groß ist die Kluft zwischen uns?
- Wie hoch der Berg, den ich nicht erklimmen kann?
- In Verzweiflung wandte ich mich dem Himmel zu
- und sprach deinen Namen in die Nacht.
- Dann geht durch die Dunkelheit deine liebende Güte
- und durchdringt die Schatten meiner Seele.
- Es ist vollbracht, das Ende ist geschrieben.
- Jesus Christus, meine lebendige Hoffnung.
+ Zu tief der Abgrund, der uns einst trennte,
+ zu hoch der Gipfel, der vor mir lag.
+ Voller Verzweiflung sah ich zum Himmel,
+ sprach deinen Namen in die Nacht.
+ Und in das Dunkel kam deine Güte,
+ zerriss die Schatten tief in mir.
+ Die Nacht bezwungen, der Sieg errungen:
+ Jesus, meine Hoffnung, lebt.
 
 [V2]
  Who could imagine so great a mercy?
@@ -30,14 +30,14 @@
  Beautiful savior, I'm yours forever.
  Jesus Christ, my living hope.
  _
- Wer kann sich eine so große Gnade vorstellen?
- Welches Herz könnte eine solche grenzenlose Gnade ergründen?
- Der Gott aller Zeiten kam von seiner Herrlichkeit hinab.
- Um meine Sünde zu tragen und meine Schande zu ertragen.
- Das Kreuz hat gesprochen, mir ist vergeben.
- Der König der Könige nennt mich sein.
- Schöner Retter, ich bin für immer dein.
- Jesus Christus, meine lebendige Hoffnung.
+ So unvorstellbar ist deine Gnade,
+ so unbegreiflich ist deine Gunst.
+ Der Herr der Zeiten verließ den Himmel,
+ nahm auf sich meine Scham und Schuld.
+ Das Kreuz bezeugt es: mir ist vergeben.
+ Der König selbst nennt mich sein Kind.
+ Er ist mein Retter und ich gehör ihm.
+ Jesus, meine Hoffnung, lebt.
 
 [C]
  Hallelujah, praise the one who set me free.
@@ -46,11 +46,11 @@
  there's salvation in your name.
  Jesus Christ, my living hope.
  _
- Halleluja, lobe den, der mich befreite.
- Halleluja, der Tod hat mich nicht mehr im Griff.
- Du hast jede Kette gebrochen.
- In deinem Namen gibt es Erlösung.
- Jesus Christus, meine lebendige Hoffnung.
+ Halleluja, preist den, der mir Freiheit gab.
+ Halleluja, er besiegte Tod und Grab.
+ Alle Ketten sind gesprengt
+ von dem Gott, der Rettung bringt.
+ Jesus, meine Hoffnung, lebt.
 
 [V3]
  Then came the morning that sealed the promise,
@@ -60,17 +60,18 @@
  _
  Jesus, yours is the victory!
  _
- Dann kam der Morgen, der das Versprechen besiegelte.
- Dein begrabener Körper begann zu atmen.
- Aus der Stille heraus erklärte der brüllende Löwe:
- Das Grab hat keine Macht über mich.
- Jesus, dein ist der Sieg!
+ Dann kam der Morgen so wie verheißen:
+ dein toter Körper ist neu erwacht.
+ Mit lauter Stimme hast du verkündet:
+ kein Grab hat nun Anspruch mehr auf mich.
+ Jesus, dein Sieg bleibt ewiglich.
+
 </lyrics>
-  <author>Phil Wickham &amp; Brian Johnson, 2018</author>
-  <copyright></copyright>
+  <author>Phil Wickham &amp; Brian Johnson &amp; Arne Kopfermann, 2017</author>
+  <copyright>© Phil Wickham Music</copyright>
   <hymn_number></hymn_number>
-  <presentation>V1 V2 C V3 C C</presentation>
-  <ccli></ccli>
+  <presentation>V1 V2 C V3 C</presentation>
+  <ccli>7116987</ccli>
   <capo print="false"></capo>
   <key></key>
   <aka></aka>

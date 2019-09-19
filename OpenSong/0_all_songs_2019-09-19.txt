@@ -1,7 +1,7 @@
 
-228 Files in C:/Dropbox/Faith/chords
+239 Files in C:/Dropbox/Faith/chords
 Combined together with berryFunctions::combineFiles
-2019-06-02 13:51:49
+2019-09-19 11:03:32
 
 -------------------------------------------------------
 -------------------------------------------------------
@@ -1424,6 +1424,80 @@ OpenSong/Songs/Broken
 -------------------------------------------------------
 -------------------------------------------------------
 
+#~ Build my life _ Nur auf deine Liebe werd ich baun ----
+OpenSong/Songs/Build my life _ Nur auf deine Liebe werd ich baun
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Build my life / Nur auf deine Liebe werd ich baun</title>
+  <lyrics>[V1]
+ Worthy of every song we could ever sing.
+ Worthy of all the praise we could ever bring.
+ Worthy of every breath we could ever breathe.
+ We live for you.
+ _
+ Würdig all unsrer Lieder bist du allein.
+ Würdig all unsres Lobs wirst du immer sein,
+ würdig, dir jeden Atemzug nun zu weih'n.
+ Wir sind ganz dein.
+
+[V2]
+ Jesus, the name above every other name.
+ Jesus, the only one who could ever save.
+ Worthy of ev'ry breath we could ever breathe.
+ We live for you. We live for you.
+ _
+ Jesus - kein Name wird jemals höher sein,
+ Jesus - denn unsre Rettung bist du allein,
+ würdig, dir jeden Atemzug nun zu weih'n.
+ Wir sind ganz dein. Wir sind ganz dein.
+
+[C]
+ Holy - there is no one like you.
+ There is none beside you.
+ Open up my eyes in wonder and show me who you are
+ and fill me with your heart
+ and lead me in your love to those around me.
+ _
+ Heilig - Nichts und niemand gleicht dir,
+ alles untersteht dir.
+ Lass mich sehn und lass mich staunen.
+ Herr, offenbare dich, und leg dein Herz in mich.
+ Führ mich durch deine Liebe zu den Menschen.
+
+[B]
+ I will build my life upon your love.
+ It is a firm foundation.
+ I will put my trust in you alone.
+ And I will not be shaken.
+ _
+ Nur auf deine Liebe werd ich baun,
+ denn sie wird nie vergehen.
+ Nur in deine Kraft setz ich Vertraun,
+ so kann ich sicher stehen.
+</lyrics>
+  <author>Younker &amp; Martin &amp; Kaple &amp; Redman &amp; Barrett / Housefires, 2016</author>
+  <copyright>© 2016 Martin, Karl Andrew (Admin. by Arkyard Music Services Limited)</copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 V2 C V1 V2 C B C</presentation>
+  <ccli>7070345</ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 #~ Build your kingdom here ----
 OpenSong/Songs/Build your kingdom here
 
@@ -1558,45 +1632,38 @@ OpenSong/Songs/Came to my rescue
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Came to my rescue</title>
-  <lyrics>[V1]
+  <lyrics>[V]
  Falling on my knees in worship,
  giving all I am to seek your face.
  Lord, all I am is yours.
- _
- In Anbetung knie ich vor dir,
- alles geb ich hin, um dich zu sehn,
- nur dir gehör ich ganz.
-
-[V2]
  My whole life I place in your hands.
  God of mercy, humbled I bow down
  in your presence at your throne.
  _
+ In Anbetung knie ich vor dir,
+ alles geb ich hin, um dich zu sehn,
+ nur dir gehör ich ganz.
  Ich geb dir mein ganzes Leben,
  du bist gnädig, Herr, ich beuge mich
  hier bei dir, vor deinem Thron.
 
 [C]
- I called, you answered
- and you came to my rescue.
+ I called, you answered and you came to my rescue.
  And I, I wanna be where you are.
  _
- Ich rief, du hörtest mich,
- und du hast mich errettet,
- und nun will ich dir nahe sein.
-
-[B]
- In my life, be lifted high.
- In our world, be lifted high.
+ In my life, be lifted high. In our world, be lifted high.
  In our love, be lifted high.
  _
- Sei erhöht in meiner Welt,
- sei erhöht in unsrer Welt,
- sei erhöht, wir lieben dich.</lyrics>
+ _
+ Ich rief, du hörtest mich, und du hast mich errettet,
+ und nun will ich dir nahe sein.
+ Sei erhöht in meiner Welt, sei erhöht in unsrer Welt,
+ sei erhöht, wir lieben dich.
+</lyrics>
   <author>Thomas &amp; Davies &amp; Sampson / Hillsong, 2005</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation>V1 V2 C V1 V2 B C</presentation>
+  <presentation></presentation>
   <ccli>4705190</ccli>
   <capo print="false"></capo>
   <key></key>
@@ -2088,6 +2155,57 @@ OpenSong/Songs/Defender
 -------------------------------------------------------
 -------------------------------------------------------
 
+#~ Dein Herz ber�hrn ----
+OpenSong/Songs/Dein Herz ber�hrn
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Dein Herz berührn</title>
+  <lyrics>[V1]
+ Herr mein Wunsch ist es, dir zu gefallen.
+ Was ich tue, soll dein Herz berührn.
+ Lass die Liebe, die du gabst, mich neu bewegen,
+ wie du barmherzig zu sein.
+ _
+ Sei dein lieblicher Geist mein Begleiter,
+ der mich mit deinem Frieden umgibt.
+ Lass die Gleichgültigkeit meines Herzens verbrennen
+ und Mut und Liebe bestehn.
+
+[C]
+ Alles leg ich in deine Hand,
+ deinem Weg will ich vertrauen.
+ Alles leg ich nun vor dich hin
+ und ehre deinen Namen.
+
+[V2]
+ Voller Hingabe will ich mein Leben
+ deinem göttlichen Willen unterstellen.
+ Werd von Liebe, Wahrheit und Recht geleitet,
+ bis wir uns dann ewig sehn.
+</lyrics>
+  <author>Mia Friesen &amp; Stefan Schöpfle / Outbreakband, 2011</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 #~ Der Einzige ----
 OpenSong/Songs/Der Einzige
 
@@ -2203,35 +2321,29 @@ OpenSong/Songs/Der Tag vergeht
   <title>Der Tag vergeht</title>
   <lyrics>[V1]
  Der Tag vergeht und kommt nie mehr zurück,
- nichts bleibt bestehn.
- nichts bleibt bestehn.
+ nichts bleibt bestehn, nichts bleibt bestehn.
  Die Sonne sinkt und mancher Traum vom Glück
- wird bald vergehn.
- wird bald vergehn.
- Doch was Du nimmst und was Du gibst
- bestätigt nur, dass Du uns liebst;
- wenn wir Dich, Herr,
- so oft auch nicht verstehn.
+ wird bald vergehn, wird bald vergehn.
+ Doch was du nimmst und was du gibst
+ bestätigt nur, dass du uns liebst;
+ wenn wir dich, Herr, so oft auch nicht verstehn.
 
 [C]
- Heute und morgen
- bin ich geborgen,
+ Heute und morgen bin ich geborgen,
  wie auch die Zeit verrinnt.
- Hoffnung und Leben
- wirst Du mir geben,
- Herr, denn ich bin Dein Kind.
+ Hoffnung und Leben wirst du mir geben,
+ Herr, denn ich bin dein Kind.
 
 [V2]
- Der Abend kommt die Zeit hält niemals an,
- sie geht dahin,
- sie geht dahin.
- Still fragt die Nacht, wie wird das Ende sein,
- was ist der Sinn,
- was ist der Sinn?
+ Der Abend kommt, die Zeit hält niemals an,
+ sie geht dahin, sie geht dahin.
+ Still fragt die Nacht: Wie wird das Ende sein,
+ was ist der Sinn, was ist der Sinn?
  Was man verdrängt und dennoch ahnt
- ist Gottes Stimme die uns mahnt,
- in Seiner Hand ist Ende und Beginn.</lyrics>
-  <author>Johannes Jourdan und Siegfried Fietz</author>
+ ist Gottes Stimme die uns mahnt.
+ In seiner Hand ist Ende und Beginn.
+</lyrics>
+  <author>Johannes Jourdan &amp; Siegfried Fietz, 1997</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
   <presentation>V1 C V2 C</presentation>
@@ -2437,6 +2549,99 @@ OpenSong/Songs/Du allein
 -------------------------------------------------------
 -------------------------------------------------------
 
+#~ Du begeisterst mich _ Your love makes me sing ----
+OpenSong/Songs/Du begeisterst mich _ Your love makes me sing
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Du begeisterst mich / Your love makes me sing</title>
+  <lyrics>[V1]
+ Your love is amazing, steady and unchanging.
+ Your love is a mountain, firm beneath my feet.
+ Your love is a mystery, how you gently lift me.
+ When I am surrounded, your love carries me.
+ _
+ Deine Liebe trägt mich, festigt und erhebt mich,
+ sie ist wie ein Felsen, auf dem ich sicher steh.
+ Deine Liebe stärkt mich, sie ist sanft und zärtlich.
+ Ich kann es kaum fassen, sie wird nicht vergehn.
+
+[C]
+ Hallelujah, hallelujah, hallelujah,
+ your love makes me sing.
+ _
+ Halleluja, halleluja, halleluja,
+ du begeisterst mich.
+
+[V2]
+ Your love is surprising, I can feel it rising,
+ all the joy that's growing deep inside of me.
+ Every time I see you, all your goodness shines through.
+ I can feel this God song rising up in me
+ _
+ Deine Liebe spür ich. Du bist immer für mich.
+ Ich bin überglücklich, du hast mich berührt.
+ Ich liebe deine Nähe und wenn ich dich sehe,
+ sing ich das Lied des Himmels, dass es jeder hört.
+</lyrics>
+  <author>Brown &amp; Doerksen, 2000</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 C V2 C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+#~ Du bist der H�chste ----
+OpenSong/Songs/Du bist der H�chste
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Du bist der Höchste</title>
+  <lyrics> Du bist der Höchste, o Herr,
+ über allen Erden.
+ Du bist erhoben über alle Götter.
+ _
+ Ich erhebe dich.
+ Ich erhebe dich.
+ Ich erhebe dich, o Herr!
+</lyrics>
+  <author>Gitta Leuschner &amp; Pete Sanchez Jr., 1977</author>
+  <copyright>© 1977 Sanchez, Pete, Jr. (Verwaltet von Gabriel Music, Inc.)</copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli>5829635</ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 #~ Du bist gut ----
 OpenSong/Songs/Du bist gut
 
@@ -2492,6 +2697,45 @@ OpenSong/Songs/Du bist gut
   <hymn_number></hymn_number>
   <presentation>V1 C V2 C B C</presentation>
   <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+#~ Du hast Erbarmen ----
+OpenSong/Songs/Du hast Erbarmen
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Du hast Erbarmen</title>
+  <lyrics> Du hast Erbarmen und zertrittst all meine Schuld.
+ Du hilfst mir auf in deiner Treue und Geduld.
+ Du nimmst mir meine Last, nichts ist für dich zu schwer.
+ Du wirfst all meine Sünden tief hinab ins Meer.
+ _
+ Wer ist ein Gott wie du,
+ der die Sünde verzeiht und das Unrecht vergibt?
+ Wer ist ein Gott wie du,
+ nicht für immer bleibt dein Zorn bestehn,
+ denn du liebst es, gnädig zu sein.
+</lyrics>
+  <author>Albert Frey, 1993</author>
+  <copyright>© 1993 Immanuel Music, Ravensburg (Verwaltet von SCM Hänssler)</copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli>4328986</ccli>
   <capo print="false"></capo>
   <key></key>
   <aka></aka>
@@ -4771,8 +5015,8 @@ OpenSong/Songs/Here's my heart, Lord
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ Here for you ----
-OpenSong/Songs/Here for you
+#~ Here for you _ F�r dich hier ----
+OpenSong/Songs/Here for you _ F�r dich hier
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
@@ -4785,19 +5029,21 @@ OpenSong/Songs/Here for you
  fill our hearts with your life.
  We are here for you, we are here for you.
  _
- Unser Lob heißt dich willkommen, unsere Lieder sind ein Zeichen.
- Wir sind für dich da, wir sind für dich da.
- Lass deinen Atem vom Himmel kommen,
- fülle unsere Herzen mit deinem Leben.
+ Herr, wir wollen dich empfangen, bringen dir unser Lob,
+ wir sind für dich hier.
+ Komm erfüll unsre Herzen, hauche uns Leben ein.
+ Wir sind für dich hier, wir sind für dich hier!
 
 [C]
  To you our hearts are open, nothing here is hidden.
- You are our one desire, you alone are holy. 
- Only you are worthy. God, let your fire fall down.
+ You are our one desire.
+ You alone are holy, only you are worthy.
+ God, let your fire fall down.
  _
- Dir sind unsere Herzen offen, hier ist nichts verborgen.
- Du bist unser einziger Wunsch, du allein bist heilig.
- Nur du bist es wert. Gott, lass dein Feuer fallen.
+ Für dich woll'n wir uns öffnen, nichts vor dir verbergen.
+ Du sollst mein König sein.
+ Du allein bist heilig, aller Ehre würdig.
+ Herr, lass dein Feuer fall'n.
 
 [V2]
  Let our shout be your anthem,
@@ -4807,10 +5053,10 @@ OpenSong/Songs/Here for you
  let what's dead come to life.
  We are here for you, we are here for you.
  _
- Unser Rufen sei deine Hymne, dein Ruhm fülle den Himmel.
- Wir sind für dich da, wir sind für dich da.
- Lass dein Wort kraftvoll wirken,
- lass, was tot ist, zum Leben erwachen.
+ Hör den Ruf deines Volkes, wie es dir jubelnd singt.
+ Wir sind für dich hier, wir sind für dich hier.
+ Herr lass uns wieder aufblüh'n, forme uns durch dein Wort.
+ Wir sind für dich hier, wir sind für dich hier.
 
 [B]
  We welcome you with praise, we welcome you with praise.
@@ -4820,11 +5066,11 @@ OpenSong/Songs/Here for you
  Almighty God of love, be welcomed in this place.
  _
  _
- Wir begrüßen dich mit Lob, wir begrüßen dich mit Lob.
- Allmächtiger Gott der Liebe, sei an diesem Ort willkommen.
+ Sei hier willkommen Herr, sei hier willkommen Herr.
+ Du Gott der Liebe komm, und wirke unter uns.
  _
- Lass jedes Herz anbeten, lass jede Seele wach werden.
- Allmächtiger Gott der Liebe, sei an diesem Ort willkommen.
+ Oh Herr, mach uns bereit, weck unsre Herzen auf.
+ Du Gott der Liebe, komm, und wirke unter uns.
 </lyrics>
   <author>Matt Redman, 2011</author>
   <copyright>2011 Chrysalis Music Ltd. sixsteps Music Thankyou Music Valley Of Songs Music worshiptogether.com songs</copyright>
@@ -5093,9 +5339,11 @@ OpenSong/Songs/Higher _ h�her
  I'll never be able to fanthom your ways.
  And though I can't see you, my heart knows you well.
  _
- Jesus du stehst hoch über allem, ich will dich ehren,
- mit allem in mir. Ich werd deine Wege niemals ganz verstehn.
- Ich kann dich nicht greifen, doch mein Herz kann dich sehn.
+ Jesus du stehst hoch über allem,
+ ich will dich ehren, mit allem in mir.
+ Ich werd deine Wege niemals ganz verstehn.
+ Ich kann dich nicht greifen,
+ doch mein Herz kann dich sehn.
  </lyrics>
   <author>Dominik Laim / ICF Worship, 2015</author>
   <copyright></copyright>
@@ -5569,15 +5817,18 @@ OpenSong/Songs/I could sing of your love forever _ Ich will von deiner Liebe sin
  your river runs with love for me.
  And I will open up my heart
  and let the Healer set me free.
- I'm happy to be in the truth
- and I will daily lift my hands.
- For I will always sing
- of when your love came down, yeah.
  _
  Über die Berge und das Meer
  fließt dein Liebesstrom zu mir.
  Vor dir mach ich mein Herz ganz weit,
  denn der mich heilt, der setzt mich frei.
+
+[V2]
+ I'm happy to be in the truth
+ and I will daily lift my hands.
+ For I will always sing
+ of when your love came down, yeah.
+ _
  An deiner Wahrheit freu ich mich,
  und täglich rufe ich zu dir.
  Wie du mich liebst, davon
@@ -5608,7 +5859,7 @@ OpenSong/Songs/I could sing of your love forever _ Ich will von deiner Liebe sin
   <author>Martin Smith, 1994</author>
   <copyright>1994 Curious? Music UK </copyright>
   <hymn_number></hymn_number>
-  <presentation>V1 C V1 C B C</presentation>
+  <presentation>V1 V2 C V1 V2 C B C</presentation>
   <ccli>1043199</ccli>
   <capo print="false"></capo>
   <key></key>
@@ -6224,7 +6475,6 @@ OpenSong/Songs/Im Einfachen sehn
  Deine Liebe hast du in uns gesetzt,
  lass mich dich im Einfachen sehn.
  _
- _
  Im Kleinen dich zu sehen, lässt mich niederknien,
  es überwältigt mich, zu spüren wer du bist.
  Im Kleinen dich zu sehen, lässt mich niederknien,
@@ -6236,14 +6486,13 @@ OpenSong/Songs/Im Einfachen sehn
  Im Erstaunen da finde ich dich,
  lass mich dich im Einfachen sehn.
  _
- _
  Im Kleinen dich zu sehen, lässt mich niederknien,
  es überwältigt mich, zu spüren wer du bist.
  Im Kleinen dich zu sehen, lässt mich niederknien,
  voll Ehrfurcht seh' ich dich, erfassen kann ich's nicht.
  _
  Und doch ist das, was ich erfassen kann,
- nur ein Funke deiner Fülle.  (4x)
+ nur ein Funke deiner Fülle.
  </lyrics>
   <copyright></copyright>
   <presentation></presentation>
@@ -6273,12 +6522,10 @@ OpenSong/Songs/Immer mehr
   <author>Lothar Kosse, 1991</author>
   <hymn_number>21</hymn_number>
   <capo print="false"></capo>
-  <lyrics>
- Immer mehr von dir, immer mehr,
+  <lyrics> Immer mehr von dir, immer mehr,
  immer mehr sein wie du, immer mehr.
  Immer mehr deine Worte verstehn,
  deine Werke tun, oh Herr, immer mehr.
- (2x)
  _
  Du bist ein Gott, der seine Kinder liebt,
  der als ein Vater ihr Verlangen sieht.
@@ -7498,12 +7745,12 @@ OpenSong/Songs/Leise rieselt der Schnee
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ Living hope ----
-OpenSong/Songs/Living hope
+#~ Living Hope _ Jesus meine Hoffnung lebt ----
+OpenSong/Songs/Living Hope _ Jesus meine Hoffnung lebt
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>Living hope</title>
+  <title>Living hope / Jesus, meine Hoffnung, lebt</title>
   <lyrics>[V1]
  How great the chasm that lay between us?
  How high the mountain I could not climb?
@@ -7514,14 +7761,14 @@ OpenSong/Songs/Living hope
  The work is ﬁnished, the end is written.
  Jesus Christ, my living hope.
  _
- Wie groß ist die Kluft zwischen uns?
- Wie hoch der Berg, den ich nicht erklimmen kann?
- In Verzweiflung wandte ich mich dem Himmel zu
- und sprach deinen Namen in die Nacht.
- Dann geht durch die Dunkelheit deine liebende Güte
- und durchdringt die Schatten meiner Seele.
- Es ist vollbracht, das Ende ist geschrieben.
- Jesus Christus, meine lebendige Hoffnung.
+ Zu tief der Abgrund, der uns einst trennte,
+ zu hoch der Gipfel, der vor mir lag.
+ Voller Verzweiflung sah ich zum Himmel,
+ sprach deinen Namen in die Nacht.
+ Und in das Dunkel kam deine Güte,
+ zerriss die Schatten tief in mir.
+ Die Nacht bezwungen, der Sieg errungen:
+ Jesus, meine Hoffnung, lebt.
 
 [V2]
  Who could imagine so great a mercy?
@@ -7533,14 +7780,14 @@ OpenSong/Songs/Living hope
  Beautiful savior, I'm yours forever.
  Jesus Christ, my living hope.
  _
- Wer kann sich eine so große Gnade vorstellen?
- Welches Herz könnte eine solche grenzenlose Gnade ergründen?
- Der Gott aller Zeiten kam von seiner Herrlichkeit hinab.
- Um meine Sünde zu tragen und meine Schande zu ertragen.
- Das Kreuz hat gesprochen, mir ist vergeben.
- Der König der Könige nennt mich sein.
- Schöner Retter, ich bin für immer dein.
- Jesus Christus, meine lebendige Hoffnung.
+ So unvorstellbar ist deine Gnade,
+ so unbegreiflich ist deine Gunst.
+ Der Herr der Zeiten verließ den Himmel,
+ nahm auf sich meine Scham und Schuld.
+ Das Kreuz bezeugt es: mir ist vergeben.
+ Der König selbst nennt mich sein Kind.
+ Er ist mein Retter und ich gehör ihm.
+ Jesus, meine Hoffnung, lebt.
 
 [C]
  Hallelujah, praise the one who set me free.
@@ -7549,11 +7796,11 @@ OpenSong/Songs/Living hope
  there's salvation in your name.
  Jesus Christ, my living hope.
  _
- Halleluja, lobe den, der mich befreite.
- Halleluja, der Tod hat mich nicht mehr im Griff.
- Du hast jede Kette gebrochen.
- In deinem Namen gibt es Erlösung.
- Jesus Christus, meine lebendige Hoffnung.
+ Halleluja, preist den, der mir Freiheit gab.
+ Halleluja, er besiegte Tod und Grab.
+ Alle Ketten sind gesprengt
+ von dem Gott, der Rettung bringt.
+ Jesus, meine Hoffnung, lebt.
 
 [V3]
  Then came the morning that sealed the promise,
@@ -7563,17 +7810,18 @@ OpenSong/Songs/Living hope
  _
  Jesus, yours is the victory!
  _
- Dann kam der Morgen, der das Versprechen besiegelte.
- Dein begrabener Körper begann zu atmen.
- Aus der Stille heraus erklärte der brüllende Löwe:
- Das Grab hat keine Macht über mich.
- Jesus, dein ist der Sieg!
+ Dann kam der Morgen so wie verheißen:
+ dein toter Körper ist neu erwacht.
+ Mit lauter Stimme hast du verkündet:
+ kein Grab hat nun Anspruch mehr auf mich.
+ Jesus, dein Sieg bleibt ewiglich.
+
 </lyrics>
-  <author>Phil Wickham &amp; Brian Johnson, 2018</author>
-  <copyright></copyright>
+  <author>Phil Wickham &amp; Brian Johnson &amp; Arne Kopfermann, 2017</author>
+  <copyright>© Phil Wickham Music</copyright>
   <hymn_number></hymn_number>
-  <presentation>V1 V2 C V3 C C</presentation>
-  <ccli></ccli>
+  <presentation>V1 V2 C V3 C</presentation>
+  <ccli>7116987</ccli>
   <capo print="false"></capo>
   <key></key>
   <aka></aka>
@@ -8310,56 +8558,42 @@ OpenSong/Songs/Mighty to save
   <author>Reuben Morgan &amp; Ben Fielding / Hillsong, 2006</author>
   <hymn_number>42</hymn_number>
   <capo print="false"></capo>
-  <lyrics>
-[V1]
+  <lyrics>[V1]
  Ev'ryone needs compassion, love that's never failing. Let mercy fall on me.
  Ev'ryone needs forgiveness, the kindness of a savior. The hope of nations.
  _
+ Jeder braucht Erbarmen, Liebe, die niemals enttäuscht; 
+ Lass Gnade über mich kommen. Jeder braucht Vergebung, 
+ die Aufmerksamkeit eines Erlösers; die Hoffnung der Völker.
+
+[C]
  Saviour, he can move the mountains.
  My God is mighty to save, he is mighty to save.
  Forever, author of salvation, he rose and conquered the grave,
  Jesus conquered the grave!
  _
- _
- Jeder braucht Erbarmen, Liebe, die niemals enttäuscht; 
- Lass Gnade über mich kommen. Jeder braucht Vergebung, 
- die Aufmerksamkeit eines Erlösers; die Hoffnung der Völker.
- Der Erlöser kann Berge versetzen. Mein Gott ist ein mächtiger Erretter.
- Ewiglich, Urheber der Erlösung, er stand auf und siegte über das Grab.
+ Der Erlöser kann Berge versetzen.
+ Mein Gott ist ein mächtiger Erretter.
+ Ewiglich, Urheber der Erlösung,
+ er stand auf und siegte über das Grab.
 
 [V2]
  So take me as you find me, all my fears and failures. Fill my life again.
  I give my life to follow, ev'rything I believe in. Now I surrender.
  _
- Saviour, he can move the mountains.
- My God is mighty to save, he is mighty to save.
- Forever, author of salvation, he rose and conquered the grave,
- Jesus conquered the grave!
- _
- _
  So nimm mich auf, wie du mich findest; All meine Ängste und Fehler; 
  Erfülle mein Leben. Ich gebe mein Leben hin um nachzufolgen, 
  alles woran ich glaube. Jetzt ergebe ich mich.
- Der Erlöser kann Berge versetzen. Mein Gott ist ein mächtiger Erretter.
- Ewiglich, Urheber der Erlösung, er stand auf und siegte über das Grab.
 
 [B]
  Shine your light and let the whole world see:
- we're singing for the glory of the risen king: Jesus! (2x)
- _
- Saviour, he can move the mountains.
- My God is mighty to save, he is mighty to save.
- Forever, author of salvation, he rose and conquered the grave,
- Jesus conquered the grave!
- _
+ we're singing for the glory of the risen king: Jesus!
  _
  Lasse dein Licht scheinen und die ganze Welt sehen:
  Wir singen zur Ehre des wiederauferstandenen Königs: Jesus.
- Der Erlöser kann Berge versetzen. Mein Gott ist ein mächtiger Erretter.
- Ewiglich, Urheber der Erlösung, er stand auf und siegte über das Grab.
 </lyrics>
   <copyright></copyright>
-  <presentation></presentation>
+  <presentation>V1 C V2 C B C</presentation>
   <ccli></ccli>
   <key></key>
   <aka></aka>
@@ -8596,6 +8830,74 @@ OpenSong/Songs/Mittelpunkt
   <copyright></copyright>
   <presentation></presentation>
   <ccli></ccli>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+#~ M�ge Gottes Segen mit dir sein ----
+OpenSong/Songs/M�ge Gottes Segen mit dir sein
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Möge Gottes Segen mit dir sein</title>
+  <lyrics>[C]
+ Möge Gottes Segen mit dir sein,
+ wohin du auch gehst,
+ was dir auch geschieht.
+ Seine Liebe lässt dich nicht allein.
+ Wenn du nur verstehst,
+ dass er mit dir zieht.
+
+[V1]
+ Sei gewiss, er wird dich leiten.
+ Gott sieht stets auf dich;
+ er wird dich behüten Tag und Nacht.
+ Seine Gnade weicht nicht von dir,
+ hat dich stets bewacht.
+ Er beschütze dich mit aller Macht!
+
+[V2]
+ Was will er durch dich bewirken?
+ Wohin führt dein Weg?
+ Wo und wie sollst du ein Segen sein?
+ Er, der dich beruft ist bei dir
+ und steht für dich ein.
+ Alles was er zusagt, ist schon dein.
+
+[V3]
+ Möge Christus dich beschenken,
+ mache er dich frei,
+ gebe er dir alles, was dich heilt.
+ In der Not sei er dein Retter,
+ der zur Hilfe eilt,
+ der sogar sein Leben mit dir teilt.
+
+[V4]
+ Ob wir uns bald wiedersehen
+ oder lange nicht,
+ einmal werden wir zusammen sein.
+ Lachend und erfüllt von Freude
+ stimmen wir dann ein
+ in ein neues Lied für ihn allein.
+</lyrics>
+  <author>Hans-Joachim Eckstein, 2015</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>C V1 C V2 C V3 C V4 C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -10239,6 +10541,92 @@ OpenSong/Songs/Pieces
 -------------------------------------------------------
 -------------------------------------------------------
 
+#~ Praise you in this storm _ Im Sturm sing ich zu dir ----
+OpenSong/Songs/Praise you in this storm _ Im Sturm sing ich zu dir
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Praise you in this storm / Im Sturm sing ich zu dir</title>
+  <lyrics>[V1]
+ I was sure by now, God, you would have reached down
+ and wiped our tears away, stepped in and saved the day.
+ But once again I'll say amen and it's still raining.
+ _
+ Ich glaubte fest daran, dass du uns deine Hand reichst
+ und die Tränen stillst, dein Wort sofort erfüllst.
+ Doch wieder mal sag ich "Amen",
+ nichts ändert sich: der Regen fällt noch.
+
+[P]
+ As the thunder rolls I barely hear you whisper:
+ "Through the rain I'm with you."
+ And as your mercy falls I'll raise my hands
+ and praise the God who gives and takes away.
+ _
+ Der Donner grollt so laut, kaum höre ich dein Flüstern
+ durch den Regen: "Ich bin bei dir."
+ Du schenkst Gnade deinem Kind.
+ Ich schaue auf und sehe einen Gott, der gibt und nimmt.
+
+[C]
+ And I'll praise you in this storm and I will lift my hands
+ for you are who you are, no matter where I am.
+ And every tear I've cried, you hold in your hand.
+ You never left my side.
+ And though my heart is torn,
+ I will praise you in this storm.
+ _
+ Im Sturm sing ich zu dir, heb meine Hände auf,
+ denn du bist, der du bist, egal wohin ich lauf.
+ Und jede meiner Tränen hältst du in deiner Hand.
+ Hast mich nie aufgegeben.
+ Bricht auch mein Herz in mir:
+ in diesem Sturm sing ich zu dir.
+
+[V2]
+ I remember when I stumbled in the wind.
+ You heard my cry to you and raised me up again,
+ but my strength is almost gone.
+ How can I carry on if I can't find you?
+ _
+ Ich stolperte im Wind, weiß es noch ganz genau:
+ ich rief zu dir, und du halfst mir wieder auf.
+ Doch meine Kraft reicht nicht.
+ Seh ich nicht dein Gesicht, wie geh ich weiter?
+
+[B]
+ I lift my eyes unto the hills.
+ Where does my help come from?
+ My help comes from the Lord,
+ the maker of heaven and earth.
+ _
+ Ich hebe meine Augen auf,
+ wo kommt mir Hilfe her?
+ Meine Hilfe kommt vom Herrn,
+ der Himmel und Erde gemacht hat.
+</lyrics>
+  <author>Bernie Herms &amp; Mark Hall &amp; Diana König, 2005</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 P C V2 P C B C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 #~ Prince of peace ----
 OpenSong/Songs/Prince of peace
 
@@ -10352,6 +10740,78 @@ OpenSong/Songs/Pursue
   <copyright></copyright>
   <hymn_number></hymn_number>
   <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+#~ Raise a Hallelujah ----
+OpenSong/Songs/Raise a Hallelujah
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Raise a Hallelujah</title>
+  <lyrics>[V1]
+ I raise a hallelujah in the presence of my enemies.
+ I raise a hallelujah, louder than the unbelief.
+ I raise a hallelujah, my weapon is a melody.
+ I raise a hallelujah, heaven comes to fight for me.
+ _
+ Ich rufe Halleluja in der Gegenwart meiner Feinde,
+ lauter als der Unglaube. Meine Waffe ist eine Melodie.
+ Der Himmel kommt, um für mich zu kämpfen.
+
+[C]
+ I’m gonna sing in the middle of the storm.
+ Louder and louder, you're gonna hear my praises roar.
+ Up from the ashes, hope will arise,
+ death is defeated, the king is alive.
+ _
+ Ich werde mitten im Sturm singen.
+ Immer lauter wirst du mein Lob brüllen hören.
+ Aus der Asche wird Hoffnung entstehen:
+ Der Tod ist besiegt, der König lebt.
+
+[V2]
+ I raise a hallelujah with everything inside of me.
+ I raise a hallelujah, I will watch the darkness flee.
+ I raise a hallelujah in the middle of the mystery.
+ I raise a hallelujah: fear, you lost your hold on me.
+ _
+ Ich rufe Halleluja mit allem in mir.
+ Ich werde die Dunkelheit fliehen sehen.
+ Ich rufe Halleluja mitten im Rätsel.
+ Angst, du hast mich nicht mehr im Griff.
+
+[B]
+ Sing a little louder, sing a little louder.
+ _
+ Sing a little louder in the presence of my enemies.
+ Sing a little louder, louder than the unbelief.
+ Sing a little louder, my weapon is a melody.
+ Sing a little louder, heaven comes to fight for me.
+ _
+ Sing ein bisschen lauter vor meinen Feinden,
+ lauter als der Unglaube. Meine Waffe ist eine Melodie.
+ Der Himmel kommt, um für mich zu kämpfen.
+</lyrics>
+  <author>Bethel, 2018</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 C V2 C B C</presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
@@ -10495,6 +10955,88 @@ OpenSong/Songs/Revelation Song _ Heilig, heilig
   <copyright></copyright>
   <presentation>V1 C V2 C V3 C</presentation>
   <ccli></ccli>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+#~ Saviour of the world _ Retter dieser Welt ----
+OpenSong/Songs/Saviour of the world _ Retter dieser Welt
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Saviour of the world / Retter dieser Welt</title>
+  <lyrics>[V1]
+ God so loved that he gave his Son
+ to lay down his life for the sake of us.
+ He bore the weight of our sin and shame.
+ With a cry he said: "it is finished!"
+ Christ, the Lord, overcame the darkness,
+ he's alive, death has been defeated.
+ _
+ So sehr hat Gott die Welt geliebt,
+ dass er seinen Sohn zu uns sandte.
+ Er nahm die Schuld dieser Welt auf sich
+ und er starb am Kreuz, dort auf Golgatha.
+ Er ist Herr über alle Dunkelheit und er lebt,
+ Jesus ist der Sieger.
+
+[C]
+ For he made us a way by which we have been saved.
+ He's the saviour of the world.
+ So we lift up a shout for his fame and renown:
+ praise the Lord, praise the Lord,
+ Jesus, saviour of the world.
+ _
+ Denn er hat uns befreit, hat den Weg uns gezeigt.
+ Er, der Retter dieser Welt.
+ Für sein Lob stehen wir auf und wir singen es laut:
+ Preist den Herrn, preist den Herrn.
+ Jesus, Retter dieser Welt!
+
+[V2]
+ We must spread the word of his soon return,
+ to reclaim the world for his glory.
+ Let the church now sing of this coming king,
+ crowned with majesty: our redeemer.
+ And he reigns; ruler of the heavens,
+ and his name is Jesus the Messiah.
+ _
+ Sagt es aller Welt, er kommt bald zurück.
+ Jedes Knie wird sich vor Ihm beugen.
+ Der gerechte König wird bei uns sein.
+ Seine Herrschaft ist unsere Freiheit!
+ Er regiert. Herrscher aller Himmel,
+ auf dem Thron ist Jesus der Messias!
+
+[B]
+ Christ, the Lord, overcame the darkness
+ He's alive, death has been defeated.
+ and he reigns; ruler of the heavens,
+ and his name is Jesus the Messiah.
+ _
+ Er ist Herr über alle Dunkelheit und er lebt,
+ Jesus ist der Sieger.
+ Er regiert, Herrscher aller Himmel,
+ auf dem Thron ist Jesus der Messias.
+</lyrics>
+  <author>Cantelon &amp; Schnitter, 2010</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 C V2 C B C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -11367,6 +11909,80 @@ OpenSong/Songs/Surrender _ Mein ganzes Leben
 -------------------------------------------------------
 -------------------------------------------------------
 
+#~ Take it all _ dir geh�rn ----
+OpenSong/Songs/Take it all _ dir geh�rn
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Take it all / Dir gehörn</title>
+  <lyrics>[V1]
+ Searching the world, the lost will be found.
+ In freedom we live, as one we cry out.
+ You carried the cross, you died and rose again.
+ My God, I'll only ever give my all.
+ _
+ Du findest uns am Ende der Welt.
+ Wir leben mit dir, der alles erhält.
+ Du gingst an das Kreuz und hast den Tod besiegt.
+ Mein Gott, ich gebe dir mein ganzes Herz.
+
+[V2]
+ You sent your son from heaven to earth,
+ you delivered us all, it's eternally heard.
+ I searched for truth and all I found was you.
+ My God, I'll only ever give my all.
+ _
+ Du gabst den Sohn, du hast uns befreit,
+ und du trägst uns durch, bis in die Ewigkeit.
+ Ich hab gesucht, und alles was ich fand, bist du.
+ Ich gebe dir mein Leben, Herr.
+
+[C]
+ Jesus we're living for your name,
+ we'll never be ashamed of you.
+ Our praise and all we are today,
+ take, take, take it all,
+ take, take, take it all.
+ _
+ Jesus, wir leben nur für dich
+ und schämen uns dafür nicht.
+ Was wir haben, was wir sind,
+ soll nur dir gehörn,
+ wir wolln dir gehörn.
+
+[B]
+ Running to the one who heals the blind,
+ following the shining light.
+ In your hands, the power to save the world
+ and my life.
+ _
+ Wir laufen zu dem Herrn, der helfen kann,
+ er ist das Licht in Dunkelheit.
+ Er hat Macht, verändert diese Welt
+ und mich.
+</lyrics>
+  <author>Sampson &amp; Crocker &amp; Ligertwood / Hillsong, 2005</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 #~ The more I seek you ----
 OpenSong/Songs/The more I seek you
 
@@ -11554,15 +12170,16 @@ OpenSong/Songs/This is our God _ Was f�r ein Gott
  let your spirit make me new.
  _
  Deine Gnade reicht aus, ist mehr als ich brauch.
- Deinem Wort vertraue ich, zieh mich zu dir.
- Ich wart auf dich, mach mich neu durch deinen Geist.
+ Deinem Wort vertraue ich.
+ Zieh mich zu dir, ich wart auf dich, 
+ mach mich neu durch deinen Geist.
 
 [C]
  And I will fall at your feet,
  I will fall at your feet
  and I will worship you here.
  _
- Jesus hier knie ich vor dir, 
+ Jesus hier knie ich vor dir,
  ja, hier knie ich vor dir,
  und ich bete dich an.
 
@@ -11576,7 +12193,6 @@ OpenSong/Songs/This is our God _ Was f�r ein Gott
  Dein Wort leuchtet hell und klar. 
  Ich bin erlöst, wieder hergestellt 
  und befreit durch deinen Geist.
-
 
 [B]
  Freely you gave it all for us, surrendered your life upon that cross. 
@@ -12343,6 +12959,84 @@ OpenSong/Songs/Vor dir _ In deinem Licht will ich leben
 -------------------------------------------------------
 -------------------------------------------------------
 
+#~ Waiting here for you _ Wir warten hier auf dich ----
+OpenSong/Songs/Waiting here for you _ Wir warten hier auf dich
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Waiting here for you / Wir warten hier auf dich</title>
+  <lyrics>[V1]
+ If faith can move the mountains,
+ let the mountains move.
+ We come with expectation,
+ waiting here for you,
+ waiting here for you.
+ _
+ Wenn durch Glauben Berge weichen,
+ dann lass es geschehn.
+ Wir kommen voll Erwartung,
+ wir wolln dein Handeln sehn.
+
+[V2]
+ You're the Lord of all creation,
+ and still you know my heart.
+ The author of salvation,
+ you've loved us from the start.
+ _
+ Du bist Herr der ganzen Schöpfung,
+ der tief in mein Herz sieht.
+ Du bist unser Erlöser,
+ der uns unendlich liebt.
+
+[C]
+ Waiting here for you,
+ with our hands lifted high in praise.
+ And it's you we adore,
+ singing alleluia.
+ _
+ Wir warten hier auf dich,
+ unsre Hände erhoben zu dir.
+ Und wir beten dich an,
+ singen Halleluja.
+
+[V3]
+ You are everything you've promised,
+ your faithfulness is true.
+ We're desperate for your presence,
+ all we need is you.
+ _
+ Du erfüllst alle Versprechen,
+ bist treu, verlässt uns nicht.
+ Du bist alles, was wir brauchen,
+ komm und zeige dich.
+
+[B]
+ We will wait for you, Lord.
+ In step with you, Lord, we sing alleluia.
+ Singing alleluia alleluia.
+</lyrics>
+  <author>Tomlin, Reeves, Günter, Smith, 2011</author>
+  <copyright>© 2011 Smith United </copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 V2 C V3 C</presentation>
+  <ccli>7022405</ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 #~ Warum feiern wir nicht ----
 OpenSong/Songs/Warum feiern wir nicht
 
@@ -12931,14 +13625,11 @@ OpenSong/Songs/Who You say I am _ Ich wei�, wer ich bin
 [C]
  Who the son sets free, oh, is free indeed.
  I'm a child of God, yes I am.
- _
  In my father's house there's a place for me.
  I'm a child of God, yes I am.
  _
- _
  Wen der Sohn befreit, der ist wirklich frei.
  Ich bin Gottes Kind, ja sein Kind.
- _
  Denn in seinem Haus ist ein Platz für mich.
  Ich bin Gottes Kind, ja sein Kind.
 
@@ -13147,12 +13838,14 @@ OpenSong/Songs/Wir sind gekommen um dich anzubeten
  All die Sprachen und Geschichten
  hören wir hier im Abendland.
  Können wir die Sterne sichten,
- der Weisen aus dem Morgenland.
+ der Weisen aus dem Morgenland?
+ _
  Eine Ahnung von dem König
- ist in unser Herz gelegt.
- Lebt in aller Völker Seelen,
+ ist in unser Herz gelegt,
+ lebt in aller Völker Seelen,
  ist was uns zu dir bewegt.
- Dein Stern in dunkeler Nacht,
+ _
+ Dein Stern in dunkler Nacht,
  hat uns zu dir gebracht.
 
 [C]
@@ -13167,11 +13860,13 @@ OpenSong/Songs/Wir sind gekommen um dich anzubeten
  All die Stimmen und Gesichter,
  die so unterschiedlich sind.
  Können wir die Worte finden,
- in denen deine Liebe klingt.
+ in denen deine Liebe klingt?
+ _
  Lasst uns hier in diesen Zeiten,
- deine Friedensbringer sein.
- Alte Grenzen überschreiten,
- bring Hoffnung in die Welt hinein.
+ deine Friedensbringer sein,
+ alte Grenzen überschreiten.
+ Bring Hoffnung in die Welt hinein.
+ _
  Wir sehen wie das Licht,
  der Ewigkeit anbricht.
 </lyrics>
