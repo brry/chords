@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>Jesus berühre mich</title>
-  <lyrics> Nur den Saum deines Gewandes einen Augenblick berührn,
+  <title>Nur den Saum deines Gewandes / Jesus berühre mich</title>
+  <lyrics>[V1]
+ Nur den Saum deines Gewandes einen Augenblick berührn,
  und die Kraft, die von dir ausgeht, tief in meinem Innern spürn.
  Nur ein Blick aus deinen Augen, nur ein Wort aus deinem Mund,
  und die Heilungsströme fließen; meine Seele wird gesund.
@@ -10,18 +11,24 @@
  Nimm mich an deiner Hand, entführe mich in deine Gegenwart.
  Jesus, ich spüre dich, strecke mich aus nach dir, berühre dich
  und mein Herz brennt von Neuem nur für dich - in deiner Gegenwart
- _
+
+[V2]
  Nur ein Stück vom Brot des Lebens, nur ein Tropfen aus dem Kelch,
  dann bin ich mit dir verbunden und mein Hunger wird gestillt.
  Nur ein Schluck vom Strom des Lebens, von dem Wasser, das du gibst,
  und die Ströme werden fließen, aus der Quelle tief in mir.
+ _
+ Jesus, berühre mich, hole mich ab, öffne die Tür für mich.
+ Nimm mich an deiner Hand, entführe mich in deine Gegenwart.
+ Jesus, ich spüre dich, strecke mich aus nach dir, berühre dich
+ und mein Herz brennt von Neuem nur für dich - in deiner Gegenwart
  _
  Herr, ich bin nicht würdig, bin oft so weit weg von dir;
  doch in deiner Liebe kommst du auch zu mir.</lyrics>
   <author>Albert Frey, 2000</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation></presentation>
+  <presentation>V1 V2</presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
