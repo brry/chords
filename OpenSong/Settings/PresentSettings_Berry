@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<present_settings version="1.1">
+  <style blanks="true" border="false" initial_mode="N" shadow="false" thickness="2" transition="false" blank_uses_next="true" exit_prompt="false"/>
+  <default_style index="default_style">
+  <body     align="center" bold="false" border="false" color="#FFFFFF" fill="false" font="Helvetica" italic="false" shadow="false" size="18" underline="false" valign="top"    enabled="true" highlight_chorus="false" auto_scale="false"/>
+  <title    align="center" bold="false" border="false" color="#FFFFFF" fill="false" font="Helvetica" italic="false" shadow="false" size="12" underline="false" valign="bottom" enabled="true" include_verse="false"/>
+  <subtitle align="center" bold="false" border="false" color="#FFFFFF" fill="false" font="Helvetica" italic="false" shadow="false" size="12" underline="false" valign="bottom" enabled="true" descriptive="false"/>
+  <background color="#000000" strip_footer="0"/>
+  <main bold="false" color="#FFFFFF" font="Helvetica" italic="false" size="18" underline="false"/>
+  <song_subtitle>author</song_subtitle>
+  </default_style>
+  <scripture_style index="scripture_style">
+  <background color="#000000" strip_footer="0"/>
+  <body       align="left" bold="false" border="false" color="#FFFFFF" fill="false" font="Helvetica" italic="false" shadow="false" size="18" underline="false" valign="top"    enabled="true" highlight_chorus="false" auto_scale="false"/>
+  <title      align="left" bold="false" border="false" color="#FFFFFF" fill="false" font="Helvetica" italic="false" shadow="false" size="12" underline="false" valign="bottom" enabled="true" include_verse="false"/>
+  <subtitle   align="left" bold="false" border="false" color="#FFFFFF" fill="false" font="Helvetica" italic="false" shadow="false" size="12" underline="false" valign="bottom" enabled="false" descriptive="false"/>
+  <song_subtitle/>
+</scripture_style>
+  <monitors control="1" present="2"/>
+  <alert     align="center" bold="true" border="false" color="#FF0000" fill="true" font="Helvetica" italic="false" shadow="false" size="20" underline="false" valign="top" fill_color="#000000"/>
+  <logo/>
+  <logo_mask/>
+  <song_style_preferred>true</song_style_preferred>
+  <presentation_mode/>
+</present_settings>
