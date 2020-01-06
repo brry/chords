@@ -1,7 +1,7 @@
 
-246 Files in C:/Dropbox/Faith/chords
+247 Files in C:/Dropbox/Faith/chords
 Combined together with berryFunctions::combineFiles
-2019-11-27 20:50:25
+2020-01-06 15:26:20
 
 -------------------------------------------------------
 -------------------------------------------------------
@@ -2165,7 +2165,7 @@ OpenSong/Songs/Das Privileg zu sein
 
 [V2]
  Wenn du nicht weiter weißt, sich Wahrheit als falsch erweist 
- und deine Philosophie, bleibt nur tote Theorie.
+ und deine Philosophie bleibt nur tote Theorie.
  Auch wenn du nicht mehr glaubst, Erwartungen zurück schraubst
  und sagst 'an Gott glaub ich nicht', sag ich dir 'Gott glaubt an dich!'
  _
@@ -2346,36 +2346,38 @@ OpenSong/Songs/Der Einzige
 <song>
   <title>Der Einzige</title>
   <lyrics>[V1]
- Heilig bist du, Herr,
- du bist heilig, Herr.
- Du sitzt auf dem Thron,
- zu deinen Füßen fühl ich mich wohl,
+ Heilig bist du, Herr, du bist heilig, Herr.
+ Du sitzt auf dem Thron, zu deinen Füßen fühl ich mich wohl,
  kniend vor deinem Thron.
-
-[C]
- Staunend singe ich zu dir: 
- Du bist heilig!
+ _
+ Staunend singe ich zu dir: Du bist heilig!
  Deine Herrlichkeit strahlt so schön,
- mein Blick hebt sich zu dir und sieht:
- Du bist heilig!
+ mein Blick hebt sich zu dir und sieht: Du bist heilig!
  Deine Schönheit wird nie vergehen.
 
 [V2]
- Würdig bist du, Herr,
- du bist würdig, Herr.
- Du sitzt auf dem Thron,
- für alle Zeiten bleibst du mein Gott,
+ Würdig bist du, Herr, du bist würdig, Herr.
+ Du sitzt auf dem Thron, für alle Zeiten bleibst du mein Gott,
  herrschend auf deinem Thron.
+ _
+ Staunend singe ich zu dir: Du bist heilig!
+ Deine Herrlichkeit strahlt so schön,
+ mein Blick hebt sich zu dir und sieht: Du bist heilig!
+ Deine Schönheit wird nie vergehen.
 
 [B]
- Du bist der Einzige,
- dem dieses Lob gebührt.
+ Du bist der Einzige, dem dieses Lob gebührt.
  Heilig bist du!
- </lyrics>
+ _
+ Staunend singe ich zu dir: Du bist heilig!
+ Deine Herrlichkeit strahlt so schön,
+ mein Blick hebt sich zu dir und sieht: Du bist heilig!
+ Deine Schönheit wird nie vergehen.
+</lyrics>
   <author>Mia Friesen &amp; Stefan Schöpfle / Outbreakband, 2010</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
-  <presentation>V1 C V2 C B C</presentation>
+  <presentation>V1 V2 B</presentation>
   <ccli></ccli>
   <capo print="false"></capo>
   <key></key>
@@ -5069,6 +5071,67 @@ OpenSong/Songs/Hark the herald angels
 -------------------------------------------------------
 -------------------------------------------------------
 
+#~ He shall reign ----
+OpenSong/Songs/He shall reign
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>He shall reign</title>
+  <lyrics>[V1]
+ In the bleak mid-winter
+ all creation groans.
+ For a world in darkness
+ frozen like a stone.
+ Light is breaking
+ in a stable for a throne.
+
+[C]
+ (And) He shall reign forevermore forevermore.
+ And He shall reign forevermore forevermore.
+ Unto us a Child is born
+ the King of kings and lord of lords.
+ And He shall reign forevermore forevermore.
+
+[V2]
+ If I were a wise man
+ I would travel far.
+ If I were a shepherd
+ I would do my part.
+ But poor as I am
+ I will give to him my heart.
+
+[B]
+ Here within a manger lies the one
+ who made the starry skies.
+ This baby born for sacrifice
+ Christ the Messiah.
+ Into our hopes into our fears
+ the Savior of the world appears.
+ The promise of eternal years
+ Christ the Messiah.
+</lyrics>
+  <author>Chris Tomlin | Matt Maher</author>
+  <copyright>© 2015 Be Essential Songs </copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 C V2 C B C</presentation>
+  <ccli>7050416</ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 #~ Heart of Worship ----
 OpenSong/Songs/Heart of Worship
 
@@ -7453,26 +7516,46 @@ OpenSong/Songs/Joy to the world
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>Joy to the world</title>
+  <title>Joy to the world / Freue dich Welt</title>
   <lyrics>[V1]
  Joy to the world, the Lord is come! Let earth receive her king;
  Let every heart prepare him room, and heaven and nature sing,
  and heaven and nature sing, and heaven, and heaven, and nature sing.
+
+ Freue dich, Welt, der Herr ist da. Nimm deinen König an!
+ Und jedes Herz empfange ihn, mach für ihm Raum und singe ihm!
+ Ja, Erd und Himmel, sing! Ja, Erd und Himmel, sing!
+ Ja, Erd, ja, Erd und Himmel sing!
 
 [V2]
  Joy to the earth, the savior reigns! Let men their songs employ;
  While fields and floods, rocks, hills and plains, repeat the sounding joy,
  repeat the sounding joy, repeat, repeat, the sounding joy.
 
+ Freue dich, Welt, dein Heiland kommt. Stimmt, Völker, stimmet an!
+ Und Feld und Wald und Strom und Strand und Felsen, Hügel, flaches Land,
+ nehmt auf den Lobgesang, nehmt auf den Lobgesang,
+ nehmt auf, nehmt auf den Lobgesang.
+
 [V3]
  No more let sins and sorrows grow, nor thorns infest the ground;
  He comes to make his blessings flow, far as the curse is found.
  far as the curse is found, far as, far as, the curse is found.
 
+ Sünde und Schuld sind abgewandt, im Frieden ist das Land.
+ Denn Gottes Heil erhellt die Welt,sein reicher Segen sie erfüllt,
+ von allem Fluch befreit,von allem Fluch befreit,
+ von allem, von allem Fluch befreit.
+
 [V4]
  He rules the world with truth and grace, and makes the nations prove
  the glories of his righteousness, and wonders of his love,
  and wonders of his love, and wonders, wonders, of his love.
+
+ Er herrscht mit Wahrheit, Recht und Gnad,und alle Völker sehn
+ den Ruhm seiner Gerechtigkeit und seiner Liebe Mächtigkeit,
+ die alle Welt erneut,die alle Welt erneut,
+ die alle, die alle Welt erneut.
 </lyrics>
   <author>Isaac Watts, 1719</author>
   <copyright></copyright>
@@ -8542,10 +8625,10 @@ OpenSong/Songs/Mary did you know
  Did you know that your baby boy has come to make you new?   
  This child that you've delivered will soon deliver you
  _
- Maria wusstest du, dass dein Söhnlein eines Tages auf Wasser wandeln wird?
- Maria wusstest du, dass dein Söhnlein unsere Söhne und Töchter retten wird?
- Wusstest du, dass dein Söhnlein gekommen ist, um uns zu erneuern?
- Dieses Kind, das du gebären wirst, wird uns erretten.
+ Maria, ahntest du, dass dein kleiner Sohn einst über Wasser gehn wird?
+ Hast du es geahnt, dass dein kleiner Sohn unsre Kinder retten wird, 
+ dass dein Kind dem du Leben gabst, dir neues Leben gibt,dein Kind, 
+ das du getragen, dich einmal tragen wird?
 
 [V2]
  Mary, did you know that your baby boy will give sight to a blind man?
@@ -8553,12 +8636,11 @@ OpenSong/Songs/Mary did you know
  Did you know that your baby boy has walked where angels trod?
  When you've kissed your little baby, then you've kissed the face of God.
  _
- Maria wusstest du, dass dein Söhnlein 
- einem blinden Mann das Augenlicht zurückgeben wird?
- Maria wusstest du, dass dein Söhnlein 
- einen Sturm mit seiner blossen Hand beruhigen wird?
- Wusstest du, dass dein Söhnlein in die Fußstapfen der Engel treten wird?
- Und wenn du dein kleines Kind küsst, küsst du das Gesicht Gottes.
+
+ Maria, ahntest du, dass durch deinen Sohn die Blinden sehen werden?
+ Hast du es geahnt, dass durch deinen Sohn Sturm und Wellen schweigen,
+ dass dein Kind mit den Engeln wohnt,dort, wo Gott selber thront?
+ Und wenn du ihn küsst, dann küsst du in Gottes Angesicht.
 
 [B]
  The blind will see, the deaf will hear 
@@ -8566,8 +8648,8 @@ OpenSong/Songs/Mary did you know
  The lame will leap, the dumb will speak 
  the praises of the lamb.
  _
- Die Blinden werden sehen, die Tauben hören und die Toten werden auferstehen.
- Die Lahmen werden springen, die Stummen sprechen ein Loblied auf das Lamm.
+ Die Blinden sehn, die Tauben hörn,die Toten stehen auf.
+ Der Lahme geht, der Stumme spricht und preist den Herrn der Herrn.
 
 [V3]
  Mary, did you know that your baby boy is Lord of all creation?
@@ -8575,11 +8657,11 @@ OpenSong/Songs/Mary did you know
  Did you know that your baby boy was heaven's perfect lamb?
  This sleeping child you're holding is the great "I Am".
  _
- Maria wusstest du, dass dein Söhnlein Herr der ganzen Schöpfung ist?
- Maria wusstest du, dass dein Söhnlein eines Tages Herr wird über alle Nationen?
- Wusstest du, dass dein Söhnlein des Himmels vollkommenes Lamm ist?
- Das schlafende Kind, das du gerade hältst, ist der große "Ich bin".
- </lyrics>
+ Maria ahntest du, dass durch deinen Sohn die ganze Welt gemacht ist?
+ Hast du es geahnt, dass durch deinen Sohn die Völkerwelt regiert wird?
+ Ahntest du, dass dein kleiner Sohn als Lamm die Sünde trägt?
+ Denn das Kind auf deinen Armen ist Gott der Herr!
+</lyrics>
   <author>Mark Lowry &amp; Buddy Greene, 1991</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -10741,47 +10823,6 @@ OpenSong/Songs/Our God is greater
   <copyright></copyright>
   <presentation>V1 C V2 C B</presentation>
   <ccli></ccli>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <linked_songs/>
-  <tempo></tempo>
-  <time_sig></time_sig>
-  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
-</song>
-
--------------------------------------------------------
--------------------------------------------------------
-
-#~ Over all the earth ----
-OpenSong/Songs/Over all the earth
-
-<?xml version="1.0" encoding="UTF-8"?>
-<song>
-  <title>Over all the earth / Über alle Welt</title>
-  <lyrics> 1. Über alle Welt bist du der Herr.
- Über jeden Berg, die Sonne und das Meer.
- Doch mein größter Wunsch, das, was ich begehr,
- ist Herr, regiere du in mir.
- _
- Regier in mir in deiner Kraft, über jeden Traum, auch in tiefster Nacht.
- Du bist mein Gott, ich gehöre dir, darum regiere du in mir.
- _
- 2. Alles, was ich denk und jedes Wort
- soll ein Spiegel sein von deiner Schönheit, Gott.
- Du bedeutest mir mehr als alles hier,
- darum regiere du in mir.
- </lyrics>
-  <author>Brenton Brown / Vineyard, 1998</author>
-  <copyright></copyright>
-  <hymn_number></hymn_number>
-  <presentation></presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -13145,6 +13186,47 @@ OpenSong/Songs/Trust in you
 -------------------------------------------------------
 -------------------------------------------------------
 
+#~ �ber alle Welt _ Regier in mir _ over all the earth ----
+OpenSong/Songs/�ber alle Welt _ Regier in mir _ over all the earth
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Over all the earth / Über alle Welt</title>
+  <lyrics> 1. Über alle Welt bist du der Herr.
+ Über jeden Berg, die Sonne und das Meer.
+ Doch mein größter Wunsch, das, was ich begehr,
+ ist Herr, regiere du in mir.
+ _
+ Regier in mir in deiner Kraft, über jeden Traum, auch in tiefster Nacht.
+ Du bist mein Gott, ich gehöre dir, darum regiere du in mir.
+ _
+ 2. Alles, was ich denk und jedes Wort
+ soll ein Spiegel sein von deiner Schönheit, Gott.
+ Du bedeutest mir mehr als alles hier,
+ darum regiere du in mir.
+ </lyrics>
+  <author>Brenton Brown / Vineyard, 1998</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 #~ Vater, unser Vater ----
 OpenSong/Songs/Vater, unser Vater
 
@@ -13840,13 +13922,9 @@ OpenSong/Songs/Weite R�ume meinen F��en
  _
  Du stellst meine Füße auf weiten Raum.
  Du stellst meine Füße auf weiten Raum, auf weiten Raum.
-
-[V2]
+ _
  Schritt ins Offne, Ort zum Atmen, hinter uns die Sklaverei. 
  Mit dem Risiko des Irrtums machst du, Gott, uns Menschen frei.
- _
- Du stellst meine Füße auf weiten Raum.
- Du stellst meine Füße auf weiten Raum, auf weiten Raum.
 
 [V3]
  Da sind Quellen, sind Ressourcen, da ist Platz für Fantasie. 
@@ -13854,13 +13932,9 @@ OpenSong/Songs/Weite R�ume meinen F��en
  _
  Du stellst meine Füße auf weiten Raum.
  Du stellst meine Füße auf weiten Raum, auf weiten Raum.
-
-[V4]
+ _
  Doch bleib Kompass, bleibe Richtschnur, dass wir nicht verloren gehn.
  Zu der Weite unsrer Räume lass uns auch die Grenzen sehn.
- _
- Du stellst meine Füße auf weiten Raum.
- Du stellst meine Füße auf weiten Raum, auf weiten Raum.
 </lyrics>
   <author>Eugen Eckert &amp; Alejandro Veciana / Habakuk, 2001</author>
   <copyright></copyright>
