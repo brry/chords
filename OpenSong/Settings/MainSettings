@@ -2,7 +2,7 @@
 <main_settings>
   <ccli id="" password="" number="CCLI Licence: 1040549"/>
   <version songs="0.98" sets="0.96" check="false"/>
-  <geometry y="67" x="20" width="1240" height="645"/>
+  <geometry y="67" x="20" width="1880" height="925"/>
   <last_scripture verse_per_slide="4" version="KJV" show_numbers="true" book="46" chapter="6" verse="5" thru="9" chars_per_slide="500" format="verse"/>
   <proxy port="0" host=""/>
   <fonts>

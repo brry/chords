@@ -1,7 +1,7 @@
 
-247 Files in C:/Dropbox/Faith/chords
+253 Files in C:/Dropbox/Faith/chords
 Combined together with berryFunctions::combineFiles
-2020-01-06 15:26:20
+2020-02-16 14:01:01
 
 -------------------------------------------------------
 -------------------------------------------------------
@@ -918,6 +918,79 @@ OpenSong/Songs/Awesome God
   <tempo></tempo>
   <time_sig></time_sig>
   <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+#~ Be my everything _ Grund meiner Hoffnung ----
+OpenSong/Songs/Be my everything _ Grund meiner Hoffnung
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Be my everything / Grund meiner Hoffnung</title>
+  <lyrics>[V1]
+ God in my living, there in my breathing
+ God in my waking, God in my sleeping.
+ God in my resting, there in my working.
+ God in my thinking, God in my speaking.
+ _
+ Be my everything, be my everything.
+ Be my everything, be my everything.
+ _
+ Du füllst mein Leben, du lässt mich atmen,
+ füllst meine Träume, weckst mich am Morgen.
+ Siehst meine Arbeit und schenkst mir Ruhe,
+ lenkst die Gedanken, hörst meine Worte.
+ Fülle alles aus, fülle aus, fülle alles aus, fülle aus.
+
+[V2]
+ God in my hoping, there in my dreaming
+ God in my watching, God in my waiting.
+ God in my laughing, there in my weeping.
+ God in my hurting, God in my healing.
+ _
+ Be my everything, be my everything.
+ Be my everything, be my everything.
+ _
+ Gott meiner Hoffnung, Herr meiner Träume,
+ Lehrst mich zu sehen, auf dich zu warten.
+ Grund meiner Freude, Tröster in Trauer,
+ siehst meine Wunden, lässt mich gesunden.
+ Fülle alles aus, fülle aus, fülle alles aus, fülle aus.
+
+[B]
+ Christ in me, Christ in me,
+ Christ in me, the hope of glory,
+ you are everything.
+ _
+ Be my everything, be my everything.
+ Be my everything, be my everything.
+ _
+ Du bist hier, lebst in mir,
+ du bist hier, der Herr des Lebens,
+ fülle alles aus.
+ Du bist hier, lebst in mir,
+ du bist hier, Grund meiner Hoffnung,
+ fülle alles aus.
+</lyrics>
+  <author>Tim Hughes, 2005</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli>4685258</ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
 </song>
 
 -------------------------------------------------------
@@ -3150,6 +3223,41 @@ OpenSong/Songs/Ein Licht in dir geborgen
 -------------------------------------------------------
 -------------------------------------------------------
 
+#~ Es ist die Kraft des Herrn ----
+OpenSong/Songs/Es ist die Kraft des Herrn
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Es ist die Kraft des Herrn</title>
+  <lyrics> Es ist die Kraft des Herrn, die auf uns kommt,
+ es ist die Hand des Herrn, die auf uns ruht,
+ es ist die Macht des Höchsten, die uns überschattet.
+ _
+ Denn wo der Geist des Herrn ist, ist keine Furcht;
+ denn wo der Geist des Herrn ist, da ist Freiheit.
+</lyrics>
+  <author>Christine Morgenstern, 1985</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli>4671729</ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 #~ Es kommt ein Schiff, geladen ----
 OpenSong/Songs/Es kommt ein Schiff, geladen
 
@@ -5078,39 +5186,45 @@ OpenSong/Songs/He shall reign
 <song>
   <title>He shall reign</title>
   <lyrics>[V1]
- In the bleak mid-winter
- all creation groans.
- For a world in darkness
- frozen like a stone.
- Light is breaking
- in a stable for a throne.
+ In the bleak mid-winter all creation groans.
+ For a world in darkness, frozen like a stone.
+ Light is breaking, in a stable for a throne.
+ _
+ In der trostlosen Mitte des Winters stöhnt die ganze Schöpfung.
+ Für eine Welt in der Dunkelheit, gefroren wie ein Stein.
+ Licht bricht in einem Stall für einen Thron.
 
 [C]
- (And) He shall reign forevermore forevermore.
- And He shall reign forevermore forevermore.
- Unto us a Child is born
- the King of kings and lord of lords.
- And He shall reign forevermore forevermore.
+ He shall reign forevermore, forevermore.
+ He shall reign forevermore, forevermore.
+ Unto us a child is born, the king of kings and lord of lords.
+ And he shall reign forevermore, forevermore.
+ _
+ Er wird für immer regieren, für immer.
+ Uns wird ein Kind geboren,
+ der König der Könige und Herr der Herren.
 
 [V2]
- If I were a wise man
- I would travel far.
- If I were a shepherd
- I would do my part.
- But poor as I am
- I will give to him my heart.
+ If I were a wise man, I would travel far,
+ if I were a shepherd, I would do my part,
+ but poor as I am, I will give to him my heart.
+ _
+ Wenn ich ein weiser Mann wäre, würde ich weit reisen,
+ wenn ich ein Hirte wäre, würde ich meinen Teil dazu beitragen,
+ aber arm wie ich bin, werde ich ihm mein Herz geben.
 
 [B]
- Here within a manger lies the one
- who made the starry skies.
- This baby born for sacrifice
- Christ the Messiah.
- Into our hopes into our fears
- the Savior of the world appears.
- The promise of eternal years
- Christ the Messiah.
+ Here within a manger lies the one who made the starry skies,
+ this baby born for sacrifice, Christ the Messiah.
+ Into our hopes, into our fears, the savior of the world appears,
+ the promise of eternal years: Christ the Messiah.
+ _
+ Hier in einer Krippe liegt derjenige, der den Sternenhimmel gemacht hat,
+ dieses zum Opfer geborene Baby, Christus der Messias.
+ In unseren Hoffnungen, in unseren Ängsten erscheint der Retter der Welt,
+ das Versprechen der ewigen Jahre: Christus der Messias.
 </lyrics>
-  <author>Chris Tomlin | Matt Maher</author>
+  <author>Chris Tomlin &amp; Matt Maher, 2015</author>
   <copyright>© 2015 Be Essential Songs </copyright>
   <hymn_number></hymn_number>
   <presentation>V1 C V2 C B C</presentation>
@@ -5358,9 +5472,9 @@ OpenSong/Songs/Here for you _ F�r dich hier
  We are here for you, we are here for you.
  _
  Herr, wir wollen dich empfangen, bringen dir unser Lob,
- wir sind für dich hier.
- Komm erfüll unsre Herzen, hauche uns Leben ein.
- Wir sind für dich hier, wir sind für dich hier!
+ wir sind für dich hier, wir sind für dich hier.
+ Komm, erfüll unsre Herzen, hauche uns Leben ein.
+ Wir sind für dich hier, wir sind für dich hier.
 
 [C]
  To you our hearts are open, nothing here is hidden.
@@ -5368,10 +5482,10 @@ OpenSong/Songs/Here for you _ F�r dich hier
  You alone are holy, only you are worthy.
  God, let your fire fall down.
  _
- Für dich woll'n wir uns öffnen, nichts vor dir verbergen.
+ Für dich wollen wir uns öffnen, nichts vor dir verbergen.
  Du sollst mein König sein.
  Du allein bist heilig, aller Ehre würdig.
- Herr, lass dein Feuer fall'n.
+ Herr, lass dein Feuer fallen.
 
 [V2]
  Let our shout be your anthem,
@@ -5383,7 +5497,7 @@ OpenSong/Songs/Here for you _ F�r dich hier
  _
  Hör den Ruf deines Volkes, wie es dir jubelnd singt.
  Wir sind für dich hier, wir sind für dich hier.
- Herr lass uns wieder aufblüh'n, forme uns durch dein Wort.
+ Herr lass uns wieder aufblühen, forme uns durch dein Wort.
  Wir sind für dich hier, wir sind für dich hier.
 
 [B]
@@ -5395,7 +5509,7 @@ OpenSong/Songs/Here for you _ F�r dich hier
  _
  _
  Sei hier willkommen Herr, sei hier willkommen Herr.
- Du Gott der Liebe komm, und wirke unter uns.
+ Du Gott der Liebe, komm, und wirke unter uns.
  _
  Oh Herr, mach uns bereit, weck unsre Herzen auf.
  Du Gott der Liebe, komm, und wirke unter uns.
@@ -6201,6 +6315,74 @@ OpenSong/Songs/I could sing of your love forever _ Ich will von deiner Liebe sin
   <tempo></tempo>
   <time_sig></time_sig>
   <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+#~ I feel like I'm falling _ Ich lasse mich fallen ----
+OpenSong/Songs/I feel like I'm falling _ Ich lasse mich fallen
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>I feel like I'm falling / Ich lasse mich fallen</title>
+  <lyrics>[V1]
+ Standing tall in this wide space,
+ getting lost in your embrace,
+ I see a fire burning brighter,
+ it's calling me to catch the flame.
+ _
+ Ich steh hier auf weitem Land,
+ lass mich los in deine Hand.
+ Ich seh ein Feuer, immer heller,
+ es lockt mich an, steckt mich in Brand.
+
+[C]
+ I feel like I'm falling, over and over in love with you.
+ It's not just a feeling, but I know that he is real.
+ I feel like I'm falling into the arms of the mighty God.
+ It's not just a feeling, but I know that he is real.
+ _
+ Ich lasse mich fallen, tauch ein in deinen Liebesstrom.
+ Es ist nicht nur Fühlen sondern Wissen: Du bist da.
+ Ich lasse mich fallen, voller Vertrauen in deinen Arm.
+ Es ist nicht nur Fühlen sondern Wissen: Du bist da.
+
+[V2]
+ You're drawing me closer to your side,
+ it's the safest place, I know where to hide.
+ With one glance you captured my heart,
+ you speak your words and set me apart.
+ _
+ Du ziehst mich näher zu dir hin,
+ der Ort, an dem ich sicher bin.
+ Du hast mein Herz im Sturm erobert.
+ Ich geb mich deiner Liebe hin.
+
+[E]
+ I feel like I'm falling, I feel like I'm falling.
+ I feel like I'm falling, falling into the arms of love.
+ _
+ Ich lasse mich fallen, ich lasse mich fallen,
+ ich lasse mich fallen, voller Vertrauen in deinen Arm.
+</lyrics>
+  <author>Raymond Badham / Hillsong, 1998</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 C V2 C E</presentation>
+  <ccli>1214337</ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
 </song>
 
 -------------------------------------------------------
@@ -8748,6 +8930,57 @@ OpenSong/Songs/Marys Boy Child - Denn es ist Weihnachtszeit
 -------------------------------------------------------
 -------------------------------------------------------
 
+#~ Mehr als je zuvor ----
+OpenSong/Songs/Mehr als je zuvor
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Mehr als je zuvor</title>
+  <lyrics>[V1]
+ Es gibt nur einen Gott, der die Erde schuf,
+ weil er Vater ist und die Menschen liebt.
+ Es gab nur einen Mann, der den Tod bezwang;
+ Gott und Mensch zugleich, in ihm sind wir frei.
+
+[C]
+ Ja, wir glauben, es ist wahr. 
+ Wir bezeugen: es ist wahr!
+ _
+ Er ist unser Gott, ihm gehört das Lob.
+ Mehr als je zuvor singen wir ihm zu,
+ dass wir an ihn glauben.
+ _
+ Er ist unser Gott, ihm gehört das Lob.
+ Es ist an der Zeit, Salz und Licht zu sein.
+ Weil wir an ihn glauben.
+
+[V2]
+ Er gab uns seinen Geist, der zum Vater zeigt,
+ immer bei uns ist, uns zur Umkehr führt.
+ Vater, Sohn und Geist, und doch sind sie eins.
+ Heute noch sehen wir: Wunder existieren.</lyrics>
+  <author>Mia Friesen &amp; Stefan Schöpfle / Outbreakband, 2014</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 C V2 C</presentation>
+  <ccli>7021391</ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 #~ Meine Hilfe kommt vom Herrn ----
 OpenSong/Songs/Meine Hilfe kommt vom Herrn
 
@@ -9165,11 +9398,9 @@ OpenSong/Songs/Mittelpunkt
  Sanftmütig führst du mich, hin zu deinem Licht. Ich darf bei dir sein.
  _
  Sei du der Mittelpunkt in meinem Leben,
- der Mittelpunkt in meinem Herzen,
- ich gehöre dir.
+ der Mittelpunkt in meinem Herzen, ich gehöre dir.
  Sei du der Mittelpunkt in meiner Schwäche,
- der Mittelpunkt in meiner Stärke,
- ich gehöre dir.
+ der Mittelpunkt in meiner Stärke, ich gehöre dir.
  _
  Ich will dir nah sein, ich werd dir folgen.
  Mein ganzes Leben in dir verlieren.
@@ -12044,8 +12275,8 @@ OpenSong/Songs/Sovereign over us
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ Spirit break out ----
-OpenSong/Songs/Spirit break out
+#~ Spirit break out _ Heiliger Geist ----
+OpenSong/Songs/Spirit break out _ Heiliger Geist
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
@@ -12091,7 +12322,7 @@ OpenSong/Songs/Spirit break out
   <copyright></copyright>
   <hymn_number></hymn_number>
   <presentation></presentation>
-  <ccli></ccli>
+  <ccli>6335977</ccli>
   <capo print="false"></capo>
   <key></key>
   <aka></aka>
@@ -12300,7 +12531,7 @@ OpenSong/Songs/Surrender _ Mein ganzes Leben
 <song>
   <title>Surrender / Mein ganzes Leben</title>
   <lyrics>[V1]
- I'm giving you my heart, and all this is within,
+ I'm giving you my heart, and all that is within,
  I lay it all down, for the sake of you my king.
  I'm giving you my dreams, laying down my rights,
  giving up my pride, for the promise of new life.
@@ -12419,6 +12650,81 @@ OpenSong/Songs/Take it all _ dir geh�rn
   <tempo></tempo>
   <time_sig></time_sig>
   <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+#~ Thank you ----
+OpenSong/Songs/Thank you
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Thank You</title>
+  <lyrics>[V1]
+ So many times you reached out to me,
+ but I turned my back cause I didn't think you had what I need.
+ Now you're everything, you're everything to me.
+ I can't be without you God, you're everything.
+ _
+ So oft hast du dich nach mir ausgestreckt,
+ aber ich drehte mich weg. Ich dachte, du hast nicht was ich brauche.
+ Jetzt bist du alles, du bist alles für mich.
+ Ich kann nicht ohne dich sein, Gott, du bist alles.
+
+[C]
+ And I want to say thank you. I was lost and you found me,
+ I was dead inside, and you breathed into me,
+ and you brought these bones to life.
+ I want to say thank you, thank you for saving me.
+ Thank you for loving me unconditionally, God.
+ _
+ Ich möchte mich bedanken. Ich war verloren und du hast mich gefunden,
+ Ich war innerlich tot und du hast mich belebt,
+ du hast meine Knochen zum Leben erweckt.
+ Ich möchte dir danken, dass du mich gerettet hast.
+ Danke, dass du mich bedingungslos liebst, Gott.
+
+[V2]
+ You stood with open arms, but I ran away,
+ cause I was scared of the pain that came with trust.
+ But I came running back, into your embrace,
+ Because I knew you'd still be there,
+ you'd never leave me, God.
+ _
+ Du hattest offene Arme, aber ich rannte weg,
+ weil ich Angst vor dem Schmerz des Vertrauens hatte.
+ Aber ich kam zurück in deine Umarmung,
+ weil ich wusste, dass du immer noch da bist,
+ du würdest mich niemals verlassen, Gott.
+
+[B]
+ I don't deserve you, God, 
+ I don't deserve you, God,
+ but you keep on loving me anyway.
+ Oh, you'd never stop loving me, God.
+ _ 
+ Ich verdiene dich nicht, Gott, 
+ ich verdiene dich nicht, Gott,
+ aber du liebst mich trotzdem weiter.
+ Du würdest nie aufhören, mich zu lieben, Gott.</lyrics>
+  <author>Jesus Army, 2016</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 C V2 C B C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
 </song>
 
 -------------------------------------------------------
@@ -14278,6 +14584,64 @@ OpenSong/Songs/Wie soll ich dich empfangen
   <tempo></tempo>
   <time_sig></time_sig>
   <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+#~ Wie tief muss Gottes Liebe sein ----
+OpenSong/Songs/Wie tief muss Gottes Liebe sein
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Wie tief muss Gottes Liebe sein</title>
+  <lyrics>[V1]
+ Wie tief muss Gottes Liebe sein!
+ Er liebt uns ohne Maßen,
+ hat seinen Sohn an unsrer statt
+ für alles büßen lassen.
+ Als alle Sünde auf ihm lag,
+ der Vater sein Gesicht verbarg,
+ als er, der Auserwählte, starb,
+ gab er uns neues Leben.
+
+[V2]
+ Ich schaue auf den Mann am Kreuz,
+ kann meine Schuld dort sehen.
+ Und voll Beschämung sehe ich
+ mich bei den Spöttern stehen.
+ Für meine Sünden hing er dort,
+ sie brachten ihn ums Leben.
+ Sein Sterben hat sie ausgelöscht.
+ Ich weiß, mir ist vergeben.
+
+[V3]
+ Ich werde keiner Macht der Welt
+ und keiner Weisheit trauen.
+ Auf Jesu Tod und Auferstehn
+ will ich mein Leben bauen.
+ Ich hab das alles nicht verdient,
+ ich leb durch seine Gnade.
+ Sein Blut bezahlt für meine Schuld,
+ damit ich Leben habe.
+</lyrics>
+  <author>Stuart Townend &amp; Ute Orth, 1995</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli>5291108</ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
 </song>
 
 -------------------------------------------------------
