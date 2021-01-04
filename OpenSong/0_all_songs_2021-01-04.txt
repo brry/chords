@@ -1,7 +1,7 @@
 
-253 Files in C:/Dropbox/Faith/chords
+260 Files in C:/Dropbox/Faith/chords
 Combined together with berryFunctions::combineFiles
-2020-02-16 14:01:01
+2021-01-04 17:00:35
 
 -------------------------------------------------------
 -------------------------------------------------------
@@ -1530,8 +1530,8 @@ OpenSong/Songs/Build my life _ Nur auf deine Liebe werd ich baun
  Wir sind ganz dein. Wir sind ganz dein.
 
 [C]
- Holy - there is no one like you.
- There is none beside you.
+ Holy - there is no one like you,
+ there is none beside you.
  Open up my eyes in wonder and show me who you are
  and fill me with your heart
  and lead me in your love to those around me.
@@ -1543,10 +1543,10 @@ OpenSong/Songs/Build my life _ Nur auf deine Liebe werd ich baun
  Führ mich durch deine Liebe zu den Menschen.
 
 [B]
- I will build my life upon your love.
- It is a firm foundation.
- I will put my trust in you alone.
- And I will not be shaken.
+ I will build my life upon your love,
+ it is a firm foundation.
+ I will put my trust in you alone
+ and I will not be shaken.
  _
  Nur auf deine Liebe werd ich baun,
  denn sie wird nie vergehen.
@@ -1871,6 +1871,58 @@ OpenSong/Songs/Closer
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli>6227047</ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+#~ Come and fill me up _ Geist des Vaters ----
+OpenSong/Songs/Come and fill me up _ Geist des Vaters
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Come and fill me up / Geist des Vaters</title>
+  <lyrics>[V1]
+ I can feel you flowing through me.
+ Holy Spirit, come and fill me up,
+ come and fill me up.
+ Love and mercy fill my senses.
+ I am thirsty for your presence, Lord,
+ come and fill me up.
+ _
+ Geist des Vaters, du durchdringst mich,
+ Heilger Geist, komm und erfülle mich,
+ komm, erfülle mich.
+ Herr, ich brauche deine Liebe
+ und ich suche deine Gegenwart,
+ komm, erfülle mich.
+
+[C]
+ Lord let your mercy wash away all of my sin,
+ fill me completely with your love once again.
+ I need you, I want you, I love your presence.
+ _
+ Mach mich durch deine Gnade, Herr, vollkommen rein.
+ Lass deine Liebe wieder neu in mir sein.
+ Ich such dich, ich brauch dich, ich liebe deine Nähe.
+</lyrics>
+  <author>Brian Doerksen / Vineyard, 1990</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli>5228793</ccli>
   <capo print="false"></capo>
   <key></key>
   <aka></aka>
@@ -2230,13 +2282,9 @@ OpenSong/Songs/Das Privileg zu sein
   <hymn_number>31</hymn_number>
   <capo print="false"></capo>
   <lyrics>[V1]
- Ist es nicht wunderbar, an diesem Tag zu sein.
+ Ist es nicht wunderbar, an diesem Tag zu sein?
  Es ist ein Privileg, erachte es nicht als klein.
  _
- Und er tut auch heute noch Wunder, Stunde um Stunde, Tag für Tag,
- tut der Herr heute noch Wunder, Stunde um Stunde, Tag für Tag.
-
-[V2]
  Wenn du nicht weiter weißt, sich Wahrheit als falsch erweist 
  und deine Philosophie bleibt nur tote Theorie.
  Auch wenn du nicht mehr glaubst, Erwartungen zurück schraubst
@@ -2816,6 +2864,50 @@ OpenSong/Songs/Du begeisterst mich _ Your love makes me sing
 -------------------------------------------------------
 -------------------------------------------------------
 
+#~ Du bist der Herr, der mein Haupt erhebt _ R�ckenwind ----
+OpenSong/Songs/Du bist der Herr, der mein Haupt erhebt _ R�ckenwind
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Du bist der Herr, der mein Haupt erhebt / Rückenwind</title>
+  <lyrics> Du bist der Herr, der mein Haupt erhebt,
+ Du bist die Kraft, die mein Herz belebt.
+ Du bist die Stimme, die mich ruft,
+ Du gibst mir Rückenwind.
+ _
+ Du flößt mir Vertrauen ein, treibst meine Ängste aus.
+ Du glaubst an mich, traust mir was zu, und forderst mich heraus.
+ Deine Liebe ist ein Wasserfall auf meinen Wüstensand.
+ Und wenn ich mir nicht sicher bin, führt mich deine Hand.
+ _
+ Wind des Herrn, weh' in meinem Leben,
+ Geist des Herrn, fach' das Feuer an.
+ Wind des Herrn, du hast mir Kraft gegeben.
+ Geist des Herrn, sei mein Rückenwind.
+
+</lyrics>
+  <author>Martin Pepper, 1996</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli>4660912</ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 #~ Du bist der H�chste ----
 OpenSong/Songs/Du bist der H�chste
 
@@ -3026,14 +3118,12 @@ OpenSong/Songs/Du machst alles neu
  mein Fundament in dir beständig.
  Auch wenn mein Verstand begrenzt ist,
  trau ich dir alles zu!
+ _
  Du hast gute Gedanken, die mich fest in dir verankern.
  Und weil ich in deiner Hand bin, trau ich dir alles zu!
-
-[C]
- Denn du machst alles neu,
- Schönheit fällt wie der Regen.
- In dir blüht alles auf.
- Du bist pulsierendes Leben,
+ _
+ Denn du machst alles neu, Schönheit fällt wie der Regen.
+ In dir blüht alles auf. Du bist pulsierendes Leben,
  denn du machst alles neu.
 
 [V2]
@@ -3041,8 +3131,14 @@ OpenSong/Songs/Du machst alles neu
  wenn ich zweifel, wer ich selbst bin,
  will ich nur noch zu dir rennen;
  Ich trau dir alles zu!
+ _
  Du liebst übernatürlich, du bist gütig und bist für mich.
- Ich vertrau dir, denn du lügst nicht, ich trau dir alles zu!</lyrics>
+ Ich vertrau dir, denn du lügst nicht, ich trau dir alles zu!
+ _
+ Denn du machst alles neu, Schönheit fällt wie der Regen.
+ In dir blüht alles auf. Du bist pulsierendes Leben,
+ denn du machst alles neu.
+</lyrics>
   <author>Könige und Priester, 2015</author>
   <copyright></copyright>
   <hymn_number></hymn_number>
@@ -7703,7 +7799,7 @@ OpenSong/Songs/Joy to the world
  Joy to the world, the Lord is come! Let earth receive her king;
  Let every heart prepare him room, and heaven and nature sing,
  and heaven and nature sing, and heaven, and heaven, and nature sing.
-
+ _
  Freue dich, Welt, der Herr ist da. Nimm deinen König an!
  Und jedes Herz empfange ihn, mach für ihm Raum und singe ihm!
  Ja, Erd und Himmel, sing! Ja, Erd und Himmel, sing!
@@ -7713,7 +7809,7 @@ OpenSong/Songs/Joy to the world
  Joy to the earth, the savior reigns! Let men their songs employ;
  While fields and floods, rocks, hills and plains, repeat the sounding joy,
  repeat the sounding joy, repeat, repeat, the sounding joy.
-
+ _
  Freue dich, Welt, dein Heiland kommt. Stimmt, Völker, stimmet an!
  Und Feld und Wald und Strom und Strand und Felsen, Hügel, flaches Land,
  nehmt auf den Lobgesang, nehmt auf den Lobgesang,
@@ -7723,7 +7819,7 @@ OpenSong/Songs/Joy to the world
  No more let sins and sorrows grow, nor thorns infest the ground;
  He comes to make his blessings flow, far as the curse is found.
  far as the curse is found, far as, far as, the curse is found.
-
+ _
  Sünde und Schuld sind abgewandt, im Frieden ist das Land.
  Denn Gottes Heil erhellt die Welt,sein reicher Segen sie erfüllt,
  von allem Fluch befreit,von allem Fluch befreit,
@@ -7733,7 +7829,7 @@ OpenSong/Songs/Joy to the world
  He rules the world with truth and grace, and makes the nations prove
  the glories of his righteousness, and wonders of his love,
  and wonders of his love, and wonders, wonders, of his love.
-
+ _
  Er herrscht mit Wahrheit, Recht und Gnad,und alle Völker sehn
  den Ruhm seiner Gerechtigkeit und seiner Liebe Mächtigkeit,
  die alle Welt erneut,die alle Welt erneut,
@@ -8981,6 +9077,55 @@ OpenSong/Songs/Mehr als je zuvor
 -------------------------------------------------------
 -------------------------------------------------------
 
+#~ Mein Herz ruft ----
+OpenSong/Songs/Mein Herz ruft
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Mein Herz ruft</title>
+  <lyrics>[V1]
+ Je mehr ich von dir sehen darf,
+ je mehr ich verstehen darf von dir, mein Gott, 
+ von dir, mein König, je mehr wird mir bewusst, 
+ wie wenig ich doch weiß von deiner Herrlichkeit,
+ von deiner Schönheit.
+
+[C]
+ Herr, ich weiß, dass da noch so viel mehr ist.
+ Das mit meinem Verstand nicht zu erklären ist.
+ _
+ Mein Herz ruft. Ich will mehr von dem, was du bereit hältst, Herr.
+ Mehr von dir und deiner Kraft. Halt mich fest und küss mich wach.
+ Denn mein Herz ruft. Mein Herz ruft. Mein Herz ruft nach dir.
+
+[V2]
+ Du lädst mich täglich ein, vor deinem Thron zu sein.
+ Und ich fall wieder vor dir nieder
+ wenn deine Gegenwart sich mir offenbart
+ und ich ein bisschen mehr von dir erkennen darf.
+</lyrics>
+  <author>Timo Langner, 2016</author>
+  <copyright>2016 G5 Service GmbH</copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 C V2 C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 #~ Meine Hilfe kommt vom Herrn ----
 OpenSong/Songs/Meine Hilfe kommt vom Herrn
 
@@ -10059,6 +10204,64 @@ OpenSong/Songs/No longer slaves
 -------------------------------------------------------
 -------------------------------------------------------
 
+#~ Noch nie ----
+OpenSong/Songs/Noch nie
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Noch nie</title>
+  <lyrics>[V1]
+ Ich hab gewartet und gewacht.
+ Wann kommt der Morgen, geht die Nacht?
+ Ich will dich sehn, ich will dich sehn.
+ Ich fliehe alles, was mich hält.
+ Was mir genügt in dieser Welt,
+ ist dich zu sehn, ist dich zu sehn.
+
+[C]
+ Und aller Reichtum ist wie Sand,
+ vor dieser Schönheit die ich fand.
+ _
+ Ich hab noch nie eine Liebe wie die deine gefunden.
+ Nichts kann mich trösten wie ein Blick von dir.
+ Stiller Begleiter meiner einsamen Stunden.
+ Freund bist du mir.
+ _
+ _
+ So lass mein Herz schmelzen wie Wachs
+ unter dem Blick deiner Liebe.
+
+
+[V2]
+ Ich warte auf den Morgenstern,
+ unendlich nah und doch noch fern.
+ Ein Blick von dir, ein Blick von dir.
+ Und meine Schätze bring ich dir,
+ meine Zeit verschwend ich für
+ den Blick von dir, den Blick von dir.
+</lyrics>
+  <author>Dietmar Kramlich &amp; Johannes Hartl, 2001</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 C V2 C</presentation>
+  <ccli>6475143</ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 #~ None but Jesus _ In the quiet ----
 OpenSong/Songs/None but Jesus _ In the quiet
 
@@ -10384,10 +10587,8 @@ OpenSong/Songs/O come, all ye faithful
  O come, all ye faithful, joyful and triumphant.
  O come ye, o come ye to Bethelehem. 
  Come and behold him, born the king of angels.
- _
  O come, let us adore him, o come, let us adore him.
  O come, let us adore him, Christ the Lord!
- _
  _
  Herbei, o ihr Gläubigen, fröhlich triumphierend
  o kommet, o kommet nach Bethlehem! 
@@ -10399,10 +10600,8 @@ OpenSong/Songs/O come, all ye faithful
  Sing, choirs of angels, sing in exultation.
  Sing, all ye citizens of heaven above: 
  "Glory to God, all glory in the highest!"
- _
  O come, let us adore him, o come, let us adore him.
  O come, let us adore him, Christ the Lord!
- _
  _
  Du König der Ehren, Herrscher der Heerscharen,
  verschmähst nicht, zu ruhn in Marien Schoß,
@@ -10414,10 +10613,8 @@ OpenSong/Songs/O come, all ye faithful
  Yea, Lord we greet thee, born that happy morning.
  Jesus, to thee be all glory given. 
  Word of the father, now in flesh appearing.
- _
  O come, let us adore him, o come, let us adore him.
  O come, let us adore him, Christ the Lord!
- _ 
  _
  Kommt, singet dem Herren, singt ihm, Engelchöre!
  Frohlocket, frohlocket, ihr Seligen: 
@@ -10429,10 +10626,8 @@ OpenSong/Songs/O come, all ye faithful
  Adeste fideles, laeti triumphantes.
  Venite, venite in Bethlehem. 
  Natum videte, regem angelorum
- _
  Venite adoremus, venite adoremus. 
  Venite adoremus, dominum.
- _
  _
  Ja, dir, der du heute Mensch für uns geboren,
  Herr Jesu, sei Ehre und Preis und Ruhm, 
@@ -11738,6 +11933,68 @@ OpenSong/Songs/Sch�pfer aller Himmel _ Maker of the heavens
 -------------------------------------------------------
 -------------------------------------------------------
 
+#~ Sch�pfergott ----
+OpenSong/Songs/Sch�pfergott
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Schöpfergott</title>
+  <lyrics>[V1]
+ Farben und Formen, Variationen,
+ ähnlich und doch jedes neu.
+ Von kleinsten Teilchen zu Galaxien,
+ bleibt der Gestalter sich treu.
+ _
+ Muster kehren wieder und weisen tiefer,
+ zeigen den schaffenden Geist.
+ Das Universum ist dein Museum,
+ Werk, das den Meister selbst preist.
+
+[C]
+ Herr, ich bewundre all deine Werke
+ und ich hab Freude daran.
+ Du bist der wahre Künstler und Meister,
+ dich allein bete ich an.
+ _
+ Schöpfergott, Herr der Welt.
+ Ich bete dich an.
+ Schöpfergott, Herr der Welt.
+ Ich bete dich an.
+
+
+[V2]
+ Welche Verschwendung ohne Verwendung,
+ Lebenskraft im Überfluss.
+ Werden, Vergehen, Wachsen und Sterben,
+ alles fließt im großen Fluss.
+ _
+ Ein Menschenleben, göttlicher Atem,
+ gibt der Materie Geist.
+ Dich zu erkennen ist uns gegeben,
+ alles, was auf dich verweist.
+</lyrics>
+  <author>Albert Frey, 2013</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 C V2 C</presentation>
+  <ccli>7006062</ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 #~ Schritte wagen ----
 OpenSong/Songs/Schritte wagen
 
@@ -12867,9 +13124,15 @@ OpenSong/Songs/This I believe _ Das glaube ich
  an den Heiligen Geist der Wahrheit, an den dreieinen Gott.
  Ich glaub an die Auferstehung, das Leben nach dem Tod.
  Ich glaube an deinen Namen, Jesus.
- _
+
+[B]
  Ja, ich glaub an dich, dass du auferstanden bist.
  Ja, ich glaub an Christus, unsern Herrn.
+ _
+ Ja, ich glaub an Gott den Vater und an Christus, seinen Sohn;
+ an den Heiligen Geist der Wahrheit, an den dreieinen Gott.
+ Ich glaub an die Auferstehung, das Leben nach dem Tod.
+ Ich glaube an deinen Namen, Jesus.
 
 [V3]
  Ja, ich glaub, dass wir ewig leben, dass die Jungfrau den Sohn gebar.
@@ -12896,6 +13159,62 @@ OpenSong/Songs/This I believe _ Das glaube ich
   <tempo></tempo>
   <time_sig></time_sig>
   <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+#~ This is amazing grace ----
+OpenSong/Songs/This is amazing grace
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>This is amazing grace</title>
+  <lyrics>[V1]
+ Who breaks the power of sin and darkness?
+ Whose love is mighty and so much stronger?
+ The king of glory, the king above all kings.
+ _
+ Who shakes the whole earth with holy thunder
+ and leaves us breathless in awe and wonder?
+ The king of glory, the king above all kings.
+
+[C]
+ This is amazing grace, this is unfailing love,
+ that you would take my place, that you would bear my cross.
+ You laid down your life, that I would be set free.
+ Jesus, I sing for all that you've done for me.
+ _
+ _
+ Worthy is the lamb who was slain.
+ Worthy is the king who conquered the grave.
+
+[V2]
+ Who brings our chaos back into order?
+ Who makes the orphan a son and daughter?
+ The king of glory, the king of glory.
+ _
+ Who rules the nations with truth and justice,
+ shines like the sun in all of its brilliance?
+ The king of glory, the king above all kings.
+</lyrics>
+  <author>Phil Wickham / Bethel, 2012</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
 </song>
 
 -------------------------------------------------------
@@ -13055,6 +13374,16 @@ OpenSong/Songs/This little light of mine
  Don't let Satan blow it out.
  All up in my house
  Let it shine till Jesus comes.	
+
+[V3]
+ This little light of mine, I'm gonna let it shine.
+ This little light of mine, I'm gonna let it shine.
+ This little light of mine, I'm gonna let it shine.
+ Let it shine, let it shine, let it shine.
+ _
+ Everywhere I go, I'm gonna let it shine...
+ Out there in the dark, ...
+ Down in my heart, ...
 </lyrics>
   <author>Harry Dixon Loes, 1920</author>
   <copyright></copyright>
@@ -13171,6 +13500,60 @@ OpenSong/Songs/Tief in mir
   <tempo></tempo>
   <time_sig></time_sig>
   <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+#~ Tief in mir brennt ein Feuer ----
+OpenSong/Songs/Tief in mir brennt ein Feuer
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Tief in mir brennt ein Feuer</title>
+  <lyrics>[V1]
+ Tief in mir brennt ein Feuer,
+ eine Sehnsucht nach mehr.
+ Doch so vieles, was ich bisher versuchte,
+ ließ mich hinterher leer.
+ Du sagst: "Jeder der Durst hat, der komme herzu."
+ Ich bin hungrig, ich bin durstig nach Liebe,
+ was ich brauche, bist du.
+
+[C]
+ Oh Herr, bitte hör mein Schreien,
+ ich will dir ganz nahe sein.
+ Oh Herr, du bist gnädig und gut.
+ Nimm das, was mich von dir trennt
+ und wasch mich rein mit deinem Blut.
+
+[V2]
+ Hilf mir, für dich zu leben,
+ deinen Willen zu tun,
+ und bei allem, was ich wünsche und träume,
+ völlig in dir zu ruhn.
+ Herr, ich möchte dich lieben,
+ ganz egal, wie's mir geht.
+ Du alleine bist der Eine,
+ der mich kennt und der mich versteht.
+</lyrics>
+  <author>Daniel Jacobi, 2000</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli>4677541</ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
 </song>
 
 -------------------------------------------------------
@@ -13998,7 +14381,6 @@ OpenSong/Songs/We have a saviour
  Come and adore him, and bring gifts before him.
  Joy to the world, worship the son: this is christmas.
  _
- _
  Ein Kind ist gegeben, der König unserer Freiheit.
  Singt, denn das Licht ist gekommen: es ist Weihnachten.
  Kommt und verehrt ihn und bringt ihm Geschenke.
@@ -14010,13 +14392,12 @@ OpenSong/Songs/We have a saviour
  We are no longer lost, cause he has come down for us.
  We have a savior, we have a savior.
  _
- _
  Das ist Jesus, Emmanuel hier bei uns.
  Sag der ganzen Welt: Wir haben einen Retter.
  Wir sind nicht mehr verloren, 
  weil er für uns herabgekommen ist.
 
-[V3]
+[V2]
  Sing with angels and lift up your voices.
  Join in the song of hope: this is christmas
  _
@@ -14026,7 +14407,6 @@ OpenSong/Songs/We have a saviour
  We have a savior, we have a savior.
  _
  His love will reign forever.
- _
  _
  Singt mit Engeln und hebt eure Stimmen.
  Stimmt ein in das Lied der Hoffnung: es ist Weihnachten.
