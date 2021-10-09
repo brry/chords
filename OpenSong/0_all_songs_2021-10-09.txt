@@ -1,7 +1,7 @@
 
-260 Files in C:/Dropbox/Faith/chords
+277 Files in C:/Dropbox/Faith/chords
 Combined together with berryFunctions::combineFiles
-2021-01-04 17:00:35
+2021-10-09 22:56:50
 
 -------------------------------------------------------
 -------------------------------------------------------
@@ -439,6 +439,52 @@ OpenSong/Songs/Alleluia
   <tempo></tempo>
   <time_sig></time_sig>
   <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+#~ Alles was atmet ----
+OpenSong/Songs/Alles was atmet
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Alles was atmet</title>
+  <lyrics>[V1]
+ Du hörst, wie die Kraniche schrein, wenn die Zugvögel ziehen,
+ Du siehst, wie der Frühling sich zeigt, wenn die Krokusse blühen.
+ Du freust dich am Leben auf Erden, wenn morgens die Schöpfung erwacht,
+ die stampfenden Hufen der Herden, die Rufe der Eulen bei Nacht.
+
+[C]
+ Alles, was atmet und lebt, alles, was blüht und neu entsteht,
+ alles jubelt dir zu, unser Vater.
+ Alles, was atmet und lebt, was aus dir kommt und zu dir geht,
+ alles preist deinen heiligen Namen.
+
+[V]
+ Du hörst, wie der Wind für dich spielt in den Blättern der Bäume.
+ Du siehst, wie ein Kind Bilder malt, bunte Farben und Träume.
+ Du freust dich am Lachen und Singen. Die Welt gibt für dich ein Konzert.
+ Du hörst, wenn die Lieder erklingen, wie dich deine Schöpfung verehrt.
+</lyrics>
+  <author>Martin Buchholz &amp; Anja Lehmann, 2019</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 C V2 C</presentation>
+  <ccli>7128919</ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
 </song>
 
 -------------------------------------------------------
@@ -918,6 +964,120 @@ OpenSong/Songs/Awesome God
   <tempo></tempo>
   <time_sig></time_sig>
   <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+#~ Barmherzigkeit ----
+OpenSong/Songs/Barmherzigkeit
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Barmherzigkeit</title>
+  <lyrics>[V1]
+ Du bist mein Vater, der mich schon so lange kennt, 
+ du siehst auch das, was ich sonst niemand zeigen will.
+ Doch meinen Schwächen, meinen Fehlern, meiner Unzulänglichkeit,
+ begegnest du mit Barmherzigkeit.
+ _
+ Du wünscht dir Barmherzigkeit, weil du selbst barmherzig bist,
+ voller Liebe, voller Güte, voller Mitgefühl.
+ Du wünscht dir Barmherzigkeit, willst, dass wir barmherzig sind,
+ damit Menschen erkennen wie du bist.
+
+[V2]
+ Herr Jesus Christus, du gingst für mich diesen Weg,
+ an einem Kreuz  hast du für meine Schuld bezahlt.
+ Weil meine Sünde mich von Gott trennt, gingst du für mich durch das Leid, 
+ so zeigtest du mir Barmherzigkeit.
+ _
+ Du wünscht dir Barmherzigkeit, weil du selbst barmherzig bist,
+ voller Liebe, voller Güte, voller Mitgefühl.
+ Du wünscht dir Barmherzigkeit, willst, dass wir barmherzig sind,
+ damit Menschen erkennen wie du bist.
+
+[V3]
+ Wer uns begegnet soll an uns dein Handeln sehen,
+ durch deinen Geist  willst du uns prägen in dein Bild.
+ Einander dienen, voller Liebe,   dazu mach du uns bereit,
+ so zeigen wir die Barmherzigkeit.
+ _
+ Du wünscht dir Barmherzigkeit, weil du selbst barmherzig bist,
+ voller Liebe, voller Güte, voller Mitgefühl.
+ Du wünscht dir Barmherzigkeit, willst, dass wir barmherzig sind,
+ damit Menschen erkennen wie du bist.
+</lyrics>
+  <author>Peter Menger, 2020</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+#~ Barmherzigkeit_kurz ----
+OpenSong/Songs/Barmherzigkeit_kurz
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Barmherzigkeit</title>
+  <lyrics>[V1]
+ Du bist mein Vater, der mich schon so lange kennt,
+ du siehst auch das, was ich sonst niemand zeigen will.
+ Doch meinen Schwächen, meinen Fehlern,
+ meiner Unzulänglichkeit, begegnest du mit Barmherzigkeit.
+
+[C]
+ Du wünscht dir Barmherzigkeit, weil du selbst barmherzig bist,
+ voller Liebe, voller Güte, voller Mitgefühl.
+ Du wünscht dir Barmherzigkeit, willst, dass wir barmherzig sind,
+ damit Menschen erkennen wie du bist.
+
+[V2]
+ Herr Jesus Christus, du gingst für mich diesen Weg,
+ an einem Kreuz hast du für meine Schuld bezahlt.
+ Weil meine Sünde mich von Gott trennt,
+ gingst du für mich durch das Leid, so zeigtest du mir Barmherzigkeit.
+
+[V3]
+ Wer uns begegnet soll an uns dein Handeln sehen,
+ durch deinen Geist willst du uns prägen in dein Bild.
+ Einander dienen, voller Liebe, dazu mach du uns bereit,
+ so zeigen wir die Barmherzigkeit.
+
+</lyrics>
+  <author>Peter Menger, 2020</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
 </song>
 
 -------------------------------------------------------
@@ -3685,6 +3845,52 @@ OpenSong/Songs/Father God _ Vater deine Liebe
 -------------------------------------------------------
 -------------------------------------------------------
 
+#~ Father God _ Vater deine Liebe_kurz ----
+OpenSong/Songs/Father God _ Vater deine Liebe_kurz
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Father God / Vater deine Liebe</title>
+  <author>Ian Smale, 1984</author>
+  <hymn_number>14</hymn_number>
+  <capo print="false"></capo>
+  <lyrics>[V1]
+ Father God I wonder how I managed to exist
+ without the knowledge of your parenthood and your loving care;
+ but now I'm your child; I am adopted in your family,
+ and I can never be alone, cause Father God you're there beside me.
+ _
+ I will sing your praises, I will sing your praises,
+ I will sing your praises, forever more.
+
+[V2]
+ Vater, deine Liebe ist so unbegreiflich groß,
+ und ich weiß gar nicht, wie ich leben konnte ohne dich, o Herr.
+ Doch machst du mich zu deinem Kind. Du schenkst mir deine Liebe 
+ jeden Tag, du lässt mich nie im Stich, denn Vater, du bist immer bei mir.
+ _
+ Herr, ich preise deinen heiligen Namen, du bist König!
+ Du nur bist mein Herr und mein Gott.
+ </lyrics>
+  <copyright></copyright>
+  <presentation></presentation>
+  <ccli></ccli>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 #~ Fear not ----
 OpenSong/Songs/Fear not
 
@@ -4751,6 +4957,52 @@ OpenSong/Songs/Good good father
 -------------------------------------------------------
 -------------------------------------------------------
 
+#~ Good Grace ----
+OpenSong/Songs/Good Grace
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Good Grace</title>
+  <lyrics>[V1]
+ People, come together, strange as neighbours, our blood is one.
+ Children, of generations, of every nation, of kingdom come.
+
+[C]
+ Don't let your heart be trouble; Hold your head up high. Don't fear no evil;
+ Fix your eyes on this one truth: God is madly in love with you. 
+ Take courage, hold on, be strong, remember where our help comes from.
+
+[V2]
+ Jesus, our redemption. Our salvation is in his blood.
+ Jesus, light of heaven, friend forever. His kingdom come.
+
+[B]
+ Swing wide all you heavens, let the praise go up as the walls come down.
+ All creation, everything with breath, repeat the sound.
+ All his children, clean hands, pure hearts, good grace, good God. His name is Jesus.
+</lyrics>
+  <author>Joel Houston / Hillsong, 2018</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 #~ Gott hat einen Plan ----
 OpenSong/Songs/Gott hat einen Plan
 
@@ -5394,7 +5646,7 @@ OpenSong/Songs/Heart of Worship
   <copyright></copyright>
   <hymn_number></hymn_number>
   <presentation>V1 P C V2 P C</presentation>
-  <ccli></ccli>
+  <ccli>2296522</ccli>
   <capo print="false"></capo>
   <key></key>
   <aka></aka>
@@ -5700,6 +5952,58 @@ OpenSong/Songs/Here I am to worship _ Ich will dich anbeten
 -------------------------------------------------------
 -------------------------------------------------------
 
+#~ Here I am to worship_kurz ----
+OpenSong/Songs/Here I am to worship_kurz
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Here I am to worship - Licht dieser Welt</title>
+  <lyrics>[V1]
+ Light of the world, you stepped down into darkness,
+ opened my eyes, let me see
+ beauty that made this heart adore you,
+ hope of a life spent with you.
+
+[C]
+ Here I am to worship, here I am to bow down.
+ Here I am to say that you're my God.
+ You're altogether lovely, altogether worthy,
+ altogether wonderful to me.
+
+[V2]
+ King of all days, oh so highly exalted,
+ glorious in heaven above.
+ Humbly you came to the earth you created,
+ all for love's sake became poor.
+
+[B]
+ I'll never know how much it cost,
+ to see my sin upon that cross.
+ I'll never know how much it cost,
+ to see my sin upon that cross.
+</lyrics>
+  <author>Tim Hughes / Hillsong, 2000</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 C V2 C B C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 #~ Herr, ich komme zu dir ----
 OpenSong/Songs/Herr, ich komme zu dir
 
@@ -5753,6 +6057,46 @@ OpenSong/Songs/Herr, wohin sonst
  Du führst uns zum Leben zurück. 
  Nur du, nur du schenkst uns Lebensglück.
  _
+ Aus deinem Mund höre ich das schönste Liebeslied.
+ An deinem Ohr darf ich sagen was die Seele fühlt.
+ An deiner Hand kann ich fallen und du hältst mich fest.
+ An deinem Tisch wird mein Hunger gestillt.
+ </lyrics>
+  <copyright></copyright>
+  <presentation></presentation>
+  <ccli></ccli>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+#~ Herr, wohin sonst_kurz ----
+OpenSong/Songs/Herr, wohin sonst_kurz
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Herr, wohin sonst</title>
+  <author>Thea Eichholz-Müller, 2000</author>
+  <hymn_number>12</hymn_number>
+  <capo print="false"></capo>
+  <lyrics>[V1]
+ Herr, wohin sonst sollten wir gehen? 
+ Wo auf der Welt fänden wir Glück?
+ Niemand, kein Mensch kann uns so viel geben wie du.
+ Du führst uns zum Leben zurück. 
+ Nur du, nur du schenkst uns Lebensglück.
+[C]
  Aus deinem Mund höre ich das schönste Liebeslied.
  An deinem Ohr darf ich sagen was die Seele fühlt.
  An deiner Hand kann ich fallen und du hältst mich fest.
@@ -9336,6 +9680,52 @@ OpenSong/Songs/Mighty to save
 -------------------------------------------------------
 -------------------------------------------------------
 
+#~ Mighty to save_kurz ----
+OpenSong/Songs/Mighty to save_kurz
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Mighty to save</title>
+  <author>Reuben Morgan &amp; Ben Fielding / Hillsong, 2006</author>
+  <hymn_number>42</hymn_number>
+  <capo print="false"></capo>
+  <lyrics>[V1]
+ Ev'ryone needs compassion, love that's never failing. Let mercy fall on me.
+ Ev'ryone needs forgiveness, the kindness of a savior. The hope of nations.
+
+[C]
+ Saviour, he can move the mountains.
+ My God is mighty to save, he is mighty to save.
+ Forever, author of salvation, he rose and conquered the grave,
+ Jesus conquered the grave!
+
+[V2]
+ So take me as you find me, all my fears and failures. Fill my life again.
+ I give my life to follow, ev'rything I believe in. Now I surrender.
+
+[B]
+ Shine your light and let the whole world see:
+ we're singing for the glory of the risen king: Jesus!
+</lyrics>
+  <copyright></copyright>
+  <presentation>V1 C V2 C B C</presentation>
+  <ccli></ccli>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 #~ Mir ist wohl in dem Herrn ----
 OpenSong/Songs/Mir ist wohl in dem Herrn
 
@@ -9751,6 +10141,67 @@ OpenSong/Songs/Morgenstern
 -------------------------------------------------------
 -------------------------------------------------------
 
+#~ Muss ich erst krank sein ----
+OpenSong/Songs/Muss ich erst krank sein
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Muss ich erst krank sein</title>
+  <lyrics>[V1]
+ Muss ich erst krank sein, erst meine Kraft verlieren
+ und unter Schmerzen erst meine Grenzen spüren,
+ bevor ich sehe, was ich jetzt an gesunden
+ und unbeschwerten Stunden hab?
+ _
+ Nein ich will heute schon schmecken, ich will heute schon fühlen,
+ ich will sehen, was gut ist, ehe ich es verlier.
+ Ich will Gott heute schon danken, will ihn heute noch loben,
+ will ihm heute noch sagen: du bist gut zu mir!
+
+[V2]
+ Muss ich erst hungern, erst mit gebrochenem Willen
+ nach allem greifen, um meinen Bauch zu füllen,
+ bevor ich schmecke, was ich oft nur verschlinge? 
+ Macht erst die Sehnsucht Dinge klar?
+ _
+ Nein ich will heute schon schmecken, ich will heute schon fühlen,
+ ich will sehen, was gut ist, ehe ich es verlier’.
+ Ich will Gott heute schon danken, will ihn heute noch loben,
+ will ihm heute noch sagen: du bist gut zu mir!
+
+[V3]
+ Muss ich erst weinen, muss ich um Menschen trauern
+ und böse Worte erst überm Grab bedauern,
+ bevor ich merke, was ich an andern habe? 
+ Sind Menschen erst im Grabe schön?
+ _
+ Nein ich will heute entdecken, was mir andere bedeuten,
+ ich will Menschen schon lieben, ehe ich sie verlier.
+ Ich will Gott heute noch loben, ihm für andere danken,
+ will ihm heute noch sagen: Du bist gut zu mir!
+</lyrics>
+  <author>Manfred Siebald, 1988</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 #~ Mutig komm ich vor den Thron ----
 OpenSong/Songs/Mutig komm ich vor den Thron
 
@@ -9931,6 +10382,65 @@ OpenSong/Songs/My Lighthouse
  _
  Dein Licht leuchtet, nichts strahlt heller
  und du führst uns durch den Sturm.
+ </lyrics>
+  <author>Rend Collective, 2013</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 V2 C V3 C B C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+#~ My Lighthouse_kurz ----
+OpenSong/Songs/My Lighthouse_kurz
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>My Lighthouse</title>
+  <lyrics>[V1]
+ In my wrestling and in my doubts,
+ in my failures, you won't walk out. 
+ Your great love will lead me through. 
+ You are the peace in my troubled sea, you are the peace in my troubled sea.
+
+[V2]
+ In the silence you won't let go,
+ in the questions your truth will hold.
+ Your great love will lead me through. 
+ You are the peace in my troubled sea, you are the peace in my troubled sea.
+
+[C]
+ My lighthouse, my lighthouse, shining in the darkness, I will follow you. 
+ My lighthouse, my lighthouse, I will trust the promise, 
+ you will carry me safe to shore,
+ safe to shore, safe to shore, safe to shore.
+
+[V3]
+ I won't fear what tomorrow brings,
+ with each morning I'll rise and sing.
+ My God's love will lead me through.
+ You are the peace in my troubled sea, you are the peace in my troubled sea.
+
+[B]
+ Fire before us, you're the brightest,
+ you will lead us through the storms.
+ Fire before us, you're the brightest,
+ you will lead us through the storms.
+
  </lyrics>
   <author>Rend Collective, 2013</author>
   <copyright></copyright>
@@ -10231,6 +10741,59 @@ OpenSong/Songs/Noch nie
  So lass mein Herz schmelzen wie Wachs
  unter dem Blick deiner Liebe.
 
+
+[V2]
+ Ich warte auf den Morgenstern,
+ unendlich nah und doch noch fern.
+ Ein Blick von dir, ein Blick von dir.
+ Und meine Schätze bring ich dir,
+ meine Zeit verschwend ich für
+ den Blick von dir, den Blick von dir.
+</lyrics>
+  <author>Dietmar Kramlich &amp; Johannes Hartl, 2001</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 C V2 C</presentation>
+  <ccli>6475143</ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+#~ Noch nie_kurz ----
+OpenSong/Songs/Noch nie_kurz
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Noch nie</title>
+  <lyrics>[V1]
+ Ich hab gewartet und gewacht.
+ Wann kommt der Morgen, geht die Nacht?
+ Ich will dich sehn, ich will dich sehn.
+ Ich fliehe alles, was mich hält.
+ Was mir genügt in dieser Welt,
+ ist dich zu sehn, ist dich zu sehn.
+
+[C]
+ Und aller Reichtum ist wie Sand,
+ vor dieser Schönheit die ich fand.
+ _
+ Ich hab noch nie eine Liebe wie die deine gefunden.
+ Nichts kann mich trösten wie ein Blick von dir.
+ Stiller Begleiter meiner einsamen Stunden.
+ Freund bist du mir.
 
 [V2]
  Ich warte auf den Morgenstern,
@@ -10830,6 +11393,59 @@ OpenSong/Songs/Oceans (where feet may fail)
  Lass mich auf dem Wasser laufen, wo immer du mich hin führst.
  Führ mich tiefer, als ich selber jemals gehn kann.
  Dass ich fest im Glauben stehe, in der Gegenwart des Retters.
+
+ </lyrics>
+  <copyright></copyright>
+  <presentation>V1 C V2 C B C</presentation>
+  <ccli></ccli>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+#~ Oceans (where feet may fail)_kurz ----
+OpenSong/Songs/Oceans (where feet may fail)_kurz
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Oceans (where feet may fail)</title>
+  <author>Hillsong, 2012</author>
+  <hymn_number>66</hymn_number>
+  <capo print="false"></capo>
+  <lyrics>[V1]
+ You call me out upon the waters,
+ the great unknown, where feet may fail.
+ And there I find you in the mystery.
+ In oceans deep, my faith will stand.
+
+[C]
+ And I will call upon your name,
+ and keep my eyes above the waves.
+ When oceans rise, my soul will rest in your embrace,
+ for I am yours and you are mine.
+
+[V2]
+ Your grace abounds in deepest waters,
+ your sovereign hand will be my guide. 
+ Where feet may fail and fear surrounds me,
+ you've never failed and you won't start now.
+
+[B]
+ Spirit, lead me where my trust is without borders,
+ let me walk upon the waters, wherever you would call me.
+ Take me deeper than my feet could ever wander,
+ and my faith will be made stronger in the presence of my savior.
 
  </lyrics>
   <copyright></copyright>
@@ -12382,18 +12998,16 @@ OpenSong/Songs/So hoch der Himmel ist
  denn du bist seine Burg, sein fester Turm.
  Meine Augen richten sich auf dich allein,
  denn du bist meine Burg, mein fester Turm.
- _
+
+[C]
  Ich vertrau auf deinen Namen, oh Herr,
  und ich preise deinen Namen, oh Herr,
  nur du bist für mich Sonne und Schild.
-
-[C]
+ _
  So hoch der Himmel ist,
- ist deine Gnade über mir,
- ist deine Gnade über mir.
+ ist deine Gnade über mir, ist deine Gnade über mir.
  Wenn mein Herz voll Schatten ist,
- strahlt dein Lächeln über mir,
- strahlt dein Lächeln über mir.
+ strahlt dein Lächeln über mir, strahlt dein Lächeln über mir.
 </lyrics>
   <author>Johannes Hartl, 2017</author>
   <copyright>© 2017 Hartl, Johannes </copyright>
@@ -12686,6 +13300,46 @@ OpenSong/Songs/Still (berge mich in deinem Arm)
  werd ich mit dir übers Wasser gehn.
  Du bist König über Wind und Flut,
  mein Herz wird still, denn du bist gut.</lyrics>
+  <copyright></copyright>
+  <presentation></presentation>
+  <ccli></ccli>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+#~ Still_kurz ----
+OpenSong/Songs/Still_kurz
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Still (berge mich in deinem Arm)</title>
+  <author>Reuben Morgan / Hillsong, 2002. d: Winnie Schweitzer</author>
+  <hymn_number>65</hymn_number>
+  <capo print="false"></capo>
+  <lyrics>[V1]
+ Berge mich in deinem Arm. Schütze mich mit deiner starken Hand.
+ Wenn die Meere toben, Stürme wehn, werd ich mit dir übers Wasser gehn.
+ Du bist König über Wind und Flut,
+ mein Herz wird still, denn du bist gut.
+
+[V2]
+ Komm, ruh dich aus bei deinem Gott. Trau auf ihn und seine große Kraft.
+ Wenn die Meere toben, Stürme wehn, werd ich mit dir übers Wasser gehn.
+ Du bist König über Wind und Flut,
+ mein Herz wird still, denn du bist gut.
+ </lyrics>
   <copyright></copyright>
   <presentation></presentation>
   <ccli></ccli>
@@ -13792,6 +14446,46 @@ OpenSong/Songs/Treu
 -------------------------------------------------------
 -------------------------------------------------------
 
+#~ Treu_kurz ----
+OpenSong/Songs/Treu_kurz
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Treu</title>
+  <author>Tobias Gerster, 1999</author>
+  <hymn_number>44</hymn_number>
+  <capo print="false"></capo>
+  <lyrics>[V1]
+ Du bleibst an meiner Seite, du schämst dich nicht für mich. 
+ Du weißt, ich bin untreu, und dennoch gehst du nicht.
+ Du stehst zu unsrer Freundschaft. Obwohl ich schwierig bin,
+ hältst du mir die Treue, gehst mit mir durch dick und dünn.
+
+[C]
+ Du bist treu, Herr, an jedem neuen Tag.
+ Du bist treu, Herr, auch wenn ich versag, bist du treu, Herr.
+ Unerschütterlich hält deine Treue mich,
+ du bleibst mir treu.
+</lyrics>
+  <copyright></copyright>
+  <presentation></presentation>
+  <ccli></ccli>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 #~ Trust in you ----
 OpenSong/Songs/Trust in you
 
@@ -13911,6 +14605,97 @@ OpenSong/Songs/�ber alle Welt _ Regier in mir _ over all the earth
   <tempo></tempo>
   <time_sig></time_sig>
   <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+#~ �ber alle Welt _ Regier in mir_kurz ----
+OpenSong/Songs/�ber alle Welt _ Regier in mir_kurz
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Over all the earth / Über alle Welt</title>
+  <lyrics>[V1]
+ Über alle Welt bist du der Herr,
+ über jeden Berg, die Sonne und das Meer.
+ Doch mein größter Wunsch, das, was ich begehr,
+ ist Herr, regiere du in mir.
+
+[C]
+ Regier in mir in deiner Kraft,
+ über jeden Traum, auch in tiefster Nacht.
+ Du bist mein Gott, ich gehöre dir,
+ darum regiere du in mir.
+
+[V2]
+ Alles, was ich denk und jedes Wort,
+ soll ein Spiegel sein von deiner Schönheit, Gott.
+ Du bedeutest mir mehr als alles hier,
+ darum regiere du in mir.
+</lyrics>
+  <author>Brenton Brown / Vineyard, 1998</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 C V2 C</presentation>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+#~ Vater im Himmel ----
+OpenSong/Songs/Vater im Himmel
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Vater im Himmel</title>
+  <lyrics>[V1]
+ Aus der Tiefe meines Herzens steigt ein Loblied auf zu dir,
+ zu dem Schöpfer aller Himmel zu dem Gott, der wohnt in mir.
+ Du hast mich erdacht, geschaffen und geformt nach deinem Bild,
+ durch die schwere Zeit getragen und mit deinem Geist erfüllt.
+
+[C]
+ Du bist die Quelle, das Leben in Fülle.
+ Vater im Himmel, du bist mir heilig. Vater, für immer ehre ich dich.
+ Vater, dein Name werde geheiligt und dein Licht scheine durch mich.
+
+[V2]
+ Du hast mir genug gegeben, an deinen Tisch lädst du mich ein.
+ Lehre mich, bewusst zu leben, in deiner Gegenwart zu sein.
+ Du hast mich so reich gesegnet, ich darf an deinem Herzen ruhn.
+ Und was immer mir begegnet hat mit dir etwas zu tun.
+</lyrics>
+  <author>Albert Frey, 2010</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli>5900255</ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
 </song>
 
 -------------------------------------------------------
@@ -15691,6 +16476,70 @@ OpenSong/Songs/Your Name _ Dein Name
  'Cause nothing has the power to save, but your name.
  _
  _
+ Jesus Christus, du bist hier. In deinem Namen beten wir:
+ Lass uns für dich nur leben, Herr, und deinen Namen ehrn.
+ _
+ Dein Name ist ein felsenfester Turm.
+ Dein Name gibt uns Halt in jedem Sturm.
+ Dein Name - alle Völker sollen singen,
+ denn niemand kann erretten als du, Herr nur du!
+ </lyrics>
+  <copyright></copyright>
+  <presentation></presentation>
+  <ccli></ccli>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+#~ Your Name _ Dein Name_kurz ----
+OpenSong/Songs/Your Name _ Dein Name_kurz
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Your Name / Dein Name</title>
+  <author>Paul Baloche &amp; Glenn Packiam, 2006</author>
+  <hymn_number>87</hymn_number>
+  <capo print="false"></capo>
+  <lyrics>[V1]
+ As morning dawns and evening fades, you inspire songs of praise,
+ that rise from earth to touch your heart and glorify your name.
+ _
+ Your name is a strong and mighty tower. 
+ Your name is a shelter like no other.
+ Your name - let the nations sing it louder. 
+ 'Cause nothing has the power to save, but your name.
+
+[V2]
+ Jesus, in your name we pray, come and fill our hearts today.
+ Lord, give us strength to live for you and glorify your name.
+ _
+ Your name is a strong and mighty tower. 
+ Your name is a shelter like no other.
+ Your name - let the nations sing it louder. 
+ 'Cause nothing has the power to save, but your name.
+
+[V3]
+ Bei Morgentau und Abendrot, sing ich Lieder dir zum Lob.
+ Lass meinen Klang dein Herz berührn und deinen Namen ehrn.
+ _
+ Dein Name ist ein felsenfester Turm.
+ Dein Name gibt uns Halt in jedem Sturm.
+ Dein Name - alle Völker sollen singen,
+ denn niemand kann erretten als du, Herr nur du!
+
+[V4]
  Jesus Christus, du bist hier. In deinem Namen beten wir:
  Lass uns für dich nur leben, Herr, und deinen Namen ehrn.
  _
