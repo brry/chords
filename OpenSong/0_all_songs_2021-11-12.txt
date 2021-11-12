@@ -1,7 +1,7 @@
 
-268 Files in C:/Dropbox/Faith/chords
+272 Files in C:/Dropbox/Faith/chords
 Combined together with berryFunctions::combineFiles
-2021-11-09 14:18:35
+2021-11-12 09:25:54
 
 -------------------------------------------------------
 -------------------------------------------------------
@@ -3421,6 +3421,54 @@ OpenSong/Songs/Ein Licht in dir geborgen
   <tempo></tempo>
   <time_sig></time_sig>
   <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+#~ Er kommt ----
+OpenSong/Songs/Er kommt
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Er kommt</title>
+  <lyrics>[V1]
+ Auf den Flügeln des Windes, auf den Wolken kommt er.
+ In Gestalt eines Kindes, kommt der Herr.
+ Er kam als der Erlöser, er kommt in unsre Zeit.
+ Er wird kommen in großer Herrlichkeit.
+
+[C]
+ Er kommt durch die Zeit, macht euch auf, seid bereit.
+ Er kommt in der Nacht, findet jeden, der wacht.
+ Er kommt in die Welt und er schlägt auf sein Zelt unter uns.
+ _
+ Ehre sei Gott in der Höhe, er steigt hinab in die Tiefe.
+ Ehre sei Gott, der uns seinen Frieden bringt.
+
+[V2]
+ Er wohnt, wo man ihn einlässt, vor der Tür klopft er an.
+ Wo man ihn den Herrn sein lässt, kommt er an.
+ Er will uns Leben geben, wie ein Mahl, wie ein Fest.
+ Und das Brot dieses Lebens ist er selbst.
+</lyrics>
+  <author>Albert Frey, 2010</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 C V2 C</presentation>
+  <ccli>5914629</ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
 </song>
 
 -------------------------------------------------------
@@ -11436,6 +11484,78 @@ OpenSong/Songs/One thing remains _ Your love never fails
 -------------------------------------------------------
 -------------------------------------------------------
 
+#~ One way ----
+OpenSong/Songs/One way
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>One way</title>
+  <lyrics>[V1]
+ I lay my life down at your feet,
+ you're the only one I need.
+ I turn to you and you are always there.
+ In troubled times it's you I seek,
+ I put you first, that's all I need.
+ I humble all I am, all to you.
+ _
+ Ich leg mein Leben vor dich hin,
+ alles, was ich hab und bin.
+ Ich komm zu dir und du bist immer da.
+ In schweren Zeiten such ich dich.
+ Zuerst kommst du und dann komm ich.
+ Ich geb mein Leben dir, meinem Herrn.
+
+[C]
+ You are the way, the truth and the life,
+ we live by faith and not by sight.
+ For you, we're living all for you.
+ _
+ One way, Jesus,
+ you're the only one that I could live for.
+ _
+ Weg, Wahrheit, Leben bist du für mich.
+ Ich glaube, auch wenn ich nicht seh, an dich.
+ Für dich nur lebe ich.
+ Jesus, du bist der, für den allein ich leben möchte.
+ Jesus, du bist der, für den ich alles geben möchte.
+
+[V2]
+ You are always, always there,
+ every how and every where.
+ Your grace abounds so deeply within me.
+ You will never, ever change,
+ yesterday, today, the same.
+ Forever 'til forever meets no end.
+ _
+ Du bist einfach immer hier,
+ überall bist du bei mir,
+ und nur durch deine Gnade lebe ich.
+ Du bleibst derselbe durch die Zeit.
+ Du bleibst in alle Ewigkeit
+ und deine Größe ändert sich nicht.
+</lyrics>
+  <author>Joel Houston / Hillsong, 2003</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 C V2 C</presentation>
+  <ccli>4222082</ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 #~ Open the eyes of my heart ----
 OpenSong/Songs/Open the eyes of my heart
 
@@ -14815,12 +14935,12 @@ OpenSong/Songs/We have a saviour
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ We shall not be shaken ----
-OpenSong/Songs/We shall not be shaken
+#~ We shall not be shaken _ Nichts soll uns ersch�ttern ----
+OpenSong/Songs/We shall not be shaken _ Nichts soll uns ersch�ttern
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-  <title>We shall not be shaken</title>
+  <title>We shall not be shaken / Nichts soll uns erschüttern</title>
   <author>Jonas Myrin &amp; Matt Redman, 2009</author>
   <hymn_number>36</hymn_number>
   <capo print="false"></capo>
@@ -14830,10 +14950,10 @@ OpenSong/Songs/We shall not be shaken
  Nations could be quaken, economies failing. 
  When fear is found all around, you're the solid ground.
  _
- Wenn alles zerbricht, bleibst du unerschütterlich.
- Wenn alles einsürzt, bist du der feste Grund.
- Staaten können erbeben, die Wirtschaft versagen.
- Wenn überall Angst herrscht, bist du der feste Grund.
+ Wenn es um uns gewittert, bleibst du unerschüttert.
+ Wenn alles auseinanderfällt, bleibst du der Grund der Welt.
+ Nationen mögen zittern, Ökonomien zersplittern,
+ wenn uns die große Furcht befällt, bleibst du der Grund der Welt.
 
 [C]
  Our God you are, all that you say you are. 
@@ -14841,10 +14961,10 @@ OpenSong/Songs/We shall not be shaken
  Our God you are faithful in all your ways. 
  Forever you stand, forever you reign, forever remain.
  _
- Unser Gott, du bist alles, was man von dir sagt.
- Du veränderst dich nie, scheiterst nie, verblasst nie.
- Unser Gott, du bist in allen Dingen treu.
- Du bestehst für immer, herrscht für immer, bleibst immer.
+ O Gott, du bist alles, was du uns versprichst.
+ Du änderst dich nie, kein Falsch ist bei dir. Du wirst nie vergehn. 
+ O Gott, du bist ewig treu, und Zuversicht ist immer bei dir,
+ denn du regierst du bleibst bestehn, und nichts soll uns erschüttern.
 
 [B]
  We shall, we shall not be shaken. We shall, we shall not be shaken.
@@ -14852,15 +14972,16 @@ OpenSong/Songs/We shall not be shaken
  For you are, you are never changing. You are, you are never changing. 
  you will stand, the great 'I Am'. The great 'I Am'!
  _
- Wir werden nicht erschüttert.
- Auch wenn um uns herum Treibsand ist.
- Denn du veränderst dich nie.
- Du bleibst, du bist der große 'Ich bin'!
+ Nichts soll, nichts soll uns erschüttern.
+ Nichts soll, nichts soll uns erschüttern, auch wenn das Meer tobt um uns her.
+ Denn du wirst, du wirst dich nicht ändern,
+ du wirst, du wirst dich nicht ändern.
+ Du bleibst bestehn, du sagst Ich bin.
 
- </lyrics>
+</lyrics>
   <copyright></copyright>
   <presentation>V1 C B C</presentation>
-  <ccli></ccli>
+  <ccli>5875926</ccli>
   <key></key>
   <aka></aka>
   <key_line></key_line>
@@ -15709,6 +15830,71 @@ OpenSong/Songs/Wunderbarer Hirt
 -------------------------------------------------------
 -------------------------------------------------------
 
+#~ You are my all in all _ Du bist die Kraft, die mir oft fehlt ----
+OpenSong/Songs/You are my all in all _ Du bist die Kraft, die mir oft fehlt
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>You Are My All In All / Du bist die Kraft, die mir oft fehlt</title>
+  <lyrics>[V1]
+ You are my strength when I am weak,
+ you are the treasure that I seek.
+ You are my all in all.
+ Seeking you as a precious jewel,
+ Lord to give up, I'd be a fool.
+ You are my all in all.
+ _
+ Du bist die Kraft, die mir oft fehlt,
+ du bist der Wert, der wirklich zählt.
+ Alles bist du mir, Herr.
+ Falle ich hin, stehst du mir bei,
+ stillst meinen Durst und sprichst mich frei.
+ Alles bist du mir, Herr.
+
+[C]
+ Jesus, lamb of God, worthy is your name.
+ _
+ Jesus, Gottes Lamm, Ehre deinem Namen.
+ Jesus, Gottes Lamm, Ehre sei dir, Herr!
+
+
+[V2]
+ Taking my sin, my cross, my shame,
+ rising again, I bless your name.
+ You are my all in all.
+ When I fall down you pick me up,
+ when I am dry you fill my cup.
+ You are my all in all.
+ _
+ Bei aller Last von Schuld und Scham
+ lobe ich dich, der sie mir nahm.
+ Alles bist du mir, Herr.
+ Dich meinen Retter, meinen Herrn,
+ lobe ich für mein Leben gern.
+ Alles bist du mir, Herr.
+</lyrics>
+  <author>Dennis Jernigan, 1989</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli>825356</ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
 #~ You never let go ----
 OpenSong/Songs/You never let go
 
@@ -16164,6 +16350,69 @@ OpenSong/Songs/Zu Bethlehem geboren
   <tempo></tempo>
   <time_sig></time_sig>
   <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+#~ Zwischen Himmel und Erde ----
+OpenSong/Songs/Zwischen Himmel und Erde
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Zwischen Himmel und Erde</title>
+  <lyrics>[V1]
+ Zwischen Himmel und Erde ist ein Riss
+ und ein Kampf zwischen Licht und Finsternis
+ in dieser Zwischenzeit, in dieser Zwischenzeit.
+ Zwischen Himmel und Erde sind wir noch
+ und das, was wir nicht wollen, tun wir doch
+ in dieser Zwischenzeit, in dieser Zwischenzeit.
+
+[C]
+ Mitten in dieser Welt, doch nicht von dieser Welt,
+ wir gehören zu dir und doch sind wir noch hier.
+ _
+ Zwischen Himmel und Erde hängst du dort,
+ ganz allein und verlassen von Mensch und Gott,
+ zwischen Himmel und Erde ausgestreckt, dort am Kreuz.
+ Zwischen Himmel und Erde hängst du dort,
+ wo die Balken sich kreuzen, ist der Ort,
+ wo sich Himmel und Erde trifft in dir, dort am Kreuz.
+
+[V2]
+ Zwischen Himmel und Erde leiden wir
+ an Zerrissenheit auf dem Weg zu dir
+ in dieser Zwischenzeit, in dieser Zwischenzeit.
+ Zwischen Himmel und Erde ist ein Steg
+ und du selbst bist die Brücke und der Weg
+ in dieser Zwischenzeit, in dieser Zwischenzeit.
+
+[V3]
+ Zwischen Himmel und Erde stehen wir
+ und wir treten in diesen Riss mit dir
+ in dieser Zwischenzeit, in dieser Zwischenzeit.
+ Du machst Himmel und Erde einmal neu,
+ doch dein Reich ist schon da und du bist treu
+ in dieser Zwischenzeit, in dieser Zwischenzeit.
+</lyrics>
+  <author>Albert Frey, 2002</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <ccli>4686556</ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
 </song>
 
 -------------------------------------------------------
