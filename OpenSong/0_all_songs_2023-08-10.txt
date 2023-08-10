@@ -1,7 +1,7 @@
 
-272 Files in C:/Dropbox/Faith/chords
+274 Files in C:/Dropbox/Faith/chords
 Combined together with berryFunctions::combineFiles
-2021-11-12 09:25:54
+2023-08-10 13:58:53.325393
 
 -------------------------------------------------------
 -------------------------------------------------------
@@ -279,8 +279,8 @@ OpenSong/Songs/Alle Jahre wieder
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ Alle Schöpfung staunt und preist ----
-OpenSong/Songs/Alle Schöpfung staunt und preist
+#~ Alle SchÃ¶pfung staunt und preist ----
+OpenSong/Songs/Alle SchÃ¶pfung staunt und preist
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
@@ -359,8 +359,8 @@ OpenSong/Songs/Alle Schöpfung staunt und preist
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ Allein deine Gnade genügt ----
-OpenSong/Songs/Allein deine Gnade genügt
+#~ Allein deine Gnade genÃ¼gt ----
+OpenSong/Songs/Allein deine Gnade genÃ¼gt
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
@@ -2050,7 +2050,7 @@ OpenSong/Songs/Come and fill me up _ Geist des Vaters
 #~ come now is the time _ komm jetzt ist die Zeit ----
 OpenSong/Songs/come now is the time _ komm jetzt ist die Zeit
 
-ï»¿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Come, now is the time</title>
   <lyrics>[V]
@@ -2183,8 +2183,8 @@ OpenSong/Songs/Cornerstone
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ Danke für die Sonne ----
-OpenSong/Songs/Danke für die Sonne
+#~ Danke fÃ¼r die Sonne ----
+OpenSong/Songs/Danke fÃ¼r die Sonne
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
@@ -2240,8 +2240,8 @@ OpenSong/Songs/Danke für die Sonne
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ Danke für diesen guten Morgen ----
-OpenSong/Songs/Danke für diesen guten Morgen
+#~ Danke fÃ¼r diesen guten Morgen ----
+OpenSong/Songs/Danke fÃ¼r diesen guten Morgen
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
@@ -2280,8 +2280,8 @@ OpenSong/Songs/Danke für diesen guten Morgen
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ Das Höchste meines Lebens ----
-OpenSong/Songs/Das Höchste meines Lebens
+#~ Das HÃ¶chste meines Lebens ----
+OpenSong/Songs/Das HÃ¶chste meines Lebens
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
@@ -2318,8 +2318,8 @@ OpenSong/Songs/Das Höchste meines Lebens
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ Das ist mein König ----
-OpenSong/Songs/Das ist mein König
+#~ Das ist mein KÃ¶nig ----
+OpenSong/Songs/Das ist mein KÃ¶nig
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
@@ -2516,8 +2516,8 @@ OpenSong/Songs/Defender
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ Dein Herz berührn ----
-OpenSong/Songs/Dein Herz berührn
+#~ Dein Herz berÃ¼hrn ----
+OpenSong/Songs/Dein Herz berÃ¼hrn
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
@@ -2829,8 +2829,8 @@ OpenSong/Songs/Diese Stadt
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ Dir gebührt die Ehre ----
-OpenSong/Songs/Dir gebührt die Ehre
+#~ Dir gebÃ¼hrt die Ehre ----
+OpenSong/Songs/Dir gebÃ¼hrt die Ehre
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
@@ -2971,8 +2971,8 @@ OpenSong/Songs/Du begeisterst mich _ Your love makes me sing
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ Du bist der Herr, der mein Haupt erhebt _ Rückenwind ----
-OpenSong/Songs/Du bist der Herr, der mein Haupt erhebt _ Rückenwind
+#~ Du bist der Herr, der mein Haupt erhebt _ RÃ¼ckenwind ----
+OpenSong/Songs/Du bist der Herr, der mein Haupt erhebt _ RÃ¼ckenwind
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
@@ -3015,8 +3015,8 @@ OpenSong/Songs/Du bist der Herr, der mein Haupt erhebt _ Rückenwind
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ Du bist der Höchste ----
-OpenSong/Songs/Du bist der Höchste
+#~ Du bist der HÃ¶chste ----
+OpenSong/Songs/Du bist der HÃ¶chste
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
@@ -3051,8 +3051,8 @@ OpenSong/Songs/Du bist der Höchste
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ Du bist der Schöpfer des Universums ----
-OpenSong/Songs/Du bist der Schöpfer des Universums
+#~ Du bist der SchÃ¶pfer des Universums ----
+OpenSong/Songs/Du bist der SchÃ¶pfer des Universums
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
@@ -4158,8 +4158,8 @@ OpenSong/Songs/Fullness
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ Für den König ----
-OpenSong/Songs/Für den König
+#~ FÃ¼r den KÃ¶nig ----
+OpenSong/Songs/FÃ¼r den KÃ¶nig
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
@@ -4613,8 +4613,8 @@ OpenSong/Songs/God I look to you
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ God is able (Gott ist's möglich) ----
-OpenSong/Songs/God is able (Gott ist's möglich)
+#~ God is able (Gott ist's mÃ¶glich) ----
+OpenSong/Songs/God is able (Gott ist's mÃ¶glich)
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
@@ -4993,8 +4993,8 @@ OpenSong/Songs/Gott hat einen Plan
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ Gott und König ----
-OpenSong/Songs/Gott und König
+#~ Gott und KÃ¶nig ----
+OpenSong/Songs/Gott und KÃ¶nig
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
@@ -5095,8 +5095,8 @@ OpenSong/Songs/Gottes Spuren
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ Groß ist unser Gott ----
-OpenSong/Songs/Groß ist unser Gott
+#~ GroÃŸ ist unser Gott ----
+OpenSong/Songs/GroÃŸ ist unser Gott
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
@@ -5132,8 +5132,8 @@ OpenSong/Songs/Groß ist unser Gott
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ Großer Gott wir loben dich ----
-OpenSong/Songs/Großer Gott wir loben dich
+#~ GroÃŸer Gott wir loben dich ----
+OpenSong/Songs/GroÃŸer Gott wir loben dich
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
@@ -5291,8 +5291,8 @@ OpenSong/Songs/Gut, dass wir einander haben
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ Guten Abend, schön Abend ----
-OpenSong/Songs/Guten Abend, schön Abend
+#~ Guten Abend, schÃ¶n Abend ----
+OpenSong/Songs/Guten Abend, schÃ¶n Abend
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
@@ -5701,8 +5701,8 @@ OpenSong/Songs/Heilig _ Verzehrendes Feuer
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ Herbei, o ihr Gläubigen ----
-OpenSong/Songs/Herbei, o ihr Gläubigen
+#~ Herbei, o ihr GlÃ¤ubigen ----
+OpenSong/Songs/Herbei, o ihr GlÃ¤ubigen
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
@@ -5803,8 +5803,8 @@ OpenSong/Songs/Here's my heart, Lord
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ Here for you _ Für dich hier ----
-OpenSong/Songs/Here for you _ Für dich hier
+#~ Here for you _ FÃ¼r dich hier ----
+OpenSong/Songs/Here for you _ FÃ¼r dich hier
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
@@ -6080,8 +6080,8 @@ OpenSong/Songs/Herrlicher Gott _ Freude der Nationen
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ Higher _ höher ----
-OpenSong/Songs/Higher _ höher
+#~ Higher _ hÃ¶her ----
+OpenSong/Songs/Higher _ hÃ¶her
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
@@ -6221,8 +6221,8 @@ OpenSong/Songs/Holy spirit _ Komm Geist Gottes
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ Hört der Engel helle Lieder ----
-OpenSong/Songs/Hört der Engel helle Lieder
+#~ HÃ¶rt der Engel helle Lieder ----
+OpenSong/Songs/HÃ¶rt der Engel helle Lieder
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
@@ -6270,8 +6270,8 @@ OpenSong/Songs/Hört der Engel helle Lieder
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ Hosanna (king of glory) _ Ich seh den König kommen ----
-OpenSong/Songs/Hosanna (king of glory) _ Ich seh den König kommen
+#~ Hosanna (king of glory) _ Ich seh den KÃ¶nig kommen ----
+OpenSong/Songs/Hosanna (king of glory) _ Ich seh den KÃ¶nig kommen
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
@@ -6342,8 +6342,8 @@ OpenSong/Songs/Hosanna (king of glory) _ Ich seh den König kommen
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ How great _ So groß ----
-OpenSong/Songs/How great _ So groß
+#~ How great _ So groÃŸ ----
+OpenSong/Songs/How great _ So groÃŸ
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
@@ -6409,8 +6409,8 @@ OpenSong/Songs/How great _ So groß
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ How great thou art _ Du großer Gott ----
-OpenSong/Songs/How great thou art _ Du großer Gott
+#~ How great thou art _ Du groÃŸer Gott ----
+OpenSong/Songs/How great thou art _ Du groÃŸer Gott
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
@@ -7263,8 +7263,8 @@ OpenSong/Songs/Ich trau auf dich o Herr
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ Ich weiß, dass mein Erlöser lebt ----
-OpenSong/Songs/Ich weiß, dass mein Erlöser lebt
+#~ Ich weiÃŸ, dass mein ErlÃ¶ser lebt ----
+OpenSong/Songs/Ich weiÃŸ, dass mein ErlÃ¶ser lebt
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
@@ -7765,7 +7765,7 @@ OpenSong/Songs/In the secret
 #~ Indescribable ----
 OpenSong/Songs/Indescribable
 
-ï»¿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Indescribable</title>
   <author>Jesse Reeves &amp; Laura Story / Chris Tomlin, 2004</author>
@@ -7825,8 +7825,8 @@ OpenSong/Songs/Indescribable
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ Jesus Erlöser der Welt _ Was für ein Mensch ----
-OpenSong/Songs/Jesus Erlöser der Welt _ Was für ein Mensch
+#~ Jesus ErlÃ¶ser der Welt _ Was fÃ¼r ein Mensch ----
+OpenSong/Songs/Jesus ErlÃ¶ser der Welt _ Was fÃ¼r ein Mensch
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
@@ -7987,8 +7987,8 @@ OpenSong/Songs/Jesus in my house
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ Jesus, höchster Name ----
-OpenSong/Songs/Jesus, höchster Name
+#~ Jesus, hÃ¶chster Name ----
+OpenSong/Songs/Jesus, hÃ¶chster Name
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
@@ -8273,8 +8273,8 @@ OpenSong/Songs/King of my heart _ Der mein Herz regiert
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ Kling, Glöckchen, klingelingeling ----
-OpenSong/Songs/Kling, Glöckchen, klingelingeling
+#~ Kling, GlÃ¶ckchen, klingelingeling ----
+OpenSong/Songs/Kling, GlÃ¶ckchen, klingelingeling
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
@@ -8312,8 +8312,8 @@ OpenSong/Songs/Kling, Glöckchen, klingelingeling
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ Komm näher _ Ich weiß, dein Herz ----
-OpenSong/Songs/Komm näher _ Ich weiß, dein Herz
+#~ Komm nÃ¤her _ Ich weiÃŸ, dein Herz ----
+OpenSong/Songs/Komm nÃ¤her _ Ich weiÃŸ, dein Herz
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
@@ -8452,8 +8452,8 @@ OpenSong/Songs/Lasst euch anstiften zur Freude
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ Lead me to the cross _ Führ mich an dein Kreuz ----
-OpenSong/Songs/Lead me to the cross _ Führ mich an dein Kreuz
+#~ Lead me to the cross _ FÃ¼hr mich an dein Kreuz ----
+OpenSong/Songs/Lead me to the cross _ FÃ¼hr mich an dein Kreuz
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
@@ -8933,8 +8933,8 @@ OpenSong/Songs/Lord, I lift your name on high
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ Macht hoch die Tür ----
-OpenSong/Songs/Macht hoch die Tür
+#~ Macht hoch die TÃ¼r ----
+OpenSong/Songs/Macht hoch die TÃ¼r
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
@@ -9466,8 +9466,8 @@ OpenSong/Songs/Meine Hilfe kommt vom Herrn
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ Meine Zeit steht in deinen Händen ----
-OpenSong/Songs/Meine Zeit steht in deinen Händen
+#~ Meine Zeit steht in deinen HÃ¤nden ----
+OpenSong/Songs/Meine Zeit steht in deinen HÃ¤nden
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
@@ -9857,8 +9857,8 @@ OpenSong/Songs/Mittelpunkt
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ Möge Gottes Segen mit dir sein ----
-OpenSong/Songs/Möge Gottes Segen mit dir sein
+#~ MÃ¶ge Gottes Segen mit dir sein ----
+OpenSong/Songs/MÃ¶ge Gottes Segen mit dir sein
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
@@ -10303,8 +10303,8 @@ OpenSong/Songs/My Lighthouse
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ Nach dem Hören kommt das Handeln ----
-OpenSong/Songs/Nach dem Hören kommt das Handeln
+#~ Nach dem HÃ¶ren kommt das Handeln ----
+OpenSong/Songs/Nach dem HÃ¶ren kommt das Handeln
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
@@ -10363,8 +10363,8 @@ OpenSong/Songs/Nach dem Hören kommt das Handeln
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ Näher an sein Herz ----
-OpenSong/Songs/Näher an sein Herz
+#~ NÃ¤her an sein Herz ----
+OpenSong/Songs/NÃ¤her an sein Herz
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
@@ -10423,8 +10423,8 @@ OpenSong/Songs/Näher an sein Herz
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ Näher zu dir ----
-OpenSong/Songs/Näher zu dir
+#~ NÃ¤her zu dir ----
+OpenSong/Songs/NÃ¤her zu dir
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
@@ -10788,8 +10788,8 @@ OpenSong/Songs/Nothing but the blood
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ Nur den Saum deines Gewandes _ Jesus berühre mich ----
-OpenSong/Songs/Nur den Saum deines Gewandes _ Jesus berühre mich
+#~ Nur den Saum deines Gewandes _ Jesus berÃ¼hre mich ----
+OpenSong/Songs/Nur den Saum deines Gewandes _ Jesus berÃ¼hre mich
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
@@ -11200,8 +11200,8 @@ OpenSong/Songs/Oceans (where feet may fail)
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ Oh du fröhliche, oh du selige ----
-OpenSong/Songs/Oh du fröhliche, oh du selige
+#~ Oh du frÃ¶hliche, oh du selige ----
+OpenSong/Songs/Oh du frÃ¶hliche, oh du selige
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
@@ -12295,8 +12295,8 @@ OpenSong/Songs/Saviour of the world _ Retter dieser Welt
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ Schöpfer aller Himmel _ Maker of the heavens ----
-OpenSong/Songs/Schöpfer aller Himmel _ Maker of the heavens
+#~ SchÃ¶pfer aller Himmel _ Maker of the heavens ----
+OpenSong/Songs/SchÃ¶pfer aller Himmel _ Maker of the heavens
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
@@ -12354,8 +12354,8 @@ OpenSong/Songs/Schöpfer aller Himmel _ Maker of the heavens
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ Schöpfergott ----
-OpenSong/Songs/Schöpfergott
+#~ SchÃ¶pfergott ----
+OpenSong/Songs/SchÃ¶pfergott
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
@@ -12623,39 +12623,25 @@ OpenSong/Songs/Shout to the lord _ Ruft zu dem Herrn
 <song>
   <title>Shout to the Lord (My Jesus, my saviour) / Ruft zu dem Herrn (Mein Jesus, mein Retter)</title>
   <lyrics>[V]
- My Jesus, my saviour,
- Lord there is none like you.
- All of my days I want to praise
- the wonders of your mighty love.
- My comfort my shelter,
- tower of refuge and strength.
- Let every breath, all that I am,
- never cease to worship You
+ My Jesus, my saviour, Lord there is none like you.
+ All of my days I want to praise the wonders of your mighty love.
+ My comfort my shelter, tower of refuge and strength.
+ Let every breath, all that I am, never cease to worship You
  _
- Mein Jesus, mein Retter,
- keiner ist so wie du.
- Lobpreis sei dir jeden Tag mehr,
- fÃ¼r deine groÃŸe Liebe, Herr.
- Mein TrÃ¶ster, mein Helfer,
- du bist mir Zuflucht und Kraft.
- Alles in mir beugt sich vor dir,
- du bist hoch erhoben, Herr!
+ Mein Jesus, mein Retter, keiner ist so wie du.
+ Lobpreis sei dir jeden Tag mehr, fÃ¼r deine groÃŸe Liebe, Herr.
+ Mein TrÃ¶ster, mein Helfer, du bist mir Zuflucht und Kraft.
+ Alles in mir beugt sich vor dir, du bist hoch erhoben, Herr!
 
 [C]
- Shout to the Lord, all the earth, let us sing
- power and majesty, praise to the King!
- Mountains bow down and the seas will roar
- At the sound of your name.
- I sing for joy at the work of your hands.
- Forever I'll love you, forever I'll stand.
+ Shout to the Lord, all the earth, let us sing, power and majesty, praise to the King!
+ Mountains bow down and the seas will roar at the sound of your name.
+ I sing for joy at the work of your hands. Forever I'll love you, forever I'll stand.
  Nothing compares to the promise I have in you.
  _
- Ruft zu dem Herrn, alle Enden der Welt!
- Ehre und Dank dem der alles erhÃ¤lt.
- Himmel und Erde, erhebt ihn und singt,
- wenn sein Name erklingt.
- Wir preisen dich, du hast GroÃŸes getan.
- Wir kommen vor dich und beten dich an.
+ Ruft zu dem Herrn, alle Enden der Welt! Ehre und Dank dem der alles erhÃ¤lt.
+ Himmel und Erde, erhebt ihn und singt, wenn sein Name erklingt.
+ Wir preisen dich, du hast GroÃŸes getan. Wir kommen vor dich und beten dich an.
  Dank sei dir, Herr, du bist unvergleichlich gut.
 </lyrics>
   <author>Darlene Zschech &amp; Daniel Jacobi &amp; Peter Eltermann, 1993</author>
@@ -12680,8 +12666,8 @@ OpenSong/Songs/Shout to the lord _ Ruft zu dem Herrn
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ Sind die Lichter angezündet ----
-OpenSong/Songs/Sind die Lichter angezündet
+#~ Sind die Lichter angezÃ¼ndet ----
+OpenSong/Songs/Sind die Lichter angezÃ¼ndet
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
@@ -13016,8 +13002,8 @@ OpenSong/Songs/Spirit break out _ Heiliger Geist
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ Stern über Bethlehem ----
-OpenSong/Songs/Stern über Bethlehem
+#~ Stern Ã¼ber Bethlehem ----
+OpenSong/Songs/Stern Ã¼ber Bethlehem
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
@@ -13297,8 +13283,8 @@ OpenSong/Songs/Surrender _ Mein ganzes Leben
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ Take it all _ dir gehörn ----
-OpenSong/Songs/Take it all _ dir gehörn
+#~ Take it all _ dir gehÃ¶rn ----
+OpenSong/Songs/Take it all _ dir gehÃ¶rn
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
@@ -13679,8 +13665,8 @@ OpenSong/Songs/This is amazing grace
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ This is our God _ Was für ein Gott ----
-OpenSong/Songs/This is our God _ Was für ein Gott
+#~ This is our God _ Was fÃ¼r ein Gott ----
+OpenSong/Songs/This is our God _ Was fÃ¼r ein Gott
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
@@ -14334,8 +14320,8 @@ OpenSong/Songs/Trust in you
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ Über alle Welt _ Regier in mir _ over all the earth ----
-OpenSong/Songs/Über alle Welt _ Regier in mir _ over all the earth
+#~ Ãœber alle Welt _ Regier in mir _ over all the earth ----
+OpenSong/Songs/Ãœber alle Welt _ Regier in mir _ over all the earth
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
@@ -14473,6 +14459,14 @@ OpenSong/Songs/Vater, unser Vater
   <time_sig></time_sig>
   <backgrounds resize="screen" keep_aspect="false" link="false" background_as_text="false"/>
 </song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+#~ VMixOpenSong.xml ----
+OpenSong/Songs/VMixOpenSong.xml
+
+<?xml version="1.0" encoding="UTF-8"?><slide><title/><subtitle/><body/></slide>
 
 -------------------------------------------------------
 -------------------------------------------------------
@@ -14935,8 +14929,8 @@ OpenSong/Songs/We have a saviour
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ We shall not be shaken _ Nichts soll uns erschüttern ----
-OpenSong/Songs/We shall not be shaken _ Nichts soll uns erschüttern
+#~ We shall not be shaken _ Nichts soll uns erschÃ¼ttern ----
+OpenSong/Songs/We shall not be shaken _ Nichts soll uns erschÃ¼ttern
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
@@ -15101,8 +15095,8 @@ OpenSong/Songs/Weil du mich liebst
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ Weite Räume meinen Füßen ----
-OpenSong/Songs/Weite Räume meinen Füßen
+#~ Weite RÃ¤ume meinen FÃ¼ÃŸen ----
+OpenSong/Songs/Weite RÃ¤ume meinen FÃ¼ÃŸen
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
@@ -15149,8 +15143,8 @@ OpenSong/Songs/Weite Räume meinen Füßen
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ What a beautiful name _ Wie schön dieser Name ist ----
-OpenSong/Songs/What a beautiful name _ Wie schön dieser Name ist
+#~ What a beautiful name _ Wie schÃ¶n dieser Name ist ----
+OpenSong/Songs/What a beautiful name _ Wie schÃ¶n dieser Name ist
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
@@ -15363,8 +15357,8 @@ OpenSong/Songs/Who am I
 -------------------------------------------------------
 -------------------------------------------------------
 
-#~ Who You say I am _ Ich weiß, wer ich bin ----
-OpenSong/Songs/Who You say I am _ Ich weiß, wer ich bin
+#~ Who You say I am _ Ich weiÃŸ, wer ich bin ----
+OpenSong/Songs/Who You say I am _ Ich weiÃŸ, wer ich bin
 
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
@@ -15515,6 +15509,56 @@ OpenSong/Songs/Wie tief muss Gottes Liebe sein
   <hymn_number></hymn_number>
   <presentation></presentation>
   <ccli>5291108</ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <linked_songs/>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <backgrounds resize="screen" keep_aspect="true" link="false" background_as_text="false"/>
+</song>
+
+-------------------------------------------------------
+-------------------------------------------------------
+
+#~ Wiesen und Berge _ darum jubel ich dir zu ----
+OpenSong/Songs/Wiesen und Berge _ darum jubel ich dir zu
+
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Wiesen und Berge / darum jubel ich dir zu</title>
+  <lyrics>[V1]
+ Wiesen und Berge, die WÃ¤lder und Seen,
+ was lebt und atmet in TÃ¤lern und HÃ¶h'n:
+ es trÃ¤gt deine Handschrift, bezeugt dein Tun,
+ verkÃ¼ndet deinen Ruhm!
+ _
+ Und darum jubel ich dir zu,
+ dass jeder es hÃ¶rt: der Meister bist du.
+ Ich will tanzen und singen vor dir,
+ du herrlicher SchÃ¶pfer, Ehre sei dir!
+
+[V2]
+ Das Werk deiner Liebe, das du in mir vollbracht,
+ das mich zum Kind deines Reiches gemacht:
+ es trÃ¤gt deine Handschrift, bezeugt dein Tun,
+ verkÃ¼ndet deinen Ruhm!
+ _
+ Und darum jubel ich dir zu,
+ dass jeder es hÃ¶rt: der Meister bist du.
+ Ich will tanzen und singen vor dir,
+ du herrlicher SchÃ¶pfer, Ehre sei dir!
+</lyrics>
+  <author>Danny Plett | Ute MeiÃŸner, 2004</author>
+  <copyright></copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli>5483129</ccli>
   <capo print="false"></capo>
   <key></key>
   <aka></aka>

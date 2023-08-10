@@ -14,4 +14,7 @@
   <chords/>
   <lyrics/>
   <capo/>
-</layout></print_settings>
+  <lyrics_language2 space_before="0" space_after="0"/>
+</layout>
+  <lyrics_language2 font="Arial" size="8" bold="false" italic="false" underline="false" color="#00000000" border="false" border_color="#00000000" shadow="false" shadow_color="#00000000" fill="false" fill_color="#00000000"/>
+</print_settings>

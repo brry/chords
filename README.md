@@ -3,11 +3,10 @@ Akkorde, Liedblätter und Presentationsdateien für [OpenSong](http://www.openso
 
 ### Downloads:
 
-* `.pdf`: [Akkorde](https://github.com/brry/chords/raw/master/Worship/Worship_Chords.pdf),
+* Seit 2023 in Google Docs: [Akkorde](https://docs.google.com/document/d/1C0Ry4A0XOPr5yC7BiYPzb6nN-czMcv20), [Textblätter](https://docs.google.com/document/d/1ukUmfPdJwKZiNaFPAxFaEvwrd0tDgysI)
+* alte `.pdf`: [Akkorde](https://github.com/brry/chords/raw/master/Worship/Worship_Chords.pdf),
 [Textblätter](https://github.com/brry/chords/raw/master/Worship/Worship_Text.pdf), 
 und [Inhaltsverzeichnis](https://github.com/brry/chords/raw/master/Worship/inhalt.pdf)
-* `.doc/.docx`: [Akkorde](https://github.com/brry/chords/raw/master/Worship/Worship_Chords.doc) und
-[Textblätter](https://github.com/brry/chords/raw/master/Worship/Worship_Text.docx)
 * `xml` Presentationsdateien: [alle OpenSong Dateien](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/brry/chords/tree/master/OpenSong) als zip-Ordner, einzelne Lieder im Ordner
 [OpenSong/Songs](https://github.com/brry/chords/tree/master/OpenSong/Songs) 
 * Weihnachtsmusik im Ordner
@@ -22,7 +21,7 @@ oder [PDF](https://github.com/brry/chords/raw/master/Worship/Liederbuecher.pdf)
 
 ### Hintergrund
 
-Worship Lieder für die Freizeiten der Connection Jugend, Baptistengemeinde Potsdam, 2011 bis 2017.  
+Worship Lieder für die Freizeiten der Connection Jugend, Baptistengemeinde Potsdam, 2011 bis 2023.  
 Zusammengestellt von Berry Boessenkool (<berry-b@gmx.de>), Copyright über [CCLI](http://de.ccli.com/liedlizenz).  
 **Anmerkungen und Korrekturen sind sehr willkommen!**
 
